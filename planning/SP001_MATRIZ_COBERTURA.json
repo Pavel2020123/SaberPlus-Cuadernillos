@@ -1,0 +1,4202 @@
+{
+  "kind": "editorial_coverage_plan_not_editor_project",
+  "planning_schema": 1,
+  "code": "SP-001",
+  "date": "2026-11-10",
+  "status": "coverage_targets_only_no_questions_selected",
+  "question_policy": "source_pdf_only_no_new_or_rewritten_questions",
+  "new_question_proposals_allowed": false,
+  "reference": {
+    "framework": "icfes-guia-2026-2",
+    "file": "17-marzo-guia-de-orientacion-saber-11-2026-2.pdf",
+    "pages": {
+      "session_totals": 12,
+      "mathematics": 38,
+      "reading": 45,
+      "social": 53,
+      "science": 62,
+      "english": [
+        63,
+        64,
+        65
+      ]
+    }
+  },
+  "scope": {
+    "academic_questions": 254,
+    "auxiliary_questionnaires": false,
+    "minutes_per_session": 270,
+    "session_counts": {
+      "first": 120,
+      "second": 134
+    }
+  },
+  "notes": [
+    "Los porcentajes son referencia de la guia; las cuotas enteras, el orden editorial y el reparto entre sesiones son decisiones SaberPlus.",
+    "Los targets describen puestos a cubrir, nunca una clasificacion real de preguntas. No asignan afirmaciones, evidencias ni revisiones.",
+    "La numeracion es provisional. Al seleccionar contextos, se pueden reordenar puestos dentro de su area/parte sin cambiar las cuotas.",
+    "Ingles es una adaptacion: 5 en parte 1 para conservar cinco descripciones y siete palabras; una pregunta se desplaza a parte 7 respecto del redondeo de porcentajes sobre 55.",
+    "No importar este archivo como proyecto del editor. No contiene enunciados, claves ni recursos.",
+    "No hay reserva multiusuario ni cotejo automatico de variantes; responsible es un campo de coordinacion manual."
+  ],
+  "area_order": {
+    "first": [
+      "mathematics",
+      "reading",
+      "social",
+      "science"
+    ],
+    "second": [
+      "social",
+      "mathematics",
+      "science",
+      "english"
+    ]
+  },
+  "quotas": {
+    "first": {
+      "mathematics": {
+        "interpretation": 9,
+        "execution": 11,
+        "argumentation": 5
+      },
+      "reading": {
+        "local": 10,
+        "relational": 17,
+        "critical": 14
+      },
+      "social": {
+        "social_thinking": 8,
+        "perspectives": 10,
+        "systems": 7
+      },
+      "science": {
+        "knowledge": [
+          3,
+          2,
+          3,
+          1
+        ],
+        "explanation": [
+          3,
+          3,
+          2,
+          1
+        ],
+        "inquiry": [
+          3,
+          4,
+          3,
+          1
+        ]
+      }
+    },
+    "second": {
+      "social": {
+        "social_thinking": 7,
+        "perspectives": 10,
+        "systems": 8
+      },
+      "mathematics": {
+        "interpretation": 8,
+        "execution": 11,
+        "argumentation": 6
+      },
+      "science": {
+        "knowledge": [
+          3,
+          3,
+          2,
+          1
+        ],
+        "explanation": [
+          2,
+          2,
+          3,
+          1
+        ],
+        "inquiry": [
+          4,
+          3,
+          4,
+          1
+        ]
+      },
+      "english": {
+        "1": 5,
+        "2": 6,
+        "3": 6,
+        "4": 10,
+        "5": 9,
+        "6": 6,
+        "7": 13
+      }
+    }
+  },
+  "slots": [
+    {
+      "slot_id": "SP001-S1-MAT-001",
+      "session": "first",
+      "area": "mathematics",
+      "provisional_number": 1,
+      "target": {
+        "competency": "interpretation",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-MAT-002",
+      "session": "first",
+      "area": "mathematics",
+      "provisional_number": 2,
+      "target": {
+        "competency": "execution",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-MAT-003",
+      "session": "first",
+      "area": "mathematics",
+      "provisional_number": 3,
+      "target": {
+        "competency": "argumentation",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-MAT-004",
+      "session": "first",
+      "area": "mathematics",
+      "provisional_number": 4,
+      "target": {
+        "competency": "interpretation",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-MAT-005",
+      "session": "first",
+      "area": "mathematics",
+      "provisional_number": 5,
+      "target": {
+        "competency": "execution",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-MAT-006",
+      "session": "first",
+      "area": "mathematics",
+      "provisional_number": 6,
+      "target": {
+        "competency": "argumentation",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-MAT-007",
+      "session": "first",
+      "area": "mathematics",
+      "provisional_number": 7,
+      "target": {
+        "competency": "interpretation",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-MAT-008",
+      "session": "first",
+      "area": "mathematics",
+      "provisional_number": 8,
+      "target": {
+        "competency": "execution",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-MAT-009",
+      "session": "first",
+      "area": "mathematics",
+      "provisional_number": 9,
+      "target": {
+        "competency": "argumentation",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-MAT-010",
+      "session": "first",
+      "area": "mathematics",
+      "provisional_number": 10,
+      "target": {
+        "competency": "interpretation",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-MAT-011",
+      "session": "first",
+      "area": "mathematics",
+      "provisional_number": 11,
+      "target": {
+        "competency": "execution",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-MAT-012",
+      "session": "first",
+      "area": "mathematics",
+      "provisional_number": 12,
+      "target": {
+        "competency": "argumentation",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-MAT-013",
+      "session": "first",
+      "area": "mathematics",
+      "provisional_number": 13,
+      "target": {
+        "competency": "interpretation",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-MAT-014",
+      "session": "first",
+      "area": "mathematics",
+      "provisional_number": 14,
+      "target": {
+        "competency": "execution",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-MAT-015",
+      "session": "first",
+      "area": "mathematics",
+      "provisional_number": 15,
+      "target": {
+        "competency": "argumentation",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-MAT-016",
+      "session": "first",
+      "area": "mathematics",
+      "provisional_number": 16,
+      "target": {
+        "competency": "interpretation",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-MAT-017",
+      "session": "first",
+      "area": "mathematics",
+      "provisional_number": 17,
+      "target": {
+        "competency": "execution",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-MAT-018",
+      "session": "first",
+      "area": "mathematics",
+      "provisional_number": 18,
+      "target": {
+        "competency": "interpretation",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-MAT-019",
+      "session": "first",
+      "area": "mathematics",
+      "provisional_number": 19,
+      "target": {
+        "competency": "execution",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-MAT-020",
+      "session": "first",
+      "area": "mathematics",
+      "provisional_number": 20,
+      "target": {
+        "competency": "interpretation",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-MAT-021",
+      "session": "first",
+      "area": "mathematics",
+      "provisional_number": 21,
+      "target": {
+        "competency": "execution",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-MAT-022",
+      "session": "first",
+      "area": "mathematics",
+      "provisional_number": 22,
+      "target": {
+        "competency": "interpretation",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-MAT-023",
+      "session": "first",
+      "area": "mathematics",
+      "provisional_number": 23,
+      "target": {
+        "competency": "execution",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-MAT-024",
+      "session": "first",
+      "area": "mathematics",
+      "provisional_number": 24,
+      "target": {
+        "competency": "execution",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-MAT-025",
+      "session": "first",
+      "area": "mathematics",
+      "provisional_number": 25,
+      "target": {
+        "competency": "execution",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-001",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 26,
+      "target": {
+        "competency": "reading",
+        "process": "local",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-002",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 27,
+      "target": {
+        "competency": "reading",
+        "process": "relational",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-003",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 28,
+      "target": {
+        "competency": "reading",
+        "process": "critical",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-004",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 29,
+      "target": {
+        "competency": "reading",
+        "process": "local",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-005",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 30,
+      "target": {
+        "competency": "reading",
+        "process": "relational",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-006",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 31,
+      "target": {
+        "competency": "reading",
+        "process": "critical",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-007",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 32,
+      "target": {
+        "competency": "reading",
+        "process": "local",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-008",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 33,
+      "target": {
+        "competency": "reading",
+        "process": "relational",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-009",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 34,
+      "target": {
+        "competency": "reading",
+        "process": "critical",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-010",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 35,
+      "target": {
+        "competency": "reading",
+        "process": "local",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-011",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 36,
+      "target": {
+        "competency": "reading",
+        "process": "relational",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-012",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 37,
+      "target": {
+        "competency": "reading",
+        "process": "critical",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-013",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 38,
+      "target": {
+        "competency": "reading",
+        "process": "local",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-014",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 39,
+      "target": {
+        "competency": "reading",
+        "process": "relational",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-015",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 40,
+      "target": {
+        "competency": "reading",
+        "process": "critical",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-016",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 41,
+      "target": {
+        "competency": "reading",
+        "process": "local",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-017",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 42,
+      "target": {
+        "competency": "reading",
+        "process": "relational",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-018",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 43,
+      "target": {
+        "competency": "reading",
+        "process": "critical",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-019",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 44,
+      "target": {
+        "competency": "reading",
+        "process": "local",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-020",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 45,
+      "target": {
+        "competency": "reading",
+        "process": "relational",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-021",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 46,
+      "target": {
+        "competency": "reading",
+        "process": "critical",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-022",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 47,
+      "target": {
+        "competency": "reading",
+        "process": "local",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-023",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 48,
+      "target": {
+        "competency": "reading",
+        "process": "relational",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-024",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 49,
+      "target": {
+        "competency": "reading",
+        "process": "critical",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-025",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 50,
+      "target": {
+        "competency": "reading",
+        "process": "local",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-026",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 51,
+      "target": {
+        "competency": "reading",
+        "process": "relational",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-027",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 52,
+      "target": {
+        "competency": "reading",
+        "process": "critical",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-028",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 53,
+      "target": {
+        "competency": "reading",
+        "process": "local",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-029",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 54,
+      "target": {
+        "competency": "reading",
+        "process": "relational",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-030",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 55,
+      "target": {
+        "competency": "reading",
+        "process": "critical",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-031",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 56,
+      "target": {
+        "competency": "reading",
+        "process": "relational",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-032",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 57,
+      "target": {
+        "competency": "reading",
+        "process": "critical",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-033",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 58,
+      "target": {
+        "competency": "reading",
+        "process": "relational",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-034",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 59,
+      "target": {
+        "competency": "reading",
+        "process": "critical",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-035",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 60,
+      "target": {
+        "competency": "reading",
+        "process": "relational",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-036",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 61,
+      "target": {
+        "competency": "reading",
+        "process": "critical",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-037",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 62,
+      "target": {
+        "competency": "reading",
+        "process": "relational",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-038",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 63,
+      "target": {
+        "competency": "reading",
+        "process": "critical",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-039",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 64,
+      "target": {
+        "competency": "reading",
+        "process": "relational",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-040",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 65,
+      "target": {
+        "competency": "reading",
+        "process": "relational",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-LEC-041",
+      "session": "first",
+      "area": "reading",
+      "provisional_number": 66,
+      "target": {
+        "competency": "reading",
+        "process": "relational",
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-SOC-001",
+      "session": "first",
+      "area": "social",
+      "provisional_number": 67,
+      "target": {
+        "competency": "social_thinking",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-SOC-002",
+      "session": "first",
+      "area": "social",
+      "provisional_number": 68,
+      "target": {
+        "competency": "perspectives",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-SOC-003",
+      "session": "first",
+      "area": "social",
+      "provisional_number": 69,
+      "target": {
+        "competency": "systems",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-SOC-004",
+      "session": "first",
+      "area": "social",
+      "provisional_number": 70,
+      "target": {
+        "competency": "social_thinking",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-SOC-005",
+      "session": "first",
+      "area": "social",
+      "provisional_number": 71,
+      "target": {
+        "competency": "perspectives",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-SOC-006",
+      "session": "first",
+      "area": "social",
+      "provisional_number": 72,
+      "target": {
+        "competency": "systems",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-SOC-007",
+      "session": "first",
+      "area": "social",
+      "provisional_number": 73,
+      "target": {
+        "competency": "social_thinking",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-SOC-008",
+      "session": "first",
+      "area": "social",
+      "provisional_number": 74,
+      "target": {
+        "competency": "perspectives",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-SOC-009",
+      "session": "first",
+      "area": "social",
+      "provisional_number": 75,
+      "target": {
+        "competency": "systems",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-SOC-010",
+      "session": "first",
+      "area": "social",
+      "provisional_number": 76,
+      "target": {
+        "competency": "social_thinking",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-SOC-011",
+      "session": "first",
+      "area": "social",
+      "provisional_number": 77,
+      "target": {
+        "competency": "perspectives",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-SOC-012",
+      "session": "first",
+      "area": "social",
+      "provisional_number": 78,
+      "target": {
+        "competency": "systems",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-SOC-013",
+      "session": "first",
+      "area": "social",
+      "provisional_number": 79,
+      "target": {
+        "competency": "social_thinking",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-SOC-014",
+      "session": "first",
+      "area": "social",
+      "provisional_number": 80,
+      "target": {
+        "competency": "perspectives",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-SOC-015",
+      "session": "first",
+      "area": "social",
+      "provisional_number": 81,
+      "target": {
+        "competency": "systems",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-SOC-016",
+      "session": "first",
+      "area": "social",
+      "provisional_number": 82,
+      "target": {
+        "competency": "social_thinking",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-SOC-017",
+      "session": "first",
+      "area": "social",
+      "provisional_number": 83,
+      "target": {
+        "competency": "perspectives",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-SOC-018",
+      "session": "first",
+      "area": "social",
+      "provisional_number": 84,
+      "target": {
+        "competency": "systems",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-SOC-019",
+      "session": "first",
+      "area": "social",
+      "provisional_number": 85,
+      "target": {
+        "competency": "social_thinking",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-SOC-020",
+      "session": "first",
+      "area": "social",
+      "provisional_number": 86,
+      "target": {
+        "competency": "perspectives",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-SOC-021",
+      "session": "first",
+      "area": "social",
+      "provisional_number": 87,
+      "target": {
+        "competency": "systems",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-SOC-022",
+      "session": "first",
+      "area": "social",
+      "provisional_number": 88,
+      "target": {
+        "competency": "social_thinking",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-SOC-023",
+      "session": "first",
+      "area": "social",
+      "provisional_number": 89,
+      "target": {
+        "competency": "perspectives",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-SOC-024",
+      "session": "first",
+      "area": "social",
+      "provisional_number": 90,
+      "target": {
+        "competency": "perspectives",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-SOC-025",
+      "session": "first",
+      "area": "social",
+      "provisional_number": 91,
+      "target": {
+        "competency": "perspectives",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-CIE-001",
+      "session": "first",
+      "area": "science",
+      "provisional_number": 92,
+      "target": {
+        "competency": "knowledge",
+        "process": null,
+        "component": "biological",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-CIE-002",
+      "session": "first",
+      "area": "science",
+      "provisional_number": 93,
+      "target": {
+        "competency": "knowledge",
+        "process": null,
+        "component": "physical",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-CIE-003",
+      "session": "first",
+      "area": "science",
+      "provisional_number": 94,
+      "target": {
+        "competency": "knowledge",
+        "process": null,
+        "component": "chemical",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-CIE-004",
+      "session": "first",
+      "area": "science",
+      "provisional_number": 95,
+      "target": {
+        "competency": "knowledge",
+        "process": null,
+        "component": "cts",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-CIE-005",
+      "session": "first",
+      "area": "science",
+      "provisional_number": 96,
+      "target": {
+        "competency": "explanation",
+        "process": null,
+        "component": "biological",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-CIE-006",
+      "session": "first",
+      "area": "science",
+      "provisional_number": 97,
+      "target": {
+        "competency": "explanation",
+        "process": null,
+        "component": "physical",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-CIE-007",
+      "session": "first",
+      "area": "science",
+      "provisional_number": 98,
+      "target": {
+        "competency": "explanation",
+        "process": null,
+        "component": "chemical",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-CIE-008",
+      "session": "first",
+      "area": "science",
+      "provisional_number": 99,
+      "target": {
+        "competency": "explanation",
+        "process": null,
+        "component": "cts",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-CIE-009",
+      "session": "first",
+      "area": "science",
+      "provisional_number": 100,
+      "target": {
+        "competency": "inquiry",
+        "process": null,
+        "component": "biological",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-CIE-010",
+      "session": "first",
+      "area": "science",
+      "provisional_number": 101,
+      "target": {
+        "competency": "inquiry",
+        "process": null,
+        "component": "physical",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-CIE-011",
+      "session": "first",
+      "area": "science",
+      "provisional_number": 102,
+      "target": {
+        "competency": "inquiry",
+        "process": null,
+        "component": "chemical",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-CIE-012",
+      "session": "first",
+      "area": "science",
+      "provisional_number": 103,
+      "target": {
+        "competency": "inquiry",
+        "process": null,
+        "component": "cts",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-CIE-013",
+      "session": "first",
+      "area": "science",
+      "provisional_number": 104,
+      "target": {
+        "competency": "knowledge",
+        "process": null,
+        "component": "biological",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-CIE-014",
+      "session": "first",
+      "area": "science",
+      "provisional_number": 105,
+      "target": {
+        "competency": "knowledge",
+        "process": null,
+        "component": "physical",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-CIE-015",
+      "session": "first",
+      "area": "science",
+      "provisional_number": 106,
+      "target": {
+        "competency": "knowledge",
+        "process": null,
+        "component": "chemical",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-CIE-016",
+      "session": "first",
+      "area": "science",
+      "provisional_number": 107,
+      "target": {
+        "competency": "explanation",
+        "process": null,
+        "component": "biological",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-CIE-017",
+      "session": "first",
+      "area": "science",
+      "provisional_number": 108,
+      "target": {
+        "competency": "explanation",
+        "process": null,
+        "component": "physical",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-CIE-018",
+      "session": "first",
+      "area": "science",
+      "provisional_number": 109,
+      "target": {
+        "competency": "explanation",
+        "process": null,
+        "component": "chemical",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-CIE-019",
+      "session": "first",
+      "area": "science",
+      "provisional_number": 110,
+      "target": {
+        "competency": "inquiry",
+        "process": null,
+        "component": "biological",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-CIE-020",
+      "session": "first",
+      "area": "science",
+      "provisional_number": 111,
+      "target": {
+        "competency": "inquiry",
+        "process": null,
+        "component": "physical",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-CIE-021",
+      "session": "first",
+      "area": "science",
+      "provisional_number": 112,
+      "target": {
+        "competency": "inquiry",
+        "process": null,
+        "component": "chemical",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-CIE-022",
+      "session": "first",
+      "area": "science",
+      "provisional_number": 113,
+      "target": {
+        "competency": "knowledge",
+        "process": null,
+        "component": "biological",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-CIE-023",
+      "session": "first",
+      "area": "science",
+      "provisional_number": 114,
+      "target": {
+        "competency": "knowledge",
+        "process": null,
+        "component": "chemical",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-CIE-024",
+      "session": "first",
+      "area": "science",
+      "provisional_number": 115,
+      "target": {
+        "competency": "explanation",
+        "process": null,
+        "component": "biological",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-CIE-025",
+      "session": "first",
+      "area": "science",
+      "provisional_number": 116,
+      "target": {
+        "competency": "explanation",
+        "process": null,
+        "component": "physical",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-CIE-026",
+      "session": "first",
+      "area": "science",
+      "provisional_number": 117,
+      "target": {
+        "competency": "inquiry",
+        "process": null,
+        "component": "biological",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-CIE-027",
+      "session": "first",
+      "area": "science",
+      "provisional_number": 118,
+      "target": {
+        "competency": "inquiry",
+        "process": null,
+        "component": "physical",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-CIE-028",
+      "session": "first",
+      "area": "science",
+      "provisional_number": 119,
+      "target": {
+        "competency": "inquiry",
+        "process": null,
+        "component": "chemical",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S1-CIE-029",
+      "session": "first",
+      "area": "science",
+      "provisional_number": 120,
+      "target": {
+        "competency": "inquiry",
+        "process": null,
+        "component": "physical",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-SOC-001",
+      "session": "second",
+      "area": "social",
+      "provisional_number": 1,
+      "target": {
+        "competency": "social_thinking",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-SOC-002",
+      "session": "second",
+      "area": "social",
+      "provisional_number": 2,
+      "target": {
+        "competency": "perspectives",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-SOC-003",
+      "session": "second",
+      "area": "social",
+      "provisional_number": 3,
+      "target": {
+        "competency": "systems",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-SOC-004",
+      "session": "second",
+      "area": "social",
+      "provisional_number": 4,
+      "target": {
+        "competency": "social_thinking",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-SOC-005",
+      "session": "second",
+      "area": "social",
+      "provisional_number": 5,
+      "target": {
+        "competency": "perspectives",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-SOC-006",
+      "session": "second",
+      "area": "social",
+      "provisional_number": 6,
+      "target": {
+        "competency": "systems",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-SOC-007",
+      "session": "second",
+      "area": "social",
+      "provisional_number": 7,
+      "target": {
+        "competency": "social_thinking",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-SOC-008",
+      "session": "second",
+      "area": "social",
+      "provisional_number": 8,
+      "target": {
+        "competency": "perspectives",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-SOC-009",
+      "session": "second",
+      "area": "social",
+      "provisional_number": 9,
+      "target": {
+        "competency": "systems",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-SOC-010",
+      "session": "second",
+      "area": "social",
+      "provisional_number": 10,
+      "target": {
+        "competency": "social_thinking",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-SOC-011",
+      "session": "second",
+      "area": "social",
+      "provisional_number": 11,
+      "target": {
+        "competency": "perspectives",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-SOC-012",
+      "session": "second",
+      "area": "social",
+      "provisional_number": 12,
+      "target": {
+        "competency": "systems",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-SOC-013",
+      "session": "second",
+      "area": "social",
+      "provisional_number": 13,
+      "target": {
+        "competency": "social_thinking",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-SOC-014",
+      "session": "second",
+      "area": "social",
+      "provisional_number": 14,
+      "target": {
+        "competency": "perspectives",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-SOC-015",
+      "session": "second",
+      "area": "social",
+      "provisional_number": 15,
+      "target": {
+        "competency": "systems",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-SOC-016",
+      "session": "second",
+      "area": "social",
+      "provisional_number": 16,
+      "target": {
+        "competency": "social_thinking",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-SOC-017",
+      "session": "second",
+      "area": "social",
+      "provisional_number": 17,
+      "target": {
+        "competency": "perspectives",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-SOC-018",
+      "session": "second",
+      "area": "social",
+      "provisional_number": 18,
+      "target": {
+        "competency": "systems",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-SOC-019",
+      "session": "second",
+      "area": "social",
+      "provisional_number": 19,
+      "target": {
+        "competency": "social_thinking",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-SOC-020",
+      "session": "second",
+      "area": "social",
+      "provisional_number": 20,
+      "target": {
+        "competency": "perspectives",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-SOC-021",
+      "session": "second",
+      "area": "social",
+      "provisional_number": 21,
+      "target": {
+        "competency": "systems",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-SOC-022",
+      "session": "second",
+      "area": "social",
+      "provisional_number": 22,
+      "target": {
+        "competency": "perspectives",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-SOC-023",
+      "session": "second",
+      "area": "social",
+      "provisional_number": 23,
+      "target": {
+        "competency": "systems",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-SOC-024",
+      "session": "second",
+      "area": "social",
+      "provisional_number": 24,
+      "target": {
+        "competency": "perspectives",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-SOC-025",
+      "session": "second",
+      "area": "social",
+      "provisional_number": 25,
+      "target": {
+        "competency": "perspectives",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-MAT-001",
+      "session": "second",
+      "area": "mathematics",
+      "provisional_number": 26,
+      "target": {
+        "competency": "interpretation",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-MAT-002",
+      "session": "second",
+      "area": "mathematics",
+      "provisional_number": 27,
+      "target": {
+        "competency": "execution",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-MAT-003",
+      "session": "second",
+      "area": "mathematics",
+      "provisional_number": 28,
+      "target": {
+        "competency": "argumentation",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-MAT-004",
+      "session": "second",
+      "area": "mathematics",
+      "provisional_number": 29,
+      "target": {
+        "competency": "interpretation",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-MAT-005",
+      "session": "second",
+      "area": "mathematics",
+      "provisional_number": 30,
+      "target": {
+        "competency": "execution",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-MAT-006",
+      "session": "second",
+      "area": "mathematics",
+      "provisional_number": 31,
+      "target": {
+        "competency": "argumentation",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-MAT-007",
+      "session": "second",
+      "area": "mathematics",
+      "provisional_number": 32,
+      "target": {
+        "competency": "interpretation",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-MAT-008",
+      "session": "second",
+      "area": "mathematics",
+      "provisional_number": 33,
+      "target": {
+        "competency": "execution",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-MAT-009",
+      "session": "second",
+      "area": "mathematics",
+      "provisional_number": 34,
+      "target": {
+        "competency": "argumentation",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-MAT-010",
+      "session": "second",
+      "area": "mathematics",
+      "provisional_number": 35,
+      "target": {
+        "competency": "interpretation",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-MAT-011",
+      "session": "second",
+      "area": "mathematics",
+      "provisional_number": 36,
+      "target": {
+        "competency": "execution",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-MAT-012",
+      "session": "second",
+      "area": "mathematics",
+      "provisional_number": 37,
+      "target": {
+        "competency": "argumentation",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-MAT-013",
+      "session": "second",
+      "area": "mathematics",
+      "provisional_number": 38,
+      "target": {
+        "competency": "interpretation",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-MAT-014",
+      "session": "second",
+      "area": "mathematics",
+      "provisional_number": 39,
+      "target": {
+        "competency": "execution",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-MAT-015",
+      "session": "second",
+      "area": "mathematics",
+      "provisional_number": 40,
+      "target": {
+        "competency": "argumentation",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-MAT-016",
+      "session": "second",
+      "area": "mathematics",
+      "provisional_number": 41,
+      "target": {
+        "competency": "interpretation",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-MAT-017",
+      "session": "second",
+      "area": "mathematics",
+      "provisional_number": 42,
+      "target": {
+        "competency": "execution",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-MAT-018",
+      "session": "second",
+      "area": "mathematics",
+      "provisional_number": 43,
+      "target": {
+        "competency": "argumentation",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-MAT-019",
+      "session": "second",
+      "area": "mathematics",
+      "provisional_number": 44,
+      "target": {
+        "competency": "interpretation",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-MAT-020",
+      "session": "second",
+      "area": "mathematics",
+      "provisional_number": 45,
+      "target": {
+        "competency": "execution",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-MAT-021",
+      "session": "second",
+      "area": "mathematics",
+      "provisional_number": 46,
+      "target": {
+        "competency": "interpretation",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-MAT-022",
+      "session": "second",
+      "area": "mathematics",
+      "provisional_number": 47,
+      "target": {
+        "competency": "execution",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-MAT-023",
+      "session": "second",
+      "area": "mathematics",
+      "provisional_number": 48,
+      "target": {
+        "competency": "execution",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-MAT-024",
+      "session": "second",
+      "area": "mathematics",
+      "provisional_number": 49,
+      "target": {
+        "competency": "execution",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-MAT-025",
+      "session": "second",
+      "area": "mathematics",
+      "provisional_number": 50,
+      "target": {
+        "competency": "execution",
+        "process": null,
+        "component": null,
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-CIE-001",
+      "session": "second",
+      "area": "science",
+      "provisional_number": 51,
+      "target": {
+        "competency": "knowledge",
+        "process": null,
+        "component": "biological",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-CIE-002",
+      "session": "second",
+      "area": "science",
+      "provisional_number": 52,
+      "target": {
+        "competency": "knowledge",
+        "process": null,
+        "component": "physical",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-CIE-003",
+      "session": "second",
+      "area": "science",
+      "provisional_number": 53,
+      "target": {
+        "competency": "knowledge",
+        "process": null,
+        "component": "chemical",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-CIE-004",
+      "session": "second",
+      "area": "science",
+      "provisional_number": 54,
+      "target": {
+        "competency": "knowledge",
+        "process": null,
+        "component": "cts",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-CIE-005",
+      "session": "second",
+      "area": "science",
+      "provisional_number": 55,
+      "target": {
+        "competency": "explanation",
+        "process": null,
+        "component": "biological",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-CIE-006",
+      "session": "second",
+      "area": "science",
+      "provisional_number": 56,
+      "target": {
+        "competency": "explanation",
+        "process": null,
+        "component": "physical",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-CIE-007",
+      "session": "second",
+      "area": "science",
+      "provisional_number": 57,
+      "target": {
+        "competency": "explanation",
+        "process": null,
+        "component": "chemical",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-CIE-008",
+      "session": "second",
+      "area": "science",
+      "provisional_number": 58,
+      "target": {
+        "competency": "explanation",
+        "process": null,
+        "component": "cts",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-CIE-009",
+      "session": "second",
+      "area": "science",
+      "provisional_number": 59,
+      "target": {
+        "competency": "inquiry",
+        "process": null,
+        "component": "biological",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-CIE-010",
+      "session": "second",
+      "area": "science",
+      "provisional_number": 60,
+      "target": {
+        "competency": "inquiry",
+        "process": null,
+        "component": "physical",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-CIE-011",
+      "session": "second",
+      "area": "science",
+      "provisional_number": 61,
+      "target": {
+        "competency": "inquiry",
+        "process": null,
+        "component": "chemical",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-CIE-012",
+      "session": "second",
+      "area": "science",
+      "provisional_number": 62,
+      "target": {
+        "competency": "inquiry",
+        "process": null,
+        "component": "cts",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-CIE-013",
+      "session": "second",
+      "area": "science",
+      "provisional_number": 63,
+      "target": {
+        "competency": "knowledge",
+        "process": null,
+        "component": "biological",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-CIE-014",
+      "session": "second",
+      "area": "science",
+      "provisional_number": 64,
+      "target": {
+        "competency": "knowledge",
+        "process": null,
+        "component": "physical",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-CIE-015",
+      "session": "second",
+      "area": "science",
+      "provisional_number": 65,
+      "target": {
+        "competency": "knowledge",
+        "process": null,
+        "component": "chemical",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-CIE-016",
+      "session": "second",
+      "area": "science",
+      "provisional_number": 66,
+      "target": {
+        "competency": "explanation",
+        "process": null,
+        "component": "biological",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-CIE-017",
+      "session": "second",
+      "area": "science",
+      "provisional_number": 67,
+      "target": {
+        "competency": "explanation",
+        "process": null,
+        "component": "physical",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-CIE-018",
+      "session": "second",
+      "area": "science",
+      "provisional_number": 68,
+      "target": {
+        "competency": "explanation",
+        "process": null,
+        "component": "chemical",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-CIE-019",
+      "session": "second",
+      "area": "science",
+      "provisional_number": 69,
+      "target": {
+        "competency": "inquiry",
+        "process": null,
+        "component": "biological",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-CIE-020",
+      "session": "second",
+      "area": "science",
+      "provisional_number": 70,
+      "target": {
+        "competency": "inquiry",
+        "process": null,
+        "component": "physical",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-CIE-021",
+      "session": "second",
+      "area": "science",
+      "provisional_number": 71,
+      "target": {
+        "competency": "inquiry",
+        "process": null,
+        "component": "chemical",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-CIE-022",
+      "session": "second",
+      "area": "science",
+      "provisional_number": 72,
+      "target": {
+        "competency": "knowledge",
+        "process": null,
+        "component": "biological",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-CIE-023",
+      "session": "second",
+      "area": "science",
+      "provisional_number": 73,
+      "target": {
+        "competency": "knowledge",
+        "process": null,
+        "component": "physical",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-CIE-024",
+      "session": "second",
+      "area": "science",
+      "provisional_number": 74,
+      "target": {
+        "competency": "explanation",
+        "process": null,
+        "component": "chemical",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-CIE-025",
+      "session": "second",
+      "area": "science",
+      "provisional_number": 75,
+      "target": {
+        "competency": "inquiry",
+        "process": null,
+        "component": "biological",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-CIE-026",
+      "session": "second",
+      "area": "science",
+      "provisional_number": 76,
+      "target": {
+        "competency": "inquiry",
+        "process": null,
+        "component": "physical",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-CIE-027",
+      "session": "second",
+      "area": "science",
+      "provisional_number": 77,
+      "target": {
+        "competency": "inquiry",
+        "process": null,
+        "component": "chemical",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-CIE-028",
+      "session": "second",
+      "area": "science",
+      "provisional_number": 78,
+      "target": {
+        "competency": "inquiry",
+        "process": null,
+        "component": "biological",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-CIE-029",
+      "session": "second",
+      "area": "science",
+      "provisional_number": 79,
+      "target": {
+        "competency": "inquiry",
+        "process": null,
+        "component": "chemical",
+        "part": null
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-001",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 80,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 1
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-002",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 81,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 1
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-003",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 82,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 1
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-004",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 83,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 1
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-005",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 84,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 1
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-006",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 85,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 2
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-007",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 86,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 2
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-008",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 87,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 2
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-009",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 88,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 2
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-010",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 89,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 2
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-011",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 90,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 2
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-012",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 91,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 3
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-013",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 92,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 3
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-014",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 93,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 3
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-015",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 94,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 3
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-016",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 95,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 3
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-017",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 96,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 3
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-018",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 97,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 4
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-019",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 98,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 4
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-020",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 99,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 4
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-021",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 100,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 4
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-022",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 101,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 4
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-023",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 102,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 4
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-024",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 103,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 4
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-025",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 104,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 4
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-026",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 105,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 4
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-027",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 106,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 4
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-028",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 107,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 5
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-029",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 108,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 5
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-030",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 109,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 5
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-031",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 110,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 5
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-032",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 111,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 5
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-033",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 112,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 5
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-034",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 113,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 5
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-035",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 114,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 5
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-036",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 115,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 5
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-037",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 116,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 6
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-038",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 117,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 6
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-039",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 118,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 6
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-040",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 119,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 6
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-041",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 120,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 6
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-042",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 121,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 6
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-043",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 122,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 7
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-044",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 123,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 7
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-045",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 124,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 7
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-046",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 125,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 7
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-047",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 126,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 7
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-048",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 127,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 7
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-049",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 128,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 7
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-050",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 129,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 7
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-051",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 130,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 7
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-052",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 131,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 7
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-053",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 132,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 7
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-054",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 133,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 7
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    },
+    {
+      "slot_id": "SP001-S2-ING-055",
+      "session": "second",
+      "area": "english",
+      "provisional_number": 134,
+      "target": {
+        "competency": "communication",
+        "process": null,
+        "component": null,
+        "part": 7
+      },
+      "question_id": null,
+      "responsible": null,
+      "assignment": null,
+      "status": "unassigned"
+    }
+  ]
+}

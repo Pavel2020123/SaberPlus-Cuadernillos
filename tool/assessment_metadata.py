@@ -4,6 +4,8 @@ from datetime import date
 from pathlib import Path
 
 CATALOG = json.loads(Path(__file__).with_name('assessment_catalog.json').read_text(encoding='utf-8'))
+STATUS_LABELS = {'unclassified': 'Sin clasificar', 'proposed': 'Clasificación editorial SaberPlus',
+                 'reviewed': 'Revisión registrada (legado)'}
 PARTS = {11: 1, 12: 1, 13: 1, 14: 2, 15: 3, 16: 4, 17: 4, 18: 5, 19: 5, 20: 6, 21: 7, 22: 7}
 
 
@@ -70,12 +72,15 @@ def validate_assessments(bank, questions, area_by_number=None, parts_by_number=N
             if claim is not None or evidence is not None or process is not None or component is not None:
                 errors.append(prefix + ': inglés no usa el desglose de afirmaciones de otras áreas.')
         else:
-            if claim not in area['competencies'][competency]['claims']:
+            if claim is None and status == 'proposed':
+                if evidence is not None:
+                    errors.append(prefix + ': selecciona una afirmación antes de indicar evidencia.')
+            elif claim not in area['competencies'][competency]['claims']:
                 errors.append(prefix + ': afirmación no pertenece a la competencia.')
             elif evidence is not None and evidence not in area['claims'][claim]['evidence']:
                 errors.append(prefix + ': evidencia no registrada para esa afirmación.')
             if area_id == 'reading':
-                if process not in area['processes'] or area['processes'][process]['claim'] != claim:
+                if not (status == 'proposed' and claim is None and process is None) and (process not in area['processes'] or area['processes'][process]['claim'] != claim):
                     errors.append(prefix + ': proceso de lectura y afirmación incompatibles.')
             elif process is not None:
                 errors.append(prefix + ': proceso de lectura fuera de lectura.')
@@ -97,16 +102,16 @@ def append_teacher_pages(book, bank, questions):
     counts = {s: sum(q['assessment']['status'] == s for q in questions)
               for s in ('unclassified', 'proposed', 'reviewed')}
     for start in range(0, len(questions), 8):
-        y = book.start('Clasificación pedagógica - revisión')
-        y = book.p(f'Sin clasificar: {counts["unclassified"]}. Propuestas: {counts["proposed"]}. '
-                   f'Revisadas: {counts["reviewed"]}. No es un informe de resultados del estudiante.', y, size=9)
+        y = book.start('Clasificación editorial SaberPlus')
+        y = book.p(f'Sin clasificar: {counts["unclassified"]}. Clasificación editorial: {counts["proposed"]}. '
+                   f'Revisiones registradas anteriormente: {counts["reviewed"]}. No es un informe de resultados del estudiante.', y, size=9)
         y = book.p('Fuente: guía Saber 11 2026-2. Competencias y afirmaciones no equivalen a niveles '
-                   'de desempeño. Las propuestas necesitan revisión docente.', y, size=9)
+                   'de desempeño. Clasificación interna de SaberPlus, sin validación externa implícita.', y, size=9)
         rows = [['N.º', 'Área', 'Clasificación', 'Estado']]
         for q in questions[start:start+8]:
             a = q['assessment']
             area = CATALOG['areas'][a['area']]
-            description = 'Pendiente de clasificación docente.'
+            description = 'Pendiente de clasificación editorial.'
             if a['status'] != 'unclassified':
                 description = area['competencies'][a['competency']]['label']
                 if a.get('process'):
@@ -118,6 +123,6 @@ def append_teacher_pages(book, bank, questions):
                 if a.get('part'):
                     description += f'. Parte {a["part"]}: ' + area['parts'][str(a['part'])]
                 description += '. Motivo: ' + a['rationale']
-            label = {'unclassified': 'Sin clasificar', 'proposed': 'Propuesta', 'reviewed': 'Revisada'}[a['status']]
+            label = STATUS_LABELS[a['status']]
             rows.append([q['n'], area['label'], description, label])
         book.table(rows, y, [30, 75, W-2*M-175, 70])

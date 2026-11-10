@@ -2,8 +2,12 @@
 import copy
 import tempfile
 import unittest
+import io
 from pathlib import Path
+from unittest.mock import patch
 import pymupdf
+from PIL import Image as PillowImage
+from reportlab.platypus import Image as PdfImage
 from editor_model import demo_project,selected_questions
 from editor_pdf import generate,letters_for
 
@@ -53,6 +57,9 @@ class OutputTests(unittest.TestCase):
             self.assertFalse(bubbles(sheet,True))
             marked=sum(len(bubbles(page,True)) for page in key)
             self.assertEqual(marked,len(selected_questions(self.project)))
+            actual=[page.get_textbox(mark['rect']).strip()
+                    for page in key for mark in bubbles(page,True)]
+            self.assertEqual(actual,[q['correct'] for q in selected_questions(self.project)])
 
     def test_normal_and_gap_options_are_highlighted_only_in_solved(self):
         for qid in ('q-demo-3','q-demo-16','q-demo-21'):
@@ -71,6 +78,72 @@ class OutputTests(unittest.TestCase):
         with pymupdf.open(self.out/'cuadernillo_resuelto.pdf') as solved:
             marks=[d for d in solved[number].get_drawings() if d.get('fill') and max(d['fill'])<.5 and 12<=d['rect'].width<=14]
             self.assertGreaterEqual(len(marks),3)
+
+    def test_appendix_keeps_resolved_header_and_notice(self):
+        with pymupdf.open(self.out/'cuadernillo.pdf') as student,pymupdf.open(self.out/'cuadernillo_resuelto.pdf') as solved:
+            for page in list(solved)[len(student):]:
+                text=page.get_text()
+                self.assertIn('SP-001 · RESUELTO',text)
+                self.assertIn('COMPARTIR DESPUES',text)
+                self.assertNotIn('SP-001 · BORRADOR',text)
+
+    def test_special_format_images_and_image_option_highlight(self):
+        project=copy.deepcopy(self.project)
+        path='assets/uploads/'+('a'*32)+'.png'
+        by_id={q['id']:q for q in project['questions']}
+        for qid in ('q-demo-11','q-demo-16','q-demo-21'):
+            by_id[qid]['image']=path
+        question=by_id['q-demo-3']
+        question['options']['ABCD'.index(question['correct'])]={'image':path}
+        def fixture_picture(*args, **kwargs):
+            image=io.BytesIO()
+            PillowImage.new('RGB',(40,30),'#345678').save(image,format='PNG')
+            image.seek(0)
+            return PdfImage(image,width=40,height=30)
+        with tempfile.TemporaryDirectory() as folder,patch('editor_pdf.picture',side_effect=fixture_picture):
+            result=generate(project,folder)
+            with pymupdf.open(Path(folder)/'cuadernillo.pdf') as student,pymupdf.open(Path(folder)/'cuadernillo_resuelto.pdf') as solved:
+                for qid in ('q-demo-11','q-demo-16','q-demo-21','q-demo-3'):
+                    page=result['page_map'][qid]-1
+                    self.assertTrue(student[page].get_image_info(),qid)
+                    self.assertTrue(solved[page].get_image_info(),qid)
+                for qid in ('q-demo-16','q-demo-21'):
+                    selected=selected_questions(project)
+                    number=next(i for i,q in enumerate(selected,1) if q['id']==qid)
+                    page=result['page_map'][qid]-1
+                    self.assertIn(f'Choose the word for space {number}.',student[page].get_text())
+                    self.assertNotIn('{{numero}}',student[page].get_text())
+                page=result['page_map']['q-demo-3']-1
+                images=solved[page].get_image_info()
+                highlights=[d['rect'] for d in solved[page].get_drawings()
+                            if d.get('fill') and d['fill'][0]>.9 and .8<d['fill'][1]<1 and d['fill'][2]<.6]
+                self.assertTrue(any(rect.contains(pymupdf.Rect(image['bbox']))
+                                    for rect in highlights for image in images))
+
+    def test_long_context_and_first_question_remain_together(self):
+        project=copy.deepcopy(self.project)
+        question=next(q for q in project['questions'] if q['id']=='q-demo-5')
+        context=next(c for c in project['contexts'] if c['id']==question['context'])
+        context.update(title='Context QA continuity',text='\n'.join(['Context line']*18))
+        context.pop('table',None)
+        question['stem']='\n'.join(['Question line']*20)
+        with tempfile.TemporaryDirectory() as folder:
+            result=generate(project,folder)
+            with pymupdf.open(Path(folder)/'cuadernillo.pdf') as doc:
+                context_pages=[i+1 for i,page in enumerate(doc) if page.search_for('Context QA continuity')]
+                self.assertEqual(context_pages,[result['page_map'][question['id']]])
+                self.assertIn('Question line',doc[context_pages[0]-1].get_text())
+
+    def test_oversized_context_and_question_are_rejected_not_separated(self):
+        project=copy.deepcopy(self.project)
+        question=next(q for q in project['questions'] if q['id']=='q-demo-5')
+        context=next(c for c in project['contexts'] if c['id']==question['context'])
+        context['text']='\n'.join(['Context line']*30)
+        context.pop('table',None)
+        question['stem']='\n'.join(['Question line']*20)
+        with tempfile.TemporaryDirectory() as folder:
+            with self.assertRaisesRegex(ValueError,'primera pregunta no caben juntos'):
+                generate(project,folder)
 
 
 if __name__=='__main__':unittest.main()

@@ -2,7 +2,49 @@
 
 Estado: primer editor funcional para pruebas editoriales, independiente de la app y el backend.
 
+## Clasificación editorial sin requisito docente
+
+Decisión del usuario, 10 de noviembre de 2026: el equipo SaberPlus clasifica las preguntas. Se elimina del formulario el selector «Propuesta para revisión / Revisada por docente» y los campos de responsable/fecha de revisión. En su lugar, «Añadir clasificación por competencia» permite registrar competencia, afirmación/evidencia y justificación, sin aprobación externa obligatoria.
+
+Se conserva el valor interno `proposed` para compatibilidad y se presenta como «Clasificación editorial SaberPlus», no como validación docente. Los registros históricos `reviewed` conservan sus datos y sus controles de integridad; abrirlos no los modifica ni promueve preguntas nuevas. Editar su clasificación elimina el estado de revisión vigente, sin atribuir el cambio al responsable histórico. No se migran ni sobrescriben proyectos guardados.
+
+Las preguntas sin clasificar generan un aviso informativo; no se exige docente para exportar. Permanecen los controles técnicos de claves, opciones, imágenes, pertenencia de afirmaciones/evidencias y justificación. La guía auxiliar usa el mismo lenguaje editorial. No se asignan niveles oficiales ni se afirma validación psicométrica.
+
+Si hay cambios sin guardar en el navegador, guardar o descargar primero el respaldo JSON antes de recargar. No reiniciar el servicio mientras el usuario esté editando para evitar invalidar su token local. Los PDF antiguos no cambian: este ajuste se aplica al generar nuevos archivos con el servicio actualizado.
+
+## Correcciones de integridad · 10 de noviembre de 2026
+
+- Al cambiar de parte, las opciones que dejan de usarse se conservan en `option_drafts`, incluidas sus imágenes. Regresan al ampliar el formato; también viajan en el respaldo JSON. No se imprime ese archivo de reserva.
+- Editar, importar o cargar la muestra oculta las descargas anteriores. Si se edita durante la generación, sus resultados no se presentan como actuales: hay que generar de nuevo.
+- Los órdenes deben ser enteros no negativos. Los duplicados del mismo ámbito (área / parte de inglés) permiten guardar el borrador con advertencia, pero bloquean la exportación hasta corregirlos. Tema y subtema vacíos generan advertencias, sin inventar clasificación.
+- Se dibujan las imágenes de cada descripción de vocabulario y las de enunciados de espacios. Si un enunciado tiene imagen, no se usa la fila compacta que la omitía.
+- El contexto reserva la altura medida de su primera pregunta. Si ambos exceden una página, se pide dividir el contexto o ajustar el ancho; no se separan silenciosamente ni se recortan.
+- Las páginas de explicaciones usan la identificación RESUELTO y el aviso de compartir después de la aplicación.
+
+Verificación sin crear documentos: `node tool/test_editor_live.mjs` y `uv run --offline --with reportlab --with pymupdf --with pillow python -B -m unittest discover -s tool -p test_editor_integrity.py -v`.
+En enunciados se puede usar `{{numero}}` para imprimir el número final de la pregunta. La demostración de espacios lo utiliza para no arrastrar su numeración histórica al cambiar el orden de sesión.
+Los resultados históricos indicados más abajo no certifican esta revisión. La comprobación autorizada de los tres PDF usa `tmp/pdfs/audit-fixes-20261110/`, con una variante de imágenes sintéticas en `image-cases/`; no reemplaza el proyecto guardado.
+
+### Comprobación autorizada de esta revisión
+
+- Muestra de segunda sesión: 20 preguntas; estudiante de 9 páginas, resuelto de 12 y clave de 1. La clave se contrastó letra por letra contra las 20 respuestas seleccionadas.
+- Se inspeccionaron las hojas de contacto de las 9 páginas del estudiante y 12 del resuelto, la clave completa y vistas individuales de los casos cambiados: imágenes en asociación/espacios, opción únicamente gráfica y encabezado de explicaciones. No se observaron recortes ni solapamientos en esas vistas. Ningún bloque textual de los tres PDF salió de los límites físicos de página en la comprobación automática.
+- Pruebas de salida verifican imágenes mediante fixtures sintéticos, resaltado sobre la opción gráfica, numeración dinámica, continuidad de contexto con primera pregunta larga y rechazo explícito cuando no caben juntos.
+- Se mantienen pendientes la prueba interactiva completa en navegador, impresión física y revisión docente de contenido/clasificación. No se certifica un banco comercial ni una distribución oficial por esta comprobación.
+
 ## Inicio y recorrido de prueba
+
+### Muestra aislada de imágenes de distintos tamaños
+
+`uv run --offline --with reportlab --with pymupdf --with pillow python -B tool/make_editor_size_demo.py --serve --port 4186`
+
+- Abre http://127.0.0.1:4186. Contiene tres preguntas originales de prueba de Matemáticas, no el proyecto habitual del puerto 4185. Sus guardados van a `tmp/pdfs/tamanos-imagenes-20261110/datos_editor_prueba/`; no se lee ni reemplaza `data/project.json`.
+- Imágenes: horizontal 1200×320, cuadrada 600×600 y vertical 360×1000. El generador conserva la proporción, limita ancho/alto y no amplía recursos pequeños. Esto no garantiza que cualquier fotografía de texto sea legible: revisa la resolución y el tamaño impreso.
+- `comparacion_tres_paginas.pdf` contiene un extracto de una página del estudiante, una del resuelto y una de la clave. Es una comparación, no un cuadernillo para entregar: incluye las respuestas. Los archivos completos permanecen al lado; el resuelto completo añade las explicaciones al final.
+- Para probar manualmente: selecciona cada pregunta, comprueba su imagen, modifica un texto, guarda y pulsa Generar los 3 PDF. Revisa las descargas y vuelve a cargar una imagen desde el equipo. Todo se conserva únicamente en los datos de esta instancia de prueba.
+- `tool/check_editor_size_demo.py` verifica las rutas HTTP de carga, PNG de vista previa, guardado con revisión, rechazo de imagen inválida/conflicto y tres descargas. No es automatización de navegador. Su informe es `comprobacion_http.json` dentro de la carpeta de muestra. Las claves de las tres preguntas son A, C y B.
+
+El control de navegador no estuvo disponible durante esta comprobación: no declarar probado el recorrido interactivo de clics. Los PNG de las tres páginas de comparación y del resuelto completo permiten revisar la maquetación sin simular esa prueba.
 
 Desde la raíz de este proyecto:
 
@@ -71,3 +113,17 @@ Inspeccionadas las nueve páginas de una muestra de segunda sesión con bloques 
 Actualización de encabezados: cinco pruebas adicionales verifican sustitución de rangos, singular, variables no válidas, límite del título, compatibilidad con proyectos anteriores y salida PDF tras excluir un ítem. La prueba JavaScript también verifica edición del encabezado y creación/vinculación del contexto. Se revisaron las nueve páginas renderizadas de segunda sesión con banda de área, indicaciones personalizadas y fuente. No se modificó el proyecto guardado del usuario para estas pruebas.
 
 Actualización de salidas: cinco pruebas nuevas comprueban los tres archivos, conservación del proyecto, orden de preguntas, explicaciones al final, círculos vacíos/rellenos y marcas de las opciones normales y de inglés. Una prueba HTTP adicional genera los archivos en un directorio aislado y descarga los tres PDF. La prueba JavaScript verifica los tres enlaces y el selector de salida. Se renderizaron las páginas de la muestra de prueba; no se cargó esa muestra en el proyecto del usuario.
+# Orden del texto y la imagen
+
+Ajuste de tres preguntas completas: preguntas de ancho completo con separador usan 6 puntos de margen vertical interno y 8 entre bloques, en lugar de 9/14. La altura máxima predeterminada de su imagen pasa a 110 puntos, conservando proporciones, ancho máximo de 300 y fuente de 10 puntos. Los contextos/explicaciones conservan su espaciado. `question_height` mide el mismo margen de la pregunta completa. La muestra `tmp/pdfs/tres-preguntas-compactas/` comprobó las tres preguntas reales en una página; no garantiza tres por página para cualquier contenido.
+
+Clasificación editorial parcial: `proposed` admite competencia y justificación con afirmación/evidencia vacías. Una afirmación explícita incompatible sigue siendo un error; tampoco se admite evidencia sin afirmación. No se rellenan códigos automáticamente. Las revisiones históricas `reviewed` mantienen sus controles completos. Si falla Guardar, no recargar: descargar primero el respaldo JSON del estado del navegador antes de reiniciar/importar.
+
+Encabezado compacto solicitado el 10 de noviembre: el nombre del área aparece centrado entre SaberPlus y el código, únicamente en su página de apertura; no se repite en las páginas siguientes. Ya no se imprime banda gris de área. Las indicaciones personalizadas se conservan debajo del encabezado si existen. Las preguntas, incluidas las distribuciones históricas `boxed` y `full`, usan separación horizontal fina sin contorno redondeado; se conserva el ancho elegido y el separador vertical de columnas. Los contextos compartidos y cuadros de explicaciones no cambian con esta decisión. Los títulos personalizados demasiado largos deben acortarse, no solaparse con la marca/código.
+
+Refinamiento editorial: introducciones y enunciados en letra normal de 10 puntos, separaciones de 5 puntos y opciones separadas por 2. Las imágenes de preguntas se dibujan sin márgenes exteriores casi blancos (tolerancia 8/255), únicamente en memoria; los archivos originales quedan intactos. En ancho completo se limita además el ancho de la figura a 300 puntos. Revisar siempre el resultado si hay marcas muy claras en los bordes. Las opciones que son ecuaciones simples completas, como `G = 2ⁿ⁻¹`, usan Times con variables en cursiva y exponentes reales; no es un editor LaTeX general. El texto común no se interpreta como fórmula ni como HTML. Estos cambios necesitan reiniciar el servicio para verse en la exportación.
+
+Corrección de densidad del 10 de noviembre: las imágenes de preguntas a ancho completo tienen una altura máxima predeterminada de 120 puntos (antes 190), sin deformación ni ampliación. Las preguntas siguen indivisibles; no se garantiza un número fijo por página. El campo JSON opcional `image_height` admite 40–240 puntos. Las potencias pegadas con superíndices Unicode se convierten en texto elevado real, sin interpretar etiquetas HTML del usuario. Muestra aislada reproducible: `uv run --offline --with reportlab --with pymupdf --with pillow python -B tool/check_density_demo.py`, previa autorización de generación. Lee el proyecto guardado del editor de prueba y escribe solo en `tmp/pdfs/ajuste-densidad/`, sin modificarlo. No ejecutar después de añadir más preguntas suponiendo que aún cabrán en una página.
+
+El formulario separa una introducción opcional del enunciado. El orden impreso es número e introducción, imagen, pregunta y opciones, tanto para estudiante como para resuelto. Sin imagen ni introducción se conserva número y enunciado juntos. Los proyectos anteriores no se reescriben: si todo estaba en Enunciado, separa manualmente la introducción al editar. Guarda antes de recargar; el motor Python necesita reinicio para aplicar cambios de generación. No reiniciar con cambios sin guardar.
+

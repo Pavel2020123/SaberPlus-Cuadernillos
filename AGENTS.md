@@ -2,7 +2,7 @@
 
 Lee README.md y CONTEXTO.md antes de trabajar. Este proyecto es independiente de la app SaberPlus y de su backend. No modificar otros proyectos, Docker, servicios, cuentas, diagnósticos ni datos de estudiantes.
 
-Objetivo inmediato: colaborar con el usuario para aprobar y mejorar una plantilla profesional de cuadernillos PDF. No generar un banco masivo sin acordar distribución, cobertura, extensión y revisión docente.
+Objetivo inmediato: colaborar con el usuario para aprobar y mejorar una plantilla profesional de cuadernillos PDF. No generar un banco masivo sin acordar distribución, cobertura, extensión y revisión editorial. Por decisión del usuario, no exigir revisión de un docente: clasifica el equipo SaberPlus y no se atribuye validación externa.
 
 Conservar los originales de references/ sin modificaciones. Son referencias visuales aportadas por el usuario, no un banco con permisos comerciales verificados. No copiar marcas de terceros ni presentar los resultados como prueba oficial.
 

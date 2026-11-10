@@ -4,6 +4,8 @@ Proyecto independiente para diseñar y generar cuadernillos de práctica en PDF.
 
 ## Punto de continuación actual
 
+10 de noviembre: [matriz editorial SP-001 de las dos sesiones](docs/SP001_MATRIZ_COBERTURA.md). Plan de 254 puestos académicos (120/134), cuotas por objetivo, cruce de Ciencias y adaptación explícita de Inglés. El archivo `planning/SP001_MATRIZ_COBERTURA.json` es planificación, no un banco importable: todavía no tiene preguntas seleccionadas. Comenzar con el lote de cinco candidatos de Matemáticas indicado en esa matriz. La muestra de tamaños y el editor de prueba separado se describen en [EDITOR_LOCAL.md](docs/EDITOR_LOCAL.md).
+
 31 de octubre: consultar primero [cotejo de preguntas y pendientes reales](docs/COTEJO_PREGUNTAS_ESTADO_ACTUAL.md). Se consolidaron 70 fichas adicionales: quedan 2764 fichas académicas y 723 apariciones académicas exactas enlazadas. El índice editorial está en `output/cotejo_30/INDICE.html`, con copia en la USB. Aún no se certifican preguntas únicas ni existe un banco importable completo: quedan cotejos visuales, transcripción de contenido, revisión docente y permisos. Los conteos de cierre anteriores son históricos.
 
 Auditoría activa de la USB PAVEL: consultar [catálogo y punto de continuación](docs/CATALOGO_USB.md). La documentación manual de preguntas y el OCR son procesos distintos; no afirmar que toda la colección esté analizada. Este trabajo no modifica la app ni el editor.
@@ -18,7 +20,7 @@ uv run --with reportlab --with pymupdf --with pillow python tool/editor_server.p
 
 Abre http://127.0.0.1:4185. El apartado **Así va tu cuadernillo** actualiza las páginas al hacer una pausa al escribir, permite navegar y ampliar. No guarda automáticamente: usa **Guardar proyecto**. Para probar con contenido original de demostración, abre **Distribución prevista y respaldo del proyecto** y carga la muestra; esta acción reemplaza el proyecto actual y pide confirmación. Las siete partes de inglés se encuentran al elegir segunda sesión.
 
-El editor sigue siendo un prototipo editorial: faltan aprobación visual conjunta, revisión docente del banco y completar el catálogo parcial de evidencias. Bloques compartidos demasiado largos todavía requieren división manual; no se recortan para hacerlos caber.
+El editor sigue siendo un prototipo editorial: faltan aprobación visual conjunta, revisión editorial del banco y completar el catálogo parcial de evidencias. El equipo SaberPlus clasifica el contenido sin exigir aprobación de un docente ni atribuir validación externa. Bloques compartidos demasiado largos todavía requieren división manual; no se recortan para hacerlos caber.
 
 **Generar los 3 PDF** produce el cuadernillo sin resolver, el resuelto con explicaciones al final y la clave del profesor. Las hojas usan círculos con letras: vacíos para el estudiante y rellenos para la clave. No hay QR ni publicación en internet todavía.
 

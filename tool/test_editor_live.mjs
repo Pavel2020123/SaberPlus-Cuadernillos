@@ -56,3 +56,46 @@ await element('generate').onclick();
 assert.equal(element('student').href,'/student.pdf');assert.equal(element('solved').href,'/solved.pdf');assert.equal(element('teacher').href,'/teacher.pdf');
 element('output-view').value='solved';element('output-view').onchange();assert.equal(element('preview').src,'/solved.pdf');
 console.log('Three download links and generated-PDF selector OK.');
+
+// Resizing must preserve hidden options and their images, including through JSON.
+run("state.questions[0].options=[{text:'A'},{text:'B'},{text:'C'},{text:'D original',image:'assets/uploads/example.png'}];resizeOptions(state.questions[0],3);");
+assert.equal(run('state.questions[0].options.length'),3);
+run('state=JSON.parse(JSON.stringify(state));resizeOptions(state.questions[0],4);');
+assert.equal(run('state.questions[0].options[3].text'),'D original');
+assert.equal(run('state.questions[0].options[3].image'),'assets/uploads/example.png');
+run('resizeOptions(state.questions[0],0);resizeOptions(state.questions[0],4);');
+assert.equal(run('state.questions[0].options[3].text'),'D original');
+run('changed()');
+assert.equal(element('results').hidden,true,'An edit must hide obsolete downloads');
+
+let finishGeneration;
+request=async(url,payload)=>url.endsWith('/save')?
+ {ok:true,json:async()=>({project:{...payload.project,revision:4},warnings:[]})}:
+ await new Promise(resolve=>{finishGeneration=resolve;});
+const generation=element('generate').onclick();
+await new Promise(resolve=>setImmediate(resolve));
+assert.equal(typeof finishGeneration,'function');
+run('changed()');
+finishGeneration({ok:true,json:async()=>({student:'/old.pdf',solved:'/old-solved.pdf',teacher:'/old-key.pdf',questions:1,warnings:[]})});
+await generation;
+assert.equal(element('results').hidden,true);
+assert.match(element('status').textContent,/cambió durante la generación/);
+assert.equal(run('dirty'),true);
+console.log('Option recovery, obsolete exports and edits during generation OK.');
+
+run("catalog.areas.mathematics={competencies:{interpretation:{label:'Interpretación',claims:['1']}},claims:{'1':{label:'Información',evidence:['1.1']}}};state.questions[0].area='mathematics';state.questions[0].assessment=blank('mathematics');setClassification(state.questions[0],true);");
+assert.equal(run('state.questions[0].assessment.status'),'proposed');
+let classificationHtml=run('assessmentForm(state.questions[0])');
+assert.match(classificationHtml,/Añadir clasificación por competencia/);
+assert.doesNotMatch(classificationHtml,/data-assessment="(?:status|reviewer|reviewed_at)"/);
+assert.doesNotMatch(classificationHtml,/Propuesta para revisión|Revisada por docente/);
+run("state.questions[0].assessment.status='reviewed';state.questions[0].assessment.reviewer='Registro histórico';state.questions[0].assessment.reviewed_at='2026-10-28';");
+classificationHtml=run('assessmentForm(state.questions[0])');
+assert.equal(run('state.questions[0].assessment.status'),'reviewed','Opening legacy data must not mutate it');
+assert.doesNotMatch(classificationHtml,/data-assessment="(?:reviewer|reviewed_at)"/);
+run("updateClassification(state.questions[0],'rationale','Clasificación del equipo');");
+assert.equal(run('state.questions[0].assessment.status'),'proposed','Editing a legacy review must not keep its validation claim');
+run('setClassification(state.questions[0],false);');
+assert.equal(run('state.questions[0].assessment.status'),'unclassified');
+assert.equal(run('state.questions[0].assessment.competency'),null);
+console.log('Editorial classification without teacher fields, legacy preservation and edit invalidation OK.');

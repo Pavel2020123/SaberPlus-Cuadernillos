@@ -4,6 +4,7 @@ import json
 import re
 import subprocess
 import sys
+from io import BytesIO
 from pathlib import Path
 from xml.sax.saxutils import escape
 
@@ -13,7 +14,9 @@ from reportlab.lib import colors
 from reportlab.lib.pagesizes import A4
 from reportlab.lib.styles import ParagraphStyle
 from reportlab.platypus import Paragraph, Image, Table, TableStyle, Spacer, Flowable
+from PIL import Image as PILImage, ImageChops
 from editor_model import ROOT, AREAS, SESSIONS, validate_project, selected_questions, blank_assessment, range_heading
+from assessment_metadata import STATUS_LABELS
 
 W, H = A4
 M, GAP, BOTTOM = 38, 22, 48
@@ -24,16 +27,48 @@ GRAY = colors.HexColor('#87909A')
 
 
 def para(text, size=10, bold=False):
-    return Paragraph(escape(str(text)).replace('\n', '<br/>'), ParagraphStyle(
-        'body', fontName='Helvetica-Bold' if bold else 'Helvetica', fontSize=size,
+    # Convert Unicode superscripts into real raised text supported by Helvetica.
+    # Escape first: editorial text must never become arbitrary ReportLab markup.
+    superscripts = '⁰¹²³⁴⁵⁶⁷⁸⁹ⁿⁱ⁺⁻⁼⁽⁾'
+    normal = '0123456789ni+-=()'
+    markup = escape(str(text)).replace('\n', '<br/>')
+    equation = re.fullmatch(r'((?:[A-G]\.\s*)?)([A-Za-z]\s*=\s*[A-Za-z0-9⁰¹²³⁴⁵⁶⁷⁸⁹ⁿⁱ⁺⁻⁼⁽⁾+−*/^() .-]+)',str(text))
+    if equation:
+        # Explicit equation-shaped options only; never italicize ordinary prose.
+        expression = re.sub(r'[A-Za-z]',lambda m:'<i>'+m.group()+'</i>',escape(equation[2]))
+        markup = escape(equation[1])+expression
+    markup = re.sub('['+superscripts+']+',
+                    lambda match: '<super>'+re.sub(r'[ni]',r'<i>\g<0></i>',match.group().translate(str.maketrans(superscripts, normal)))+'</super>', markup)
+    return Paragraph(markup, ParagraphStyle(
+        'body', fontName='Times-Roman' if equation else 'Helvetica-Bold' if bold else 'Helvetica', fontSize=size,
         leading=size*1.33, textColor=INK, spaceAfter=0))
 
 
-def picture(path, width, max_height=190):
+def picture(path, width, max_height=190, trim=False):
     resolved = (ROOT/path).resolve()
     if not resolved.is_relative_to((ROOT/'assets/uploads').resolve()) or not resolved.is_file():
         raise ValueError('No se encuentra una imagen cargada: '+path)
-    img = Image(str(resolved))
+    source = str(resolved)
+    if trim:
+        # Trim only empty outer white/transparent margins in memory. The upload
+        # stays intact; interior whitespace, lines and watermarks are untouched.
+        with PILImage.open(resolved) as original:
+            rgba=original.convert('RGBA')
+            white=PILImage.new('RGBA',rgba.size,'white')
+            white.alpha_composite(rgba)
+            rgb=white.convert('RGB')
+            difference=ImageChops.difference(rgb,PILImage.new('RGB',rgb.size,'white'))
+            # Ignore only near-white compression noise at the outer boundary.
+            mask=difference.convert('L').point(lambda value:255 if value>8 else 0)
+            bounds=mask.getbbox()
+            if bounds:
+                left,top,right,bottom=bounds
+                bounds=(max(0,left-6),max(0,top-6),min(rgb.width,right+6),min(rgb.height,bottom+6))
+                buffer=BytesIO()
+                rgb.crop(bounds).save(buffer,format='PNG')
+                buffer.seek(0)
+                source=buffer
+    img = Image(source)
     scale = min(width/img.imageWidth, max_height/img.imageHeight, 1)
     img.drawWidth, img.drawHeight = img.imageWidth*scale, img.imageHeight*scale
     return img
@@ -164,7 +199,7 @@ def solved_copy(student_path,out,project,questions,numbers,marks):
             page.insert_text((x-text_width/2,y+2.4),mark['letter'],fontname='hebo',fontsize=7,color=(1,1,1))
     for page in doc:
         page.insert_text((M,H-10),'CUADERNILLO RESUELTO - COMPARTIR DESPUES DE LA APLICACION',fontsize=6,color=(.3,.3,.3))
-    explanations=Interior(out/'explicaciones.pdf',project,start_page=len(doc)+1)
+    explanations=Interior(out/'explicaciones.pdf',project,start_page=len(doc)+1,resolved=True)
     explanations.newpage('RESPUESTAS EXPLICADAS')
     explanations.full([para('Revisa el razonamiento de cada respuesta',13,True),Spacer(1,7),
                        para('Las explicaciones corresponden a la misma numeración de este cuadernillo. Son material de repaso, no un informe de desempeño oficial.',9)])
@@ -180,11 +215,12 @@ def solved_copy(student_path,out,project,questions,numbers,marks):
 
 
 class Interior:
-    def __init__(self, path, project, start_page=3):
+    def __init__(self, path, project, start_page=3, resolved=False):
         self.c = canvas.Canvas(str(path), pagesize=A4)
         self.c.setTitle(project['code']+' · Cuadernillo del estudiante')
         self.project, self.page, self.open = project, start_page-1, False
         self.area = ''
+        self.resolved = resolved
         self.answer_marks=[]
 
     def flush(self):
@@ -196,7 +232,9 @@ class Interior:
         self.segment = 0
         return bottom
 
-    def newpage(self, area=None, show_area=True):
+    def newpage(self, area=None, show_area=True, opening_title=None):
+        if area is None and getattr(self,'content_area',False):
+            show_area=False
         if self.open:
             self.flush()
             self.c.showPage()
@@ -209,7 +247,17 @@ class Interior:
         c.setFont('Helvetica-Bold', 11)
         c.drawString(M, H-32, 'SaberPlus')
         c.setFont('Helvetica', 8)
-        c.drawRightString(W-M, H-32, self.project['code']+' · BORRADOR')
+        c.drawRightString(W-M, H-32, self.project['code']+(' · RESUELTO' if self.resolved else ' · BORRADOR'))
+        if opening_title:
+            available=WIDTH-2*max(c.stringWidth('SaberPlus','Helvetica-Bold',11),
+                c.stringWidth(self.project['code']+' · RESUELTO','Helvetica',8))-24
+            size=10
+            while size>7 and c.stringWidth(opening_title,'Helvetica-Bold',size)>available:
+                size-=.5
+            if c.stringWidth(opening_title,'Helvetica-Bold',size)>available:
+                raise ValueError('El título del área es demasiado largo para el encabezado; acórtalo.')
+            c.setFont('Helvetica-Bold',size)
+            c.drawCentredString(W/2,H-32,opening_title)
         c.setStrokeColor(INK)
         c.line(M, H-42, W-M, H-42)
         if show_area:
@@ -221,14 +269,19 @@ class Interior:
         c.drawRightString(W-M, 27, str(self.page))
         c.setFont('Helvetica-Bold', 13)
         c.drawRightString(W-M-22, 25, 'S+')
+        if self.resolved:
+            c.setFont('Helvetica', 6)
+            c.drawString(M, 10, 'CUADERNILLO RESUELTO - COMPARTIR DESPUES DE LA APLICACION')
         self.reset(H-83 if show_area else H-55)
 
     def reset(self, top):
         self.segment, self.ys, self.used, self.col = top, [top, top], [False, False], 0
 
-    def full(self, flows, box=False, reserve=0, shaded=False):
+    def full(self, flows, box=False, reserve=0, shaded=False, separator=False):
         top = self.flush()
-        height = measure(flows, WIDTH-18)+18
+        padding = 6 if separator else 9
+        gap = 8 if separator else 14
+        height = measure(flows, WIDTH-18)+2*padding
         if height+reserve > H-83-BOTTOM:
             raise ValueError('Un bloque compartido excede una página. Divide el texto en contextos más breves o reduce su imagen.')
         if top-height-reserve < BOTTOM:
@@ -239,22 +292,34 @@ class Interior:
             self.c.setLineWidth(.65)
             self.c.setFillColor(colors.HexColor('#EEF1F4'))
             self.c.roundRect(M, top-height, WIDTH, height, 5, fill=int(shaded), stroke=1)
-        draw(flows, self.c, M+9, top-9, WIDTH-18)
-        self.reset(top-height-14)
+        draw(flows, self.c, M+9, top-padding, WIDTH-18)
+        if separator:
+            self.c.setStrokeColor(GRAY)
+            self.c.setLineWidth(.5)
+            self.c.line(M,top-height,W-M,top-height)
+        self.reset(top-height-gap)
 
-    def question(self, q, number, matching=False):
-        if q['area']=='english' and q['part'] in (4,7):
+    def question_flows(self, q, number, matching=False):
+        compact = (q['area']=='english' and q['part'] in (4,7)
+                   and not q.get('introduction') and not q.get('image') and not any(o.get('image') for o in q['options']))
+        if compact:
             cells=[para(str(number)+'.',10,True)]+[TrackedOption([para(letter+'. '+o.get('text',''),10)],self,letter==q['correct']) for letter,o in zip('ABCD',q['options'])]
-            if not any(o.get('image') for o in q['options']):
-                table=Table([cells],colWidths=[30]+[(WIDTH-48)/len(q['options'])]*len(q['options']))
-                table.setStyle(TableStyle([('VALIGN',(0,0),(-1,-1),'TOP'),('LEFTPADDING',(0,0),(-1,-1),0)]))
-                self.full([table],False)
-                return
+            table=Table([cells],colWidths=[30]+[(WIDTH-48)/len(q['options'])]*len(q['options']))
+            table.setStyle(TableStyle([('VALIGN',(0,0),(-1,-1),'TOP'),('LEFTPADDING',(0,0),(-1,-1),0)]))
+            return [table], True, True
         full = q['layout']=='full'
         width = WIDTH if full else CW
-        flows = [para(f'{number}.  '+q['stem'], bold=True), Spacer(1, 8)]
+        stem = q['stem'].replace('{{numero}}', str(number))
+        introduction = q.get('introduction', '').strip().replace('{{numero}}', str(number))
+        flows = []
+        if introduction or q.get('image'):
+            flows += [para(f'{number}.  '+introduction), Spacer(1, 5)]
         if q.get('image'):
-            flows += [picture(q['image'], width-18), Spacer(1, 8)]
+            # A full-width block need not contain a full-width illustration.
+            # Preserve proportions, with a smaller default for stacked questions.
+            flows += [picture(q['image'], min(width-18,300) if full else width-18,
+                              q.get('image_height',110 if full else 190),trim=True), Spacer(1, 5)]
+        flows += [para(stem if introduction or q.get('image') else f'{number}.  '+stem), Spacer(1, 5)]
         if matching:
             flows += [para('Respuesta: A   B   C   D   E   F   G', 9)]
         else:
@@ -262,12 +327,28 @@ class Interior:
                 option_flows=[para(letter+'.  '+option.get('text', ''))]
                 if option.get('image'):
                     option_flows += [Spacer(1,4),picture(option['image'], width-18, 100)]
-                flows += [TrackedOption(option_flows,self,letter==q['correct']),Spacer(1,4)]
+                flows += [TrackedOption(option_flows,self,letter==q['correct']),Spacer(1,2)]
+        return flows, full, False
+
+    def question_height(self, q, number):
+        flows, full, _ = self.question_flows(q, number)
+        return measure(flows, (WIDTH if full else CW)-18)+(12 if full else 18)
+
+    def shared_context(self, flows, first_question, number):
+        reserve = self.question_height(first_question, number)+14
+        if measure(flows, WIDTH-18)+18+reserve > H-83-BOTTOM:
+            raise ValueError('El contexto y su primera pregunta no caben juntos en una página. '
+                             'Divide el contexto o elige ancho completo para la pregunta: '+first_question['id'])
+        self.full(flows, True, reserve=reserve)
+
+    def question(self, q, number, matching=False):
+        flows, full, compact = self.question_flows(q, number, matching)
+        width = WIDTH if full else CW
         height = measure(flows, width-18)+18
         if height > H-83-BOTTOM:
             raise ValueError(f'La pregunta {number} no cabe sin recortar. Elige ancho completo o divide su contexto.')
         if full:
-            self.full(flows, True)
+            self.full(flows, separator=not compact)
             return
         if self.ys[self.col]-height < BOTTOM:
             if self.col == 0:
@@ -277,10 +358,7 @@ class Interior:
         x, top = M+self.col*(CW+GAP), self.ys[self.col]
         self.c.setStrokeColor(GRAY)
         self.c.setLineWidth(.5)
-        if q['layout']=='boxed':
-            self.c.roundRect(x, top-height, width, height, 4, stroke=1, fill=0)
-        else:
-            self.c.line(x, top-height, x+width, top-height)
+        self.c.line(x, top-height, x+width, top-height)
         draw(flows, self.c, x+9, top-9, width-18)
         self.ys[self.col] = top-height-14
         self.used[self.col] = True
@@ -289,6 +367,19 @@ class Interior:
         if self.open:
             self.flush()
         self.c.save()
+
+
+def matching_descriptions(book, members, numbers):
+    flows = [para('DESCRIPCIONES',10,True),Spacer(1,12)]
+    for item in members:
+        introduction = item.get('introduction', '').strip().replace('{{numero}}', str(numbers[item['id']]))
+        if introduction or item.get('image'):
+            flows += [para(str(numbers[item['id']])+'. '+introduction),Spacer(1,5)]
+        if item.get('image'):
+            flows += [picture(item['image'], (WIDTH-18)*.64-20, 100), Spacer(1,5)]
+        flows += [para(item['stem'] if introduction or item.get('image') else str(numbers[item['id']])+'. '+item['stem']),Spacer(1,5)]
+        flows += [BubbleRow('ABCDEFG',book=book,answer=item['correct']),Spacer(1,10)]
+    return flows
 
 
 def context_flows(ctx, members, numbers, show_words=True):
@@ -371,14 +462,14 @@ def generate(project, out, preview=False):
     page_map={}
     for q in selected:
         if q['area'] != last_area:
-            book.newpage(AREAS[q['area']].upper(),show_area=False)
+            header=project.get('area_headers',{}).get(q['area'],{})
+            book.content_area=True
+            book.newpage(AREAS[q['area']].upper(),show_area=False,
+                         opening_title=header.get('title','').strip() or AREAS[q['area']].upper())
             area_questions=[item for item in selected if item['area']==q['area']]
             first,last=numbers[area_questions[0]['id']],numbers[area_questions[-1]['id']]
-            header=project.get('area_headers',{}).get(q['area'],{})
-            intro=[para(header.get('title','').strip() or AREAS[q['area']].upper(),15,True)]
             if header.get('instructions','').strip():
-                intro += [Spacer(1,8),para(range_heading(header['instructions'],first,last),10)]
-            book.full(intro,True,reserve=120,shaded=True)
+                book.full([para(range_heading(header['instructions'],first,last),10)],reserve=120)
             last_area, last_part = q['area'], None
         cid = q.get('context')
         if cid and cid not in seen:
@@ -386,10 +477,7 @@ def generate(project, out, preview=False):
             matching=q['area']=='english' and q['part']==1
             if matching:
                 flows=context_flows(ctxs[cid],members,numbers,False)
-                desc=[para('DESCRIPCIONES',10,True),Spacer(1,12)]
-                for item in members:
-                    desc += [para(str(numbers[item['id']])+'. '+item['stem']),Spacer(1,5),
-                             BubbleRow('ABCDEFG',book=book,answer=item['correct']),Spacer(1,10)]
+                desc=matching_descriptions(book,members,numbers)
                 words=[para('PALABRAS',10,True),Spacer(1,12)]
                 for letter,word in zip('ABCDEFG',ctxs[cid]['words']):
                     words += [para(letter+'.   '+word),Spacer(1,13)]
@@ -399,7 +487,8 @@ def generate(project, out, preview=False):
                 book.full(flows,False)
                 page_map.update({item['id']:book.page for item in members})
             else:
-                book.full(context_flows(ctxs[cid],members,numbers),True,reserve=190)
+                context = context_flows(ctxs[cid],members,numbers)
+                book.shared_context(context,q,numbers[q['id']])
             seen.add(cid)
             last_part = q.get('part')
         elif q['area']=='english' and q['part']!=last_part:
@@ -424,15 +513,15 @@ def generate(project, out, preview=False):
     key.close()
     teacher = Interior(out/'guia_docente.pdf',project,start_page=1)
     teacher.newpage('GUÍA DOCENTE · NO ENTREGAR AL ESTUDIANTE')
-    teacher.full([para('Claves y clasificación pedagógica',13,True),Spacer(1,7),para('Preguntas originales de demostración o contenido ingresado por el editor. La clasificación requiere revisión docente. No asigna puntajes ni niveles oficiales.',9)])
+    teacher.full([para('Claves y clasificación editorial',13,True),Spacer(1,7),para('Clasificación interna de SaberPlus, sin requisito de revisión docente ni validación externa implícita. No asigna puntajes ni niveles oficiales.',9)])
     for q in selected:
         a=q['assessment']
         area=__import__('assessment_metadata').CATALOG['areas'][q['area']]
         label=area['competencies'].get(a.get('competency'),{}).get('label','Pendiente')
-        flows=[para(f'{numbers[q["id"]]}. {AREAS[q["area"]]} · Clave {q["correct"]}',11,True),Spacer(1,6),para(q['explanation']),Spacer(1,6),para(f'Competencia: {label}. Estado: {a["status"]}. Afirmación: {a.get("claim") or "—"}. Evidencia: {a.get("evidence") or "—"}.',9)]
+        flows=[para(f'{numbers[q["id"]]}. {AREAS[q["area"]]} · Clave {q["correct"]}',11,True),Spacer(1,6),para(q['explanation']),Spacer(1,6),para(f'Competencia: {label}. Clasificación: {STATUS_LABELS[a["status"]]}. Afirmación: {a.get("claim") or "—"}. Evidencia: {a.get("evidence") or "—"}.',9)]
         if a.get('rationale'):
             flows += [Spacer(1,5),para('Justificación: '+a['rationale'],9)]
-        if a.get('reviewer'):
+        if a['status']=='reviewed' and a.get('reviewer'):
             flows += [para('Revisó: '+a['reviewer']+' · '+str(a.get('reviewed_at')),9)]
         teacher.full(flows,True)
     teacher.close()

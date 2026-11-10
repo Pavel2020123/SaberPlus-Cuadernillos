@@ -101,6 +101,13 @@ def validate_project(project, exporting=False):
         if not isinstance(ctx.get('source',''), str) or len(ctx.get('source',''))>1500:
             raise ValueError('La fuente del contexto admite hasta 1500 caracteres.')
     for q in questions:
+        if 'image_height' in q and (type(q['image_height']) not in (int,float) or not 40 <= q['image_height'] <= 240):
+            raise ValueError('La altura máxima de imagen debe estar entre 40 y 240 puntos.')
+        if type(q.get('order', 0)) is not int or q.get('order', 0) < 0:
+            raise ValueError(f'Pregunta {q["id"]}: el orden debe ser un entero no negativo.')
+        for field in ('topic', 'subtopic', 'introduction'):
+            if not isinstance(q.get(field, ''), str):
+                raise ValueError(f'Pregunta {q["id"]}: {field} debe ser texto.')
         ctx = by_id.get(q.get('context'))
         if q.get('context') and (not ctx or ctx['area'] != q['area']):
             raise ValueError('El contexto debe existir y pertenecer al área de la pregunta.')
@@ -123,6 +130,19 @@ def validate_project(project, exporting=False):
                          {i+1: q.get('part') for i, q in enumerate(questions)})
     active = selected_questions(project)
     warnings = []
+    orders = set()
+    for q in active:
+        key = (q['area'], q.get('part', 0) if q['area'] == 'english' else 0, q.get('order', 0))
+        if key in orders:
+            message = f'Pregunta {q["id"]}: orden repetido dentro del área / parte. Asigna un orden distinto.'
+            if exporting:
+                raise ValueError(message)
+            warnings.append(message)
+        orders.add(key)
+        missing = [label for field, label in [('topic', 'tema'), ('subtopic', 'subtema')]
+                   if not q.get(field, '').strip()]
+        if missing:
+            warnings.append(f'Pregunta {q["id"]}: falta {" y ".join(missing)}; clasificación temática pendiente.')
     for area in SESSIONS[project['session']]:
         count = sum(q['area'] == area for q in active)
         target = project['targets'].get(area)
@@ -132,8 +152,8 @@ def validate_project(project, exporting=False):
             warnings.append(f'{AREAS[area]}: seleccionadas {count}; previstas {target}.')
     if not project.get('time'):
         warnings.append('Tiempo de aplicación sin configurar.')
-    if any(q['assessment']['status'] != 'reviewed' for q in active):
-        warnings.append('Hay clasificaciones pedagógicas pendientes de revisión.')
+    if any(q['assessment']['status'] == 'unclassified' for q in active):
+        warnings.append('Hay preguntas sin clasificación por competencia.')
     if exporting:
         if not active:
             raise ValueError('Selecciona al menos una pregunta de esta sesión.')
@@ -196,8 +216,11 @@ def demo_project():
         a = copy.deepcopy(q['assessment'])
         part = a.get('part') or (1 if 11 <= q['n'] <= 13 else 0)
         context = 'ctx-reading' if q['n'] <= 2 else 'ctx-table' if q['n'] == 5 else f'ctx-en-{part}' if part in (1,2,4,5,6,7) else None
+        stem = q['stem']
+        if a['area'] == 'english' and part in (4, 7):
+            stem = re.sub(r'\bspace\s+\d+', 'space {{numero}}', stem)
         p['questions'].append({'id': f'q-demo-{q["n"]}', 'area': a['area'], 'part': part,
-                              'order': q['n'], 'topic': q['topic'], 'subtopic': '', 'stem': q['stem'],
+                              'order': q['n'], 'topic': q['topic'], 'subtopic': '', 'stem': stem,
                               'options': [{'text': t} for t in q.get('options', [])], 'correct': q['answer'],
                               'explanation': q['why'], 'layout': 'boxed' if q['n'] % 2 else 'columns',
                               'included': True, 'context': context, 'slot': f'h{q["n"]}', 'assessment': a})
