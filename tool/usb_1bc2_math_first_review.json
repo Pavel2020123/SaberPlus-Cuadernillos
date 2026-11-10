@@ -1,0 +1,244 @@
+{
+  "file_id": "USB-1bc205e23b46",
+  "date": "2026-10-30",
+  "area": "Matematicas",
+  "scope": "Preguntas26-39enfísicas7-10inspeccionadas visualmente.Datos,diagramas y marcasrojas revisados.Propuestas no oficiales.Lasfísicas11-12solorenderizadas,no revisadas semánticamente.",
+  "competency_legend": {
+    "IR": "Interpretación y representación",
+    "FE": "Formulación y ejecución",
+    "AR": "Argumentación"
+  },
+  "items": [
+    {
+      "question": 26,
+      "page": 7,
+      "topic": "Identificación de procedimiento algebraico inválido",
+      "competency_code": "AR",
+      "answer_proposal": "C",
+      "reason": "La igualdad presentada al completar cuadrados no es identidad:x²-169no equivale a(x-13)²;raíces correctas±13.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo,autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 27,
+      "page": 7,
+      "topic": "Distribución porcentual a partir de frecuencias",
+      "competency_code": "IR",
+      "answer_proposal": "B",
+      "reason": "56/80=70%,4/80=5%,20/80=25%;Brepresenta tres sectores correspondientes.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo,autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 28,
+      "page": 7,
+      "topic": "Suficiencia de datos para volumen en cilindro",
+      "competency_code": "AR",
+      "answer_proposal": "C",
+      "reason": "Multiplicar área por10cmcalcula capacidad completa,no volumen total de líquido si recipiente no está lleno;restar50mLno recupera aceite sin altura efectiva.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo,autoría y carácter oficial no comprobados."
+      },
+      "alert": "Calcular área con diámetro es posible usandoπ(d/2)²;no es error por sí mismo."
+    },
+    {
+      "question": 29,
+      "page": 8,
+      "topic": "Patrón de ahorro lineal",
+      "competency_code": "IR",
+      "answer_proposal": "B",
+      "reason": "Saldos130000,160000,190000,220000crecen30000mensuales.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo,autoría y carácter oficial no comprobados."
+      },
+      "related_file_id": "USB-d4e43db6988a",
+      "related_question": 15,
+      "related_page": 7,
+      "variant_comparison": "Contexto,enunciado,datos y opciones cotejados visualmente;distinta numeración y marcas.32discrepa en marca respecto a propuesta. No eliminar."
+    },
+    {
+      "question": 30,
+      "page": 8,
+      "topic": "Promedio de conteos",
+      "competency_code": "FE",
+      "answer_proposal": "B",
+      "reason": "(6+5+10)/3=7.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo,autoría y carácter oficial no comprobados."
+      },
+      "related_file_id": "USB-d4e43db6988a",
+      "related_question": 16,
+      "related_page": 7,
+      "variant_comparison": "Contexto,enunciado,datos y opciones cotejados visualmente;distinta numeración y marcas.32discrepa en marca respecto a propuesta. No eliminar."
+    },
+    {
+      "question": 31,
+      "page": 8,
+      "topic": "Intersecciones de conjuntos de transporte",
+      "competency_code": "IR",
+      "answer_proposal": "D",
+      "reason": "Bicicleta incluye5,20,25y50personas de todas sus regiones.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo,autoría y carácter oficial no comprobados."
+      },
+      "related_file_id": "USB-d4e43db6988a",
+      "related_question": 17,
+      "related_page": 7,
+      "variant_comparison": "Contexto,enunciado,datos y opciones cotejados visualmente;distinta numeración y marcas.32discrepa en marca respecto a propuesta. No eliminar."
+    },
+    {
+      "question": 32,
+      "page": 8,
+      "topic": "Crecimiento exponencial por duplicación",
+      "competency_code": "FE",
+      "answer_proposal": "D",
+      "reason": "Tres periodos de2años entre2010y2016dan10000×2³=80000.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo,autoría y carácter oficial no comprobados."
+      },
+      "alert": "Discrepancia:marcaB=40000,propuestaD=80000.",
+      "related_file_id": "USB-d4e43db6988a",
+      "related_question": 18,
+      "related_page": 7,
+      "variant_comparison": "Contexto,enunciado,datos y opciones cotejados visualmente;distinta numeración y marcas.32discrepa en marca respecto a propuesta. No eliminar."
+    },
+    {
+      "question": 33,
+      "page": 8,
+      "topic": "Redundancia de pasos en algoritmo",
+      "competency_code": "AR",
+      "answer_proposal": "A",
+      "reason": "Multiplicar por4y sumar cuatro veces área de un triángulo son operaciones equivalentes;paso4es redundante.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo,autoría y carácter oficial no comprobados."
+      },
+      "related_file_id": "USB-d4e43db6988a",
+      "related_question": 19,
+      "related_page": 7,
+      "variant_comparison": "Contexto,enunciado,datos y opciones cotejados visualmente;distinta numeración y marcas.32discrepa en marca respecto a propuesta. No eliminar."
+    },
+    {
+      "question": 34,
+      "page": 9,
+      "topic": "Factorización incompleta de expresión de movimiento",
+      "competency_code": "AR",
+      "answer_proposal": "B",
+      "reason": "Al factorizar tiempodeat²queda un factor tiempo dentro;la expresión ofrecida lo omite.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo,autoría y carácter oficial no comprobados."
+      },
+      "alert": "Aquí fórmula imprime3m/s²coherente con enunciado;enUSB-d4e43db6988a20aparece10m/s².No propagar error tipográfico de otro escaneo.",
+      "related_file_id": "USB-d4e43db6988a",
+      "related_question": 20,
+      "related_page": 8,
+      "variant_comparison": "Misma tarea y opciones pero cambia coeficiente impreso en fórmula:actual3frente a10en relacionado;es variante,conservar ambos."
+    },
+    {
+      "question": 35,
+      "page": 9,
+      "topic": "Procedimiento no equivalente de tiempo de descarga",
+      "competency_code": "FE",
+      "answer_proposal": "B",
+      "reason": "Tiempo=12,6×1024/300;Bcalcula1024×300/12,6,no equivalente.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo,autoría y carácter oficial no comprobados."
+      },
+      "related_file_id": "USB-d4e43db6988a",
+      "related_question": 21,
+      "related_page": 8,
+      "variant_comparison": "Contexto,enunciado,datos y opciones cotejados visualmente;distinta numeración y marcas.32discrepa en marca respecto a propuesta. No eliminar."
+    },
+    {
+      "question": 36,
+      "page": 9,
+      "topic": "Semejanza en rampa",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "Razón de bases4/2=2;altura3/2=1,5m.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo,autoría y carácter oficial no comprobados."
+      },
+      "related_file_id": "USB-d4e43db6988a",
+      "related_question": 22,
+      "related_page": 8,
+      "variant_comparison": "Contexto,enunciado,datos y opciones cotejados visualmente;distinta numeración y marcas.32discrepa en marca respecto a propuesta. No eliminar."
+    },
+    {
+      "question": 37,
+      "page": 10,
+      "topic": "Orden de distancia radial en coordenadas polares",
+      "competency_code": "IR",
+      "answer_proposal": "A",
+      "reason": "RadiosW20,V30,Y40,X60determinan orden de cercanía,independiente del ángulo.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo,autoría y carácter oficial no comprobados."
+      },
+      "related_file_id": "USB-d4e43db6988a",
+      "related_question": 23,
+      "related_page": 9,
+      "variant_comparison": "Contexto,enunciado,datos y opciones cotejados visualmente;distinta numeración y marcas.32discrepa en marca respecto a propuesta. No eliminar."
+    },
+    {
+      "question": 38,
+      "page": 10,
+      "topic": "Desplazamiento con retroceso",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "Avances3,6,3menosretroceso10másúltimocuadra1producen3+6+3-10+1.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo,autoría y carácter oficial no comprobados."
+      },
+      "alert": "Supone trayecto lineal con sentido final hacia casa.",
+      "related_file_id": "USB-d4e43db6988a",
+      "related_question": 24,
+      "related_page": 9,
+      "variant_comparison": "Contexto,enunciado,datos y opciones cotejados visualmente;distinta numeración y marcas.32discrepa en marca respecto a propuesta. No eliminar."
+    },
+    {
+      "question": 39,
+      "page": 10,
+      "topic": "Orden de decimales negativos",
+      "competency_code": "IR",
+      "answer_proposal": "C",
+      "reason": "-7,62<-7,6<-7,53<-7,09correspondeMariana,Santiago,Orlando,Ximena.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo,autoría y carácter oficial no comprobados."
+      },
+      "alert": "Caso numérico,no orden clínico de tratamiento real.",
+      "related_file_id": "USB-d4e43db6988a",
+      "related_question": 25,
+      "related_page": 9,
+      "variant_comparison": "Contexto,enunciado,datos y opciones cotejados visualmente;distinta numeración y marcas.32discrepa en marca respecto a propuesta. No eliminar."
+    }
+  ]
+}

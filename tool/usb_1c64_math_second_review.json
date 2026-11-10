@@ -1,0 +1,103 @@
+{
+  "file_id": "USB-1c6462bf5377",
+  "date": "2026-10-30",
+  "area": "Matemáticas",
+  "scope": "Físicas8-10,impresas6-8,inspeccionadas visualmente completas;física10 reorientada para leer gráfica,tubos y opciones. Diez fichas11-20. Búsqueda dirigida en fichas previas sin identidad exacta identificada;no certifica unicidad global. Sin clave oficial ni validación docente.",
+  "items": [
+    {
+      "question": 11,
+      "page": 8,
+      "printed_page": 6,
+      "topic": "Detección de error en sustitución trigonométrica",
+      "competency_proposal": "Argumentación",
+      "answer_proposal": "B",
+      "reason": "La razón seno es cateto opuesto/hipotenusa. Debe sustituirse80/160=1/2, no160/80; el error está en el paso2. Arcoseno es la operación inversa apropiada."
+    },
+    {
+      "question": 12,
+      "page": 8,
+      "printed_page": 6,
+      "topic": "Ángulos entre paralelas cortadas por transversal",
+      "competency_proposal": "Formulación y ejecución",
+      "answer_proposal": "B",
+      "reason": "Las horizontales son paralelas porque ambas son perpendiculares a la misma vertical. El ángulo marcadox y el de40° son alternos internos, por lo que x=40°."
+    },
+    {
+      "question": 13,
+      "page": 8,
+      "printed_page": 6,
+      "topic": "Conversión de centímetros a milímetros",
+      "competency_proposal": "Formulación y ejecución",
+      "answer_proposal": "B",
+      "reason": "70cm×10mm/cm=700mm; la longitud sigue siendo la misma."
+    },
+    {
+      "question": 14,
+      "page": 8,
+      "printed_page": 6,
+      "topic": "Distancia al centro y pertenencia a circunferencia",
+      "competency_proposal": "Argumentación",
+      "answer_proposal": "C",
+      "reason": "El jugador2 está dentro del círculo, más cerca del balón central que un radio. Los otros jugadores mencionados están sobre su circunferencia, a un radio; estar dentro o en el borde no implica igual distancia."
+    },
+    {
+      "question": 15,
+      "page": 9,
+      "printed_page": 7,
+      "topic": "Comportamiento de transformación cuadrática en intervalo",
+      "competency_proposal": "Formulación y ejecución",
+      "answer_proposal": "B",
+      "reason": "El procedimiento define f(x)=2x²+x. Para0,1≤x≤0,4, f(x)>x y0,12≤f(x)≤0,72<1; es creciente en ese intervalo.",
+      "alert": "Fórmula hipotética del enunciado; no valida eficacia,seguridad ni interpretación clínica de medicamento. Elevar una concentración al cuadrado y sumarla requiere coeficientes con unidades apropiadas; el problema los omite."
+    },
+    {
+      "question": 16,
+      "page": 9,
+      "printed_page": 7,
+      "topic": "Aplicación de procedimiento aritmético",
+      "competency_proposal": "Formulación y ejecución",
+      "answer_proposal": "A",
+      "reason": "Helena yJairo completan13+7=20cajas;20×12=240libros."
+    },
+    {
+      "question": 17,
+      "page": 9,
+      "printed_page": 7,
+      "topic": "Modelación de reparto de votos con diferencia fija",
+      "competency_proposal": "Interpretación y representación",
+      "answer_proposal": "A",
+      "reason": "Si el menor obtienev, el mayor obtienev+5 y hayx blancos: v+(v+5)+x=90; despejando v=(90−x−5)/2."
+    },
+    {
+      "question": 18,
+      "page": 10,
+      "printed_page": 8,
+      "topic": "Comparación de longitudes de rutas en cuadrícula",
+      "competency_proposal": "Argumentación",
+      "answer_proposal": "B",
+      "reason": "En unidades de cuadrícula, Lucas recorre√5+1+√2≈4,65; Mateo3+√5≈5,24; Juan2+4=6. Lucas tiene la menor longitud.",
+      "alert": "Comparación basada en cuadrícula homogénea y segmentos dibujados. No comparar por el número de segmentos ni por una medición arbitraria del escaneo."
+    },
+    {
+      "question": 19,
+      "page": 10,
+      "printed_page": 8,
+      "topic": "Contraejemplo para cobertura de intervalo térmico",
+      "competency_proposal": "Argumentación",
+      "answer_proposal": "B",
+      "reason": "A−30°C el reloj1 no funciona, pues su rango comienza en−20°C. Se requiere que ambos funcionen durante toda la expedición; un solo caso de fallo invalida la elección1y3."
+    },
+    {
+      "question": 20,
+      "page": 10,
+      "printed_page": 8,
+      "topic": "Probabilidad clásica en árbol de salidas",
+      "competency_proposal": "Formulación y ejecución",
+      "answer_proposal": "A",
+      "reason": "El diagrama tiene16salidas,12etiquetadas1(perder) y4etiquetadas2(ganar). El procedimiento indicado produce12/16=3/4.",
+      "alert": "12/16 es el resultado del procedimiento exigido. Interpretarlo como probabilidad física requiere salidas equiprobables; el dibujo y la conducta real de un hámster no garantizan esa hipótesis. Árbol balanceado con bifurcaciones equiprobables sí la satisface."
+    }
+  ],
+  "observed_annotations": "No se observan opciones seleccionadas en11-20.",
+  "next": "Física11,verificar21en adelante."
+}

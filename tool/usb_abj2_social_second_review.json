@@ -1,0 +1,87 @@
+{
+  "file_id": "USB-524d98b0a234",
+  "date": "2026-10-29",
+  "area": "Sociales y ciudadanas",
+  "scope": "Preguntas18-25paginas7-9 inspeccionadas visualmente.TerminaSociales25.Claves y competencias propuestas,no oficiales.",
+  "competency_legend": {
+    "P": "Pensamiento social",
+    "I": "Interpretacion y analisis de perspectivas",
+    "S": "Pensamiento reflexivo y sistemico"
+  },
+  "items": [
+    {
+      "question": 18,
+      "page": 7,
+      "topic": "Economia y ambiente en desarrollo sostenible",
+      "competency_code": "S",
+      "answer_proposal": "A",
+      "observed_highlight": "A",
+      "reason": "Relaciona energia limpia,empleo y prosperidad,sin oposicion necesaria entre ambiente y economia."
+    },
+    {
+      "question": 19,
+      "page": 7,
+      "topic": "Crisis monarquica e independencia americana",
+      "competency_code": "P",
+      "answer_proposal": "D",
+      "observed_highlight": "D",
+      "reason": "Vacio de autoridad por invasion1808debilita control y favorece juntas autonomas."
+    },
+    {
+      "question": 20,
+      "page": 7,
+      "topic": "Efecto de prohibicion de plataforma de transporte",
+      "competency_code": "S",
+      "answer_proposal": "D",
+      "observed_highlight": "D",
+      "reason": "Usuarios pierden acceso al servicio prohibido;taxistas tradicionales no pierden por esa prohibicion."
+    },
+    {
+      "question": 21,
+      "page": 8,
+      "topic": "Conflicto por relleno sanitario",
+      "competency_code": "I",
+      "answer_proposal": "D",
+      "observed_highlight": "D",
+      "reason": "Vecinos perifericos soportan efectos de cercania frente a empresa que lo operaria."
+    },
+    {
+      "question": 22,
+      "page": 8,
+      "topic": "Efecto social de proteccion patrimonial",
+      "competency_code": "S",
+      "answer_proposal": "B",
+      "observed_highlight": "B",
+      "reason": "Prohibir modificaciones sin atender seguridad y condiciones de habitantes omite necesidades sociales."
+    },
+    {
+      "question": 23,
+      "page": 8,
+      "topic": "Dimension ambiental de cargador universal",
+      "competency_code": "S",
+      "answer_proposal": "B",
+      "observed_highlight": "B",
+      "reason": "Reducir cargadores y residuos tecnologicos es proposito ambiental central,aunque existan ahorros."
+    },
+    {
+      "question": 24,
+      "page": 9,
+      "topic": "Motivacion de nueva Constitucion",
+      "competency_code": "P",
+      "answer_proposal": "C",
+      "observed_highlight": "C",
+      "reason": "Texto propone cambio juridico-politico y ampliacion de derechos como inicio de transformacion."
+    },
+    {
+      "question": 25,
+      "page": 9,
+      "topic": "Secuencia historica de derechos",
+      "competency_code": "P",
+      "answer_proposal": "C",
+      "observed_highlight": "C",
+      "reason": "Abolicion del sigloXIXprecede reconocimiento de propiedad colectiva enmarcado en1991yLey70de1993.",
+      "alert": "La opcion simplifica relacion entre Constitucion1991yLey70;no atribuir fecha1991al texto legal1993."
+    }
+  ],
+  "next": "Matematicas26enpagina10."
+}

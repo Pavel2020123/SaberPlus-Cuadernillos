@@ -1,0 +1,104 @@
+{
+  "file_id": "USB-1bc205e23b46",
+  "date": "2026-10-30",
+  "area": "Matemáticas",
+  "scope": "Inspección visual de preguntas 40-46 en páginas físicas 11-12. Propuestas razonadas, no claves oficiales.",
+  "competency_legend": {
+    "IR": "Interpretación y representación",
+    "FE": "Formulación y ejecución",
+    "AR": "Argumentación"
+  },
+  "items": [
+    {
+      "question": 40,
+      "page": 11,
+      "topic": "Descomposición de áreas de un cuadrado",
+      "competency_code": "AR",
+      "answer_proposal": "D",
+      "reason": "El cuadrado tiene 4 cm². Diez triángulos de base 2 y altura 1 suman 10 cm²; los otros métodos suman 4 cm².",
+      "observed_annotation": {
+        "value": "D",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 41,
+      "page": 11,
+      "topic": "Comparación anual de tarifas bancarias",
+      "competency_code": "FE",
+      "answer_proposal": "D",
+      "reason": "Con 24 retiros al año: M cobra 4×12000+24×1000=72000; N cobra 24×5000=120000. Cambiar a N no ahorra.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 42,
+      "page": 11,
+      "topic": "Representación algebraica de crecimiento",
+      "competency_code": "IR",
+      "answer_proposal": "C",
+      "reason": "Se suma a la calificación inicial un tercio de lo que le falta para llegar a 100: inicial+(100-inicial)/3.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 43,
+      "page": 11,
+      "topic": "Ordenación de sumas de puntuaciones",
+      "competency_code": "FE",
+      "answer_proposal": "B",
+      "reason": "Andrea suma 9, Mariana 11 y Catalina 13; el orden descendente es Catalina, Mariana, Andrea.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 44,
+      "page": 11,
+      "topic": "Argumentación sobre función por tramos",
+      "competency_code": "AR",
+      "answer_proposal": "B",
+      "reason": "No es constante en todo [1,5]: decrece de 2 a 3 y crece de 4 a 5, aunque tenga tramos horizontales.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 45,
+      "page": 12,
+      "topic": "Tipo de variable y desviación estándar",
+      "competency_code": "IR",
+      "answer_proposal": "C",
+      "reason": "Las presiones diastólica y sistólica son variables numéricas sobre las que se calcula varianza y desviación estándar. Identificadores y niveles categóricos no cumplen esa función.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 46,
+      "page": 12,
+      "topic": "Moda en dos conjuntos de datos",
+      "competency_code": "FE",
+      "answer_proposal": "D",
+      "reason": "En Álvaro se repite 30; en Jesús se repite 24. Las medianas son 26 y 24; ambos rangos son 10.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    }
+  ]
+}

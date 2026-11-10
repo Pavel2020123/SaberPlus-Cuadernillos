@@ -1,0 +1,74 @@
+{
+  "file_id": "USB-a170782eadcb",
+  "date": "2026-10-30",
+  "area": "Lectura crítica",
+  "scope": "Física9(impresas16-17)inspeccionada visualmente,44-48. Registro previo de textoComputadores encontrado,pero tareas32-35ADB3y60-63Cóndor son diferentes:no consolidar solo por texto compartido.",
+  "contexts": [
+    {
+      "id": "computadores",
+      "page": 9,
+      "title": "Los computadores hacen lo que se les manda",
+      "description": "FragmentoDawkins2007,sobre obediencia yvulnerabilidad. Contexto ya aparece en otras versiones,pero estas preguntas examinan compatibilidad,propósito yparáfrasis."
+    },
+    {
+      "id": "goliat",
+      "page": 9,
+      "title": "La araña más grande del mundo",
+      "description": "Descripción deGoliat,dieta,caza,pelos yusos culinarios;preguntas47-48."
+    }
+  ],
+  "items": [
+    {
+      "question": 44,
+      "page": 9,
+      "printed_page": 16,
+      "context": "computadores",
+      "topic": "Afirmación compatible con descripción",
+      "competency_proposal": "Reflexiona a partir de un texto y evalúa su contenido",
+      "answer_proposal": "D",
+      "reason": "La obediencia sin evaluar consecuencias es compatible con inteligencia distinta de humana;no se predice desaparición ni inteligencia futura igual.",
+      "alert": "Se interpreta el fragmento histórico,no especificación técnica actual de sistemas deIA."
+    },
+    {
+      "question": 45,
+      "page": 9,
+      "printed_page": 16,
+      "context": "computadores",
+      "topic": "Propósito global del fragmento",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "D",
+      "reason": "El texto sostiene puntos sobre naturaleza de ordenadores:obediencia,utilidad yvulnerabilidad;no busca solo alarmar oelogiar ciencia."
+    },
+    {
+      "question": 46,
+      "page": 9,
+      "printed_page": 16,
+      "context": "computadores",
+      "topic": "Paráfrasis delimitada al primer párrafo",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "C",
+      "reason": "Cconserva utilidad de obedecer yno identificar consecuencias buenas/malas;Ainvierte incapacidad,Bañade virus del segundo párrafo,Dafirma inmunidad."
+    },
+    {
+      "question": 47,
+      "page": 9,
+      "printed_page": 17,
+      "context": "goliat",
+      "topic": "Modalidad de probabilidad",
+      "competency_proposal": "Identifica y entiende los contenidos locales que conforman un texto",
+      "answer_proposal": "B",
+      "reason": "Improbable expresa poca viabilidad,no imposibilidad absoluta ni certeza de inclusión en menús."
+    },
+    {
+      "question": 48,
+      "page": 9,
+      "printed_page": 17,
+      "context": "goliat",
+      "topic": "Sustitución léxica en contexto científico",
+      "competency_proposal": "Identifica y entiende los contenidos locales que conforman un texto",
+      "answer_proposal": "D",
+      "reason": "Estudio sustituye investigación publicada en revista científica;pregunta uopinión no equivalen.",
+      "alert": "Análisis es cercano,pero estudio es la equivalencia contextual más directa ofrecida."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "file_id": "USB-45e476387c60",
+  "date": "2026-10-30",
+  "area": "Sociales y ciudadanas",
+  "scope": "Portada física 1 y páginas físicas 2-3 inspeccionadas completas. AAK2, 2025-2, segunda sesión, Mompox, 147 preguntas y 4 h 30 declaradas. Calendario y autenticidad no comprobados. Propuestas iniciales no oficiales.",
+  "competency_legend": {
+    "P": "Pensamiento social",
+    "I": "Interpretación y análisis de perspectivas",
+    "R": "Pensamiento reflexivo y sistémico"
+  },
+  "items": [
+    {
+      "question": 1,
+      "page": 2,
+      "printed_page": 2,
+      "topic": "Prioridad de política exterior en restricción comercial",
+      "competency_code": "I",
+      "answer_proposal": "C",
+      "reason": "La justificación final atribuye la prohibición a que Japón desconoce la voluntad de los países de la región; C identifica presión comercial en política exterior.",
+      "alert": "El contexto también menciona dudas científicas; la respuesta prioriza la razón explícita de la prohibición. No determina la seguridad ambiental actual del vertimiento."
+    },
+    {
+      "question": 2,
+      "page": 2,
+      "printed_page": 2,
+      "topic": "Protección de patrimonio y condiciones de una práctica cultural",
+      "competency_code": "P",
+      "answer_proposal": "B",
+      "reason": "Permitir la práctica solo donde existe arraigo cultural, con condiciones de seguridad, corresponde a proteger patrimonio cultural según el caso.",
+      "alert": "No equivale a legitimar todo maltrato ni a autorizar consumo de alcohol por menores. Descripción hipotética del material, no comprobación de vigencia jurídica."
+    },
+    {
+      "question": 3,
+      "page": 2,
+      "printed_page": 2,
+      "topic": "Evaluación de argumento sobre inversión publicitaria",
+      "competency_code": "I",
+      "answer_proposal": "B",
+      "reason": "El argumento omite que la publicidad puede atraer turistas y beneficiar a comerciantes locales; por ello no solo ganan los canales.",
+      "alert": "Beneficio posible, no rentabilidad garantizada ni prueba de que cualquier gasto publicitario sea conveniente."
+    },
+    {
+      "question": 4,
+      "page": 3,
+      "printed_page": 3,
+      "topic": "Horizonte temporal de intereses ambientales y económicos",
+      "competency_code": "I",
+      "answer_proposal": "B",
+      "reason": "Defensores destacan beneficios inmediatos; opositores consideran daños y costos futuros de recuperación. Ambos contemplan dimensiones económicas.",
+      "alert": "No adoptar como hecho que los hidrocarburos sean recursos limpios: es una afirmación atribuida a una postura. El análisis es de perspectivas."
+    },
+    {
+      "question": 5,
+      "page": 3,
+      "printed_page": 3,
+      "topic": "Dimensión social de medidas contra violencia deportiva",
+      "competency_code": "R",
+      "answer_proposal": "B",
+      "reason": "La cancha neutral se adopta como respuesta a agresiones y apoyo a protesta contra violencia; el objetivo central es social.",
+      "alert": "No se demuestra que el cambio de sede elimine efectivamente la violencia; se identifica el énfasis de la solución."
+    },
+    {
+      "question": 6,
+      "page": 3,
+      "printed_page": 3,
+      "topic": "Participación mediante representación política",
+      "competency_code": "P",
+      "answer_proposal": "D",
+      "reason": "El grupo se constituye en partido y obtiene escaños para canalizar propuestas y recursos mediante representación indirecta en el Congreso.",
+      "alert": "El caso no implica que todo liderazgo deba volverse partido ni que obtener escaños garantice resultados."
+    }
+  ]
+}

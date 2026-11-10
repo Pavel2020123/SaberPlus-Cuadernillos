@@ -1,0 +1,14 @@
+{
+ "file_id":"USB-7b48857ae6bc","date":"2026-10-29","area":"Matematicas",
+ "scope":"Preguntas 1-7: lectura completa y cotejo de paginas fisicas 1-3 a escala 1.6; sustituye el alcance solo preliminar de estas preguntas. Clasificaciones y claves propuestas, no oficiales ni revisadas por docente.",
+ "items":[
+  {"question":1,"page":1,"topic":"Promedio y limites de inferencia individual","competency_proposal":"Argumentacion","answer_proposal":"C","reason":"Un promedio nacional no implica que cada individuo supere un umbral de libros leidos."},
+  {"question":2,"page":1,"topic":"Crecimiento lineal en grafica por tramos","competency_proposal":"Interpretacion y representacion","answer_proposal":"C","reason":"Solo el tramo de cero a diez minutos es recto y creciente; el siguiente es constante."},
+  {"question":3,"page":1,"topic":"Volumen de cilindro y diametro","competency_proposal":"Formulacion y ejecucion","answer_proposal":"C","reason":"Con diametro 40 cm y altura 50 cm: pi*20^2*50=20000*pi cm3.","ocr_correction":"El OCR omite pi en las opciones; conservarlo en cualquier cotejo."},
+  {"question":4,"page":2,"topic":"Porcentajes con distintos referentes","competency_proposal":"Argumentacion","answer_proposal":"C","reason":"98 por ciento expresa preferencia; 83+12+3+2=100 distribuye frecuencias dentro del grupo correspondiente."},
+  {"question":5,"page":2,"topic":"Comparacion de eventos al lanzar dos dados","competency_proposal":"Argumentacion","answer_proposal":"D","reason":"Hay dos resultados ordenados con suma once y seis dobles entre los 36 resultados equiprobables."},
+  {"question":6,"page":2,"topic":"Composicion secuencial de funciones","competency_proposal":"Formulacion y ejecucion","answer_proposal":"C","reason":"Primero g(10)=11 y despues f(11)=22 millones.","ocr_correction":"La formula f(x)=2x se ve en la tabla aunque falta en el OCR."},
+  {"question":7,"page":3,"topic":"Integracion de tabla y grafica de barras","competency_proposal":"Interpretacion y representacion","answer_proposal":"C","reason":"Conserva sexto con 5 ganados y 7 perdidos, y septimo con 8 ganados y 4 perdidos; cotejar leyenda y no solo totales."}
+ ],
+ "next":"Las 120 preguntas academicas de este PDF ya tienen una primera lectura analitica documentada; faltan cotejo de variantes, validacion docente y resolver alertas. No declarar toda la coleccion terminada."
+}

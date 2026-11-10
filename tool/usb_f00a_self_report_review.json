@@ -1,0 +1,125 @@
+{
+  "file_id": "USB-f00a52c8b6f2",
+  "date": "2026-10-30",
+  "area": "Cuestionario socioeconómico",
+  "scope": "Física36completa inspeccionada;135-147sin clave yexcluidas de calificación según instrucciones.",
+  "items": [
+    {
+      "question": 135,
+      "page": 36,
+      "topic": "Ocupación del padre durante último año",
+      "competency_proposal": "No aplica: autoinforme socioeconómico",
+      "answer_proposal": null,
+      "reason": "Respuesta personal,sin alternativa correcta. No usar en calificación ni competencias académicas.",
+      "exclude_academic": true
+    },
+    {
+      "question": 136,
+      "page": 36,
+      "topic": "Ocupación de la madre durante último año",
+      "competency_proposal": "No aplica: autoinforme socioeconómico",
+      "answer_proposal": null,
+      "reason": "Respuesta personal,sin alternativa correcta. No usar en calificación ni competencias académicas.",
+      "exclude_academic": true
+    },
+    {
+      "question": 137,
+      "page": 36,
+      "topic": "Número de integrantes del hogar",
+      "competency_proposal": "No aplica: autoinforme socioeconómico",
+      "answer_proposal": null,
+      "reason": "Respuesta personal,sin alternativa correcta. No usar en calificación ni competencias académicas.",
+      "exclude_academic": true
+    },
+    {
+      "question": 138,
+      "page": 36,
+      "topic": "Número de cuartos para dormir",
+      "competency_proposal": "No aplica: autoinforme socioeconómico",
+      "answer_proposal": null,
+      "reason": "Respuesta personal,sin alternativa correcta. No usar en calificación ni competencias académicas.",
+      "exclude_academic": true
+    },
+    {
+      "question": 139,
+      "page": 36,
+      "topic": "Computador en el hogar",
+      "competency_proposal": "No aplica: autoinforme socioeconómico",
+      "answer_proposal": null,
+      "reason": "Respuesta personal,sin alternativa correcta. No usar en calificación ni competencias académicas.",
+      "exclude_academic": true
+    },
+    {
+      "question": 140,
+      "page": 36,
+      "topic": "Lavadora en el hogar",
+      "competency_proposal": "No aplica: autoinforme socioeconómico",
+      "answer_proposal": null,
+      "reason": "Respuesta personal,sin alternativa correcta. No usar en calificación ni competencias académicas.",
+      "exclude_academic": true
+    },
+    {
+      "question": 141,
+      "page": 36,
+      "topic": "Horno en el hogar",
+      "competency_proposal": "No aplica: autoinforme socioeconómico",
+      "answer_proposal": null,
+      "reason": "Respuesta personal,sin alternativa correcta. No usar en calificación ni competencias académicas.",
+      "exclude_academic": true
+    },
+    {
+      "question": 142,
+      "page": 36,
+      "topic": "Automóvil particular en el hogar",
+      "competency_proposal": "No aplica: autoinforme socioeconómico",
+      "answer_proposal": null,
+      "reason": "Respuesta personal,sin alternativa correcta. No usar en calificación ni competencias académicas.",
+      "exclude_academic": true
+    },
+    {
+      "question": 143,
+      "page": 36,
+      "topic": "Motocicleta en el hogar",
+      "competency_proposal": "No aplica: autoinforme socioeconómico",
+      "answer_proposal": null,
+      "reason": "Respuesta personal,sin alternativa correcta. No usar en calificación ni competencias académicas.",
+      "exclude_academic": true
+    },
+    {
+      "question": 144,
+      "page": 36,
+      "topic": "Consola de videojuegos en el hogar",
+      "competency_proposal": "No aplica: autoinforme socioeconómico",
+      "answer_proposal": null,
+      "reason": "Respuesta personal,sin alternativa correcta. No usar en calificación ni competencias académicas.",
+      "exclude_academic": true
+    },
+    {
+      "question": 145,
+      "page": 36,
+      "topic": "Horas trabajadas semana anterior",
+      "competency_proposal": "No aplica: autoinforme socioeconómico",
+      "answer_proposal": null,
+      "reason": "Respuesta personal,sin alternativa correcta. No usar en calificación ni competencias académicas.",
+      "exclude_academic": true
+    },
+    {
+      "question": 146,
+      "page": 36,
+      "topic": "Tipo de remuneración laboral",
+      "competency_proposal": "No aplica: autoinforme socioeconómico",
+      "answer_proposal": null,
+      "reason": "Respuesta personal,sin alternativa correcta. No usar en calificación ni competencias académicas.",
+      "exclude_academic": true
+    },
+    {
+      "question": 147,
+      "page": 36,
+      "topic": "Cambio de situación económica del hogar",
+      "competency_proposal": "No aplica: autoinforme socioeconómico",
+      "answer_proposal": null,
+      "reason": "Respuesta personal,sin alternativa correcta. No usar en calificación ni competencias académicas.",
+      "exclude_academic": true
+    }
+  ]
+}

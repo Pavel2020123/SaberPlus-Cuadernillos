@@ -1,0 +1,124 @@
+{
+  "file_id": "USB-a170782eadcb",
+  "date": "2026-10-30",
+  "area": "Matemáticas",
+  "scope": "Físicas4-5inspeccionadas visualmente,impresas6-9. Preguntas15-25cotejadas conABR2,40-50. Matemáticas1-25cubierta inicialmente, no validación docente. Repeticiones exactas ahora son referencias a ficha canónica, sin duplicar explicación ni competencia.",
+  "competency_legend": {
+    "IR": "Interpretación y representación",
+    "FE": "Formulación y ejecución",
+    "AR": "Argumentación"
+  },
+  "items": [],
+  "duplicate_occurrences": [
+    {
+      "question": 15,
+      "page": 4,
+      "printed_page": 6,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 40,
+      "canonical_page": 13,
+      "exact_content": true,
+      "verification": "Enunciado, opciones, datos y figura cotejados visualmente; numeración/escaneo distintos. Sin marcas de respuesta nuevas documentadas."
+    },
+    {
+      "question": 16,
+      "page": 4,
+      "printed_page": 6,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 41,
+      "canonical_page": 13,
+      "exact_content": true,
+      "verification": "Enunciado, opciones, datos y figura cotejados visualmente; numeración/escaneo distintos. Sin marcas de respuesta nuevas documentadas."
+    },
+    {
+      "question": 17,
+      "page": 4,
+      "printed_page": 6,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 42,
+      "canonical_page": 13,
+      "exact_content": true,
+      "verification": "Enunciado, opciones, datos y figura cotejados visualmente; numeración/escaneo distintos. Sin marcas de respuesta nuevas documentadas."
+    },
+    {
+      "question": 18,
+      "page": 4,
+      "printed_page": 6,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 43,
+      "canonical_page": 13,
+      "exact_content": true,
+      "verification": "Enunciado, opciones, datos y figura cotejados visualmente; numeración/escaneo distintos. Sin marcas de respuesta nuevas documentadas."
+    },
+    {
+      "question": 19,
+      "page": 4,
+      "printed_page": 7,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 44,
+      "canonical_page": 14,
+      "exact_content": true,
+      "verification": "Enunciado, opciones, datos y figura cotejados visualmente; numeración/escaneo distintos. Sin marcas de respuesta nuevas documentadas."
+    },
+    {
+      "question": 20,
+      "page": 4,
+      "printed_page": 7,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 45,
+      "canonical_page": 14,
+      "exact_content": true,
+      "verification": "Enunciado, opciones, datos y figura cotejados visualmente; numeración/escaneo distintos. Sin marcas de respuesta nuevas documentadas."
+    },
+    {
+      "question": 21,
+      "page": 4,
+      "printed_page": 7,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 46,
+      "canonical_page": 14,
+      "exact_content": true,
+      "verification": "Enunciado, opciones, datos y figura cotejados visualmente; numeración/escaneo distintos. Sin marcas de respuesta nuevas documentadas."
+    },
+    {
+      "question": 22,
+      "page": 5,
+      "printed_page": 8,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 47,
+      "canonical_page": 15,
+      "exact_content": true,
+      "verification": "Enunciado, opciones, datos y figura cotejados visualmente; numeración/escaneo distintos. Sin marcas de respuesta nuevas documentadas."
+    },
+    {
+      "question": 23,
+      "page": 5,
+      "printed_page": 8,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 48,
+      "canonical_page": 15,
+      "exact_content": true,
+      "verification": "Enunciado, opciones, datos y figura cotejados visualmente; numeración/escaneo distintos. Sin marcas de respuesta nuevas documentadas."
+    },
+    {
+      "question": 24,
+      "page": 5,
+      "printed_page": 9,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 49,
+      "canonical_page": 16,
+      "exact_content": true,
+      "verification": "Enunciado, opciones, datos y figura cotejados visualmente; numeración/escaneo distintos. Sin marcas de respuesta nuevas documentadas."
+    },
+    {
+      "question": 25,
+      "page": 5,
+      "printed_page": 9,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 50,
+      "canonical_page": 16,
+      "exact_content": true,
+      "verification": "Enunciado, opciones, datos y figura cotejados visualmente; numeración/escaneo distintos. Sin marcas de respuesta nuevas documentadas."
+    }
+  ]
+}

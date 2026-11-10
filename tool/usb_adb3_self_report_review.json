@@ -1,0 +1,152 @@
+{
+  "file_id": "USB-234fa4e3ddce",
+  "date": "2026-10-29",
+  "area": "Autoinforme socioeconomico",
+  "scope": "Preguntas87-110 paginas34-35 inspeccionadas visualmente.Sin respuestas correctas ni competencia academica.No transcribir respuestas personales.",
+  "items": [
+    {
+      "question": 87,
+      "page": 34,
+      "topic": "Nivel educativo del padre",
+      "exclude_academic": true
+    },
+    {
+      "question": 88,
+      "page": 34,
+      "topic": "Nivel educativo de madre",
+      "exclude_academic": true
+    },
+    {
+      "question": 89,
+      "page": 34,
+      "topic": "Estrato de vivienda",
+      "exclude_academic": true
+    },
+    {
+      "question": 90,
+      "page": 34,
+      "topic": "Conexion a internet",
+      "exclude_academic": true
+    },
+    {
+      "question": 91,
+      "page": 34,
+      "topic": "Television cerrada",
+      "exclude_academic": true
+    },
+    {
+      "question": 92,
+      "page": 34,
+      "topic": "Cantidad de libros en hogar",
+      "exclude_academic": true
+    },
+    {
+      "question": 93,
+      "page": 34,
+      "topic": "Tiempo de lectura por entretenimiento",
+      "exclude_academic": true
+    },
+    {
+      "question": 94,
+      "page": 34,
+      "topic": "Tiempo de internet no academico",
+      "exclude_academic": true
+    },
+    {
+      "question": 95,
+      "page": 34,
+      "topic": "Frecuencia consumo de lacteos",
+      "exclude_academic": true
+    },
+    {
+      "question": 96,
+      "page": 34,
+      "topic": "Frecuencia consumo carne,pescado,huevos",
+      "exclude_academic": true
+    },
+    {
+      "question": 97,
+      "page": 35,
+      "topic": "Frecuencia consumo cereales,frutos secos,legumbres",
+      "exclude_academic": true
+    },
+    {
+      "question": 98,
+      "page": 35,
+      "topic": "Ocupacion del padre",
+      "exclude_academic": true
+    },
+    {
+      "question": 99,
+      "page": 35,
+      "topic": "Ocupacion de madre",
+      "exclude_academic": true
+    },
+    {
+      "question": 100,
+      "page": 35,
+      "topic": "Integrantes de hogar",
+      "exclude_academic": true
+    },
+    {
+      "question": 101,
+      "page": 35,
+      "topic": "Cuartos para dormir",
+      "exclude_academic": true
+    },
+    {
+      "question": 102,
+      "page": 35,
+      "topic": "Computador",
+      "exclude_academic": true
+    },
+    {
+      "question": 103,
+      "page": 35,
+      "topic": "Lavadora",
+      "exclude_academic": true
+    },
+    {
+      "question": 104,
+      "page": 35,
+      "topic": "Horno",
+      "exclude_academic": true
+    },
+    {
+      "question": 105,
+      "page": 35,
+      "topic": "Automovil",
+      "exclude_academic": true
+    },
+    {
+      "question": 106,
+      "page": 35,
+      "topic": "Moto",
+      "exclude_academic": true
+    },
+    {
+      "question": 107,
+      "page": 35,
+      "topic": "Consola de juegos",
+      "exclude_academic": true
+    },
+    {
+      "question": 108,
+      "page": 35,
+      "topic": "Horas trabajadas ultima semana",
+      "exclude_academic": true
+    },
+    {
+      "question": 109,
+      "page": 35,
+      "topic": "Remuneracion laboral",
+      "exclude_academic": true
+    },
+    {
+      "question": 110,
+      "page": 35,
+      "topic": "Cambio economico percibido",
+      "exclude_academic": true
+    }
+  ]
+}

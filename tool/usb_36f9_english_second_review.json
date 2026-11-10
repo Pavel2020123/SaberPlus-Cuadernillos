@@ -1,0 +1,104 @@
+{
+  "file_id": "USB-36f91aeae115",
+  "date": "2026-10-30",
+  "area": "Inglés",
+  "scope": "Física18 impresa34,Parte4.A Dancing,97-104inspeccionada completa. Parte4.Bimpresa35tiene cambio de dato21%→24%respectoAAK2;pendiente registrar variante,sin consolidar.",
+  "contexts": [
+    {
+      "id": "dancing",
+      "page": 18,
+      "title": "Dancing",
+      "description": "Práctica individual,en pareja ogrupo,lugares,frecuencia,participación,clima,equipo yelección de clases. Ejemplo yourself excluido."
+    }
+  ],
+  "items": [
+    {
+      "question": 97,
+      "page": 18,
+      "printed_page": 34,
+      "topic": "Gramática ycohesión en texto con espacios",
+      "competency_proposal": "Competencia comunicativa: conocimiento gramatical ytextual",
+      "answer_proposal": "C",
+      "selected_option": "where",
+      "reason": "Places where you can enjoy dancing: relativo de lugar.",
+      "context": "dancing"
+    },
+    {
+      "question": 98,
+      "page": 18,
+      "printed_page": 34,
+      "topic": "Gramática ycohesión en texto con espacios",
+      "competency_proposal": "Competencia comunicativa: conocimiento gramatical ytextual",
+      "answer_proposal": "B",
+      "selected_option": "become",
+      "reason": "Has become requiere participio pasado.",
+      "context": "dancing"
+    },
+    {
+      "question": 99,
+      "page": 18,
+      "printed_page": 34,
+      "topic": "Gramática ycohesión en texto con espacios",
+      "competency_proposal": "Competencia comunicativa: conocimiento gramatical ytextual",
+      "answer_proposal": "B",
+      "selected_option": "often",
+      "reason": "More often than indica mayor frecuencia.",
+      "context": "dancing"
+    },
+    {
+      "question": 100,
+      "page": 18,
+      "printed_page": 34,
+      "topic": "Gramática ycohesión en texto con espacios",
+      "competency_proposal": "Competencia comunicativa: conocimiento gramatical ytextual",
+      "answer_proposal": "A",
+      "selected_option": "done",
+      "reason": "Dancing is done: pasiva.",
+      "context": "dancing"
+    },
+    {
+      "question": 101,
+      "page": 18,
+      "printed_page": 34,
+      "topic": "Gramática ycohesión en texto con espacios",
+      "competency_proposal": "Competencia comunicativa: conocimiento gramatical ytextual",
+      "answer_proposal": "C",
+      "selected_option": "everyone",
+      "reason": "Everyone can take part expresa inclusión general.",
+      "context": "dancing"
+    },
+    {
+      "question": 102,
+      "page": 18,
+      "printed_page": 34,
+      "topic": "Gramática ycohesión en texto con espacios",
+      "competency_proposal": "Competencia comunicativa: conocimiento gramatical ytextual",
+      "answer_proposal": "C",
+      "selected_option": "if",
+      "reason": "It does not matter if introduce condición climática.",
+      "context": "dancing"
+    },
+    {
+      "question": 103,
+      "page": 18,
+      "printed_page": 34,
+      "topic": "Gramática ycohesión en texto con espacios",
+      "competency_proposal": "Competencia comunicativa: conocimiento gramatical ytextual",
+      "answer_proposal": "A",
+      "selected_option": "such",
+      "reason": "Such as introduce ejemplo: special shoes.",
+      "context": "dancing"
+    },
+    {
+      "question": 104,
+      "page": 18,
+      "printed_page": 34,
+      "topic": "Gramática ycohesión en texto con espacios",
+      "competency_proposal": "Competencia comunicativa: conocimiento gramatical ytextual",
+      "answer_proposal": "B",
+      "selected_option": "might",
+      "reason": "A type you might enjoy expresa posibilidad o preferencia.",
+      "context": "dancing"
+    }
+  ]
+}

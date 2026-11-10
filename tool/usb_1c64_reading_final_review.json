@@ -1,0 +1,109 @@
+{
+  "file_id": "USB-1c6462bf5377",
+  "date": "2026-10-30",
+  "area": "Lectura crítica",
+  "scope": "Físicas24-27 impresas22-25 inspeccionadas visualmente completas y reorientadas.58-66nueve coincidencias exactas conAAA1preguntas31-39,físicas6-8:lecturas completas,infografía,cifras,notas,enunciados y opciones cotejados. Solo referencias,no repetir análisis. Lectura crítica26-66 inicialmente cubierta.",
+  "items": [],
+  "duplicate_occurrences": [
+    {
+      "question": 58,
+      "page": 24,
+      "printed_page": 22,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 31,
+      "canonical_page": 6,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de lectura completa y opciones correspondientes.58-59Talbot,60-61Leibniz,62-66infografíaCODHES2021. Figuras y cifras iguales,salvo numeración,maquetación y código. Se conservan reservas canónicas,incluida composición anual frente incremento en66.",
+      "observed_annotation": "No se observa opción seleccionada enAAR1;hay pequeñas marcas amarillas marginales en algunas páginas,sin atribución inequívoca de clave."
+    },
+    {
+      "question": 59,
+      "page": 24,
+      "printed_page": 22,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 32,
+      "canonical_page": 6,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de lectura completa y opciones correspondientes.58-59Talbot,60-61Leibniz,62-66infografíaCODHES2021. Figuras y cifras iguales,salvo numeración,maquetación y código. Se conservan reservas canónicas,incluida composición anual frente incremento en66.",
+      "observed_annotation": "No se observa opción seleccionada enAAR1;hay pequeñas marcas amarillas marginales en algunas páginas,sin atribución inequívoca de clave."
+    },
+    {
+      "question": 60,
+      "page": 25,
+      "printed_page": 23,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 33,
+      "canonical_page": 7,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de lectura completa y opciones correspondientes.58-59Talbot,60-61Leibniz,62-66infografíaCODHES2021. Figuras y cifras iguales,salvo numeración,maquetación y código. Se conservan reservas canónicas,incluida composición anual frente incremento en66.",
+      "observed_annotation": "No se observa opción seleccionada enAAR1;hay pequeñas marcas amarillas marginales en algunas páginas,sin atribución inequívoca de clave."
+    },
+    {
+      "question": 61,
+      "page": 25,
+      "printed_page": 23,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 34,
+      "canonical_page": 7,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de lectura completa y opciones correspondientes.58-59Talbot,60-61Leibniz,62-66infografíaCODHES2021. Figuras y cifras iguales,salvo numeración,maquetación y código. Se conservan reservas canónicas,incluida composición anual frente incremento en66.",
+      "observed_annotation": "No se observa opción seleccionada enAAR1;hay pequeñas marcas amarillas marginales en algunas páginas,sin atribución inequívoca de clave."
+    },
+    {
+      "question": 62,
+      "page": 26,
+      "printed_page": 24,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 35,
+      "canonical_page": 7,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de lectura completa y opciones correspondientes.58-59Talbot,60-61Leibniz,62-66infografíaCODHES2021. Figuras y cifras iguales,salvo numeración,maquetación y código. Se conservan reservas canónicas,incluida composición anual frente incremento en66.",
+      "observed_annotation": "No se observa opción seleccionada enAAR1;hay pequeñas marcas amarillas marginales en algunas páginas,sin atribución inequívoca de clave."
+    },
+    {
+      "question": 63,
+      "page": 27,
+      "printed_page": 25,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 36,
+      "canonical_page": 8,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de lectura completa y opciones correspondientes.58-59Talbot,60-61Leibniz,62-66infografíaCODHES2021. Figuras y cifras iguales,salvo numeración,maquetación y código. Se conservan reservas canónicas,incluida composición anual frente incremento en66.",
+      "observed_annotation": "No se observa opción seleccionada enAAR1;hay pequeñas marcas amarillas marginales en algunas páginas,sin atribución inequívoca de clave."
+    },
+    {
+      "question": 64,
+      "page": 27,
+      "printed_page": 25,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 37,
+      "canonical_page": 8,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de lectura completa y opciones correspondientes.58-59Talbot,60-61Leibniz,62-66infografíaCODHES2021. Figuras y cifras iguales,salvo numeración,maquetación y código. Se conservan reservas canónicas,incluida composición anual frente incremento en66.",
+      "observed_annotation": "No se observa opción seleccionada enAAR1;hay pequeñas marcas amarillas marginales en algunas páginas,sin atribución inequívoca de clave."
+    },
+    {
+      "question": 65,
+      "page": 27,
+      "printed_page": 25,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 38,
+      "canonical_page": 8,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de lectura completa y opciones correspondientes.58-59Talbot,60-61Leibniz,62-66infografíaCODHES2021. Figuras y cifras iguales,salvo numeración,maquetación y código. Se conservan reservas canónicas,incluida composición anual frente incremento en66.",
+      "observed_annotation": "No se observa opción seleccionada enAAR1;hay pequeñas marcas amarillas marginales en algunas páginas,sin atribución inequívoca de clave."
+    },
+    {
+      "question": 66,
+      "page": 27,
+      "printed_page": 25,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 39,
+      "canonical_page": 8,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de lectura completa y opciones correspondientes.58-59Talbot,60-61Leibniz,62-66infografíaCODHES2021. Figuras y cifras iguales,salvo numeración,maquetación y código. Se conservan reservas canónicas,incluida composición anual frente incremento en66.",
+      "observed_annotation": "No se observa opción seleccionada enAAR1;hay pequeñas marcas amarillas marginales en algunas páginas,sin atribución inequívoca de clave."
+    }
+  ],
+  "next": "Física28,verificar inicio deSociales67en adelante."
+}

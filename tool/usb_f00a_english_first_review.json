@@ -1,0 +1,201 @@
+{
+  "file_id": "USB-f00a52c8b6f2",
+  "date": "2026-10-30",
+  "area": "Inglés",
+  "scope": "Preguntas80-96,físicas28-30inspeccionadas visualmente. Banco cotejado contraTatacoa,física24; no trasladar claves por número. Sin marcas inequívocas de respuestas en estos ítems.",
+  "contexts": [
+    {
+      "id": "objects",
+      "page": 28,
+      "title": "Object Uses",
+      "description": "BancoAboat,Bcamera,Cdraw,Dguitar,Elaptop,Fmovie,Gmusic;ejemploHswim. Comparado conTatacoa: D/E/Freordenados."
+    },
+    {
+      "id": "signs",
+      "page": 29,
+      "title": "Parte2: siete avisos",
+      "description": "85-91,opcionesA-C; conservar siete avisos, no reducir automáticamente a cinco."
+    },
+    {
+      "id": "talk",
+      "page": 30,
+      "title": "Parte3: cinco conversaciones",
+      "description": "92-96,réplicasA-C; ejemploNot bad."
+    }
+  ],
+  "items": [
+    {
+      "question": 80,
+      "page": 28,
+      "context": "objects",
+      "topic": "Instrumento para tocar una canción",
+      "competency_proposal": "Competencia comunicativa: reconocimiento léxico en descripciones",
+      "answer_proposal": "D",
+      "reason": "Guitar es el instrumento descrito.",
+      "related_file_id": "USB-1bc205e23b46",
+      "related_question": 80,
+      "related_page": 24,
+      "alert": "Misma descripción cotejada visualmente; banco reordenado ymarcas del otro archivo distintas. ABR2:80D81E82B83C84F;Tatacoa:80E81F82B83C84D. No identidad de versión ni clave intercambiable."
+    },
+    {
+      "question": 81,
+      "page": 28,
+      "context": "objects",
+      "topic": "Dispositivo para Internet",
+      "competency_proposal": "Competencia comunicativa: reconocimiento léxico en descripciones",
+      "answer_proposal": "E",
+      "reason": "Laptop corresponde al dispositivo del banco para usar Internet.",
+      "related_file_id": "USB-1bc205e23b46",
+      "related_question": 81,
+      "related_page": 24,
+      "alert": "Misma descripción cotejada visualmente; banco reordenado ymarcas del otro archivo distintas. ABR2:80D81E82B83C84F;Tatacoa:80E81F82B83C84D. No identidad de versión ni clave intercambiable."
+    },
+    {
+      "question": 82,
+      "page": 28,
+      "context": "objects",
+      "topic": "Objeto para tomar fotos",
+      "competency_proposal": "Competencia comunicativa: reconocimiento léxico en descripciones",
+      "answer_proposal": "B",
+      "reason": "Camera es el objeto descrito.",
+      "related_file_id": "USB-1bc205e23b46",
+      "related_question": 82,
+      "related_page": 24,
+      "alert": "Misma descripción cotejada visualmente; banco reordenado ymarcas del otro archivo distintas. ABR2:80D81E82B83C84F;Tatacoa:80E81F82B83C84D. No identidad de versión ni clave intercambiable."
+    },
+    {
+      "question": 83,
+      "page": 28,
+      "context": "objects",
+      "topic": "Acción con lápices y papel",
+      "competency_proposal": "Competencia comunicativa: reconocimiento léxico en descripciones",
+      "answer_proposal": "C",
+      "reason": "Draw es la acción de dibujar con esos materiales.",
+      "related_file_id": "USB-1bc205e23b46",
+      "related_question": 83,
+      "related_page": 24,
+      "alert": "Misma descripción cotejada visualmente; banco reordenado ymarcas del otro archivo distintas. ABR2:80D81E82B83C84F;Tatacoa:80E81F82B83C84D. No identidad de versión ni clave intercambiable."
+    },
+    {
+      "question": 84,
+      "page": 28,
+      "context": "objects",
+      "topic": "Entretenimiento con entrada",
+      "competency_proposal": "Competencia comunicativa: reconocimiento léxico en descripciones",
+      "answer_proposal": "F",
+      "reason": "Movie es lo que se ve comprando un boleto.",
+      "related_file_id": "USB-1bc205e23b46",
+      "related_question": 84,
+      "related_page": 24,
+      "alert": "Misma descripción cotejada visualmente; banco reordenado ymarcas del otro archivo distintas. ABR2:80D81E82B83C84F;Tatacoa:80E81F82B83C84D. No identidad de versión ni clave intercambiable."
+    },
+    {
+      "question": 85,
+      "page": 29,
+      "context": "signs",
+      "topic": "Ubicación de promoción de bebidas",
+      "competency_proposal": "Competencia comunicativa: interpretación pragmática de avisos",
+      "answer_proposal": "A",
+      "reason": "Fruit and green drinks se ofrece en una tienda de jugos."
+    },
+    {
+      "question": 86,
+      "page": 29,
+      "context": "signs",
+      "topic": "Lugar para mascotas",
+      "competency_proposal": "Competencia comunicativa: interpretación pragmática de avisos",
+      "answer_proposal": "C",
+      "reason": "Small pets can play here corresponde a parque para perros entre las alternativas."
+    },
+    {
+      "question": 87,
+      "page": 29,
+      "context": "signs",
+      "topic": "Horarios de comidas",
+      "competency_proposal": "Competencia comunicativa: interpretación pragmática de avisos",
+      "answer_proposal": "B",
+      "reason": "Almuerzo y cena con horario extendido se vinculan a hotel."
+    },
+    {
+      "question": 88,
+      "page": 29,
+      "context": "signs",
+      "topic": "Solicitud de silencio",
+      "competency_proposal": "Competencia comunicativa: interpretación pragmática de avisos",
+      "answer_proposal": "A",
+      "reason": "Biblioteca es el lugar pertinente para Silence,please."
+    },
+    {
+      "question": 89,
+      "page": 29,
+      "context": "signs",
+      "topic": "Soporte de anuncio de espectáculo",
+      "competency_proposal": "Competencia comunicativa: interpretación pragmática de avisos",
+      "answer_proposal": "A",
+      "reason": "Horarios,título yprecio de entradas corresponden a cartel."
+    },
+    {
+      "question": 90,
+      "page": 29,
+      "context": "signs",
+      "topic": "Identificación de directora",
+      "competency_proposal": "Competencia comunicativa: interpretación pragmática de avisos",
+      "answer_proposal": "C",
+      "reason": "Nombre ycargo escolar corresponden a puerta de oficina."
+    },
+    {
+      "question": 91,
+      "page": 29,
+      "context": "signs",
+      "topic": "Advertencia sobre alimentación de animales",
+      "competency_proposal": "Competencia comunicativa: interpretación pragmática de avisos",
+      "answer_proposal": "C",
+      "reason": "No alimentar monos es aviso de zoológico entre opciones."
+    },
+    {
+      "question": 92,
+      "page": 30,
+      "context": "talk",
+      "topic": "Respuesta a invitación a bailar",
+      "competency_proposal": "Competencia comunicativa: adecuación pragmática de réplicas",
+      "answer_proposal": "C",
+      "reason": "I'm tired expresa motivo pertinente para rechazar la invitación."
+    },
+    {
+      "question": 93,
+      "page": 30,
+      "context": "talk",
+      "topic": "Aceptación de propuesta",
+      "competency_proposal": "Competencia comunicativa: adecuación pragmática de réplicas",
+      "answer_proposal": "C",
+      "reason": "It's the best idea acepta sugerencia de salir de paseo."
+    },
+    {
+      "question": 94,
+      "page": 30,
+      "context": "talk",
+      "topic": "Respuesta pertinente a hambre",
+      "competency_proposal": "Competencia comunicativa: adecuación pragmática de réplicas",
+      "answer_proposal": "B",
+      "reason": "The café is downstairs ofrece un lugar para comer."
+    },
+    {
+      "question": 95,
+      "page": 30,
+      "context": "talk",
+      "topic": "Respuesta sobre edad",
+      "competency_proposal": "Competencia comunicativa: adecuación pragmática de réplicas",
+      "answer_proposal": "B",
+      "reason": "I'm24responde aHow old are you,no estado personal ni número telefónico."
+    },
+    {
+      "question": 96,
+      "page": 30,
+      "context": "talk",
+      "topic": "Valoración de horario de cita",
+      "competency_proposal": "Competencia comunicativa: adecuación pragmática de réplicas",
+      "answer_proposal": "A",
+      "reason": "It's a bit early responde que6a.m.es algo temprano."
+    }
+  ]
+}

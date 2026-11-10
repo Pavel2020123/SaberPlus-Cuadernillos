@@ -1,0 +1,18 @@
+{
+  "file_id": "USB-e58ef5771b78",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Física9impresa17inspeccionada completa con tabla de estructuras ypuntos deebullición;pregunta51.",
+  "items": [
+    {
+      "question": 51,
+      "page": 9,
+      "printed_page": 17,
+      "topic": "Relación entre grupos hidroxilo e interacciones intermoleculares",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "C",
+      "reason": "Con tres carbonos por molécula,la tabla muestra mayores puntos deebullición en compuestos con másOH:glicerol3OH290°C,propilenglicol2OH188,2°C,2-propanol1OH83°C,frente acompuestos sinOHcon valores menores. Los datos respaldan hipótesis planteada.",
+      "alert": "Es evidencia comparativa,no prueba de que cantidadOHsea único determinante. Estructura,polaridad yotras interacciones también varían;misma cantidad deOHno garantiza mismo punto. No universalizar monotonía atodos los compuestos."
+    }
+  ]
+}

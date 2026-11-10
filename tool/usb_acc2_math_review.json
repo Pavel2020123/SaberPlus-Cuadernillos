@@ -1,0 +1,307 @@
+{
+  "file_id": "USB-709bc037689b",
+  "date": "2026-10-29",
+  "area": "Matematicas",
+  "scope": "Preguntas26-50,paginas fisicas11-19 inspeccionadas visualmente en figuras,formulas,tablas y alternativas.Propuestas no oficiales,pendientes de revision docente.Sin respuestas resaltadas observadas.",
+  "competency_legend": {
+    "IR": "Interpretacion y representacion",
+    "FE": "Formulacion y ejecucion",
+    "AR": "Argumentacion"
+  },
+  "items": [
+    {
+      "question": 26,
+      "page": 11,
+      "topic": "Coordenadas ordenadas y casillas de barcos",
+      "competency_proposal": "Interpretacion y representacion",
+      "answer_proposal": "D",
+      "reason": "Numeros representan eje x y letras eje y; cada casilla se expresa como pareja(numero,letra),conservando longitudes2,3,4 y5."
+    },
+    {
+      "question": 27,
+      "page": 12,
+      "topic": "Porcentajes sucesivos en reparto de comision",
+      "competency_proposal": "Argumentacion",
+      "answer_proposal": "A",
+      "reason": "Comision total6 millones;Lucy recibe70 por ciento=4,2 millones,yEliana30 por ciento de ese resultado=1,26 millones,menor que Lucy.",
+      "alert": "El procedimiento no reparte toda la comision:asigna70 y21 por ciento,dejando9 por ciento.No sustituir el paso3 por30 por ciento del total."
+    },
+    {
+      "question": 28,
+      "page": 12,
+      "topic": "Promedios por grupos y ponderacion de pruebas",
+      "competency_proposal": "Formulacion y ejecucion",
+      "answer_proposal": "C",
+      "reason": "Cada una de las dos pruebas de conocimientos pesa30 por ciento,por lo que juntas pesan60;psicotecnicas20 e entrevista20.El promedio psicotecnico y el de entrevista se suman y multiplican por0,2;oral+escrita por0,3.Resultado aproximado69,93.",
+      "alert": "Leer cada prueba de conocimientos, no asignar30 por ciento a todo el bloque:esa lectura daria un esquema de pesos distinto."
+    },
+    {
+      "question": 29,
+      "page": 13,
+      "topic": "Porcentajes con distintos referentes",
+      "competency_proposal": "Argumentacion",
+      "answer_proposal": "C",
+      "reason": "98 por ciento expresa preferencia; 83+12+3+2=100 distribuye frecuencias dentro del grupo correspondiente.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 4,
+      "related_page": 2
+    },
+    {
+      "question": 30,
+      "page": 13,
+      "topic": "Comparacion de eventos al lanzar dos dados",
+      "competency_proposal": "Argumentacion",
+      "answer_proposal": "D",
+      "reason": "Hay dos resultados ordenados con suma once y seis dobles entre los 36 resultados equiprobables.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 5,
+      "related_page": 2
+    },
+    {
+      "question": 31,
+      "page": 13,
+      "topic": "Composicion secuencial de funciones",
+      "competency_proposal": "Formulacion y ejecucion",
+      "answer_proposal": "C",
+      "reason": "Primero g(10)=11 y despues f(11)=22 millones.",
+      "ocr_correction": "La formula f(x)=2x se ve en la tabla aunque falta en el OCR.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 6,
+      "related_page": 2
+    },
+    {
+      "question": 32,
+      "page": 14,
+      "topic": "Integracion de tabla y grafica de barras",
+      "competency_proposal": "Interpretacion y representacion",
+      "answer_proposal": "C",
+      "reason": "Conserva sexto con 5 ganados y 7 perdidos, y septimo con 8 ganados y 4 perdidos; cotejar leyenda y no solo totales.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 7,
+      "related_page": 3
+    },
+    {
+      "question": 33,
+      "page": 15,
+      "topic": "Conversion de masa y coherencia de unidades",
+      "competency_proposal": "Argumentacion",
+      "evidence": "Detectar que no se pueden sumar directamente kilogramos y toneladas",
+      "answer_proposal": "C",
+      "reason": "Se requiere convertir a una unidad comun: 1700 kg o 1.7 t.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 8,
+      "related_page": 4
+    },
+    {
+      "question": 34,
+      "page": 15,
+      "topic": "Crecimiento exponencial y probabilidad",
+      "competency_proposal": "Formulacion y ejecucion",
+      "evidence": "Proyectar el total y obtener una proporcion por complemento",
+      "answer_proposal": "C",
+      "reason": "El total pasa de 400 a 800; 280 machos implican 520 hembras: 520/800=0.65.",
+      "visual_dependency": "Grafica apilada con total del tercer mes",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 9,
+      "related_page": 4
+    },
+    {
+      "question": 35,
+      "page": 15,
+      "topic": "Porcentaje de salario y ahorro acumulado",
+      "competency_proposal": "Formulacion y ejecucion",
+      "evidence": "Aplicar 3 por ciento y acumular diez meses",
+      "answer_proposal": "B",
+      "reason": "900000*0.03*10=270000.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 10,
+      "related_page": 4
+    },
+    {
+      "question": 36,
+      "page": 15,
+      "topic": "Conteo con repeticion y potenciacion",
+      "competency_proposal": "Formulacion y ejecucion",
+      "evidence": "Ejecutar el procedimiento de cuatro posiciones y cinco digitos",
+      "answer_proposal": "C",
+      "reason": "5 elevado a 4 = 625; la repeticion esta permitida.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 11,
+      "related_page": 4
+    },
+    {
+      "question": 37,
+      "page": 16,
+      "topic": "Correlacion positiva en diagramas de dispersion",
+      "competency_proposal": "Interpretacion y representacion",
+      "evidence": "Relacionar una descripcion de asociacion positiva con un diagrama",
+      "answer_proposal": "D",
+      "reason": "Representa tendencia creciente; asociacion no implica causalidad.",
+      "visual_dependency": "Cuatro diagramas de dispersion",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 12,
+      "related_page": 5
+    },
+    {
+      "question": 38,
+      "page": 16,
+      "topic": "Area de region en L por diferencia de rectangulos",
+      "competency_proposal": "Formulacion y ejecucion",
+      "evidence": "Reconocer la porcion en L y restar el rectangulo interior",
+      "answer_proposal": "A",
+      "reason": "El cuarto superior derecho mide 30 por 10 cm y el trozo interior 5 ocupa 15 por 5 cm: 300-75=225 cm2.",
+      "alert": "Ficha corregida el 2026-10-29 tras ampliar y cotejar graficos de este PDF y ABV1: la propuesta anterior B=150 trataba erroneamente la region como un rectangulo y omitia su franja superior. La correccion sigue pendiente de docente.",
+      "correction_history": [
+        {
+          "date": "2026-10-29",
+          "previous_answer_proposal": "B",
+          "previous_reason": "El trozo 1 mide (30-15) por (10) cm: 150 cm2.",
+          "new_answer_proposal": "A",
+          "evidence": "Detalle visual de pagina fisica 5, y variante ABV1 pagina 6: contorno en L"
+        }
+      ],
+      "visual_dependency": "Cortes discontinuos y cotas: la region 1 rodea superiormente el trozo 5; no basta el OCR",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 13,
+      "related_page": 5
+    },
+    {
+      "question": 39,
+      "page": 16,
+      "topic": "Multiplicacion de cantidades y transformacion tabular",
+      "competency_proposal": "Formulacion y ejecucion",
+      "evidence": "Obtener totales monetarios por categoria",
+      "answer_proposal": "B",
+      "reason": "Totales por categoria: 50, 125 y 100 millones.",
+      "classification_note": "Tambien exige interpretar tablas; se propone ejecucion porque debe calcular productos.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 14,
+      "related_page": 5
+    },
+    {
+      "question": 40,
+      "page": 17,
+      "topic": "Volumen de prisma rectangular y mitad de capacidad",
+      "competency_code": "FE",
+      "answer_proposal": "B",
+      "reason": "Se determina la capacidad total para tomar su mitad; reducir todas las dimensiones a la mitad produciria un octavo del volumen.",
+      "alert": "El area de base tambien puede ser un paso previo valido al volumen; B es la magnitud directamente necesaria, pero el termino primero admite discusion de secuencia.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 29,
+      "related_page": 12
+    },
+    {
+      "question": 41,
+      "page": 17,
+      "topic": "Semejanza y escala de maqueta",
+      "competency_code": "AR",
+      "answer_proposal": "C",
+      "reason": "r, s, x y z mantienen 2 cm por metro; t deberia medir 24 cm, no 12 cm.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 30,
+      "related_page": 12
+    },
+    {
+      "question": 42,
+      "page": 17,
+      "topic": "Punto medio y distancia cartesiana",
+      "competency_code": "FE",
+      "answer_proposal": "A",
+      "reason": "Punto medio hospital-alcaldia: (250,250). Respecto al colegio (500,1000), las diferencias absolutas son 250 y 750.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 31,
+      "related_page": 12
+    },
+    {
+      "question": 43,
+      "page": 18,
+      "topic": "Resta de decimales en temperatura",
+      "competency_code": "FE",
+      "answer_proposal": "B",
+      "reason": "12,7 - 0,3 = 12,4 grados Celsius.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 32,
+      "related_page": 13
+    },
+    {
+      "question": 44,
+      "page": 18,
+      "topic": "Comparacion de tendencias en dispersion",
+      "competency_code": "IR",
+      "answer_proposal": "B",
+      "reason": "Los puntos de Monica crecen linealmente; Julio presenta una caida y no aumenta siempre.",
+      "alert": "La afirmacion se limita al registro de la grafica, no a una ley fisiologica continua.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 33,
+      "related_page": 13
+    },
+    {
+      "question": 45,
+      "page": 18,
+      "topic": "Lectura de funcion lineal altura-tiempo",
+      "competency_code": "IR",
+      "answer_proposal": "B",
+      "reason": "La recta de (0,14) a (28,0) tiene altura 8 metros cuando t=12.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 34,
+      "related_page": 13
+    },
+    {
+      "question": 46,
+      "page": 18,
+      "topic": "Evaluacion de procedimiento para nota minima",
+      "competency_code": "AR",
+      "answer_proposal": "D",
+      "reason": "Solo queda una evaluacion desconocida; dividir la suma conocida entre uno no cambia el resultado. La nota necesaria es 210-130=80.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 35,
+      "related_page": 13
+    },
+    {
+      "question": 47,
+      "page": 19,
+      "topic": "Contraejemplo a modelo cuadratico",
+      "competency_code": "AR",
+      "answer_proposal": "C",
+      "reason": "Para x=60, x2/4=900, distinto de las 800 aves de la tabla.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 36,
+      "related_page": 14
+    },
+    {
+      "question": 48,
+      "page": 19,
+      "topic": "Expresion algebraica de precio con impuesto y descuento",
+      "competency_code": "IR",
+      "answer_proposal": "D",
+      "reason": "Precio final = precio sin impuesto + impuesto - descuento; por ejemplo 40000+6000-9000=37000.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 37,
+      "related_page": 14
+    },
+    {
+      "question": 49,
+      "page": 19,
+      "topic": "Promedios sucesivos y bonificacion",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "Promedios sucesivos: (8+12)/2=10; (10+4)/2=7; (7+11)/2=9; 9 por 10000 = 90000.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 38,
+      "related_page": 14
+    },
+    {
+      "question": 50,
+      "page": 19,
+      "topic": "Mediana de cuatro datos",
+      "competency_code": "FE",
+      "answer_proposal": "B",
+      "reason": "Los valores ordenados son 14,12,6,2; la mediana es (12+6)/2=9, entero positivo.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 39,
+      "related_page": 14
+    }
+  ],
+  "comparison_scope": "22 pares:29-39 con4-14 del primer PDF,y40-50 con29-39 deABU2.Cotejo visual de datos y opciones;no identidad del archivo.Pregunta38 preserva correccion de region en L:225 cm2,A.",
+  "next": "Ciencias51-79 desde pagina20;resto del documento pendiente."
+}

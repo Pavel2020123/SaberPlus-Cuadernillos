@@ -1,0 +1,198 @@
+{
+  "file_id": "USB-d4e43db6988a",
+  "date": "2026-10-30",
+  "area": "Sociales y ciudadanas",
+  "scope": "Preguntas70-83en físicas25-28 inspeccionadas visualmente con contextos y opciones.Propuestas no oficiales.Marcas de colores separadas y76sin clave.",
+  "competency_legend": {
+    "PS": "Pensamiento social",
+    "IP": "Interpretación y análisis de perspectivas",
+    "RS": "Pensamiento reflexivo y sistémico"
+  },
+  "items": [
+    {
+      "question": 70,
+      "page": 25,
+      "topic": "Dimensiones de conflicto por represa",
+      "competency_code": "RS",
+      "answer_proposal": "D",
+      "reason": "Ingresos,empleo y electricidad pertenecen a dimensión económica;intervención de río y pérdida de biodiversidad a ambiental.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "letra rodeada en azul",
+        "provenance": "Marca presente en escaneo,autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 71,
+      "page": 25,
+      "topic": "Secuencia temporal de respuestas políticas",
+      "competency_code": "IP",
+      "answer_proposal": "D",
+      "reason": "Llamado a calma y unidad responde inmediatamente a atentados;leyes y medidas de seguridad reflejan acciones posteriores.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "resaltado amarillo sobre opción",
+        "provenance": "Marca presente en escaneo,autoría y carácter oficial no comprobados."
+      },
+      "alert": "Se infiere orden relativo del contenido, no se verifican fechas históricas fuera de fuentes impresas."
+    },
+    {
+      "question": 72,
+      "page": 25,
+      "topic": "Intereses enfrentados en erradicación",
+      "competency_code": "IP",
+      "answer_proposal": "D",
+      "reason": "La fuerza pública busca eliminar cultivos,GAOlos promueven para financiar actividades;intereses directamente opuestos.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "resaltado amarillo sobre opción",
+        "provenance": "Marca presente en escaneo,autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 73,
+      "page": 26,
+      "topic": "Control de uso clientelista del poder",
+      "competency_code": "PS",
+      "answer_proposal": "C",
+      "reason": "Intercambiar privilegios por votos exige controles para impedir que gobernantes aprovechen posición pública en beneficio electoral.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "resaltado amarillo sobre opción",
+        "provenance": "Marca presente en escaneo,autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 74,
+      "page": 26,
+      "topic": "Adaptación normativa a transformaciones sociales",
+      "competency_code": "PS",
+      "answer_proposal": "C",
+      "reason": "El texto presenta cambios legales de familia y matrimonio para atender formas sociales existentes, no para otorgar preferencia a una orientación.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "resaltado amarillo sobre opción",
+        "provenance": "Marca presente en escaneo,autoría y carácter oficial no comprobados."
+      },
+      "alert": "Se analiza explicación del material histórico, no se verifica legislación vigente ni se formula asesoría legal."
+    },
+    {
+      "question": 75,
+      "page": 26,
+      "topic": "Regulación para compatibilizar derechos",
+      "competency_code": "RS",
+      "answer_proposal": "B",
+      "reason": "Regular minería busca proteger salud y ambiente de pobladores sin negar derecho de mineros a trabajar.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "resaltado amarillo sobre opción",
+        "provenance": "Marca presente en escaneo,autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 76,
+      "page": 26,
+      "topic": "Ubicación temporal de fuente política",
+      "competency_code": "PS",
+      "answer_proposal": null,
+      "reason": "ElManifiestoComunistacorresponde al sigloXIX,peroAmezcla esa datación con una explicación sobre injusticias en América que no sostiene el fragmento;otras opciones dan cronología incorrecta.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "resaltado amarillo sobre opción",
+        "provenance": "Marca presente en escaneo,autoría y carácter oficial no comprobados."
+      },
+      "alert": "MarcaAobservada;no convertirla en clave.La parte cronológica deAes correcta pero su justificación es imprecisa;mantener sin clave para revisión docente."
+    },
+    {
+      "question": 77,
+      "page": 27,
+      "topic": "Concepto de planificación territorial",
+      "competency_code": "PS",
+      "answer_proposal": "A",
+      "reason": "La definición destaca uso equitativo de recursos y desarrollo sostenible,por lo queAresume ambos aspectos.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "resaltado amarillo sobre opción",
+        "provenance": "Marca presente en escaneo,autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 78,
+      "page": 27,
+      "topic": "Condición no necesaria para sustitución energética",
+      "competency_code": "RS",
+      "answer_proposal": "C",
+      "reason": "Reforestar lugares de extracción previa de madera es medida restaurativa adicional,no condición para instalar y operar generadores eólicos.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "resaltado rojo sobre opción",
+        "provenance": "Marca presente en escaneo,autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 79,
+      "page": 27,
+      "topic": "Consecuencia de generalización sobre inmigrantes",
+      "competency_code": "IP",
+      "answer_proposal": "A",
+      "reason": "Asociar acento y nacionalidad con delincuencia promueve sospecha hacia inmigrantes incluso si no han cometido delitos.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "resaltado rojo sobre opción",
+        "provenance": "Marca presente en escaneo,autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 80,
+      "page": 27,
+      "topic": "Propósito de garantías electorales",
+      "competency_code": "PS",
+      "answer_proposal": "D",
+      "reason": "Calendario estable,control independiente,libertad de oposición y respeto a resultados fortalecen representación democrática.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "resaltado rojo sobre opción",
+        "provenance": "Marca presente en escaneo,autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 81,
+      "page": 28,
+      "topic": "Actores con intereses contrapuestos en Amazonía",
+      "competency_code": "IP",
+      "answer_proposal": "B",
+      "reason": "Gremio minero pretende intervenir territorio,pueblos indígenas buscan protegerlo y mantener aislamiento.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "resaltado rojo sobre opción",
+        "provenance": "Marca presente en escaneo,autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 82,
+      "page": 28,
+      "topic": "Reacción omitida en solución de negociación",
+      "competency_code": "RS",
+      "answer_proposal": "C",
+      "reason": "Proponer reunión con pueblos aislados puede desconocer que no quieran relaciones con sociedad occidental.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "resaltado rojo sobre opción",
+        "provenance": "Marca presente en escaneo,autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 83,
+      "page": 28,
+      "topic": "Dimensiones beneficiadas por mercados campesinos",
+      "competency_code": "RS",
+      "answer_proposal": "C",
+      "reason": "Venta directa mejora ingresos y rescate de práctica tradicional favorece dimensión cultural.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "resaltado rojo sobre opción",
+        "provenance": "Marca presente en escaneo,autoría y carácter oficial no comprobados."
+      }
+    }
+  ]
+}

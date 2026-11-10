@@ -1,0 +1,84 @@
+{
+  "file_id": "USB-73fbd3be4b98",
+  "date": "2026-10-30",
+  "area": "Estructura del documento",
+  "scope": "43páginas físicas inspeccionadas;131enunciados presentes cubiertos inicialmente,sin vacíos ni solapamientos. No validación docente ni unicidad global.",
+  "items": [],
+  "structure": {
+    "cover": {
+      "pages": [
+        1
+      ],
+      "title": "Estación Cisneros",
+      "code": "AAZ1",
+      "declared_year_session": "2025-2 primera sesión",
+      "declared_questions": 131,
+      "declared_time": "4h30",
+      "calendar": "Sin confirmar",
+      "authenticity": "Sin verificar"
+    },
+    "sections": [
+      {
+        "area": "Matemáticas",
+        "questions": [
+          1,
+          25
+        ],
+        "physical_pages": [
+          2,
+          10
+        ]
+      },
+      {
+        "area": "Lectura crítica",
+        "questions": [
+          26,
+          66
+        ],
+        "physical_pages": [
+          11,
+          24
+        ]
+      },
+      {
+        "area": "Sociales",
+        "questions": [
+          67,
+          91
+        ],
+        "physical_pages": [
+          25,
+          31
+        ]
+      },
+      {
+        "area": "Ciencias",
+        "questions": [
+          92,
+          120
+        ],
+        "physical_pages": [
+          32,
+          42
+        ]
+      },
+      {
+        "area": "Autoinformes",
+        "questions": [
+          121,
+          131
+        ],
+        "physical_pages": [
+          43,
+          43
+        ]
+      }
+    ],
+    "academic_own": 56,
+    "academic_references": 64,
+    "self_report_references": 11,
+    "excluded_self_reports": 11,
+    "missing_questions": [],
+    "reservations": "87sin clave firme,opciones defectuosas sobre reforma constitucional.67beneficio económico no cuantificado. CanónicasAAK2 75corregidaAalvercontrol6no10;la supuesta variante respectoAAO2requiere consolidación global. No legitimidad de reproducción comercial inferida."
+  }
+}

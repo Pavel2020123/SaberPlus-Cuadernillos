@@ -1,0 +1,54 @@
+{
+  "title": "Cuadernillo de práctica",
+  "version": "SP-M03",
+  "disclaimer": "Muestra editorial de SaberPlus. No es una prueba oficial. Preguntas originales propuestas, pendientes de revisión docente.",
+  "reading": {
+    "title": "Un patio con sombra",
+    "text": "En una escuela se propuso sustituir una parte del patio de cemento por árboles y jardines. Algunos estudiantes apoyaron la idea porque al mediodía casi no había sombra. Otros temían perder el espacio donde jugaban. La primera propuesta fue rechazada: ocupaba toda la cancha. Después de escuchar a ambos grupos, el consejo escolar acordó sembrar árboles en los bordes y conservar el centro para los juegos. La decisión no eliminó las diferencias, pero permitió atender dos necesidades sin presentar una como si fuera la única importante.",
+    "questions": [
+      {"n":1,"topic":"Información explícita","stem":"¿Por qué fue rechazada la primera propuesta?","options":["Porque ocupaba toda la cancha.","Porque los árboles no daban sombra.","Porque ningún estudiante la apoyaba.","Porque el consejo prohibió los jardines."],"answer":"A","why":"El texto señala expresamente que la primera propuesta ocupaba toda la cancha."},
+      {"n":2,"topic":"Inferencia y propósito","stem":"La decisión final permite concluir que el consejo escolar buscó","options":["demostrar que el juego era innecesario.","evitar que los estudiantes participaran.","compatibilizar intereses diferentes.","aplazar cualquier cambio en el patio."],"answer":"C","why":"El acuerdo conserva el espacio de juego e incorpora árboles para dar sombra."}
+    ]
+  },
+  "mathematics": [
+    {"n":5,"topic":"Interpretación de tablas","stem":"La tabla registra los préstamos de libros de una biblioteca durante cuatro días. ¿Qué fracción del total de préstamos corresponde al jueves?","options":["1/5","2/5","1/4","3/5"],"answer":"B","why":"El total es 100 préstamos; el jueves hubo 40. Por tanto, 40/100 = 2/5."},
+    {"n":6,"topic":"Porcentajes y descuentos","stem":"Una mochila cuesta $80.000. Una tienda aplica un descuento del 25 % sobre ese precio. ¿Cuánto se paga por la mochila?","options":["$20.000","$55.000","$75.000","$60.000"],"answer":"D","why":"El descuento es $20.000; el precio final es $80.000 - $20.000 = $60.000."},
+    {"n":7,"topic":"Jerarquía de operaciones","stem":"Para calcular el costo de un pedido, una persona usa la expresión 3 × (8.000 + 2.000) - 5.000. ¿Cuál es el resultado?","options":["$25.000","$13.000","$30.000","$35.000"],"answer":"A","why":"Primero se suma dentro del paréntesis: 10.000; luego se multiplica por 3 y finalmente se restan 5.000."}
+  ],
+  "science": [
+    {"n":8,"topic":"Adaptaciones y ecosistemas","stem":"Una planta costera tiene estructuras que le permiten eliminar parte de la sal que ingresa a su organismo. Esta característica favorece principalmente su supervivencia en","options":["suelos de montaña sin sales.","ambientes sin agua disponible.","ambientes donde el agua contiene sales.","lugares sin luz solar."],"answer":"C","why":"La eliminación de sal ayuda a regular su acumulación en ambientes salinos."},
+    {"n":9,"topic":"Mezclas y separación física","stem":"En un recipiente hay agua y aceite formando dos capas. Se busca recuperar ambos líquidos sin calentarlos. ¿Qué procedimiento resulta adecuado?","options":["Filtrar la mezcla con papel.","Separar las capas por decantación.","Agitar hasta obtener un solo líquido.","Acercar un imán al recipiente."],"answer":"B","why":"Los líquidos inmiscibles forman fases que pueden separarse por decantación."},
+    {"n":10,"topic":"Presión","stem":"Un bloque ejerce una fuerza de 120 N. Cuando se apoya sobre una superficie de 0,02 m², la presión es de 6.000 Pa. Si se gira y el área de apoyo aumenta a 0,04 m², sin cambiar su peso, la presión será","options":["12.000 Pa.","6.000 Pa.","120 Pa.","3.000 Pa."],"answer":"D","why":"La presión es fuerza dividida entre área: 120/0,04 = 3.000 Pa."}
+  ],
+  "social": [
+    {"n":3,"topic":"Intereses y conflictos sociales","stem":"Una alcaldía propone cerrar una calle al tráfico durante los domingos para que los habitantes hagan actividad física. Los comerciantes solicitan mantener una ruta para entregar sus productos. ¿Qué alternativa atiende de manera más directa ambos intereses?","options":["Establecer horarios de entrega y conservar el cierre durante las actividades.","Prohibir que los comerciantes reciban productos toda la semana.","Cancelar las actividades sin consultar a los habitantes.","Permitir el tráfico sin cambios durante toda la jornada."],"answer":"A","why":"La alternativa coordina la entrega de productos con el uso recreativo de la calle."},
+    {"n":4,"topic":"Consecuencias no deseadas","stem":"Para reducir el consumo de vasos desechables, una cafetería ofrece descuento a quienes lleven su propio vaso. ¿Cuál sería una consecuencia no deseada de la medida?","options":["Que más clientes reutilicen sus vasos.","Que disminuya la cantidad de residuos.","Que algunos clientes sin vaso reutilizable dejen de comprar por no acceder al descuento.","Que se necesiten menos vasos desechables."],"answer":"C","why":"La pérdida de clientes sería un efecto adverso, distinto del objetivo de reducir residuos."}
+  ],
+  "english": {
+    "words":["eraser","library","notebook","ruler","teacher","window","backpack"],
+    "matching":[
+      {"n":11,"topic":"Vocabulario cotidiano","stem":"You carry your school things in this.","answer":"G","why":"Backpack es la mochila donde se llevan los útiles."},
+      {"n":12,"topic":"Vocabulario cotidiano","stem":"You use this to remove pencil marks.","answer":"A","why":"Eraser significa borrador."},
+      {"n":13,"topic":"Vocabulario cotidiano","stem":"You can borrow books in this place.","answer":"B","why":"Library es el lugar donde se pueden pedir libros prestados."}
+    ],
+    "notice":{"n":14,"topic":"Interpretación de avisos","stem":"Where can you see this notice?","options":["In a swimming pool.","In a library.","In a bakery."],"answer":"B","why":"El aviso solicita devolver los libros después de usarlos."},
+    "conversation":{"n":15,"topic":"Respuestas en conversaciones","stem":"Could you help me carry these books?","options":["Yes, of course.","It's on Monday.","They're blue."],"answer":"A","why":"Yes, of course responde afirmativamente a una petición de ayuda."},
+    "grammarText":"Last Saturday, our class (16) {{16}} a small garden near the school. We worked together (17) {{17}} we wanted to finish before noon.",
+    "grammar":[
+      {"n":16,"topic":"Pasado simple","stem":"Choose the word for space 16.","options":["visit","visited","visiting"],"answer":"B","why":"Last Saturday sitúa la acción en el pasado; corresponde visited."},
+      {"n":17,"topic":"Conectores de causa","stem":"Choose the word for space 17.","options":["but","or","because"],"answer":"C","why":"Because introduce la razón para trabajar juntos."}
+    ],
+    "literalText":"The community reading club meets at the park every Friday at four o'clock. Members bring a book and share a short passage. When it rains, they meet in the community hall. Joining the club is free.",
+    "literal":[
+      {"n":18,"topic":"Comprensión literal","stem":"When does the club meet?","options":["Every Friday.","Every Monday.","Every Sunday."],"answer":"A","why":"El texto indica every Friday."},
+      {"n":19,"topic":"Comprensión literal","stem":"Where do members meet when it rains?","options":["At a bookshop.","In the community hall.","At the school."],"answer":"B","why":"El texto señala que se reúnen en el salón comunitario cuando llueve."}
+    ],
+    "inferenceText":"At first, Elena kept every message notification on while studying. She thought this would help her stay connected. However, she often had to reread the same paragraph. She decided to check her phone only during planned breaks. After a week, she noticed that she finished her reading sooner without losing touch with her friends. She did not stop using her phone; she changed when she used it.",
+    "inference":{"n":20,"topic":"Inferencia y propósito del texto","stem":"What is the main idea of the text?","options":["Friends should never send messages.","Phones cannot be used for studying.","Reading quickly is always better than reading carefully.","Planning when to check messages may help someone concentrate."],"answer":"D","why":"Elena mejora su concentración al reservar los mensajes para descansos planificados."},
+    "lexicalText":"Our school started a seed exchange. Students bring seeds from home and write clear (21) {{21}} so others know which plants they will grow. The project encourages students to (22) {{22}} seeds instead of throwing them away.",
+    "lexical":[
+      {"n":21,"topic":"Vocabulario en contexto","stem":"Choose the word for space 21.","options":["windows","tickets","labels","shoes"],"answer":"C","why":"Labels son etiquetas que permiten identificar las plantas."},
+      {"n":22,"topic":"Vocabulario en contexto","stem":"Choose the word for space 22.","options":["save","break","hide","burn"],"answer":"A","why":"Save contrasta con desechar las semillas y es coherente con conservarlas para el intercambio."}
+    ]
+  }
+}

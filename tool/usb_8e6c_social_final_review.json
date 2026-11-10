@@ -1,0 +1,43 @@
+{
+  "file_id": "USB-8e6cf8399239",
+  "date": "2026-10-30",
+  "area": "Sociales y ciudadanas",
+  "scope": "Preguntas88-91 en física29 inspeccionadas visualmente. Sociales67-91 cubierta inicialmente; no validación docente.",
+  "items": [
+    {
+      "question": 88,
+      "page": 29,
+      "topic": "Factores omitidos en selección de beneficiarios",
+      "competency_proposal": "Pensamiento reflexivo y sistémico",
+      "answer_proposal": "C",
+      "reason": "El programa considera pobreza, desempeño y calidad de la institución superior, pero omite cómo la calidad de educación primaria/secundaria incide en desempeño y posibilidades de selección."
+    },
+    {
+      "question": 89,
+      "page": 29,
+      "topic": "Segregación y persecución histórica",
+      "competency_proposal": "Pensamiento social",
+      "answer_proposal": "C",
+      "reason": "La separación de población judía en guetos y su exclusión social ejemplifican segregación, vinculada en el relato al proceso genocida.",
+      "alert": "Segregación no es sinónimo de genocidio; se identifica relación conceptual en el caso."
+    },
+    {
+      "question": 90,
+      "page": 29,
+      "topic": "Obstáculos culturales a innovación de riego",
+      "competency_proposal": "Pensamiento reflexivo y sistémico",
+      "answer_proposal": "C",
+      "reason": "La decisión de mantener técnicas tradicionales y esperar lluvias puede impedir adoptar el molino de extracción de agua propuesto.",
+      "alert": "Se interpreta la resistencia descrita, sin generalizar que tradiciones o creencias sean obstáculos en todas las comunidades."
+    },
+    {
+      "question": 91,
+      "page": 29,
+      "topic": "Intervención estatal en economía mixta",
+      "competency_proposal": "Pensamiento social",
+      "answer_proposal": "A",
+      "reason": "Una alcaldía que supervisa y termina contrato por incumplimiento actúa como autoridad pública. Las otras opciones son decisiones privadas o negociación sin actor estatal explícito.",
+      "alert": "La opción muestra control contractual público; el caso no permite evaluar legalidad de una terminación concreta."
+    }
+  ]
+}

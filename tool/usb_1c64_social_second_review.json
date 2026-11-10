@@ -1,0 +1,76 @@
+{
+  "file_id": "USB-1c6462bf5377",
+  "date": "2026-10-30",
+  "area": "Sociales y ciudadanas",
+  "scope": "Físicas31-32 impresas29-30 inspeccionadas visualmente completas,en orientación legible. Seis referencias exactas78-83 por cotejo decontextos y opciones conAAQ2física5 yABR1física24. Físicas33-34renderizadas yvistas preliminarmente giradas,pendientes de cotejo yregistro84-91;no contarlas como documentadas.",
+  "items": [],
+  "duplicate_occurrences": [
+    {
+      "question": 78,
+      "page": 31,
+      "printed_page": 29,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 23,
+      "canonical_page": 5,
+      "exact_content": true,
+      "verification": "Cotejo visual directo decontexto íntegro,enunciados y opcionesA-D:78-80Darien,teología ytradiciones coinciden conAAQ2;81-83carretera,cosmovisión yrequisitos juveniles coinciden conABR1. Diferencias solo denumeración,maquetación ymarcas deagua;no repetir análisis. Reservas de ficha canónica preservadas.",
+      "observed_annotation": "Sin opción seleccionada inequívoca;marcas marginales no se interpretan como claves."
+    },
+    {
+      "question": 79,
+      "page": 31,
+      "printed_page": 29,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 24,
+      "canonical_page": 5,
+      "exact_content": true,
+      "verification": "Cotejo visual directo decontexto íntegro,enunciados y opcionesA-D:78-80Darien,teología ytradiciones coinciden conAAQ2;81-83carretera,cosmovisión yrequisitos juveniles coinciden conABR1. Diferencias solo denumeración,maquetación ymarcas deagua;no repetir análisis. Reservas de ficha canónica preservadas.",
+      "observed_annotation": "Sin opción seleccionada inequívoca;marcas marginales no se interpretan como claves."
+    },
+    {
+      "question": 80,
+      "page": 31,
+      "printed_page": 29,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 25,
+      "canonical_page": 5,
+      "exact_content": true,
+      "verification": "Cotejo visual directo decontexto íntegro,enunciados y opcionesA-D:78-80Darien,teología ytradiciones coinciden conAAQ2;81-83carretera,cosmovisión yrequisitos juveniles coinciden conABR1. Diferencias solo denumeración,maquetación ymarcas deagua;no repetir análisis. Reservas de ficha canónica preservadas.",
+      "observed_annotation": "Sin opción seleccionada inequívoca;marcas marginales no se interpretan como claves."
+    },
+    {
+      "question": 81,
+      "page": 32,
+      "printed_page": 30,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 70,
+      "canonical_page": 24,
+      "exact_content": true,
+      "verification": "Cotejo visual directo decontexto íntegro,enunciados y opcionesA-D:78-80Darien,teología ytradiciones coinciden conAAQ2;81-83carretera,cosmovisión yrequisitos juveniles coinciden conABR1. Diferencias solo denumeración,maquetación ymarcas deagua;no repetir análisis. Reservas de ficha canónica preservadas.",
+      "observed_annotation": "Sin opción seleccionada inequívoca;marcas marginales no se interpretan como claves."
+    },
+    {
+      "question": 82,
+      "page": 32,
+      "printed_page": 30,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 71,
+      "canonical_page": 24,
+      "exact_content": true,
+      "verification": "Cotejo visual directo decontexto íntegro,enunciados y opcionesA-D:78-80Darien,teología ytradiciones coinciden conAAQ2;81-83carretera,cosmovisión yrequisitos juveniles coinciden conABR1. Diferencias solo denumeración,maquetación ymarcas deagua;no repetir análisis. Reservas de ficha canónica preservadas.",
+      "observed_annotation": "Sin opción seleccionada inequívoca;marcas marginales no se interpretan como claves."
+    },
+    {
+      "question": 83,
+      "page": 32,
+      "printed_page": 30,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 72,
+      "canonical_page": 24,
+      "exact_content": true,
+      "verification": "Cotejo visual directo decontexto íntegro,enunciados y opcionesA-D:78-80Darien,teología ytradiciones coinciden conAAQ2;81-83carretera,cosmovisión yrequisitos juveniles coinciden conABR1. Diferencias solo denumeración,maquetación ymarcas deagua;no repetir análisis. Reservas de ficha canónica preservadas.",
+      "observed_annotation": "Sin opción seleccionada inequívoca;marcas marginales no se interpretan como claves."
+    }
+  ],
+  "next": "Reorientar e inspeccionar físicas33-34;registrar84-91tras cotejo."
+}

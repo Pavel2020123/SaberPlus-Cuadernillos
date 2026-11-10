@@ -1,0 +1,176 @@
+{
+  "file_id": "USB-e4489f150183",
+  "date": "2026-10-29",
+  "area": "Ciencias naturales",
+  "scope": "Preguntas51-67 paginasfisicas20-26 inspeccionadas visualmente en tablas,modelos,circuito,graficas y opciones.Propuestas no oficiales,no revision docente ni indicaciones medicas/tecnicas.",
+  "competency_legend": {
+    "U": "Uso comprensivo del conocimiento cientifico",
+    "I": "Indagacion",
+    "E": "Explicacion de fenomenos"
+  },
+  "contexts": [
+    {
+      "id": "E4489-CN02",
+      "questions": [
+        58,
+        59,
+        60
+      ],
+      "pages": [
+        23
+      ],
+      "topic": "Division de tareas y bacterias en panaderias"
+    }
+  ],
+  "items": [
+    {
+      "question": 51,
+      "page": 20,
+      "topic": "Extrapolacion de solubilidad",
+      "competency_code": "I",
+      "answer_proposal": "C",
+      "reason": "Ambas series aumentan entre10y100C;si continua tendencia,se predice aumento a120C.",
+      "alert": "Extrapolacion,no valor medido;requiere mantener condiciones y fase."
+    },
+    {
+      "question": 52,
+      "page": 20,
+      "topic": "Funcion de fibra insoluble",
+      "competency_code": "U",
+      "answer_proposal": "C",
+      "reason": "Tabla asocia fibra insoluble con paso de alimentos y regulacion intestinal.",
+      "alert": "Interpretacion de ejercicio,no tratamiento individual."
+    },
+    {
+      "question": 53,
+      "page": 20,
+      "topic": "Concentracion y masa a igual volumen",
+      "competency_code": "U",
+      "answer_proposal": "A",
+      "reason": "Disolucion2tiene doble %p/v y molaridad;igual volumen y mismo soluto implican doble masa."
+    },
+    {
+      "question": 54,
+      "page": 21,
+      "topic": "Prediccion de efecto de nitrogeno",
+      "competency_code": "I",
+      "answer_proposal": "C",
+      "reason": "Ausencia de nitrogeno sugiere amarillamiento,menor follaje y crecimiento y floracion mas tardia;C es conjunto coherente.",
+      "alert": "Tras30dias se reportan floraciones semanas5y8,que exceden plazo;no se justifica exactitud de30-45cm osemana10sin mas datos."
+    },
+    {
+      "question": 55,
+      "page": 22,
+      "topic": "Identificacion de isotopos",
+      "competency_code": "U",
+      "answer_proposal": "B",
+      "reason": "N eY tienen1proton y0o2neutrones;igual elemento y distinta masa."
+    },
+    {
+      "question": 56,
+      "page": 22,
+      "topic": "Modelo de especiacion por aislamiento geografico",
+      "competency_code": "E",
+      "answer_proposal": "A",
+      "reason": "Aordena poblacion inicial,aparicion del rio,separacion con diferenciacion y dos especies."
+    },
+    {
+      "question": 57,
+      "page": 22,
+      "topic": "Grafica fuerza-posicion por tramos",
+      "competency_code": "I",
+      "answer_proposal": "C",
+      "reason": "Fuerza crece hasta4m y queda constante hasta6m;C."
+    },
+    {
+      "question": 58,
+      "page": 23,
+      "topic": "Evidencia de diversidad bacteriana",
+      "competency_code": "E",
+      "answer_proposal": null,
+      "reason": "Dparece prevista al relacionar diversidad de patogenos con humanos,pero contar especies patogenas no demuestra que humanos aumentaron diversidad por evolucion.",
+      "alert": "No hay comparacion antes/despues de diversidad ni evidencia evolutiva o parasitismo exclusivo.Ninguna opcion se deduce suficientemente.No cerrarDcomo hecho.",
+      "context": "E4489-CN02"
+    },
+    {
+      "question": 59,
+      "page": 23,
+      "topic": "Contaminacion cruzada en panaderias",
+      "competency_code": "E",
+      "answer_proposal": "C",
+      "reason": "Manipular dinero y comida con mismas manos permite traslado de bacterias;dividir tareas reduce contacto.",
+      "context": "E4489-CN02"
+    },
+    {
+      "question": 60,
+      "page": 23,
+      "topic": "Suficiencia de evidencia causal",
+      "competency_code": "I",
+      "answer_proposal": "C",
+      "reason": "Incluso panaderia que divide tareas aumenta colonias tras manipulacion;no se prueba dinero como unica fuente.",
+      "alert": "Ccuestiona conclusion,pero el estudio observacional no identifica por si solo todas las fuentes causales.",
+      "context": "E4489-CN02"
+    },
+    {
+      "question": 61,
+      "page": 24,
+      "topic": "Propiedades para seleccionar laminas",
+      "competency_code": "U",
+      "answer_proposal": "C",
+      "reason": "Aluminio es maleable y tiene menor densidad2.70g/cm3."
+    },
+    {
+      "question": 62,
+      "page": 24,
+      "topic": "Decision sobre exposicion sonora",
+      "competency_code": "I",
+      "answer_proposal": "B",
+      "reason": "La escala de este ejemplar marca maximo tolerable70dB;Bexcluye fuentes superiores.",
+      "alert": "Diferente deADB3:alli limite60dB.No asignar misma escala por similitud ni dar garantia sanitaria."
+    },
+    {
+      "question": 63,
+      "page": 25,
+      "topic": "Modelo molecular de amoniaco",
+      "competency_code": "U",
+      "answer_proposal": "C",
+      "reason": "Leyenda y modelo muestran1nitrogeno y3hidrogenos;no electrones o protones."
+    },
+    {
+      "question": 64,
+      "page": 25,
+      "topic": "Fotorecepcion en plantas y animales",
+      "competency_code": "U",
+      "answer_proposal": "D",
+      "reason": "Ambos esquemas muestran receptores que perciben luz;no ambos requieren8h ni producen melatonina igual."
+    },
+    {
+      "question": 65,
+      "page": 26,
+      "topic": "Resistencia de cables y razon longitud-area",
+      "competency_code": "U",
+      "answer_proposal": "C",
+      "reason": "Con misma resistividad,RproporcionalL/A:10/20=.5,4/18=.222,4/10=.4,10/6=1.667;minimo cable2.",
+      "alert": "Supuesto de mismo material y temperatura,ejercicio no recomendacion de instalacion real."
+    },
+    {
+      "question": 66,
+      "page": 26,
+      "topic": "Proteccion por fusible en circuito",
+      "competency_code": "E",
+      "answer_proposal": "A",
+      "reason": "Fusible esta solo en rama de una alarma;la otra tiene conexion directa y no queda protegida al abrir ese fusible.",
+      "alert": "Verificar conexion de ramas,no inferir proteccion de ambas solo por existencia de fusible."
+    },
+    {
+      "question": 67,
+      "page": 26,
+      "topic": "Energia elastica y cinetica",
+      "competency_code": "E",
+      "answer_proposal": "C",
+      "reason": "Al tensar acumula energia potencial elastica y al soltar se transforma en cinetica.",
+      "alert": "Toda energia es idealizacion;hay movimiento de cuerda,arco y disipacion."
+    }
+  ],
+  "next": "Continuar pagina27,verificar si Cienciascontinua68o cambia area.No inferir final por rango anterior."
+}

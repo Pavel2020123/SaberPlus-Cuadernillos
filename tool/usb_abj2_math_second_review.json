@@ -1,0 +1,172 @@
+{
+  "file_id": "USB-524d98b0a234",
+  "date": "2026-10-29",
+  "area": "Matematicas",
+  "scope": "Preguntas34-50paginas13-18 inspeccionadas visualmente enfiguras,tablas,graficas y alternativas.FinalMatematicas50.Resaltados verdes registrados aparte,no oficiales.Competencias y respuestas propuestas sin validacion docente.",
+  "competency_legend": {
+    "IR": "Interpretacion y representacion",
+    "FE": "Formulacion y ejecucion",
+    "AR": "Argumentacion"
+  },
+  "items": [
+    {
+      "question": 34,
+      "page": 13,
+      "topic": "Conversion de porcentajes a frecuencias",
+      "competency_code": "IR",
+      "answer_proposal": "A",
+      "reason": "200*.40=80,*.35=70,*.25=50;tablaA.",
+      "observed_highlight": "A"
+    },
+    {
+      "question": 35,
+      "page": 13,
+      "topic": "Variables cuantitativas y promedio",
+      "competency_code": "IR",
+      "answer_proposal": "C",
+      "reason": "Pares vendidos y horas son numeros sumables con media;estado civil y nacionalidad son nominales.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 36,
+      "page": 14,
+      "topic": "Radio a partir de diametro",
+      "competency_code": "FE",
+      "answer_proposal": "D",
+      "reason": "Diametro100cm implica radio50cm.",
+      "observed_highlight": "D"
+    },
+    {
+      "question": 37,
+      "page": 14,
+      "topic": "Area compuesta de hoja",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "Cuadrado r^2mas tres cuartos de circulo(3/4)pi*r^2.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 38,
+      "page": 14,
+      "topic": "Unidad de volumen de piramide",
+      "competency_code": "AR",
+      "answer_proposal": "B",
+      "reason": "Area9cm2por altura5cm dividido3=15cm3,no15cm.",
+      "observed_highlight": "B"
+    },
+    {
+      "question": 39,
+      "page": 14,
+      "topic": "Comparacion de mediana y moda",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "Orden0,1,5,5,6,6,6,6,7,8,9,9;mediana=(6+6)/2=6y moda6.",
+      "observed_highlight": "C",
+      "alert": "Se conserva dato0horas como registro dado,no se supone dato faltante."
+    },
+    {
+      "question": 40,
+      "page": 15,
+      "topic": "Seleccion con dos restricciones de iluminacion",
+      "competency_code": "AR",
+      "answer_proposal": "B",
+      "reason": "Luz2solo ilumina95%del cuadro;requiere100%y menor pared entre elegibles:luz4con3%.",
+      "observed_highlight": "B"
+    },
+    {
+      "question": 41,
+      "page": 15,
+      "topic": "Resultado de procedimiento para torre",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "Perimetro de triangulo3+4+5=12;por4caras y5niveles da240m segun procedimiento solicitado.",
+      "observed_highlight": "C",
+      "alert": "Contar perimetros puede duplicar barras compartidas y omitir otras;240es resultado del algoritmo impreso,no inventario estructural validado."
+    },
+    {
+      "question": 42,
+      "page": 16,
+      "topic": "Distancia y numero de vueltas",
+      "competency_code": "IR",
+      "answer_proposal": "C",
+      "reason": "Distancia/perimetro da cantidad de giros suponiendo rodadura sin deslizamiento.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 43,
+      "page": 16,
+      "topic": "Comparacion de notacion cientifica",
+      "competency_code": "AR",
+      "answer_proposal": "B",
+      "reason": "Con igualfactor2,10^-7es menor que10^-6;diametroXmenor.",
+      "observed_highlight": "B"
+    },
+    {
+      "question": 44,
+      "page": 16,
+      "topic": "Trigonometria para altura de edificio",
+      "competency_code": "AR",
+      "answer_proposal": "B",
+      "reason": "Desdecatetoxycosenos se hallan hipotenusas x/cos;Pitagoras permite obtener dos alturas y sumarlas.",
+      "observed_highlight": "B",
+      "alert": "Asume figura plana,verticales y distancia horizontal conocida;no multiplicarxporcospara hallar cateto opuesto."
+    },
+    {
+      "question": 45,
+      "page": 16,
+      "topic": "Grafica equivalente de porcentajes",
+      "competency_code": "IR",
+      "answer_proposal": "D",
+      "reason": "Dmantiene70,80,40,70por pregunta;Busa7,8,4,7en eje marcado%,y circulares no representan categorias exhaustivas.",
+      "observed_highlight": "D"
+    },
+    {
+      "question": 46,
+      "page": 17,
+      "topic": "Asociacion frente a causalidad",
+      "competency_code": "AR",
+      "answer_proposal": "C",
+      "reason": "Grafica muestra descenso de desercion y aumento de estudio;no prueba que ocio cause descenso.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 47,
+      "page": 17,
+      "topic": "Volumen por desplazamiento de agua",
+      "competency_code": "FE",
+      "answer_proposal": "B",
+      "reason": "Se resta volumen inicial del agua al volumen hasta borde del vaso;no basta volumen de esfera porque adorno incluye base.",
+      "observed_highlight": "B",
+      "alert": "Supone adorno sumergido sin derrame antes de medicion;datos dan diferencia pi*3^2*(6-4)=18pi cm3."
+    },
+    {
+      "question": 48,
+      "page": 18,
+      "topic": "Optimizacion con tasas de cambio",
+      "competency_code": "FE",
+      "answer_proposal": "D",
+      "reason": "Martes tiene menor costoCOPporUSDpara tiquetes y menorCOPporJPYpara resto:y=(10000000-2800x)/24.",
+      "observed_highlight": "D",
+      "alert": "Presupuesto factibleypositivo;tasas hipoteticas,no recomendaciones financieras."
+    },
+    {
+      "question": 49,
+      "page": 18,
+      "topic": "Probabilidad como proporcion de tarjetas",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "6/(5*3)=.4;otras4/9,10/40y12/20no equivalen.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 50,
+      "page": 18,
+      "topic": "Escala y semejanza de maqueta",
+      "competency_code": "AR",
+      "answer_proposal": "C",
+      "reason": "r,s,x,zusan2cmpormetro;tlargoreal12mdeberia24cm,no12cm.",
+      "observed_highlight": "C"
+    }
+  ],
+  "next": "Paginafisica19pendiente,verificarCiencias51."
+}

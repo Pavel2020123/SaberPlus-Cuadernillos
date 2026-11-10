@@ -1,0 +1,106 @@
+{
+  "file_id": "USB-7c1a96cf7ade",
+  "date": "2026-10-30",
+  "area": "Matemáticas y Ciencias naturales",
+  "scope": "Físicas17-19completas.45-50seis referencias;51-53tres fichas. Física20inspeccionada,54pendiente cotejo canónico.",
+  "items": [
+    {
+      "question": 51,
+      "page": 19,
+      "printed_page": 20,
+      "answer_proposal": "B",
+      "topic": "Evaluación de conclusión sobre dureza de suelo",
+      "competency_proposal": "Indagación",
+      "reason": "Sector1valores4-6,sector3solo1,sector4=7;no apoyan dureza aproximadamente igual.",
+      "alert": "Diseño tiene réplicas desiguales y escasas;no inferir homogeneidad de todo terreno ni medidas absolutas."
+    },
+    {
+      "question": 52,
+      "page": 19,
+      "printed_page": 20,
+      "answer_proposal": "D",
+      "topic": "Ley deOhm y resistencia geométrica",
+      "competency_proposal": "Explicación de fenómenos",
+      "reason": "Mismo material y área,espesor doble implica resistencia doble;9Vigual,corriente mitad,D.",
+      "alert": "Asume corriente atraviesa espesor ycontactos comparables;modelo omite resistencias de cables y contactos."
+    },
+    {
+      "question": 53,
+      "page": 19,
+      "printed_page": 20,
+      "answer_proposal": "B",
+      "topic": "Balance de fuerzas al frenar en rampa",
+      "competency_proposal": "Explicación de fenómenos",
+      "reason": "Fricción mayor que componente descendente del peso puede desacelerar carro que baja,hasta reposo.",
+      "alert": "Condiciones de fricción estática deben sostener reposo;modelo simplificado de rodadura."
+    }
+  ],
+  "duplicate_occurrences": [
+    {
+      "question": 45,
+      "page": 17,
+      "printed_page": 18,
+      "canonical_file_id": "USB-73fbd3be4b98",
+      "canonical_question": 9,
+      "canonical_page": 5,
+      "exact_content": true,
+      "verification": "Cotejo visual completo conAAZ1físicas5-6:tabla/gráfica asteroides,tarifa camión,lluvias,neumáticos,ajedrez y tangram;enunciados y opciones idénticos.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 46,
+      "page": 17,
+      "printed_page": 18,
+      "canonical_file_id": "USB-73fbd3be4b98",
+      "canonical_question": 10,
+      "canonical_page": 5,
+      "exact_content": true,
+      "verification": "Cotejo visual completo conAAZ1físicas5-6:tabla/gráfica asteroides,tarifa camión,lluvias,neumáticos,ajedrez y tangram;enunciados y opciones idénticos.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 47,
+      "page": 17,
+      "printed_page": 18,
+      "canonical_file_id": "USB-73fbd3be4b98",
+      "canonical_question": 11,
+      "canonical_page": 5,
+      "exact_content": true,
+      "verification": "Cotejo visual completo conAAZ1físicas5-6:tabla/gráfica asteroides,tarifa camión,lluvias,neumáticos,ajedrez y tangram;enunciados y opciones idénticos.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 48,
+      "page": 18,
+      "printed_page": 19,
+      "canonical_file_id": "USB-73fbd3be4b98",
+      "canonical_question": 12,
+      "canonical_page": 6,
+      "exact_content": true,
+      "verification": "Cotejo visual completo conAAZ1físicas5-6:tabla/gráfica asteroides,tarifa camión,lluvias,neumáticos,ajedrez y tangram;enunciados y opciones idénticos.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 49,
+      "page": 18,
+      "printed_page": 19,
+      "canonical_file_id": "USB-73fbd3be4b98",
+      "canonical_question": 13,
+      "canonical_page": 6,
+      "exact_content": true,
+      "verification": "Cotejo visual completo conAAZ1físicas5-6:tabla/gráfica asteroides,tarifa camión,lluvias,neumáticos,ajedrez y tangram;enunciados y opciones idénticos.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 50,
+      "page": 18,
+      "printed_page": 19,
+      "canonical_file_id": "USB-73fbd3be4b98",
+      "canonical_question": 14,
+      "canonical_page": 6,
+      "exact_content": true,
+      "verification": "Cotejo visual completo conAAZ1físicas5-6:tabla/gráfica asteroides,tarifa camión,lluvias,neumáticos,ajedrez y tangram;enunciados y opciones idénticos.",
+      "observed_annotation": "Sin marca relevante."
+    }
+  ]
+}

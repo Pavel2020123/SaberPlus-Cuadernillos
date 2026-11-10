@@ -1,0 +1,351 @@
+{
+  "file_id": "USB-2722e7c48dfd",
+  "date": "2026-10-30",
+  "area": "Sociales y ciudadanas",
+  "scope": "Preguntas1-22 en páginas físicas2-8 inspeccionadas visualmente. Portada2026-1, segunda sesión,115preguntas y4h30; calendario y autenticidad no confirmados. Marcas naranja/amarillo de autoría desconocida. Propuestas no oficiales.",
+  "competency_legend": {
+    "PS": "Pensamiento social",
+    "IP": "Interpretación y análisis de perspectivas",
+    "RS": "Pensamiento reflexivo y sistémico"
+  },
+  "items": [
+    {
+      "question": 1,
+      "page": 2,
+      "topic": "Impactos sociales omitidos en reforma urbana",
+      "competency_code": "RS",
+      "answer_proposal": "A",
+      "reason": "Demoler viviendas para ampliar vías omite necesidades económicas y habitacionales de sus residentes, aunque atienda circulación y hacinamiento.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "círculo naranja o resaltado amarillo sobre opción",
+        "provenance": "Marca presente en escaneo; no atribuida a clave oficial."
+      }
+    },
+    {
+      "question": 2,
+      "page": 2,
+      "topic": "Consecuencia no prevista de redistribución de tierras",
+      "competency_code": "RS",
+      "answer_proposal": "B",
+      "reason": "Recibir tierra sin recursos de inversión puede llevar a venderla, frustrando el objetivo de producción campesina.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo naranja o resaltado amarillo sobre opción",
+        "provenance": "Marca presente en escaneo; no atribuida a clave oficial."
+      }
+    },
+    {
+      "question": 3,
+      "page": 2,
+      "topic": "Dimensiones de conflicto por restricción vehicular",
+      "competency_code": "RS",
+      "answer_proposal": "C",
+      "reason": "Se contraponen beneficios ambientales y posibles pérdidas económicas del comercio.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo naranja o resaltado amarillo sobre opción",
+        "provenance": "Marca presente en escaneo; no atribuida a clave oficial."
+      }
+    },
+    {
+      "question": 4,
+      "page": 3,
+      "topic": "Jerarquía colonial y clasificación racial",
+      "competency_code": "PS",
+      "answer_proposal": "B",
+      "reason": "Los privilegios y privaciones descritos dependen del origen y color de piel, ligando clasificación racial y orden social.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo naranja o resaltado amarillo sobre opción",
+        "provenance": "Marca presente en escaneo; no atribuida a clave oficial."
+      }
+    },
+    {
+      "question": 5,
+      "page": 3,
+      "topic": "Institución para tramitar reforma constitucional",
+      "competency_code": "PS",
+      "answer_proposal": "B",
+      "reason": "Entre las instituciones ofrecidas, el Congreso es el órgano legislativo que tramita reformas constitucionales; no corresponde al INPEC, Fiscalía o Ministerio.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo naranja o resaltado amarillo sobre opción",
+        "provenance": "Marca presente en escaneo; no atribuida a clave oficial."
+      },
+      "alert": "Se clasifica el caso del material, no se afirma viabilidad jurídica actual de prisión perpetua ni se verifica legislación vigente."
+    },
+    {
+      "question": 6,
+      "page": 3,
+      "topic": "Prioridad pública en decisión de etiquetado",
+      "competency_code": "IP",
+      "answer_proposal": "C",
+      "reason": "El relato contrapone cambio de hábitos y salud a advertencias económicas empresariales;C es la opción que identifica esa prioridad.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo naranja o resaltado amarillo sobre opción",
+        "provenance": "Marca presente en escaneo; no atribuida a clave oficial."
+      },
+      "alert": "La opciónC dice ignoró riesgos de quiebra masiva, una formulación más fuerte que priorizar salud sobre objeciones económicas; el texto no demuestra que se hayan ignorado completamente."
+    },
+    {
+      "question": 7,
+      "page": 4,
+      "topic": "Identificación histórica de una fuente",
+      "competency_code": "PS",
+      "answer_proposal": "D",
+      "reason": "La referencia a disturbios tras la muerte de Gaitán y ataques a la radiodifusora corresponde al contexto del Bogotazo; no dice que el liberalismo iniciara toda violencia nacional.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "círculo naranja o resaltado amarillo sobre opción",
+        "provenance": "Marca presente en escaneo; no atribuida a clave oficial."
+      }
+    },
+    {
+      "question": 8,
+      "page": 4,
+      "topic": "Identificación de prejuicio en discurso político",
+      "competency_code": "IP",
+      "answer_proposal": "C",
+      "reason": "El discurso asocia refugiados y población musulmana con amenaza a la seguridad, generalización que la pregunta pide reconocer sin adoptarla.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo naranja o resaltado amarillo sobre opción",
+        "provenance": "Marca presente en escaneo; no atribuida a clave oficial."
+      }
+    },
+    {
+      "question": 9,
+      "page": 4,
+      "topic": "Favoritismo e interferencia en contratación pública",
+      "competency_code": "PS",
+      "answer_proposal": "B",
+      "reason": "El alcalde pide omitir requisitos para favorecer una empresa vinculada familiar y políticamente, no simplemente supervisar el proceso.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo naranja o resaltado amarillo sobre opción",
+        "provenance": "Marca presente en escaneo; no atribuida a clave oficial."
+      }
+    },
+    {
+      "question": 10,
+      "page": 5,
+      "topic": "Contraste entre tesis sobre disuasión penal",
+      "competency_code": "IP",
+      "answer_proposal": "A",
+      "reason": "El primer fragmento niega suficiencia disuasiva del castigo; el segundo defiende intensidad de pena que considera suficiente para disuadir.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "círculo naranja o resaltado amarillo sobre opción",
+        "provenance": "Marca presente en escaneo; no atribuida a clave oficial."
+      }
+    },
+    {
+      "question": 11,
+      "page": 5,
+      "topic": "Intereses en reubicación escolar",
+      "competency_code": "IP",
+      "answer_proposal": "D",
+      "reason": "Usar solo disponibilidad de cupos no garantiza conservar hermanos o compañeros juntos; cercanía y nuevas instalaciones sí atienden rectora y docentes.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "círculo naranja o resaltado amarillo sobre opción",
+        "provenance": "Marca presente en escaneo; no atribuida a clave oficial."
+      }
+    },
+    {
+      "question": 12,
+      "page": 6,
+      "topic": "Consecuencias de apertura económica",
+      "competency_code": "RS",
+      "answer_proposal": "A",
+      "reason": "Reducir barreras facilita entrada de productos extranjeros y aumenta competencia; exportar bienes nacionales al interior del país no describe exportación.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo naranja o resaltado amarillo sobre opción",
+        "provenance": "Marca presente en escaneo; no atribuida a clave oficial."
+      },
+      "alert": "Discrepancia explícita: marca amarillaB y propuesta razonadaA. Numeral12 recortado; identificado por continuidad y posición antes de13.",
+      "related_file_id": "USB-04dc5257ed8b",
+      "related_question": 70,
+      "related_page": 24,
+      "variant_comparison": "Contexto, enunciado y opciones cotejados visualmente; cambia numeración, página y escaneo/marcas. Conservar ambos PDF. En12 la marca difiere de la propuestaA."
+    },
+    {
+      "question": 13,
+      "page": 6,
+      "topic": "Condiciones favorables para adopción de mascotas",
+      "competency_code": "RS",
+      "answer_proposal": "B",
+      "reason": "Una campaña sobre beneficios de tener mascotas puede estimular adopción y liberar espacio del centro.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo naranja o resaltado amarillo sobre opción",
+        "provenance": "Marca presente en escaneo; no atribuida a clave oficial."
+      },
+      "related_file_id": "USB-04dc5257ed8b",
+      "related_question": 71,
+      "related_page": 24,
+      "variant_comparison": "Contexto, enunciado y opciones cotejados visualmente; cambia numeración, página y escaneo/marcas. Conservar ambos PDF. En12 la marca difiere de la propuestaA."
+    },
+    {
+      "question": 14,
+      "page": 6,
+      "topic": "Mecanismo de reforma constitucional",
+      "competency_code": "PS",
+      "answer_proposal": "C",
+      "reason": "Someter numerales de reforma a votación ciudadana corresponde al referendo del caso.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo naranja o resaltado amarillo sobre opción",
+        "provenance": "Marca presente en escaneo; no atribuida a clave oficial."
+      },
+      "related_file_id": "USB-04dc5257ed8b",
+      "related_question": 72,
+      "related_page": 24,
+      "variant_comparison": "Contexto, enunciado y opciones cotejados visualmente; cambia numeración, página y escaneo/marcas. Conservar ambos PDF. En12 la marca difiere de la propuestaA."
+    },
+    {
+      "question": 15,
+      "page": 6,
+      "topic": "Desacreditación de fuente en discurso",
+      "competency_code": "IP",
+      "answer_proposal": "D",
+      "reason": "El presidente presenta la organización como sesgada o cómplice para restar credibilidad a denuncias.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "círculo naranja o resaltado amarillo sobre opción",
+        "provenance": "Marca presente en escaneo; no atribuida a clave oficial."
+      },
+      "related_file_id": "USB-04dc5257ed8b",
+      "related_question": 73,
+      "related_page": 24,
+      "variant_comparison": "Contexto, enunciado y opciones cotejados visualmente; cambia numeración, página y escaneo/marcas. Conservar ambos PDF. En12 la marca difiere de la propuestaA."
+    },
+    {
+      "question": 16,
+      "page": 7,
+      "topic": "Derecho colectivo e impacto ambiental",
+      "competency_code": "RS",
+      "answer_proposal": "D",
+      "reason": "La opciónD identifica ambiente sano como dimensión colectiva omitida al evaluar expansión de vehículos y maquinaria.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "círculo naranja o resaltado amarillo sobre opción",
+        "provenance": "Marca presente en escaneo; no atribuida a clave oficial."
+      },
+      "alert": "Reducir impuestos no demuestra por sí solo violación jurídica;D identifica el riesgo ambiental pretendido por el ítem.",
+      "related_file_id": "USB-04dc5257ed8b",
+      "related_question": 74,
+      "related_page": 25,
+      "variant_comparison": "Contexto, enunciado y opciones cotejados visualmente; cambia numeración, página y escaneo/marcas. Conservar ambos PDF. En12 la marca difiere de la propuestaA."
+    },
+    {
+      "question": 17,
+      "page": 7,
+      "topic": "Postura personal frente a deber institucional",
+      "competency_code": "IP",
+      "answer_proposal": "B",
+      "reason": "El funcionario antepone posición personal; el juez, aunque no comparte la IVE, aplica las garantías del país hipotético.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo naranja o resaltado amarillo sobre opción",
+        "provenance": "Marca presente en escaneo; no atribuida a clave oficial."
+      },
+      "related_file_id": "USB-04dc5257ed8b",
+      "related_question": 75,
+      "related_page": 25,
+      "variant_comparison": "Contexto, enunciado y opciones cotejados visualmente; cambia numeración, página y escaneo/marcas. Conservar ambos PDF. En12 la marca difiere de la propuestaA."
+    },
+    {
+      "question": 18,
+      "page": 7,
+      "topic": "Refugio y migración transfronteriza",
+      "competency_code": "PS",
+      "answer_proposal": "C",
+      "reason": "La acogida de personas fuera de sus fronteras se relaciona con migración y no con extradición o desplazamiento exclusivamente interno.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo naranja o resaltado amarillo sobre opción",
+        "provenance": "Marca presente en escaneo; no atribuida a clave oficial."
+      },
+      "alert": "Definición simplificada de refugiado y migración en el texto; no adoptarla como definición normativa exhaustiva.",
+      "related_file_id": "USB-04dc5257ed8b",
+      "related_question": 76,
+      "related_page": 25,
+      "variant_comparison": "Contexto, enunciado y opciones cotejados visualmente; cambia numeración, página y escaneo/marcas. Conservar ambos PDF. En12 la marca difiere de la propuestaA."
+    },
+    {
+      "question": 19,
+      "page": 7,
+      "topic": "Dimensiones de conflicto industrial",
+      "competency_code": "RS",
+      "answer_proposal": "A",
+      "reason": "Se enfrentan reducción de contaminación y mantenimiento de aportes económicos de las curtiembres.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "círculo naranja o resaltado amarillo sobre opción",
+        "provenance": "Marca presente en escaneo; no atribuida a clave oficial."
+      },
+      "related_file_id": "USB-04dc5257ed8b",
+      "related_question": 77,
+      "related_page": 25,
+      "variant_comparison": "Contexto, enunciado y opciones cotejados visualmente; cambia numeración, página y escaneo/marcas. Conservar ambos PDF. En12 la marca difiere de la propuestaA."
+    },
+    {
+      "question": 20,
+      "page": 8,
+      "topic": "Conflicto entre propuestas penitenciarias",
+      "competency_code": "IP",
+      "answer_proposal": "C",
+      "reason": "Excarcelación por delitos menores y endurecimiento de penas constituyen las posturas más opuestas del caso.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo naranja o resaltado amarillo sobre opción",
+        "provenance": "Marca presente en escaneo; no atribuida a clave oficial."
+      },
+      "alert": "Numeral20 recortado en margen; se identifica por continuidad19/21/22 y contenido.",
+      "related_file_id": "USB-04dc5257ed8b",
+      "related_question": 78,
+      "related_page": 26,
+      "variant_comparison": "Contexto, enunciado y opciones cotejados visualmente; cambia numeración, página y escaneo/marcas. Conservar ambos PDF. En12 la marca difiere de la propuestaA."
+    },
+    {
+      "question": 21,
+      "page": 8,
+      "topic": "Memoria histórica y persistencia de valores",
+      "competency_code": "IP",
+      "answer_proposal": "B",
+      "reason": "Derribar monumentos no implica borrar valores o políticas asociados ni cambiar lo sucedido.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo naranja o resaltado amarillo sobre opción",
+        "provenance": "Marca presente en escaneo; no atribuida a clave oficial."
+      },
+      "alert": "Numeral21 parcialmente recortado; contenido y continuidad permiten identificación.",
+      "related_file_id": "USB-04dc5257ed8b",
+      "related_question": 79,
+      "related_page": 26,
+      "variant_comparison": "Contexto, enunciado y opciones cotejados visualmente; cambia numeración, página y escaneo/marcas. Conservar ambos PDF. En12 la marca difiere de la propuestaA."
+    },
+    {
+      "question": 22,
+      "page": 8,
+      "topic": "Religión como fundamento normativo",
+      "competency_code": "PS",
+      "answer_proposal": "D",
+      "reason": "Los dos fragmentos atribuyen preeminencia a referencias religiosas;D es la semejanza que propone el ítem.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "círculo naranja o resaltado amarillo sobre opción",
+        "provenance": "Marca presente en escaneo; no atribuida a clave oficial."
+      },
+      "alert": "La supremacía sobre leyes terrenales es más fuerte que el fragmento marroquí; propuesta contextual, no descripción exhaustiva de ordenamientos.",
+      "related_file_id": "USB-04dc5257ed8b",
+      "related_question": 80,
+      "related_page": 26,
+      "variant_comparison": "Contexto, enunciado y opciones cotejados visualmente; cambia numeración, página y escaneo/marcas. Conservar ambos PDF. En12 la marca difiere de la propuestaA."
+    }
+  ]
+}

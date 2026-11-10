@@ -1,0 +1,118 @@
+{
+  "schema": 1,
+  "revision": 7,
+  "code": "SP-001",
+  "session": "first",
+  "time": "",
+  "targets": {
+    "mathematics": null,
+    "reading": null,
+    "social": null,
+    "science": null,
+    "english": null
+  },
+  "contexts": [
+    {
+      "id": "ctx-3ddaf793-191e-4cb2-89b7-ee075e3446f9",
+      "area": "mathematics",
+      "part": 0,
+      "title": "Una feria para compartir historias",
+      "instructions": "",
+      "text": "Un colegio organizó una feria de lectura. La gráfica muestra las entradas vendidas durante cuatro días. Cada entrada costó $4.000 y no hubo descuentos.",
+      "table": "",
+      "words": [],
+      "example": "",
+      "range_heading": "RESPONDA LAS PREGUNTAS {{desde}} A {{hasta}} DE ACUERDO CON LA SIGUIENTE INFORMACIÓN",
+      "source": "Elaboración original SaberPlus. Datos ficticios para esta prueba de diseño.",
+      "image": "assets/uploads/7cd7f655e898432a9ea4a20be6e079d7.png"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q-ced49341-ed6d-4139-bc8c-456fcafae71a",
+      "area": "mathematics",
+      "part": 0,
+      "order": 1,
+      "topic": "Estadística y representación de datos",
+      "subtopic": "Interpretación de gráficas de barras",
+      "stem": "¿En qué día se vendieron más entradas?",
+      "options": [
+        {
+          "text": "Lunes"
+        },
+        {
+          "text": "Martes"
+        },
+        {
+          "text": "Miercoles"
+        },
+        {
+          "text": "Jueves"
+        }
+      ],
+      "correct": "D",
+      "explanation": "El jueves se vendieron 60 entradas, más que el lunes (40), martes (55) y miércoles (45).",
+      "layout": "columns",
+      "included": true,
+      "context": "ctx-3ddaf793-191e-4cb2-89b7-ee075e3446f9",
+      "slot": "",
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "mathematics",
+        "status": "unclassified",
+        "competency": null,
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-af7b9bda-5f91-47de-8301-7e020bf9da0e",
+      "area": "mathematics",
+      "part": 0,
+      "order": 2,
+      "topic": "Estadística y representación de datos",
+      "subtopic": "Operaciones con datos de gráficas",
+      "stem": "¿Cuántas entradas se vendieron en total durante los cuatro días?",
+      "options": [
+        {
+          "text": "145 entradas."
+        },
+        {
+          "text": "155 entradas."
+        },
+        {
+          "text": "200 entradas."
+        },
+        {
+          "text": "220 entradas."
+        }
+      ],
+      "correct": "C",
+      "explanation": "Se suman las entradas vendidas durante los cuatro días: 40 + 55 + 45 + 60 = 200 entradas.",
+      "layout": "columns",
+      "included": true,
+      "context": "ctx-3ddaf793-191e-4cb2-89b7-ee075e3446f9",
+      "slot": "",
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "mathematics",
+        "status": "unclassified",
+        "competency": null,
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    }
+  ]
+}

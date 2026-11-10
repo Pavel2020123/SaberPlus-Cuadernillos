@@ -1,0 +1,81 @@
+{
+  "file_id": "USB-77cc8ac26d2c",
+  "date": "2026-10-29",
+  "area": "Matematicas",
+  "scope": "Preguntas15-22,paginasfisicas7-9 inspeccionadas visualmente;ordenfisico20-22antes17-19.15sinclaveporlegibilidad.Propuestas no oficiales.",
+  "competency_legend": {
+    "IR": "Interpretacion y representacion",
+    "FE": "Formulacion y ejecucion",
+    "AR": "Argumentacion"
+  },
+  "items": [
+    {
+      "question": 15,
+      "page": 7,
+      "topic": "Pendiente y paralelismo",
+      "competency_code": "FE",
+      "answer_proposal": null,
+      "reason": "Se requiere pendiente-2y un punto fijo del tablero para contrastar candidatos.",
+      "alert": "Ampliacion detalle-015inspeccionada:coordenada del puntoHseguidailegible.No derivarHdesdeopcionespara forzarclave.Mantenernullhastaotrafuentelegible."
+    },
+    {
+      "question": 16,
+      "page": 7,
+      "topic": "Equivalencia en sistemas de ecuaciones",
+      "competency_code": "AR",
+      "answer_proposal": "C",
+      "reason": "Multiplicar segunda ecuacion por3debe afectar ambos terminos y constante:30L+120R=1200000."
+    },
+    {
+      "question": 17,
+      "page": 9,
+      "topic": "Mediana y total semanal",
+      "competency_code": "AR",
+      "answer_proposal": "D",
+      "reason": "Datos5,6,6,7,8,9,10tienen mediana7;7*7=49<51y martes es7horas."
+    },
+    {
+      "question": 18,
+      "page": 9,
+      "topic": "Orden global de datos para mediana",
+      "competency_code": "IR",
+      "answer_proposal": "A",
+      "reason": "Deben ordenarse los15datos juntos:3,3,3,3,4,4,4,7,7,8,8,9,9,9,11;no por bloques mensuales."
+    },
+    {
+      "question": 19,
+      "page": 9,
+      "topic": "Cota de velocidad y distancia diaria",
+      "competency_code": "AR",
+      "answer_proposal": "B",
+      "reason": "Mas6min/km implica menos10km/h y menos240km/24h;300kmno cabe bajo supuesto.",
+      "alert": "Se razona con supuesto universal dado,no afirmacion fisiologica validada sobre toda persona."
+    },
+    {
+      "question": 20,
+      "page": 8,
+      "topic": "Comparacion de promedios de notas",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "Promedio6notas=1;media mayor4ymenor0=2;media entregadas4y2=3.Opcion3>2>1."
+    },
+    {
+      "question": 21,
+      "page": 8,
+      "topic": "Restricciones de limites de velocidad",
+      "competency_code": "IR",
+      "answer_proposal": "D",
+      "reason": "Autopista permite90a moto,busycamion segun filas;otras vias limitan camion a80o menos."
+    },
+    {
+      "question": 22,
+      "page": 8,
+      "topic": "Datos suficientes para ley del coseno",
+      "competency_code": "FE",
+      "answer_proposal": "D",
+      "reason": "Ampliacion detalle-022permite distinguir objetivo t,opuesto aQ,y ladosadyacentesr,s.Dda r,s,Qypermite t^2=r^2+s^2-2rs*cosQ.",
+      "alert": "Rotulos cotejados en ampliacion;claveDpropuesta,no oficial."
+    }
+  ],
+  "next": "Localizar23-26,puesfisica10empiezaLectura27.Fisica10vista27-28pero no lote completo."
+}

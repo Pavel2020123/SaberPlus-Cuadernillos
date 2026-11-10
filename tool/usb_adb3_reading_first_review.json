@@ -1,0 +1,115 @@
+{
+  "file_id": "USB-234fa4e3ddce",
+  "date": "2026-10-29",
+  "area": "Lectura critica",
+  "competency_proposal": "Comprende como se articulan las partes de un texto para darle un sentido global (propuesta)",
+  "scope": "Preguntas19-27 paginas8-10 inspeccionadas visualmente.Textos,imagenes y alternativas.Claves y competencia propuestas sin validacion docente.",
+  "contexts": [
+    {
+      "id": "ADB3-LC01",
+      "questions": [
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "pages": [
+        8,
+        9
+      ],
+      "title": "Historietas y ambiguedad",
+      "source_as_printed": "https://www.gaturro.com/ (primera historieta)"
+    },
+    {
+      "id": "ADB3-LC02",
+      "questions": [
+        24,
+        25,
+        26,
+        27
+      ],
+      "pages": [
+        9,
+        10
+      ],
+      "title": "Pensar rapido pensar despacio",
+      "source_as_printed": "Kahneman,D.(2021).Pensar rapido pensar despacio.Editorial DEBATE."
+    }
+  ],
+  "items": [
+    {
+      "question": 19,
+      "page": 8,
+      "topic": "Interpretacion de historieta y humor",
+      "context": "ADB3-LC01",
+      "answer_proposal": "B",
+      "reason": "Las palabras funcionan como ejemplos para estudiar acentuacion."
+    },
+    {
+      "question": 20,
+      "page": 8,
+      "topic": "Interpretacion de historieta y humor",
+      "context": "ADB3-LC01",
+      "answer_proposal": "C",
+      "reason": "Los circulos conectan globo de pensamiento,no intervencion oral."
+    },
+    {
+      "question": 21,
+      "page": 8,
+      "topic": "Interpretacion de historieta y humor",
+      "context": "ADB3-LC01",
+      "answer_proposal": "B",
+      "reason": "Historieta humoristica encaja en seccion de caricaturas de periodico o revista."
+    },
+    {
+      "question": 22,
+      "page": 9,
+      "topic": "Interpretacion de historieta y humor",
+      "context": "ADB3-LC01",
+      "answer_proposal": "B",
+      "reason": "El juego entre tilde e intensificacion de calvicie busca divertir."
+    },
+    {
+      "question": 23,
+      "page": 9,
+      "topic": "Interpretacion de historieta y humor",
+      "context": "ADB3-LC01",
+      "answer_proposal": "C",
+      "reason": "Ambas imagenes explotan ambiguedad:acentuar y alabar/lavar, no critica institucional demostrada."
+    },
+    {
+      "question": 24,
+      "page": 10,
+      "topic": "Atencion selectiva y argumento",
+      "context": "ADB3-LC02",
+      "answer_proposal": "B",
+      "reason": "No ver al gorila en aproximadamente mitad de quienes contaban es resultado; grabar y dar instrucciones son metodo."
+    },
+    {
+      "question": 25,
+      "page": 10,
+      "topic": "Atencion selectiva y argumento",
+      "context": "ADB3-LC02",
+      "answer_proposal": "B",
+      "reason": "La negacion expresa que quien mira sin la tarea adicional nota al gorila."
+    },
+    {
+      "question": 26,
+      "page": 10,
+      "topic": "Atencion selectiva y argumento",
+      "context": "ADB3-LC02",
+      "answer_proposal": "A",
+      "reason": "La concentracion puede limitar percepcion de otros eventos, no aumentarla."
+    },
+    {
+      "question": 27,
+      "page": 10,
+      "topic": "Atencion selectiva y argumento",
+      "context": "ADB3-LC02",
+      "answer_proposal": "C",
+      "reason": "Premisa condicional y su antecedente permiten conclusion por modus ponens."
+    }
+  ],
+  "next": "Continuar28-31 El general en su laberinto; pagina11 vista, faltan preguntas de continuacion."
+}

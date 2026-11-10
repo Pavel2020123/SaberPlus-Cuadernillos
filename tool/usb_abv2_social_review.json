@@ -1,0 +1,262 @@
+{
+  "file_id": "USB-1c44481d3d4a",
+  "date": "2026-10-29",
+  "area": "Sociales y ciudadanas",
+  "scope": "Preguntas 1-25, paginas fisicas 2-10 leidas visualmente, incluidas opciones y referencias. Portada pagina 1 declara ABV2, 2026-1, segunda sesion y 159 preguntas. No certifica autenticidad, calendario ni permiso. Sin claves resaltadas observadas. Propuestas sin validacion docente.",
+  "competency_legend": {
+    "PS": "Pensamiento social",
+    "PA": "Interpretacion y analisis de perspectivas",
+    "RS": "Pensamiento reflexivo y sistemico"
+  },
+  "items": [
+    {
+      "question": 1,
+      "page": 2,
+      "topic": "Condiciones de transferencia de una comision de verdad",
+      "competency_code": "RS",
+      "answer_proposal": null,
+      "reason": "C favorece pluralidad de perspectivas en una comision y D plantea interes social por esclarecer; ninguna se demuestra estrictamente indispensable solo con la descripcion.",
+      "alert": "No cerrar C/D sin criterio docente. La diversidad politica es una condicion deseable de pluralidad, pero no garantia suficiente de independencia; exigir interes de la mayoria tambien es discutible."
+    },
+    {
+      "question": 2,
+      "page": 2,
+      "topic": "Afinidad de sectores ante tributacion de iglesias",
+      "competency_code": "PA",
+      "answer_proposal": "C",
+      "reason": "El sector comercial coincide con gravar ingresos de actividades comerciales, excluyendo las misionales.",
+      "alert": "El partido tambien espera ingresos tributarios para programas; C coincide mas especificamente con el criterio de actividades gravadas, no prueba apoyo exclusivo."
+    },
+    {
+      "question": 3,
+      "page": 2,
+      "topic": "Perspectiva critica sobre privatizacion y Constitucion",
+      "competency_code": "PA",
+      "answer_proposal": "D",
+      "reason": "La investigadora interpreta la apertura a libre competencia como entrega de servicios a particulares.",
+      "alert": "Se responde segun la perspectiva citada, no se afirma que ese fuera el proposito unico o juridicamente demostrado de toda la Constitucion."
+    },
+    {
+      "question": 4,
+      "page": 3,
+      "topic": "Abuso de cargo para beneficio particular",
+      "competency_code": "PS",
+      "answer_proposal": "C",
+      "reason": "El funcionario exige descuento invocando su cargo, en perjuicio de la comerciante.",
+      "related_file_id": "USB-578d9b20297e",
+      "related_question": 15,
+      "related_page": 6
+    },
+    {
+      "question": 5,
+      "page": 3,
+      "topic": "Efecto no deseado de politica de erradicacion",
+      "competency_code": "RS",
+      "answer_proposal": "D",
+      "reason": "El riesgo sanitario es consecuencia negativa expresamente contextualizada.",
+      "alert": "Se interpreta la informacion dada, no se emite evaluacion medica sobre glifosato.",
+      "related_file_id": "USB-578d9b20297e",
+      "related_question": 16,
+      "related_page": 6
+    },
+    {
+      "question": 6,
+      "page": 3,
+      "topic": "Migracion, colonizacion y desplazamiento",
+      "competency_code": "PS",
+      "answer_proposal": "B",
+      "reason": "El conflicto incrementa desplazamiento mientras pierde relevancia la frontera agraria.",
+      "related_file_id": "USB-578d9b20297e",
+      "related_question": 17,
+      "related_page": 6
+    },
+    {
+      "question": 7,
+      "page": 4,
+      "topic": "Condiciones geograficas de ayuda alimentaria",
+      "competency_code": "RS",
+      "answer_proposal": "A",
+      "reason": "El aislamiento y transporte limitado dificultan entregar cinco toneladas.",
+      "related_file_id": "USB-578d9b20297e",
+      "related_question": 18,
+      "related_page": 7
+    },
+    {
+      "question": 8,
+      "page": 4,
+      "topic": "Libre competencia y monopolio",
+      "competency_code": "PS",
+      "answer_proposal": "D",
+      "reason": "El texto atribuye precios mas bajos a competencia, no precios justos a monopolio.",
+      "alert": "Resaltado B contrario a la tesis del pasaje; propuesta D independiente de esa marca.",
+      "related_file_id": "USB-578d9b20297e",
+      "related_question": 19,
+      "related_page": 7
+    },
+    {
+      "question": 9,
+      "page": 4,
+      "topic": "Pertinencia de una fuente historica",
+      "competency_code": "PA",
+      "answer_proposal": "A",
+      "reason": "El mito en lengua propia informa sobre creencias antiguas; no demuestra continuidad actual.",
+      "alert": "C es posible como difusion, pero A es el uso investigativo mas directo.",
+      "related_file_id": "USB-578d9b20297e",
+      "related_question": 20,
+      "related_page": 7
+    },
+    {
+      "question": 10,
+      "page": 5,
+      "topic": "Objetivo de presion internacional ambiental",
+      "competency_code": "PA",
+      "answer_proposal": "C",
+      "reason": "El fin es intervenir para detener incendios y proteger la selva; transmitir cifras es solo un medio.",
+      "alert": "Resaltado D discrepante con la finalidad explicitada; no elevarlo a clave.",
+      "related_file_id": "USB-578d9b20297e",
+      "related_question": 21,
+      "related_page": 8
+    },
+    {
+      "question": 11,
+      "page": 5,
+      "topic": "Dimension social de politica de salud reproductiva",
+      "competency_code": "RS",
+      "answer_proposal": "C",
+      "reason": "Prioriza acceso, informacion y salud de la poblacion.",
+      "related_file_id": "USB-578d9b20297e",
+      "related_question": 22,
+      "related_page": 8
+    },
+    {
+      "question": 12,
+      "page": 6,
+      "topic": "Comparacion de soluciones frente a CO2",
+      "competency_code": "PA",
+      "answer_proposal": "A",
+      "reason": "Difieren en estrategia: almacenar frente a reducir emisiones/reforestar.",
+      "related_file_id": "USB-578d9b20297e",
+      "related_question": 23,
+      "related_page": 9
+    },
+    {
+      "question": 13,
+      "page": 6,
+      "topic": "Control constitucional y no discriminacion",
+      "competency_code": "PS",
+      "answer_proposal": "B",
+      "reason": "Dadas las premisas, la ley debe respetar la Constitucion.",
+      "note": "No se certifica vigencia ni sentencia citada.",
+      "related_file_id": "USB-578d9b20297e",
+      "related_question": 24,
+      "related_page": 9
+    },
+    {
+      "question": 14,
+      "page": 6,
+      "topic": "Limites de generalizacion historica",
+      "competency_code": "PA",
+      "answer_proposal": "D",
+      "reason": "Un caso de un siglo no demuestra que una practica se haya mantenido siempre.",
+      "related_file_id": "USB-578d9b20297e",
+      "related_question": 25,
+      "related_page": 9
+    },
+    {
+      "question": 15,
+      "page": 7,
+      "topic": "Oposicion y libertad de prensa en democracia",
+      "competency_code": "PS",
+      "answer_proposal": "B",
+      "reason": "Censurar oposicion y restringir prensa amenaza garantias necesarias para democracia, independientemente de permitir reeleccion."
+    },
+    {
+      "question": 16,
+      "page": 7,
+      "topic": "Limites de generalizacion desde casos de corrupcion",
+      "competency_code": "PA",
+      "answer_proposal": "C",
+      "reason": "La participacion de muchos politicos no demuestra que todos deban ser corruptos."
+    },
+    {
+      "question": 17,
+      "page": 7,
+      "topic": "Perspectivas sobre subsidios y autonomia economica",
+      "competency_code": "PA",
+      "answer_proposal": "C",
+      "reason": "El grupo politico descrito considera que transferencias generan dependencia y reducen autonomia, por lo que valoraria negativamente el proyecto.",
+      "alert": "Se identifica postura del actor, no se certifican efectos economicos reales del salario basico."
+    },
+    {
+      "question": 18,
+      "page": 8,
+      "topic": "Viabilidad territorial de programa universitario rural",
+      "competency_code": "RS",
+      "answer_proposal": "B",
+      "reason": "Vias en buen estado favorecen traslado de alumnos desde veredas y profesores desde capitales para clases de fin de semana."
+    },
+    {
+      "question": 19,
+      "page": 8,
+      "topic": "Reglas de convivencia y resolucion de conflicto escolar",
+      "competency_code": "PS",
+      "answer_proposal": "A",
+      "reason": "Consultar el manual permite contrastar sancion con reglas previstas, en vez de cambiarlo para un caso individual.",
+      "alert": "El manual no basta por si solo: requiere debido proceso y compatibilidad con derechos. Se analiza alternativa escolar, no legalidad efectiva de una expulsion."
+    },
+    {
+      "question": 20,
+      "page": 8,
+      "topic": "Diversidad etnica y cabello afro natural",
+      "competency_code": "PS",
+      "answer_proposal": "A",
+      "reason": "La prohibicion desconoce una expresion cultural y de identidad afrodescendiente; no legitima normas escolares contrarias a derechos."
+    },
+    {
+      "question": 21,
+      "page": 9,
+      "topic": "Alcance de una fuente sobre huelga bananera",
+      "competency_code": "PA",
+      "answer_proposal": "A",
+      "reason": "El texto presenta interpretacion de un observador sobre influencias generales, no testimonio suficiente del objetivo politico de los obreros.",
+      "alert": "C tambien niega instauracion socialista pero afirma que buscaban unicamente mejoras laborales, exclusividad no demostrada."
+    },
+    {
+      "question": 22,
+      "page": 9,
+      "topic": "Conflicto economico y ambiental en pesca de arrastre",
+      "competency_code": "RS",
+      "answer_proposal": "A",
+      "reason": "Competencia y perdidas de pesca artesanal se relacionan con captura incidental y disminucion de especies."
+    },
+    {
+      "question": 23,
+      "page": 9,
+      "topic": "Descenso de poblacion y fecundidad",
+      "competency_code": "PS",
+      "answer_proposal": "B",
+      "reason": "Menor fecundidad, maternidades cerradas y viviendas vacias describen descenso demografico.",
+      "alert": "El alcance es el conjunto de ejemplos del texto; no afirmar descenso simultaneo en todos los paises del mundo."
+    },
+    {
+      "question": 24,
+      "page": 10,
+      "topic": "Intereses ante patente de animal de investigacion",
+      "competency_code": "PA",
+      "answer_proposal": "B",
+      "reason": "Pacientes esperan tratamientos y la presidencia universitaria espera liderazgo investigador; ambos valorarian positivamente la patente.",
+      "alert": "No implica que toda persona con cancer o toda universidad comparta esa postura; se refiere a los actores descritos."
+    },
+    {
+      "question": 25,
+      "page": 10,
+      "topic": "Transicion energetica y adaptacion empresarial",
+      "competency_code": "RS",
+      "answer_proposal": "C",
+      "reason": "El desplazamiento hacia energia solar presiona a empresas fosiles a diversificar o adaptarse para reducir perdidas.",
+      "alert": "El texto describe un plan de 2021 y metas futuras, no resultados logrados ni una obligacion universal de conversion a solar."
+    }
+  ],
+  "comparison_scope": "Once pares 4-14 con 15-25 de USB-578d9b20297e cotejados visualmente en casos y alternativas; misma secuencia con numeracion distinta. No heredar los resaltados de aquella variante. Conservar ambos PDF diferentes.",
+  "next": "Matematicas desde pagina fisica 11; resto del documento pendiente."
+}

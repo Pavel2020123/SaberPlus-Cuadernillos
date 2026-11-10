@@ -1,0 +1,100 @@
+{
+  "file_id": "USB-8e6cf8399239",
+  "date": "2026-10-30",
+  "area": "Matemáticas",
+  "scope": "Preguntas 10-19, páginas físicas 5-7 inspeccionadas visualmente. Propuestas no oficiales; sin marcas de respuesta claras en estos ítems.",
+  "competency_legend": {
+    "IR": "Interpretación y representación",
+    "FE": "Formulación y ejecución",
+    "AR": "Argumentación"
+  },
+  "items": [
+    {
+      "question": 10,
+      "page": 5,
+      "topic": "Probabilidad de un premio entre asistentes",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "Camilo, su padre y tres hermanos son cinco personas favorables entre 50 asistentes: 5/50.",
+      "alert": "Se supone un único ganador equiprobable entre los 50 asistentes."
+    },
+    {
+      "question": 11,
+      "page": 5,
+      "topic": "Primera superación de umbral en tabla",
+      "competency_code": "IR",
+      "answer_proposal": "D",
+      "reason": "El primer intervalo presentado con velocidad superior a 70 km/h es 30-40 km, con 80 km/h.",
+      "alert": "La tabla no incluye el tramo 20-30 km. La respuesta se limita a los intervalos informados; no prueba qué ocurrió en el intervalo omitido."
+    },
+    {
+      "question": 12,
+      "page": 5,
+      "topic": "Identificación de hipotenusa en triángulo",
+      "competency_code": "IR",
+      "answer_proposal": "A",
+      "reason": "En EFG, EF es vertical y FG horizontal, por lo que el ángulo recto está en F y su lado opuesto es EG.",
+      "alert": "La figura incluye otra recta y un ángulo recto auxiliar cerca del cruce. Debe identificarse el triángulo EFG solicitado y no confundirlo con los triángulos auxiliares."
+    },
+    {
+      "question": 13,
+      "page": 5,
+      "topic": "Modelo funcional compatible con tabla",
+      "competency_code": "IR",
+      "answer_proposal": "D",
+      "reason": "y=x²+1 da 1,2,5 para x=0,1,2 respectivamente.",
+      "alert": "Tres pares de datos no determinan una función única en general; D es la única alternativa compatible de las ofrecidas."
+    },
+    {
+      "question": 14,
+      "page": 5,
+      "topic": "Proporcionalidad inversa en datos de tinta",
+      "competency_code": "IR",
+      "answer_proposal": "B",
+      "reason": "Los productos 3×60,4×45,5×36 y6×30 son todos 180. La tinta restante es inversamente proporcional a usos y las disminuciones sucesivas no son iguales.",
+      "alert": "El modelo discreto dado no implica una ley física universal del consumo de un sello."
+    },
+    {
+      "question": 15,
+      "page": 6,
+      "topic": "Comportamiento de función por tramos",
+      "competency_code": "IR",
+      "answer_proposal": "C",
+      "reason": "El precio permanece en 3000 hasta 6 horas y luego aumenta linealmente hasta 9000 a las 12 horas."
+    },
+    {
+      "question": 16,
+      "page": 6,
+      "topic": "Volumen a partir de relaciones entre dimensiones",
+      "competency_code": "AR",
+      "answer_proposal": "C",
+      "reason": "Si altura=h, ancho=h/3 y largo=2h/3; el volumen es (h/3)(2h/3)h=2h³/9. Conocer h es suficiente."
+    },
+    {
+      "question": 17,
+      "page": 6,
+      "topic": "Corrección de denominador de frecuencia relativa",
+      "competency_code": "AR",
+      "answer_proposal": "C",
+      "reason": "El denominador debe incluir todas las carreras: 3+10=13. La frecuencia de victorias es 3/13, aproximadamente 23,08%, no 3/10.",
+      "alert": "La frecuencia histórica es una estimación, no certeza de probabilidad para la siguiente carrera sin supuestos de comparabilidad."
+    },
+    {
+      "question": 18,
+      "page": 7,
+      "topic": "Comparación de aportes porcentuales por mes",
+      "competency_code": "FE",
+      "answer_proposal": "A",
+      "reason": "Según las bases de la tabla, mamá aporta 10000+20000+30000=60000; papá 2000+8000+48000=58000. Elegir mamá maximiza el regalo total.",
+      "alert": "Se utilizan los ahorros acumulados fijados en la tabla, no se capitalizan los regalos de meses previos. Sumar porcentajes con bases distintas no equivale al porcentaje del total."
+    },
+    {
+      "question": 19,
+      "page": 7,
+      "topic": "Conversión de porcentajes a frecuencias",
+      "competency_code": "IR",
+      "answer_proposal": "A",
+      "reason": "De 100 consultas, las cantidades son Biología30, Inglés20, Sociales40 y Matemáticas10; A conserva esa correspondencia."
+    }
+  ]
+}

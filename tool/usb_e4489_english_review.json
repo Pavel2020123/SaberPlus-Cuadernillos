@@ -1,0 +1,518 @@
+{
+  "file_id": "USB-e4489f150183",
+  "date": "2026-10-29",
+  "area": "Ingles",
+  "competency_proposal": "Competencia comunicativa en lengua inglesa (propuesta general)",
+  "scope": "Preguntas71-115 paginas28-34 inspeccionadas visualmente,textos,bancos,avisos y opciones.45items,siete partes;sin nivel MCER ni dificultad asignados.Claves propuestas sin validacion docente.Ejemplos excluidos de conteo.",
+  "contexts": [
+    {
+      "id": "E4489-EN1",
+      "questions": [
+        71,
+        72,
+        73,
+        74,
+        75
+      ],
+      "pages": [
+        28
+      ],
+      "part": "1",
+      "title": "At the mall",
+      "format": "Asociacion de vocabulario",
+      "answer_letters": "A-G",
+      "example_answer": "H",
+      "bank": {
+        "A": "basement",
+        "B": "bathroom",
+        "C": "bookstore",
+        "D": "cafe",
+        "E": "cinema",
+        "F": "elevator",
+        "G": "playground",
+        "H": "supermarket (ejemplo)"
+      }
+    },
+    {
+      "id": "E4489-EN2",
+      "questions": [
+        76,
+        77,
+        78,
+        79,
+        80
+      ],
+      "pages": [
+        29
+      ],
+      "part": "2",
+      "title": "Avisos y lugares",
+      "format": "Avisos y senales",
+      "answer_letters": "A-C",
+      "example_answer": "A"
+    },
+    {
+      "id": "E4489-EN3",
+      "questions": [
+        81,
+        82,
+        83,
+        84,
+        85
+      ],
+      "pages": [
+        30
+      ],
+      "part": "3",
+      "title": "Conversaciones",
+      "format": "Completar conversacion",
+      "answer_letters": "A-C",
+      "example_answer": "A"
+    },
+    {
+      "id": "E4489-EN4",
+      "questions": [
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93
+      ],
+      "pages": [
+        31
+      ],
+      "part": "4",
+      "title": "Luthiers",
+      "format": "Texto con espacios",
+      "answer_letters": "A-C",
+      "example_answer": "A"
+    },
+    {
+      "id": "E4489-EN5",
+      "questions": [
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100
+      ],
+      "pages": [
+        32
+      ],
+      "part": "5",
+      "title": "Golf",
+      "format": "Comprension literal",
+      "answer_letters": "A-C",
+      "example_answer": "A"
+    },
+    {
+      "id": "E4489-EN6",
+      "questions": [
+        101,
+        102,
+        103,
+        104,
+        105
+      ],
+      "pages": [
+        33
+      ],
+      "part": "6",
+      "title": "Libros durante viajes",
+      "format": "Comprension inferencial",
+      "answer_letters": "A-D",
+      "example_answer": null
+    },
+    {
+      "id": "E4489-EN7",
+      "questions": [
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115
+      ],
+      "pages": [
+        34
+      ],
+      "part": "7",
+      "title": "Soledad",
+      "format": "Texto con espacios",
+      "answer_letters": "A-D",
+      "example_answer": "A"
+    }
+  ],
+  "items": [
+    {
+      "question": 71,
+      "page": 28,
+      "answer_proposal": "E",
+      "reason": "Cinema es lugar para ver peliculas.",
+      "context": "E4489-EN1",
+      "topic": "Asociacion de vocabulario"
+    },
+    {
+      "question": 72,
+      "page": 28,
+      "answer_proposal": "F",
+      "reason": "Elevator lleva entre pisos.",
+      "context": "E4489-EN1",
+      "topic": "Asociacion de vocabulario"
+    },
+    {
+      "question": 73,
+      "page": 28,
+      "answer_proposal": "G",
+      "reason": "Playground permite jugar,correr y saltar.",
+      "context": "E4489-EN1",
+      "topic": "Asociacion de vocabulario"
+    },
+    {
+      "question": 74,
+      "page": 28,
+      "answer_proposal": "C",
+      "reason": "Bookstore vende material para leer.",
+      "context": "E4489-EN1",
+      "topic": "Asociacion de vocabulario"
+    },
+    {
+      "question": 75,
+      "page": 28,
+      "answer_proposal": "D",
+      "reason": "Cafe vende tazas de cafe.",
+      "context": "E4489-EN1",
+      "topic": "Asociacion de vocabulario"
+    },
+    {
+      "question": 76,
+      "page": 29,
+      "answer_proposal": "B",
+      "reason": "Teddy bears,dolls y board games se guardan en toy box.",
+      "context": "E4489-EN2",
+      "topic": "Avisos y senales"
+    },
+    {
+      "question": 77,
+      "page": 29,
+      "answer_proposal": "B",
+      "reason": "After math class situa anuncio de canto en escuela.",
+      "context": "E4489-EN2",
+      "topic": "Avisos y senales"
+    },
+    {
+      "question": 78,
+      "page": 29,
+      "answer_proposal": "A",
+      "reason": "Leche,huevos y chocolate son ingredientes coherentes con cake box.",
+      "context": "E4489-EN2",
+      "topic": "Avisos y senales"
+    },
+    {
+      "question": 79,
+      "page": 29,
+      "answer_proposal": "C",
+      "reason": "Ruta y horario de bus corresponden a estacion.",
+      "context": "E4489-EN2",
+      "topic": "Avisos y senales"
+    },
+    {
+      "question": 80,
+      "page": 29,
+      "answer_proposal": "B",
+      "reason": "Aviso de no limpiar cuarto con mascota corresponde a hotel.",
+      "context": "E4489-EN2",
+      "topic": "Avisos y senales"
+    },
+    {
+      "question": 81,
+      "page": 30,
+      "topic": "Completar conversacion",
+      "answer_proposal": "B",
+      "reason": "I guess I did responde si olvido la cita.",
+      "context": "E4489-EN3"
+    },
+    {
+      "question": 82,
+      "page": 30,
+      "topic": "Completar conversacion",
+      "answer_proposal": "A",
+      "reason": "You're right acepta el consejo de desayunar.",
+      "context": "E4489-EN3"
+    },
+    {
+      "question": 83,
+      "page": 30,
+      "topic": "Completar conversacion",
+      "answer_proposal": "C",
+      "reason": "Most weekends responde frecuencia.",
+      "context": "E4489-EN3"
+    },
+    {
+      "question": 84,
+      "page": 30,
+      "topic": "Completar conversacion",
+      "answer_proposal": "B",
+      "reason": "It's still not working responde que horno no quedo reparado.",
+      "context": "E4489-EN3"
+    },
+    {
+      "question": 85,
+      "page": 30,
+      "topic": "Completar conversacion",
+      "answer_proposal": "A",
+      "reason": "Are you sure? pide confirmacion del consejo de llamar al mesero.",
+      "context": "E4489-EN3"
+    },
+    {
+      "question": 86,
+      "page": 31,
+      "answer_proposal": "A",
+      "reason": "often expresa frecuencia habitual.",
+      "context": "E4489-EN4",
+      "topic": "Texto con espacios"
+    },
+    {
+      "question": 87,
+      "page": 31,
+      "answer_proposal": "C",
+      "reason": "quite modifica similar;enough iria despues.",
+      "context": "E4489-EN4",
+      "topic": "Texto con espacios"
+    },
+    {
+      "question": 88,
+      "page": 31,
+      "answer_proposal": "B",
+      "reason": "several modifica plural materials.",
+      "context": "E4489-EN4",
+      "topic": "Texto con espacios"
+    },
+    {
+      "question": 89,
+      "page": 31,
+      "answer_proposal": "B",
+      "reason": "which retoma instrumentos,no personas.",
+      "context": "E4489-EN4",
+      "topic": "Texto con espacios"
+    },
+    {
+      "question": 90,
+      "page": 31,
+      "answer_proposal": "C",
+      "reason": "get broken requiere participio.",
+      "context": "E4489-EN4",
+      "topic": "Texto con espacios"
+    },
+    {
+      "question": 91,
+      "page": 31,
+      "answer_proposal": "A",
+      "reason": "after an accident expresa posterioridad.",
+      "context": "E4489-EN4",
+      "topic": "Texto con espacios"
+    },
+    {
+      "question": 92,
+      "page": 31,
+      "answer_proposal": "C",
+      "reason": "another part agrega reparacion como otra tarea.",
+      "context": "E4489-EN4",
+      "topic": "Texto con espacios"
+    },
+    {
+      "question": 93,
+      "page": 31,
+      "answer_proposal": "B",
+      "reason": "if introduce condicion de querer ser luthier.",
+      "context": "E4489-EN4",
+      "topic": "Texto con espacios"
+    },
+    {
+      "question": 94,
+      "page": 32,
+      "topic": "Comprension literal",
+      "answer_proposal": "C",
+      "reason": "Stroke se define como golpear pelota.",
+      "context": "E4489-EN5"
+    },
+    {
+      "question": 95,
+      "page": 32,
+      "topic": "Comprension literal",
+      "answer_proposal": "A",
+      "reason": "El texto situa primeras formas en Netherlands y luego Scotland.",
+      "context": "E4489-EN5"
+    },
+    {
+      "question": 96,
+      "page": 32,
+      "topic": "Comprension literal",
+      "answer_proposal": "C",
+      "reason": "Ovejas comian el pasto de los primeros campos.",
+      "context": "E4489-EN5"
+    },
+    {
+      "question": 97,
+      "page": 32,
+      "topic": "Comprension literal",
+      "answer_proposal": "A",
+      "reason": "John Taylor es el britanico citado para1800s.",
+      "context": "E4489-EN5"
+    },
+    {
+      "question": 98,
+      "page": 32,
+      "topic": "Comprension literal",
+      "answer_proposal": "B",
+      "reason": "Se elige club segun distancia deseada.",
+      "context": "E4489-EN5"
+    },
+    {
+      "question": 99,
+      "page": 32,
+      "topic": "Comprension literal",
+      "answer_proposal": "A",
+      "reason": "Tecnologia de pelotas ha mejorado el juego.",
+      "context": "E4489-EN5"
+    },
+    {
+      "question": 100,
+      "page": 32,
+      "topic": "Comprension literal",
+      "answer_proposal": "B",
+      "reason": "Gana quien usa menos golpes, no mas hoyos.",
+      "context": "E4489-EN5"
+    },
+    {
+      "question": 101,
+      "page": 33,
+      "answer_proposal": "C",
+      "reason": "La autora promueve leer mientras viaja,no solo libros infantiles o visitas a bibliotecas.",
+      "context": "E4489-EN6",
+      "topic": "Comprension inferencial"
+    },
+    {
+      "question": 102,
+      "page": 33,
+      "answer_proposal": "A",
+      "reason": "Parrafo3describe cuatro tipos de libros que lleva en viajes.",
+      "context": "E4489-EN6",
+      "topic": "Comprension inferencial"
+    },
+    {
+      "question": 103,
+      "page": 33,
+      "answer_proposal": "A",
+      "reason": "Un libro puede ser destino o aventura principal dentro del viaje,mas alla de llevar a lugares reales.",
+      "context": "E4489-EN6",
+      "topic": "Comprension inferencial"
+    },
+    {
+      "question": 104,
+      "page": 33,
+      "answer_proposal": "C",
+      "reason": "Al planear viaje lleva cuatro tipos de libros;no recomienda libros romanticos por estar enamorada.",
+      "context": "E4489-EN6",
+      "topic": "Comprension inferencial"
+    },
+    {
+      "question": 105,
+      "page": 33,
+      "answer_proposal": "A",
+      "reason": "Lectura para disfrutar vacaciones resume tema;otras opciones priorizan destinos,planificacion o escritura.",
+      "context": "E4489-EN6",
+      "topic": "Comprension inferencial"
+    },
+    {
+      "question": 106,
+      "page": 34,
+      "topic": "Texto con espacios",
+      "answer_proposal": "D",
+      "reason": "historical novels es la colocacion sobre novelas historicas.",
+      "context": "E4489-EN7"
+    },
+    {
+      "question": 107,
+      "page": 34,
+      "topic": "Texto con espacios",
+      "answer_proposal": "B",
+      "reason": "Although contrapone ficcion e inclusion de conocimiento cientifico.",
+      "context": "E4489-EN7"
+    },
+    {
+      "question": 108,
+      "page": 34,
+      "topic": "Texto con espacios",
+      "answer_proposal": "D",
+      "reason": "vanilla es especia entre alternativas.",
+      "context": "E4489-EN7"
+    },
+    {
+      "question": 109,
+      "page": 34,
+      "topic": "Texto con espacios",
+      "answer_proposal": "D",
+      "reason": "climate control encaja con cultivos andinos.",
+      "context": "E4489-EN7"
+    },
+    {
+      "question": 110,
+      "page": 34,
+      "topic": "Texto con espacios",
+      "answer_proposal": "A",
+      "reason": "widely published permite alcanzar audiencia mayor.",
+      "context": "E4489-EN7"
+    },
+    {
+      "question": 111,
+      "page": 34,
+      "topic": "Texto con espacios",
+      "answer_proposal": "B",
+      "reason": "attract new readers es colocacion apropiada.",
+      "context": "E4489-EN7"
+    },
+    {
+      "question": 112,
+      "page": 34,
+      "topic": "Texto con espacios",
+      "answer_proposal": "C",
+      "reason": "provided with an education requiere provided.",
+      "context": "E4489-EN7"
+    },
+    {
+      "question": 113,
+      "page": 34,
+      "topic": "Texto con espacios",
+      "answer_proposal": "B",
+      "reason": "determined to prove expresa determinacion.",
+      "context": "E4489-EN7"
+    },
+    {
+      "question": 114,
+      "page": 34,
+      "topic": "Texto con espacios",
+      "answer_proposal": "B",
+      "reason": "went on publishing significa continuo publicando.",
+      "context": "E4489-EN7"
+    },
+    {
+      "question": 115,
+      "page": 34,
+      "topic": "Texto con espacios",
+      "answer_proposal": "D",
+      "reason": "ought to expresa recomendacion con to ya impreso.",
+      "context": "E4489-EN7"
+    }
+  ],
+  "next": "Fin de archivo en115,sin cuestionarios finales."
+}

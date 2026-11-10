@@ -1,0 +1,55 @@
+{
+  "file_id": "USB-d4e43db6988a",
+  "date": "2026-10-30",
+  "area": "Sociales y ciudadanas",
+  "scope": "Preguntas58-69,enunciados,contextos y opciones inspeccionados visualmente en físicas21-24.Lectura26-66completa inicialmente.Propuestas no oficiales;marcasazules de autoría desconocida.",
+  "competency_legend": {
+    "PS": "Pensamiento social",
+    "IP": "Interpretación y análisis de perspectivas",
+    "RS": "Pensamiento reflexivo y sistémico"
+  },
+  "contexts": [],
+  "items": [
+    {
+      "question": 67,
+      "page": 24,
+      "topic": "Cambio de perspectiva política según contexto",
+      "competency_code": "IP",
+      "answer_proposal": "D",
+      "reason": "Nariño defiende unidad centralista frente a amenaza española y luego federalismo para libertad con independencia consolidada.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "letra rodeada en azul",
+        "provenance": "Marca en escaneo,autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 68,
+      "page": 24,
+      "topic": "Conflicto de jurisdicción y pertenencia cultural",
+      "competency_code": "IP",
+      "answer_proposal": "B",
+      "reason": "La autoridad del cabildo para sancionar se contrapone a objeción de no pertenecer a comunidad,relacionando jurisdicción y cultura.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "letra rodeada en azul",
+        "provenance": "Marca en escaneo,autoría y carácter oficial no comprobados."
+      },
+      "alert": "No se determina validez jurídica de sanción real;la pregunta clasifica dimensiones del caso."
+    },
+    {
+      "question": 69,
+      "page": 24,
+      "topic": "Límites de argumento sobre libertad de prensa",
+      "competency_code": "PS",
+      "answer_proposal": "A",
+      "reason": "Veracidad e imparcialidad contradicen la pretensión de publicar acusaciones no verificadas sin restricción.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "letra rodeada en azul",
+        "provenance": "Marca en escaneo,autoría y carácter oficial no comprobados."
+      },
+      "alert": "Caso pedagógico,no asesoría legal ni verificación de legislación vigente."
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "file_id": "USB-45e476387c60",
+  "date": "2026-10-30",
+  "area": "Estructura del documento",
+  "scope": "Inspeccionadas visualmente las38 páginas físicas. Cobertura inicial de los134 enunciados académicos presentes; faltan135-147 respecto a147de portada. No confundir cobertura del archivo incompleto con validación docente ni cierre global.",
+  "items": [],
+  "structure": {
+    "cover": {
+      "physical_page": 1,
+      "identity": "Mompox, 2025-2, Segunda sesión, AAK2",
+      "declared_questions": 147,
+      "declared_duration": "4 horas 30 minutos",
+      "calendar": "No explícito; sin confirmar",
+      "authenticity": "No verificada"
+    },
+    "sections": [
+      {
+        "area": "Sociales y ciudadanas",
+        "questions": [
+          1,
+          25
+        ],
+        "physical_pages": [
+          2,
+          9
+        ]
+      },
+      {
+        "area": "Matemáticas",
+        "questions": [
+          26,
+          50
+        ],
+        "physical_pages": [
+          10,
+          17
+        ]
+      },
+      {
+        "area": "Ciencias naturales",
+        "questions": [
+          51,
+          79
+        ],
+        "physical_pages": [
+          18,
+          29
+        ]
+      },
+      {
+        "area": "Inglés",
+        "questions": [
+          80,
+          134
+        ],
+        "physical_pages": [
+          30,
+          38
+        ]
+      }
+    ],
+    "missing_question_numbers": [
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147
+    ],
+    "repeated_pages": [
+      {
+        "physical_pages": [
+          15,
+          16
+        ],
+        "printed_page": 15,
+        "questions": [
+          44,
+          45,
+          46
+        ]
+      },
+      {
+        "physical_pages": [
+          34,
+          35
+        ],
+        "printed_page": 33,
+        "questions": [
+          105,
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112
+        ]
+      }
+    ],
+    "own_academic_reviews": 110,
+    "canonical_references": 24,
+    "source_pdf_changed": false,
+    "next": "Siguiente PDF prioritario; mantener revisión de calidad de propuestas y cotejo global pendientes."
+  }
+}

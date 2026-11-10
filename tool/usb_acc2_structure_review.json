@@ -1,0 +1,65 @@
+{
+  "file_id": "USB-709bc037689b",
+  "date": "2026-10-29",
+  "scope": "Revision visual inicial de todas las paginas1-43.No validacion docente ni autenticidad oficial.",
+  "items": [],
+  "metadata": {
+    "declared_version": "ACC2",
+    "declared_year": "2026-1",
+    "declared_session": 2,
+    "declared_total": 159,
+    "academic_questions": 134,
+    "self_report_questions": 25,
+    "physical_pages": 43,
+    "observed_ranges": [
+      [
+        "Sociales",
+        1,
+        25,
+        2,
+        10
+      ],
+      [
+        "Matematicas",
+        26,
+        50,
+        11,
+        19
+      ],
+      [
+        "Ciencias",
+        51,
+        79,
+        20,
+        32
+      ],
+      [
+        "Ingles",
+        80,
+        134,
+        33,
+        41
+      ],
+      [
+        "Socioeconomico",
+        135,
+        147,
+        42,
+        42
+      ],
+      [
+        "Clima escolar",
+        148,
+        159,
+        43,
+        43
+      ]
+    ],
+    "notes": [
+      "Pagina7 invertida180grados; lectura orientada auxiliar sin alterarPDF.",
+      "Ingles contiene partes1.A,1.B,2,3,4,5,6.A,6.B,7.",
+      "Ciencias59sin clave cerrada por curva horizontal deNaCl.",
+      "Calendario y autenticidad no confirmados; ano y version declarados en fuente."
+    ]
+  }
+}

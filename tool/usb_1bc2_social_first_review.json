@@ -1,0 +1,236 @@
+{
+  "file_id": "USB-1bc205e23b46",
+  "date": "2026-10-30",
+  "area": "Sociales y ciudadanas",
+  "scope": "Preguntas1-3,8-14,18-22enfísicas2-6 inspeccionadas visualmente.PortadaCalendarioBvisible;2025en código,no fecha aislada;s segunda sesión en encabezados.Preguntas4-7y15-17no aparecen en páginas recorridas,pendiente comprobar resto.Marcasrojas no oficiales.",
+  "competency_legend": {
+    "PS": "Pensamiento social",
+    "IP": "Interpretación y análisis de perspectivas",
+    "RS": "Pensamiento reflexivo y sistémico"
+  },
+  "items": [
+    {
+      "question": 1,
+      "page": 2,
+      "topic": "Precisión y alcance de fuentes sobre criminalidad",
+      "competency_code": "IP",
+      "answer_proposal": "B",
+      "reason": "La base registra denuncias comparables en el tiempo;temor y dramatización televisiva no miden número de robos.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo rojo sobre letra",
+        "provenance": "Marca del escaneo,autoría y carácter oficial no comprobados."
+      },
+      "alert": "Denuncias no equivalen a totalidad de delitos por subregistro;es fuente más pertinente entre ofrecidas."
+    },
+    {
+      "question": 2,
+      "page": 2,
+      "topic": "Libre desarrollo de personalidad en escuela",
+      "competency_code": "PS",
+      "answer_proposal": "C",
+      "reason": "Continuar estudios durante embarazo respeta decisiones personales;no implica elegir docentes o prohibir un culto.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "círculo rojo sobre letra",
+        "provenance": "Marca del escaneo,autoría y carácter oficial no comprobados."
+      },
+      "alert": "Discrepancia:marcaA,propuestaC.",
+      "related_file_id": "USB-7882c8f9ae2f",
+      "related_question": 18,
+      "related_page": 6,
+      "variant_comparison": "Contexto,enunciado y opciones cotejados visualmente;distinta numeración y escaneo,marcas verificadas por separado.No eliminar."
+    },
+    {
+      "question": 3,
+      "page": 2,
+      "topic": "Consecuencia no deseada de actividad extractiva",
+      "competency_code": "RS",
+      "answer_proposal": "A",
+      "reason": "La explotación de carbón puede aumentar contaminación del aire y riesgos respiratorios,distintos al beneficio laboral esperado.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "círculo rojo sobre letra",
+        "provenance": "Marca del escaneo,autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 8,
+      "page": 3,
+      "topic": "Complementariedad de medidas de movilidad",
+      "competency_code": "RS",
+      "answer_proposal": "C",
+      "reason": "Infraestructura,control,tecnología y educación pueden articular entidades estatales para enfrentar el problema.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo rojo sobre letra",
+        "provenance": "Marca del escaneo,autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 9,
+      "page": 3,
+      "topic": "Aplicación de realismo en relaciones internacionales",
+      "competency_code": "PS",
+      "answer_proposal": "D",
+      "reason": "Competencia hegemónica y carrera armamentista de GuerraFría ejemplifican búsqueda de poder y seguridad estatal.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "círculo rojo sobre letra",
+        "provenance": "Marca del escaneo,autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 10,
+      "page": 3,
+      "topic": "Autonomía y protección territorial indígena",
+      "competency_code": "PS",
+      "answer_proposal": "B",
+      "reason": "Legislación especial sobre tierras protege autonomía y diversidad frente a intervenciones externas.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo rojo sobre letra",
+        "provenance": "Marca del escaneo,autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 11,
+      "page": 4,
+      "topic": "Condición material para recoger agua lluvia",
+      "competency_code": "RS",
+      "answer_proposal": "D",
+      "reason": "Se requiere infraestructura de recolección;alto estrato o grupos ambientalistas no son condición necesaria.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "círculo rojo sobre letra",
+        "provenance": "Marca del escaneo,autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 12,
+      "page": 4,
+      "topic": "Concepto de rechazo a población extranjera",
+      "competency_code": "PS",
+      "answer_proposal": "B",
+      "reason": "Los fragmentos generalizan contra extranjeros y restringen atención por nacionalidad:corresponde a xenofobia.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo rojo sobre letra",
+        "provenance": "Marca del escaneo,autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 13,
+      "page": 4,
+      "topic": "Límite de inferencia a partir de fuente histórica",
+      "competency_code": "IP",
+      "answer_proposal": "B",
+      "reason": "Un relato de utilización política de un incendio no demuestra conjunto de distintas estrategias;la fuente no basta para esa generalización.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo rojo sobre letra",
+        "provenance": "Marca del escaneo,autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 14,
+      "page": 4,
+      "topic": "Validez de justificación de conducta",
+      "competency_code": "IP",
+      "answer_proposal": "D",
+      "reason": "Admitir conducta o afirmar que otros la realizan no la convierte en correcta.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "círculo rojo sobre letra",
+        "provenance": "Marca del escaneo,autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 18,
+      "page": 5,
+      "topic": "Restricción económica de obra pública",
+      "competency_code": "RS",
+      "answer_proposal": "B",
+      "reason": "Presupuesto insuficiente para diseño propuesto es la dificultad explícita,no trazado o protección ambiental ausentes.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo rojo sobre letra",
+        "provenance": "Marca del escaneo,autoría y carácter oficial no comprobados."
+      },
+      "related_file_id": "USB-d4e43db6988a",
+      "related_question": 84,
+      "related_page": 29,
+      "variant_comparison": "Contexto,enunciado y opciones cotejados visualmente;distinta numeración y escaneo,marcas verificadas por separado.No eliminar."
+    },
+    {
+      "question": 19,
+      "page": 5,
+      "topic": "Funciones militares en transición de paz",
+      "competency_code": "PS",
+      "answer_proposal": "D",
+      "reason": "Custodia responde a adaptación de funciones a contexto sociopolítico,no control del grupo sobre Ejército.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo rojo sobre letra",
+        "provenance": "Marca del escaneo,autoría y carácter oficial no comprobados."
+      },
+      "alert": "Discrepancia:marcaC,propuestaD.",
+      "related_file_id": "USB-d4e43db6988a",
+      "related_question": 85,
+      "related_page": 29,
+      "variant_comparison": "Contexto,enunciado y opciones cotejados visualmente;distinta numeración y escaneo,marcas verificadas por separado.No eliminar."
+    },
+    {
+      "question": 20,
+      "page": 5,
+      "topic": "Confiabilidad y evidencia de discurso climático",
+      "competency_code": "IP",
+      "answer_proposal": null,
+      "reason": "Las frases carecen de evidencia sobre clima,pero ninguna opción identifica con precisión esa falta sin presumir intereses o conocimientos por cargo.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo rojo sobre letra",
+        "provenance": "Marca del escaneo,autoría y carácter oficial no comprobados."
+      },
+      "alert": "MarcaBconservada;interés económico se presupone,no prueba falsedad de frases.No cerrar clave por anotación.",
+      "related_file_id": "USB-d4e43db6988a",
+      "related_question": 86,
+      "related_page": 29,
+      "variant_comparison": "Contexto,enunciado y opciones cotejados visualmente;distinta numeración y escaneo,marcas verificadas por separado.No eliminar."
+    },
+    {
+      "question": 21,
+      "page": 6,
+      "topic": "Aplicación de teoría de dependencia",
+      "competency_code": "PS",
+      "answer_proposal": "B",
+      "reason": "Materias primas baratas compradas en país pobre y productos elaborados revendidos allí reproducen intercambio desigual.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo rojo sobre letra",
+        "provenance": "Marca del escaneo,autoría y carácter oficial no comprobados."
+      },
+      "related_file_id": "USB-d4e43db6988a",
+      "related_question": 87,
+      "related_page": 30,
+      "variant_comparison": "Contexto,enunciado y opciones cotejados visualmente;distinta numeración y escaneo,marcas verificadas por separado.No eliminar."
+    },
+    {
+      "question": 22,
+      "page": 6,
+      "topic": "Sostenibilidad y equilibrio económico-ambiental",
+      "competency_code": "PS",
+      "answer_proposal": "C",
+      "reason": "La definición combina generación de riqueza y protección ambiental para no comprometer generaciones futuras.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo rojo sobre letra",
+        "provenance": "Marca del escaneo,autoría y carácter oficial no comprobados."
+      },
+      "related_file_id": "USB-d4e43db6988a",
+      "related_question": 88,
+      "related_page": 30,
+      "variant_comparison": "Contexto,enunciado y opciones cotejados visualmente;distinta numeración y escaneo,marcas verificadas por separado.No eliminar."
+    }
+  ]
+}

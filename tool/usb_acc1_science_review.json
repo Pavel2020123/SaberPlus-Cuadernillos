@@ -1,0 +1,402 @@
+{
+  "file_id": "USB-91836110f48e",
+  "date": "2026-10-29",
+  "area": "Ciencias naturales",
+  "scope": "Preguntas92-120, paginas fisicas31-42 inspeccionadas visualmente en enunciados,tablas,modelos y alternativas. Sin claves resaltadas observadas. Propuestas no oficiales,sin validacion docente. Los casos clinicos y tecnicos se interpretan como ejercicios,no indicaciones reales.",
+  "competency_legend": {
+    "U": "Uso comprensivo del conocimiento cientifico",
+    "E": "Explicacion de fenomenos",
+    "I": "Indagacion"
+  },
+  "contexts": [
+    {
+      "id": "CN01",
+      "questions": [
+        95,
+        96,
+        97
+      ],
+      "pages": [
+        32,
+        33
+      ],
+      "topic": "Resistencia al glifosato y evolucion"
+    },
+    {
+      "id": "77322-CN02",
+      "questions": [
+        108,
+        109,
+        110
+      ],
+      "pages": [
+        38
+      ],
+      "topic": "Trituracion criogenica"
+    }
+  ],
+  "items": [
+    {
+      "question": 92,
+      "page": 31,
+      "component": "Quimica",
+      "topic": "Separacion por diferencia de temperaturas de ebullicion",
+      "competency_code": "U",
+      "answer_proposal": "B",
+      "reason": "Segun el esquema idealizado, el alcohol de menor punto de ebullicion se recoge como destilado y los solidos permanecen en recipiente1.",
+      "alert": "La destilacion real agua-etanol no produce necesariamente alcohol puro en una sola etapa; B se ajusta al modelo escolar, no garantiza pureza."
+    },
+    {
+      "question": 93,
+      "page": 31,
+      "component": "Biologia",
+      "topic": "Adaptaciones vegetales de paramo",
+      "competency_code": "E",
+      "answer_proposal": "D",
+      "reason": "Hojas pequenas y gruesas limitan perdida de agua; vellos conservan calor y reducen efecto de radiacion y viento."
+    },
+    {
+      "question": 94,
+      "page": 31,
+      "component": "Fisica",
+      "topic": "Conductividad y cierre de circuito",
+      "competency_code": "E",
+      "answer_proposal": "B",
+      "reason": "Al unir terminal del bombillo con moneda conductora se cierra la trayectoria de corriente a traves de materiales metalicos.",
+      "alert": "Presupone contactos adecuados y bateria/bombillo compatibles; no recomendar reproducir sin condiciones de seguridad."
+    },
+    {
+      "question": 95,
+      "page": 32,
+      "context": "CN01",
+      "component": "Biologia",
+      "topic": "Ventaja selectiva y herencia de resistencia",
+      "competency_code": "E",
+      "answer_proposal": "C",
+      "reason": "La resistencia favorece sobrevivir y dejar descendencia bajo presion del herbicida.",
+      "alert": "No garantiza permanencia indefinida; ventaja condicionada al ambiente.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 95,
+      "related_page": 32
+    },
+    {
+      "question": 96,
+      "page": 32,
+      "context": "CN01",
+      "component": "Biologia",
+      "topic": "Prediccion grafica de una hipotesis evolutiva",
+      "competency_code": "I",
+      "answer_proposal": "C",
+      "reason": "La curva continua del fenotipo resistente aumenta y supera a la de crecimiento alto; verificar leyenda es indispensable.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 96,
+      "related_page": 32
+    },
+    {
+      "question": 97,
+      "page": 33,
+      "context": "CN01",
+      "component": "Biologia",
+      "topic": "Mutacion frente a seleccion por herbicida",
+      "competency_code": "E",
+      "answer_proposal": null,
+      "reason": "B parece la alternativa prevista por el contexto, pero el uso prolongado selecciona resistencia y no demuestra causar mutaciones especificas.",
+      "alert": "El texto no identifica el origen de la mutacion. No cerrar una clave que induzca evolucion dirigida por necesidad.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 97,
+      "related_page": 33
+    },
+    {
+      "question": 98,
+      "page": 33,
+      "component": "Fisica",
+      "topic": "Fuerza, masa y movimiento de carritos",
+      "competency_code": "E",
+      "answer_proposal": "B",
+      "reason": "Con el mismo carro y fuerza, la masa del ocupante es la diferencia propuesta compatible con el caso.",
+      "alert": "Igual fuerza no especifica duracion, trabajo ni rozamiento; explicacion escolar condicionada, no conclusion mecanica general.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 98,
+      "related_page": 33
+    },
+    {
+      "question": 99,
+      "page": 33,
+      "component": "Fisica",
+      "topic": "Electroiman y contrastacion de hipotesis",
+      "competency_code": "I",
+      "answer_proposal": "B",
+      "reason": "La atraccion tras cerrar el circuito apoya la generacion de campo magnetico por corriente; no se variaron materiales ni numero de vueltas.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 99,
+      "related_page": 33
+    },
+    {
+      "question": 100,
+      "page": 34,
+      "component": "Quimica",
+      "topic": "Magnitudes y unidades de laboratorio",
+      "competency_code": "U",
+      "answer_proposal": "C",
+      "reason": "Masa en gramos, concentracion en molaridad y temperatura en kelvin corresponden a las magnitudes indicadas.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 100,
+      "related_page": 34
+    },
+    {
+      "question": 101,
+      "page": 34,
+      "component": "Quimica",
+      "topic": "Interseccion de curvas de solubilidad",
+      "competency_code": "U",
+      "answer_proposal": "D",
+      "reason": "Las curvas se cruzan aproximadamente a 10 grados Celsius.",
+      "ocr_correction": "La opcion D visible es 10 grados Celsius, NO 110 como indica el OCR.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 101,
+      "related_page": 34
+    },
+    {
+      "question": 102,
+      "page": 34,
+      "component": "Biologia",
+      "topic": "Transporte de oxigeno y eritrocitos",
+      "competency_code": "U",
+      "answer_proposal": "D",
+      "reason": "La hemoglobina transportadora se encuentra en globulos rojos.",
+      "note": "Clasificacion del caso educativo, no diagnostico medico.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 102,
+      "related_page": 34
+    },
+    {
+      "question": 103,
+      "page": 35,
+      "component": "Biologia",
+      "topic": "Reabsorcion tubular y composicion de orina",
+      "competency_code": "E",
+      "answer_proposal": "B",
+      "reason": "Segun el modelo, fallar la reabsorcion deja mas agua y nutrientes en el filtrado.",
+      "alert": "El esquema tambien simplifica secrecion y filtracion; no convertirlo en descripcion fisiologica exhaustiva.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 103,
+      "related_page": 35
+    },
+    {
+      "question": 104,
+      "page": 35,
+      "component": "Quimica",
+      "topic": "Evaluacion experimental de hipotesis sobre corrosion",
+      "competency_code": "I",
+      "answer_proposal": "B",
+      "reason": "La misma corrosion para distintas proporciones no respalda que la baja cantidad de hierro explique el resultado.",
+      "note": "La evidencia contradice la hipotesis en el ensayo, no establece falsedad universal.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 104,
+      "related_page": 35
+    },
+    {
+      "question": 105,
+      "page": 36,
+      "component": "Quimica",
+      "topic": "Compresion isotermica y modelo particulado",
+      "competency_code": "U",
+      "answer_proposal": "A",
+      "reason": "Conserva cantidad de particulas y temperatura mientras disminuye volumen y aumenta presion.",
+      "visual_dependency": "Termometros, manometros y particulas de las cuatro opciones",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 105,
+      "related_page": 36
+    },
+    {
+      "question": 106,
+      "page": 37,
+      "component": "Fisica",
+      "topic": "Lectura comparativa de curvas de enfriamiento",
+      "competency_code": "U",
+      "answer_proposal": "A",
+      "reason": "A los diez minutos la separacion de curvas es claramente menor que diez grados.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 106,
+      "related_page": 37
+    },
+    {
+      "question": 107,
+      "page": 37,
+      "component": "Fisica",
+      "topic": "Relaciones entre humedad, temperatura y atenuacion sonora",
+      "competency_code": "E",
+      "answer_proposal": "B",
+      "reason": "Bajo las premisas del ejercicio, bajar temperatura eleva humedad y aumenta la reduccion sonora.",
+      "alert": "La proporcionalidad inversa se usa como supuesto dado, no como ley universal sin condiciones.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 107,
+      "related_page": 37
+    },
+    {
+      "question": 108,
+      "page": 38,
+      "context": "77322-CN02",
+      "component": "Fisica",
+      "topic": "Transferencia de calor",
+      "competency_code": "E",
+      "answer_proposal": "C",
+      "reason": "La energia del caucho mas caliente se transfiere por calor al nitrogeno mas frio.",
+      "related_file_id": "USB-578d9b20297e",
+      "related_question": 54,
+      "related_page": 21
+    },
+    {
+      "question": 109,
+      "page": 38,
+      "context": "77322-CN02",
+      "component": "Fisica",
+      "topic": "Adaptacion de trituracion sin enfriamiento",
+      "competency_code": "E",
+      "answer_proposal": "C",
+      "reason": "El material menos fragil requiere mayor esfuerzo mecanico de trituracion.",
+      "related_file_id": "USB-578d9b20297e",
+      "related_question": 55,
+      "related_page": 21
+    },
+    {
+      "question": 110,
+      "page": 38,
+      "context": "77322-CN02",
+      "component": "Ciencia tecnologia y sociedad",
+      "topic": "Comparacion de procesos industriales",
+      "competency_code": "U",
+      "answer_proposal": "A",
+      "reason": "El enfriamiento facilita pulverizar mas rapidamente; no demuestra ausencia de gasto o impacto.",
+      "related_file_id": "USB-578d9b20297e",
+      "related_question": 56,
+      "related_page": 21
+    },
+    {
+      "question": 111,
+      "page": 39,
+      "component": "Indagacion transversal",
+      "topic": "Lectura y unidades de instrumentos",
+      "competency_code": "I",
+      "answer_proposal": "C",
+      "reason": "Magnitudes correspondientes: 445 g, 36 mL, 3.3 cm.",
+      "related_file_id": "USB-578d9b20297e",
+      "related_question": 57,
+      "related_page": 22
+    },
+    {
+      "question": 112,
+      "page": 39,
+      "component": "Quimica",
+      "topic": "Representacion de hipotesis experimental",
+      "competency_code": "I",
+      "answer_proposal": "C",
+      "reason": "Muestra tiempos de reaccion mayores para trozos grandes y menores para pequenos.",
+      "related_file_id": "USB-578d9b20297e",
+      "related_question": 58,
+      "related_page": 22
+    },
+    {
+      "question": 113,
+      "page": 40,
+      "component": "Fisica",
+      "topic": "Direccion del movimiento e impacto",
+      "competency_code": "E",
+      "answer_proposal": "C",
+      "reason": "La velocidad paralela al plano reduce la componente normal y el cambio brusco en el aterrizaje.",
+      "alert": "El momento del ciclista no tiene por que conservarse exactamente durante contacto con fuerza externa.",
+      "related_file_id": "USB-578d9b20297e",
+      "related_question": 59,
+      "related_page": 23
+    },
+    {
+      "question": 114,
+      "page": 40,
+      "component": "Biologia",
+      "topic": "Pregunta de investigacion en condicionamiento",
+      "competency_code": "I",
+      "answer_proposal": "C",
+      "reason": "Se investiga aprender una respuesta al asociar estimulo nuevo y conocido.",
+      "related_file_id": "USB-578d9b20297e",
+      "related_question": 60,
+      "related_page": 23
+    },
+    {
+      "question": 115,
+      "page": 40,
+      "component": "Biologia",
+      "topic": "Genotipo heterocigoto",
+      "competency_code": "U",
+      "answer_proposal": "D",
+      "reason": "El descendiente tiene alelos G y g diferentes.",
+      "related_file_id": "USB-578d9b20297e",
+      "related_question": 61,
+      "related_page": 23
+    },
+    {
+      "question": 116,
+      "page": 41,
+      "component": "Quimica",
+      "topic": "Seleccion por propiedades de sustancias",
+      "competency_code": "U",
+      "answer_proposal": "D",
+      "reason": "La cuarta sustancia cumple ebullicion menor que 130, solubilidad y no conductividad.",
+      "related_file_id": "USB-578d9b20297e",
+      "related_question": 62,
+      "related_page": 24
+    },
+    {
+      "question": 117,
+      "page": 41,
+      "component": "Fisica",
+      "topic": "Intensidad y distancia",
+      "competency_code": "E",
+      "answer_proposal": "C",
+      "reason": "La opcion describe disminucion con inverso del cuadrado de distancia, bajo el modelo dado.",
+      "alert": "Revisar significado dimensional de intensidad en mm y condiciones del rociador antes de generalizar.",
+      "related_file_id": "USB-578d9b20297e",
+      "related_question": 63,
+      "related_page": 24
+    },
+    {
+      "question": 118,
+      "page": 41,
+      "component": "Quimica",
+      "topic": "Mesetas de cambio de fase",
+      "competency_code": "U",
+      "answer_proposal": "C",
+      "reason": "La grafica C presenta mesetas en fusion y vaporizacion, sin mesetas extras.",
+      "related_file_id": "USB-578d9b20297e",
+      "related_question": 64,
+      "related_page": 24
+    },
+    {
+      "question": 119,
+      "page": 42,
+      "component": "Biologia",
+      "topic": "Rangos de tolerancia de peces",
+      "competency_code": "U",
+      "answer_proposal": "D",
+      "reason": "pH y amoniaco superan los limites de la tabla; temperatura y nitritos no.",
+      "alert": "La supervivencia es prediccion escolar simplificada, no conclusion experimental por exposicion instantanea.",
+      "related_file_id": "USB-578d9b20297e",
+      "related_question": 65,
+      "related_page": 25
+    },
+    {
+      "question": 120,
+      "page": 42,
+      "component": "Quimica",
+      "topic": "Expansion a presion constante",
+      "competency_code": "E",
+      "answer_proposal": "C",
+      "reason": "El volumen del gas con paredes flexibles aumenta al subir temperatura y conservar presion.",
+      "alert": "La relacion proporcional absoluta usa kelvin, no necesariamente Celsius.",
+      "related_file_id": "USB-578d9b20297e",
+      "related_question": 66,
+      "related_page": 25
+    }
+  ],
+  "comparison_scope": "26 pares cotejados:95-107 con el mismo rango del primer PDF y108-120 con54-66 de77322. Datos,opciones y figuras coinciden sustantivamente en ese alcance; distinta numeracion y escaneo. No heredar resaltados del otro ejemplar ni fusionar con bloque de deforestacion108-110 del primer PDF.",
+  "next": "Cuestionario socioeconomico121-131,pagina fisica43; no se observa bloque final de clima en este archivo."
+}

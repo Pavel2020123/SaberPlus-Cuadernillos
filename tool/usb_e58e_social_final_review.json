@@ -1,0 +1,118 @@
+{
+  "file_id": "USB-e58ef5771b78",
+  "date": "2026-10-30",
+  "area": "Sociales y ciudadanas",
+  "scope": "Físicas4-5,impresas6-8 completas inspeccionadas visualmente.11fichas15-25sin identidad exacta verificada con registros consultados;Sociales1-25 inicialmente cubierta.",
+  "items": [
+    {
+      "question": 15,
+      "page": 4,
+      "printed_page": 6,
+      "topic": "Coincidencia entre perspectivas sobre monumento",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "answer_proposal": "C",
+      "reason": "Las tres posturas reconocen relevancia del personaje para memoria o historia del pueblo, aunque discrepen sobre culpa y homenaje.",
+      "alert": "No comparten valoración moral ni permanencia incondicional de estatua."
+    },
+    {
+      "question": 16,
+      "page": 4,
+      "printed_page": 6,
+      "topic": "Intención de comentario sobre fútbol femenino",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "answer_proposal": "A",
+      "reason": "El periodista reclama más que aplausos y destaca desigualdad laboral y económica; busca respaldo efectivo de directivas a jugadoras.",
+      "alert": "No pide preferir fútbol femenino sobre masculino ni impone carrera a mujeres."
+    },
+    {
+      "question": 17,
+      "page": 4,
+      "printed_page": 6,
+      "topic": "Límites de generalización desde ejemplo histórico",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "answer_proposal": "B",
+      "reason": "Reacción de un muchacho no basta para concluir atracción de todos los sectores, edades y clases romanas.",
+      "alert": "El relato sí apoya atracción de ese individuo; no prueba universalidad de audiencia."
+    },
+    {
+      "question": 18,
+      "page": 4,
+      "printed_page": 6,
+      "topic": "Condición de transferencia de política proteccionista",
+      "competency_proposal": "Pensamiento reflexivo y sistémico",
+      "answer_proposal": "C",
+      "reason": "Para sustituir importaciones con producción local se requiere capacidad empresarial de satisfacer expectativas de calidad.",
+      "alert": "Condición pertinente, no garantía suficiente de efectos económicos ni recomendación comercial actual."
+    },
+    {
+      "question": 19,
+      "page": 4,
+      "printed_page": 7,
+      "topic": "Efecto no deseado de proyecto termoeléctrico",
+      "competency_proposal": "Pensamiento reflexivo y sistémico",
+      "answer_proposal": "A",
+      "reason": "Contaminación del aire ligada al carbón puede aumentar problemas respiratorios, un efecto negativo no buscado frente a empleo e inversión.",
+      "alert": "Se responde al escenario; no cuantifica riesgo clínico. C introduce petróleo en proyecto de carbón; D presupone sobreoferta no indicada."
+    },
+    {
+      "question": 20,
+      "page": 4,
+      "printed_page": 7,
+      "topic": "Control recíproco entre ramas del poder",
+      "competency_proposal": "Pensamiento social",
+      "answer_proposal": "B",
+      "reason": "La moción de censura ejemplifica control del Legislativo sobre Ejecutivo para evitar concentración de poder.",
+      "alert": "No prueba superioridad absoluta del Congreso ni competencia exclusiva judicial; análisis conceptual, no trámite vigente."
+    },
+    {
+      "question": 21,
+      "page": 4,
+      "printed_page": 7,
+      "topic": "Incentivos discriminatorios contra asociación sindical",
+      "competency_proposal": "Pensamiento social",
+      "answer_proposal": "B",
+      "reason": "Reservar beneficios a no asociados desalienta sindicalización y afecta derecho a constituir sindicatos.",
+      "alert": "No se evalúa situación legal real ni se identifica automáticamente derecho a estabilidad por esos incentivos."
+    },
+    {
+      "question": 22,
+      "page": 4,
+      "printed_page": 7,
+      "topic": "Contextualización de discurso bélico británico",
+      "competency_proposal": "Pensamiento social",
+      "answer_proposal": "C",
+      "reason": "Referencia a Gestapo, Gobierno nazi, Francia y defensa británica corresponde al conflicto con Alemania en Segunda Guerra Mundial.",
+      "alert": "Identificación por pistas internas; no se adopta retórica imperial como justificación normativa."
+    },
+    {
+      "question": 23,
+      "page": 5,
+      "printed_page": 8,
+      "topic": "Ubicación geográfica de ruta migratoria",
+      "competency_proposal": "Pensamiento social",
+      "answer_proposal": "D",
+      "reason": "Selva del Darién corresponde a zona fronteriza Colombia-Panamá.",
+      "alert": "El testimonio narra riesgos, no se utiliza como guía de viaje."
+    },
+    {
+      "question": 24,
+      "page": 5,
+      "printed_page": 8,
+      "topic": "Relación entre fuente religiosa y justicia distributiva",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "answer_proposal": "B",
+      "reason": "Encíclica reclama bienes para uso común y atención a pobres; coincide con aspiración de estructuras sociales y económicas más justas.",
+      "alert": "Coincidencia conceptual no prueba por sí sola genealogía completa de teología de liberación."
+    },
+    {
+      "question": 25,
+      "page": 5,
+      "printed_page": 8,
+      "topic": "Inferencia de orientación desde defensa de tradiciones",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "answer_proposal": "B",
+      "reason": "Énfasis en preservar tradiciones y rol social asignado a mujeres es la pista compatible con conservadurismo entre opciones.",
+      "alert": "Propuesta condicionada: no prueba militancia partidista ni autoría o género; se analiza hipótesis textual, evitando estereotipar identidades indígenas."
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "schema": 1,
+  "revision": 0,
+  "code": "SP-001",
+  "session": "first",
+  "time": "",
+  "targets": {
+    "mathematics": null,
+    "reading": null,
+    "social": null,
+    "science": null,
+    "english": null
+  },
+  "area_headers": {
+    "mathematics": {
+      "title": "MATEMÁTICAS",
+      "instructions": ""
+    }
+  },
+  "contexts": [
+    {
+      "id": "ctx-feria-demo-20261031",
+      "area": "mathematics",
+      "range_heading": "RESPONDA LAS PREGUNTAS {{desde}} A {{hasta}} DE ACUERDO CON LA SIGUIENTE INFORMACIÓN",
+      "title": "Una feria para compartir historias",
+      "text": "Un colegio organizó una feria de lectura. La gráfica muestra las entradas vendidas durante cuatro días. Cada entrada costó $4.000 y no hubo descuentos.",
+      "image": "assets/uploads/d256f1652575c6e4663e040e64e68b3a.png",
+      "source": "Elaboración original SaberPlus. Datos ficticios para esta prueba de diseño."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q-feria-demo-1",
+      "area": "mathematics",
+      "part": 0,
+      "order": 1,
+      "topic": "Lectura de gráficas",
+      "subtopic": "",
+      "stem": "¿En qué día se vendieron más entradas?",
+      "options": [
+        {
+          "text": "Lunes."
+        },
+        {
+          "text": "Martes."
+        },
+        {
+          "text": "Miércoles."
+        },
+        {
+          "text": "Jueves."
+        }
+      ],
+      "correct": "D",
+      "explanation": "Jueves registra 60 entradas, más que lunes (40), martes (55) y miércoles (45).",
+      "layout": "columns",
+      "included": true,
+      "context": "ctx-feria-demo-20261031",
+      "slot": "",
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "mathematics",
+        "status": "proposed",
+        "competency": "interpretation",
+        "process": null,
+        "claim": "1",
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "Propuesta original para revisar el diseño; clasificación pendiente de revisión docente.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-feria-demo-2",
+      "area": "mathematics",
+      "part": 0,
+      "order": 2,
+      "topic": "Operaciones con datos",
+      "subtopic": "",
+      "stem": "¿Cuántas entradas se vendieron en total durante los cuatro días?",
+      "options": [
+        {
+          "text": "145 entradas."
+        },
+        {
+          "text": "155 entradas."
+        },
+        {
+          "text": "200 entradas."
+        },
+        {
+          "text": "220 entradas."
+        }
+      ],
+      "correct": "C",
+      "explanation": "Se suman los cuatro registros: 40 + 55 + 45 + 60 = 200 entradas.",
+      "layout": "columns",
+      "included": true,
+      "context": "ctx-feria-demo-20261031",
+      "slot": "",
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "mathematics",
+        "status": "proposed",
+        "competency": "execution",
+        "process": null,
+        "claim": "2",
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "Propuesta original para revisar el diseño; clasificación pendiente de revisión docente.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-feria-demo-3",
+      "area": "mathematics",
+      "part": 0,
+      "order": 3,
+      "topic": "Porcentajes",
+      "subtopic": "",
+      "stem": "¿Qué porcentaje del total de entradas se vendió el jueves?",
+      "options": [
+        {
+          "text": "20 %."
+        },
+        {
+          "text": "25 %."
+        },
+        {
+          "text": "30 %."
+        },
+        {
+          "text": "60 %."
+        }
+      ],
+      "correct": "C",
+      "explanation": "El total es 200. Las 60 entradas del jueves representan 60/200 × 100 = 30 %.",
+      "layout": "columns",
+      "included": true,
+      "context": "ctx-feria-demo-20261031",
+      "slot": "",
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "mathematics",
+        "status": "proposed",
+        "competency": "execution",
+        "process": null,
+        "claim": "2",
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "Propuesta original para revisar el diseño; clasificación pendiente de revisión docente.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-feria-demo-4",
+      "area": "mathematics",
+      "part": 0,
+      "order": 4,
+      "topic": "Cálculo de ingresos",
+      "subtopic": "",
+      "stem": "¿Cuánto dinero se recaudó por la venta de entradas durante los cuatro días?",
+      "options": [
+        {
+          "text": "$200.000."
+        },
+        {
+          "text": "$800.000."
+        },
+        {
+          "text": "$600.000."
+        },
+        {
+          "text": "$240.000."
+        }
+      ],
+      "correct": "B",
+      "explanation": "Se vendieron 200 entradas a $4.000: 200 × 4.000 = $800.000.",
+      "layout": "columns",
+      "included": true,
+      "context": "ctx-feria-demo-20261031",
+      "slot": "",
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "mathematics",
+        "status": "proposed",
+        "competency": "execution",
+        "process": null,
+        "claim": "2",
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "Propuesta original para revisar el diseño; clasificación pendiente de revisión docente.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-feria-demo-5",
+      "area": "mathematics",
+      "part": 0,
+      "order": 5,
+      "topic": "Interpretación del promedio",
+      "subtopic": "",
+      "stem": "Una estudiante afirma: «El promedio fue de 50 entradas diarias; por eso, cada día se vendieron 50». ¿Es correcta su conclusión?",
+      "options": [
+        {
+          "text": "No; el promedio no exige que los cuatro registros sean iguales."
+        },
+        {
+          "text": "Sí; un promedio siempre coincide con cada registro."
+        },
+        {
+          "text": "Sí; la gráfica muestra 50 entradas en los cuatro días."
+        },
+        {
+          "text": "No; para calcular un promedio se usa solo el mayor registro."
+        }
+      ],
+      "correct": "A",
+      "explanation": "El promedio es 200/4 = 50, pero los registros son 40, 55, 45 y 60. La media no implica igualdad de los datos.",
+      "layout": "columns",
+      "included": true,
+      "context": "ctx-feria-demo-20261031",
+      "slot": "",
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "mathematics",
+        "status": "proposed",
+        "competency": "argumentation",
+        "process": null,
+        "claim": "3",
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "Propuesta original para revisar el diseño; clasificación pendiente de revisión docente.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    }
+  ]
+}

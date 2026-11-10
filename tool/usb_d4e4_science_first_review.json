@@ -1,0 +1,27 @@
+{
+  "file_id": "USB-d4e43db6988a",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Preguntas92-93ycontextocompartido92-94enfísica32inspeccionados visualmente.94aún no revisada.Propuestas no oficiales,sin opciones marcadas observadas.",
+  "competency_legend": {
+    "E": "Explicación de fenómenos"
+  },
+  "items": [
+    {
+      "question": 92,
+      "page": 32,
+      "topic": "Identificación de fuente de contaminación acuática",
+      "competency_code": "E",
+      "answer_proposal": "C",
+      "reason": "El contexto identifica aceites residuales vertidos al desagüe de hogares,industria y restaurantes."
+    },
+    {
+      "question": 93,
+      "page": 32,
+      "topic": "Fotosíntesis y producción de materia orgánica",
+      "competency_code": "E",
+      "answer_proposal": "D",
+      "reason": "Si fotosíntesis se impide,no se sintetizan adecuadamente carbohidratos necesarios para crecimiento;oxígeno es producto del esquema,no reactivo requerido."
+    }
+  ]
+}

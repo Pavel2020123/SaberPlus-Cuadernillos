@@ -1,0 +1,141 @@
+{
+  "file_id": "USB-73fbd3be4b98",
+  "date": "2026-10-30",
+  "area": "Lectura crítica",
+  "scope": "Físicas17-21 completas;46-57referencias exactas, sin repetir fichas.",
+  "items": [],
+  "duplicate_occurrences": [
+    {
+      "question": 46,
+      "page": 17,
+      "printed_page": 17,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 64,
+      "canonical_page": 12,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de contexto y cuatro opciones conAAA1físicas6-8y12. Incluye figura DMM con cifras y leyendas idénticas.",
+      "observed_annotation": "Solo cambia numeración/distribución."
+    },
+    {
+      "question": 47,
+      "page": 17,
+      "printed_page": 17,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 65,
+      "canonical_page": 12,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de contexto y cuatro opciones conAAA1físicas6-8y12. Incluye figura DMM con cifras y leyendas idénticas.",
+      "observed_annotation": "Solo cambia numeración/distribución."
+    },
+    {
+      "question": 48,
+      "page": 17,
+      "printed_page": 17,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 66,
+      "canonical_page": 12,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de contexto y cuatro opciones conAAA1físicas6-8y12. Incluye figura DMM con cifras y leyendas idénticas.",
+      "observed_annotation": "Solo cambia numeración/distribución."
+    },
+    {
+      "question": 49,
+      "page": 18,
+      "printed_page": 18,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 31,
+      "canonical_page": 6,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de contexto y cuatro opciones conAAA1físicas6-8y12. Incluye figura DMM con cifras y leyendas idénticas.",
+      "observed_annotation": "Solo cambia numeración/distribución."
+    },
+    {
+      "question": 50,
+      "page": 18,
+      "printed_page": 18,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 32,
+      "canonical_page": 6,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de contexto y cuatro opciones conAAA1físicas6-8y12. Incluye figura DMM con cifras y leyendas idénticas.",
+      "observed_annotation": "Solo cambia numeración/distribución."
+    },
+    {
+      "question": 51,
+      "page": 19,
+      "printed_page": 19,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 33,
+      "canonical_page": 7,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de contexto y cuatro opciones conAAA1físicas6-8y12. Incluye figura DMM con cifras y leyendas idénticas.",
+      "observed_annotation": "Solo cambia numeración/distribución."
+    },
+    {
+      "question": 52,
+      "page": 19,
+      "printed_page": 19,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 34,
+      "canonical_page": 7,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de contexto y cuatro opciones conAAA1físicas6-8y12. Incluye figura DMM con cifras y leyendas idénticas.",
+      "observed_annotation": "Solo cambia numeración/distribución."
+    },
+    {
+      "question": 53,
+      "page": 20,
+      "printed_page": 20,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 35,
+      "canonical_page": 7,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de contexto y cuatro opciones conAAA1físicas6-8y12. Incluye figura DMM con cifras y leyendas idénticas.",
+      "observed_annotation": "Solo cambia numeración/distribución."
+    },
+    {
+      "question": 54,
+      "page": 21,
+      "printed_page": 21,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 36,
+      "canonical_page": 8,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de contexto y cuatro opciones conAAA1físicas6-8y12. Incluye figura DMM con cifras y leyendas idénticas.",
+      "observed_annotation": "Solo cambia numeración/distribución."
+    },
+    {
+      "question": 55,
+      "page": 21,
+      "printed_page": 21,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 37,
+      "canonical_page": 8,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de contexto y cuatro opciones conAAA1físicas6-8y12. Incluye figura DMM con cifras y leyendas idénticas.",
+      "observed_annotation": "Solo cambia numeración/distribución."
+    },
+    {
+      "question": 56,
+      "page": 21,
+      "printed_page": 21,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 38,
+      "canonical_page": 8,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de contexto y cuatro opciones conAAA1físicas6-8y12. Incluye figura DMM con cifras y leyendas idénticas.",
+      "observed_annotation": "Solo cambia numeración/distribución."
+    },
+    {
+      "question": 57,
+      "page": 21,
+      "printed_page": 21,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 39,
+      "canonical_page": 8,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de contexto y cuatro opciones conAAA1físicas6-8y12. Incluye figura DMM con cifras y leyendas idénticas.",
+      "observed_annotation": "Solo cambia numeración/distribución."
+    }
+  ]
+}

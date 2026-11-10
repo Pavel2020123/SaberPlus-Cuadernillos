@@ -1,0 +1,171 @@
+{
+  "file_id": "USB-4d0661231ca3",
+  "date": "2026-10-30",
+  "area": "Sociales y ciudadanas",
+  "scope": "Físicas5-8 completas.11-14cuatro fichas;15-25once referencias exactas aABR1. Sociales1-25cubierta inicialmente.",
+  "items": [
+    {
+      "question": 11,
+      "page": 5,
+      "printed_page": 5,
+      "answer_proposal": "C",
+      "topic": "Condiciones de acceso a educación superior",
+      "competency_proposal": "Pensamiento reflexivo y sistémico",
+      "reason": "Exigir buen desempeño no considera cómo calidad desigual de educación primaria/secundaria afecta rendimiento de aspirantes.",
+      "alert": "La selección sí menciona nivel socioeconómico y acreditación;no afirmar que los omite."
+    },
+    {
+      "question": 12,
+      "page": 5,
+      "printed_page": 5,
+      "answer_proposal": "C",
+      "topic": "Segregación y persecución",
+      "competency_proposal": "Pensamiento social",
+      "reason": "Guetos y separación de población judía describen segregación vinculada al genocidio.",
+      "alert": "Genocidio no equivale solo a segregación;el ejercicio pregunta concepto relacionado."
+    },
+    {
+      "question": 13,
+      "page": 5,
+      "printed_page": 5,
+      "answer_proposal": "C",
+      "topic": "Obstáculo cultural a solución técnica",
+      "competency_proposal": "Pensamiento reflexivo y sistémico",
+      "reason": "Líderes exigen mantener tradición de siembra y riego por lluvia,lo que obstaculiza molino para extraer agua.",
+      "alert": "No falta de dinero:materiales reciclados y diseño simple descritos;no ridiculizar creencias."
+    },
+    {
+      "question": 14,
+      "page": 5,
+      "printed_page": 5,
+      "answer_proposal": "A",
+      "topic": "Intervención estatal en economía mixta",
+      "competency_proposal": "Pensamiento social",
+      "reason": "Alcaldía al terminar contrato de alcantarillado por incumplimiento actúa como autoridad pública.",
+      "alert": "OpciónCnegociación laboral no menciona intervención estatal explícita."
+    }
+  ],
+  "duplicate_occurrences": [
+    {
+      "question": 15,
+      "page": 6,
+      "printed_page": 6,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 70,
+      "canonical_page": 24,
+      "exact_content": true,
+      "verification": "Cotejo visual completo conABR1físicas24-26:carretera,cosmovisión,programajuventud,tráficosilvestre,Congreso,educaciónindígena,música,campaña1994,adopción,neoliberalismo e inflación;contextos y opciones idénticos.",
+      "observed_annotation": "Solo cambia numeración y diseño."
+    },
+    {
+      "question": 16,
+      "page": 6,
+      "printed_page": 6,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 71,
+      "canonical_page": 24,
+      "exact_content": true,
+      "verification": "Cotejo visual completo conABR1físicas24-26:carretera,cosmovisión,programajuventud,tráficosilvestre,Congreso,educaciónindígena,música,campaña1994,adopción,neoliberalismo e inflación;contextos y opciones idénticos.",
+      "observed_annotation": "Solo cambia numeración y diseño."
+    },
+    {
+      "question": 17,
+      "page": 6,
+      "printed_page": 6,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 72,
+      "canonical_page": 24,
+      "exact_content": true,
+      "verification": "Cotejo visual completo conABR1físicas24-26:carretera,cosmovisión,programajuventud,tráficosilvestre,Congreso,educaciónindígena,música,campaña1994,adopción,neoliberalismo e inflación;contextos y opciones idénticos.",
+      "observed_annotation": "Solo cambia numeración y diseño."
+    },
+    {
+      "question": 18,
+      "page": 7,
+      "printed_page": 7,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 73,
+      "canonical_page": 25,
+      "exact_content": true,
+      "verification": "Cotejo visual completo conABR1físicas24-26:carretera,cosmovisión,programajuventud,tráficosilvestre,Congreso,educaciónindígena,música,campaña1994,adopción,neoliberalismo e inflación;contextos y opciones idénticos.",
+      "observed_annotation": "Solo cambia numeración y diseño."
+    },
+    {
+      "question": 19,
+      "page": 7,
+      "printed_page": 7,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 74,
+      "canonical_page": 25,
+      "exact_content": true,
+      "verification": "Cotejo visual completo conABR1físicas24-26:carretera,cosmovisión,programajuventud,tráficosilvestre,Congreso,educaciónindígena,música,campaña1994,adopción,neoliberalismo e inflación;contextos y opciones idénticos.",
+      "observed_annotation": "Solo cambia numeración y diseño."
+    },
+    {
+      "question": 20,
+      "page": 7,
+      "printed_page": 7,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 75,
+      "canonical_page": 25,
+      "exact_content": true,
+      "verification": "Cotejo visual completo conABR1físicas24-26:carretera,cosmovisión,programajuventud,tráficosilvestre,Congreso,educaciónindígena,música,campaña1994,adopción,neoliberalismo e inflación;contextos y opciones idénticos.",
+      "observed_annotation": "Solo cambia numeración y diseño."
+    },
+    {
+      "question": 21,
+      "page": 7,
+      "printed_page": 7,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 76,
+      "canonical_page": 25,
+      "exact_content": true,
+      "verification": "Cotejo visual completo conABR1físicas24-26:carretera,cosmovisión,programajuventud,tráficosilvestre,Congreso,educaciónindígena,música,campaña1994,adopción,neoliberalismo e inflación;contextos y opciones idénticos.",
+      "observed_annotation": "Solo cambia numeración y diseño."
+    },
+    {
+      "question": 22,
+      "page": 8,
+      "printed_page": 8,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 77,
+      "canonical_page": 26,
+      "exact_content": true,
+      "verification": "Cotejo visual completo conABR1físicas24-26:carretera,cosmovisión,programajuventud,tráficosilvestre,Congreso,educaciónindígena,música,campaña1994,adopción,neoliberalismo e inflación;contextos y opciones idénticos.",
+      "observed_annotation": "Solo cambia numeración y diseño."
+    },
+    {
+      "question": 23,
+      "page": 8,
+      "printed_page": 8,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 78,
+      "canonical_page": 26,
+      "exact_content": true,
+      "verification": "Cotejo visual completo conABR1físicas24-26:carretera,cosmovisión,programajuventud,tráficosilvestre,Congreso,educaciónindígena,música,campaña1994,adopción,neoliberalismo e inflación;contextos y opciones idénticos.",
+      "observed_annotation": "Solo cambia numeración y diseño."
+    },
+    {
+      "question": 24,
+      "page": 8,
+      "printed_page": 8,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 79,
+      "canonical_page": 26,
+      "exact_content": true,
+      "verification": "Cotejo visual completo conABR1físicas24-26:carretera,cosmovisión,programajuventud,tráficosilvestre,Congreso,educaciónindígena,música,campaña1994,adopción,neoliberalismo e inflación;contextos y opciones idénticos.",
+      "observed_annotation": "Solo cambia numeración y diseño."
+    },
+    {
+      "question": 25,
+      "page": 8,
+      "printed_page": 8,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 80,
+      "canonical_page": 26,
+      "exact_content": true,
+      "verification": "Cotejo visual completo conABR1físicas24-26:carretera,cosmovisión,programajuventud,tráficosilvestre,Congreso,educaciónindígena,música,campaña1994,adopción,neoliberalismo e inflación;contextos y opciones idénticos.",
+      "observed_annotation": "Solo cambia numeración y diseño."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "file_id": "USB-d4e43db6988a",
+  "date": "2026-10-30",
+  "area": "Estructura documental",
+  "scope": "Primera inspección visual de45páginas y documentación de todos131enunciados presentes,no validación docente ni autenticación oficial.",
+  "items": [],
+  "metadata": {
+    "cover": {
+      "period": "2026-1",
+      "session": "Primera sesión",
+      "questions": 131,
+      "duration": "4h30",
+      "illustration": "Cóndor Andino",
+      "calendar": "No confirmado,Bsoloen nombre",
+      "authenticity": "No verificada"
+    },
+    "physical_pages": 45,
+    "blank_pages": [
+      45
+    ],
+    "academic_present": 120,
+    "self_report_present": 11,
+    "ranges": {
+      "matematicas": "1-25en2-9",
+      "lectura": "26-66en10-23",
+      "sociales": "67-91en24-31",
+      "ciencias": "92-120en32-43",
+      "socioeconomico": "121-131en44"
+    },
+    "unresolved": [
+      "Sociales76y86sin clave por alternativas imprecisas.",
+      "Sociales90marcaB,propuestaC.",
+      "Lectura59propuestaDcondicionada a perspectiva y cita satírica.",
+      "Matemáticas20aceleración impresa inconsistente con enunciado.",
+      "Lectura50/51discordancia niña/protagonistaRiad."
+    ],
+    "collection_complete": false
+  }
+}

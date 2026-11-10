@@ -1,0 +1,125 @@
+{
+  "file_id": "USB-1c6462bf5377",
+  "date": "2026-10-30",
+  "area": "Matemáticas",
+  "scope": "Físicas1-7 inspeccionadas visualmente, con orientación de6-7 para lectura. Portada repetida1y3; página impresa2 repetida en físicas2y4 con mismos ítems1-3. Se documenta una ficha por pregunta. Búsqueda dirigida en fichas anteriores sin coincidencia exacta identificada; no prueba unicidad global. Sin claves oficiales ni validación docente.",
+  "cover": {
+    "pages": [
+      1,
+      3
+    ],
+    "title": "Estación Cisneros",
+    "declared_year_session": "2025-2 primera sesión",
+    "code": "AAR1",
+    "declared_questions": 131,
+    "declared_time": "4h30",
+    "calendar": "Sin confirmar",
+    "authenticity": "Sin verificar",
+    "rights_notice": "La portada declara uso exclusivo y prohibición de reproducción; la auditoría no concede permiso de reutilización."
+  },
+  "items": [
+    {
+      "question": 1,
+      "page": 2,
+      "printed_page": 2,
+      "topic": "Modelación de una donación con valor fijo y variable",
+      "competency_proposal": "Interpretación y representación",
+      "answer_proposal": "A",
+      "reason": "La donación inicial de1000000 se suma a200000 por cada árbol:n→1000000+200000n.",
+      "additional_physical_pages": [
+        4
+      ]
+    },
+    {
+      "question": 2,
+      "page": 2,
+      "printed_page": 2,
+      "topic": "Suficiencia de información y conjuntos de especies",
+      "competency_proposal": "Argumentación",
+      "answer_proposal": "A",
+      "reason": "M contiene flamenco y gavilán; N contiene golondrina y gavilán. Águila y ruiseñor deben estar en zonas opuestas, pero se pueden intercambiar: no se identifica cuál está enN.",
+      "additional_physical_pages": [
+        4
+      ]
+    },
+    {
+      "question": 3,
+      "page": 2,
+      "printed_page": 2,
+      "topic": "Descomposición de hexágono y optimización de colores",
+      "competency_proposal": "Argumentación",
+      "answer_proposal": "C",
+      "reason": "Cada rombo de lado y diagonal menor60cm se divide en dos triángulos equiláteros de lado60. Dos rombos aportan cuatro; los retazos azul y rojo completan seis sin recortar. Se puede usar solo morado,azul,rojo; verde y morado no ofrecen la cobertura propuesta.",
+      "additional_physical_pages": [
+        4
+      ],
+      "alert": "Supone uso de los retazos con las formas descritas. No se deduce cobertura por coincidencia de lados o por comparar áreas sin considerar formas."
+    },
+    {
+      "question": 4,
+      "page": 5,
+      "printed_page": 3,
+      "topic": "Comparación de barras agrupadas y tabla",
+      "competency_proposal": "Argumentación",
+      "answer_proposal": "C",
+      "reason": "Barras de igual altura representan ausencia de cambio; alturas distintas muestran cambio. Ciudad1 permanece en1900,por lo que no hubo cambio en todas las ciudades."
+    },
+    {
+      "question": 5,
+      "page": 5,
+      "printed_page": 3,
+      "topic": "Identificación de regla numérica en tabla",
+      "competency_proposal": "Interpretación y representación",
+      "answer_proposal": "C",
+      "reason": "El combo cuesta dos veces el mayor precio individual:2×7000=14000,2×4000=8000 y2×8000=16000. Sumar componentes no funciona en los tres casos."
+    },
+    {
+      "question": 6,
+      "page": 6,
+      "printed_page": 4,
+      "topic": "Razón entre volumen de material y longitud",
+      "competency_proposal": "Formulación y ejecución",
+      "answer_proposal": "D",
+      "reason": "10m³ de cemento divididos entre10m de carretera equivalen a1m³ de cemento por1m de carretera. Se conserva la interpretación de cantidades diferentes en el cociente.",
+      "alert": "La razón m³/m también puede simplificarse dimensionalmente a m². La explicación deD sobre no operar exponentes es pedagógicamente imprecisa; lo correcto es conservar la interpretación volumen de cemento por longitud de carretera. Revisar redacción antes de reutilizar."
+    },
+    {
+      "question": 7,
+      "page": 6,
+      "printed_page": 4,
+      "topic": "Área de pared excluyendo ventana hexagonal",
+      "competency_proposal": "Formulación y ejecución",
+      "answer_proposal": "C",
+      "reason": "El área a pintar es el área cuadrada L² menos el área de la ventana. No se restan longitudes ni se suman las áreas."
+    },
+    {
+      "question": 8,
+      "page": 6,
+      "printed_page": 4,
+      "topic": "Colinealidad de puntos en plano cartesiano",
+      "competency_proposal": "Formulación y ejecución",
+      "answer_proposal": "C",
+      "reason": "Parque(-1,10),Teatro(5,8),Monumento(8,7) tienen pendiente-1/3. Museo(1,2),Exposición(5,6),Mirador(9,10) tienen pendiente1. Son las dos rutas de la opciónC."
+    },
+    {
+      "question": 9,
+      "page": 7,
+      "printed_page": 5,
+      "topic": "Traducción de fila de tabla a gráfica de barras",
+      "competency_proposal": "Interpretación y representación",
+      "answer_proposal": "C",
+      "reason": "La fila ciencia ficción registra100,200,200,150 en2021-2024; esas alturas aparecen enC. A representa100,150,100,150."
+    },
+    {
+      "question": 10,
+      "page": 7,
+      "printed_page": 5,
+      "topic": "Frecuencias y proporciones en diagrama circular",
+      "competency_proposal": "Interpretación y representación",
+      "answer_proposal": "A",
+      "reason": "De2000papas,700son35%,500son25% y800son40%;A conserva frecuencias,porcentajes y asociación con intervalos."
+    }
+  ],
+  "observed_annotations": "No se observan respuestas seleccionadas en1-10.",
+  "next": "Física8, preguntas11en adelante."
+}

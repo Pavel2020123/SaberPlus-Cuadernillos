@@ -1,0 +1,62 @@
+{
+  "file_id": "USB-1bc205e23b46",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Inspección visual de preguntas 51-54 en páginas físicas 13-14. El contexto de telecomunicaciones continúa; no se declara cubierto todo el bloque.",
+  "items": [
+    {
+      "question": 51,
+      "page": 13,
+      "topic": "Modelo secuencial de formación de tsunami",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "C",
+      "reason": "C ordena sismo en el fondo, propagación de la onda y grandes olas al llegar a la costa.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 52,
+      "page": 13,
+      "topic": "Relación entre masa y peso en la Luna",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "C",
+      "reason": "La gravedad lunar aproximada es 10/6 N/kg. Si pesa 50 N, su masa es 50/(10/6)=30 kg, opción C.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      },
+      "alert": "La marca A confunde el peso con la masa. La masa no cambia al trasladar el cuerpo de la Tierra a la Luna."
+    },
+    {
+      "question": 53,
+      "page": 13,
+      "topic": "Selección de puertas a partir de tiempos medidos",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "B",
+      "reason": "Sumas de ingreso y salida: puerta 1=39 s, 2=42 s, 3=41 s, 4=38 s. Las menores corresponden a 1 y 4, para grupos comparables de 50 personas.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 54,
+      "page": 14,
+      "topic": "Interpretación de conexiones de fibra y radio",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "C",
+      "reason": "El esquema muestra una conexión por fibra y otra por ondas entre Internet y la red: C describe una segunda vía. La fibra no lleva corriente ni llega a cada antena secundaria.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      },
+      "alert": "El dibujo permite identificar una vía adicional, pero no demuestra que la fibra sea indispensable ni que aporte redundancia efectiva. D contradice el esquema."
+    }
+  ]
+}

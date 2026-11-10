@@ -1,0 +1,192 @@
+[
+  {
+    "number": 1,
+    "id": "q-demo-5",
+    "answer": "B",
+    "assessment": {
+      "framework": "icfes-guia-2026-2",
+      "area": "mathematics",
+      "status": "unclassified",
+      "competency": null,
+      "process": null,
+      "claim": null,
+      "evidence": null,
+      "component": null,
+      "part": null,
+      "rationale": "",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "number": 2,
+    "id": "q-demo-6",
+    "answer": "D",
+    "assessment": {
+      "framework": "icfes-guia-2026-2",
+      "area": "mathematics",
+      "status": "proposed",
+      "competency": "execution",
+      "process": null,
+      "claim": "2",
+      "evidence": "2.2",
+      "component": null,
+      "part": null,
+      "rationale": "Aplica un procedimiento de descuento para obtener el precio final.",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "number": 3,
+    "id": "q-demo-7",
+    "answer": "A",
+    "assessment": {
+      "framework": "icfes-guia-2026-2",
+      "area": "mathematics",
+      "status": "unclassified",
+      "competency": null,
+      "process": null,
+      "claim": null,
+      "evidence": null,
+      "component": null,
+      "part": null,
+      "rationale": "",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "number": 4,
+    "id": "q-demo-1",
+    "answer": "A",
+    "assessment": {
+      "framework": "icfes-guia-2026-2",
+      "area": "reading",
+      "status": "proposed",
+      "competency": "reading",
+      "process": "local",
+      "claim": "1",
+      "evidence": "1.2",
+      "component": null,
+      "part": null,
+      "rationale": "Recupera una causa narrada expresamente, sin exigir una valoración crítica.",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "number": 5,
+    "id": "q-demo-2",
+    "answer": "C",
+    "assessment": {
+      "framework": "icfes-guia-2026-2",
+      "area": "reading",
+      "status": "unclassified",
+      "competency": null,
+      "process": null,
+      "claim": null,
+      "evidence": null,
+      "component": null,
+      "part": null,
+      "rationale": "",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "number": 6,
+    "id": "q-demo-3",
+    "answer": "A",
+    "assessment": {
+      "framework": "icfes-guia-2026-2",
+      "area": "social",
+      "status": "unclassified",
+      "competency": null,
+      "process": null,
+      "claim": null,
+      "evidence": null,
+      "component": null,
+      "part": null,
+      "rationale": "",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "number": 7,
+    "id": "q-demo-4",
+    "answer": "C",
+    "assessment": {
+      "framework": "icfes-guia-2026-2",
+      "area": "social",
+      "status": "unclassified",
+      "competency": null,
+      "process": null,
+      "claim": null,
+      "evidence": null,
+      "component": null,
+      "part": null,
+      "rationale": "",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "number": 8,
+    "id": "q-demo-8",
+    "answer": "C",
+    "assessment": {
+      "framework": "icfes-guia-2026-2",
+      "area": "science",
+      "status": "unclassified",
+      "competency": null,
+      "process": null,
+      "claim": null,
+      "evidence": null,
+      "component": null,
+      "part": null,
+      "rationale": "",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "number": 9,
+    "id": "q-demo-9",
+    "answer": "B",
+    "assessment": {
+      "framework": "icfes-guia-2026-2",
+      "area": "science",
+      "status": "unclassified",
+      "competency": null,
+      "process": null,
+      "claim": null,
+      "evidence": null,
+      "component": null,
+      "part": null,
+      "rationale": "",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "number": 10,
+    "id": "q-demo-10",
+    "answer": "D",
+    "assessment": {
+      "framework": "icfes-guia-2026-2",
+      "area": "science",
+      "status": "unclassified",
+      "competency": null,
+      "process": null,
+      "claim": null,
+      "evidence": null,
+      "component": null,
+      "part": null,
+      "rationale": "",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  }
+]

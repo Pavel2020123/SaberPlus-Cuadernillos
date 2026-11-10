@@ -1,0 +1,61 @@
+{
+  "file_id": "USB-8e6cf8399239",
+  "date": "2026-10-30",
+  "area": "Lectura crítica",
+  "scope": "Lectura completa del contexto y preguntas26-30, física10. Propuestas no oficiales; sin respuesta marcada claramente observada.",
+  "contexts": [
+    {
+      "id": "quipu",
+      "page": 10,
+      "title": "El quipu, un artefacto incaico multifuncional",
+      "description": "Construcción de cuerdas y nudos, usos históricos y contables, especialistas quipucamayocs e ilustración del contador atribuida a Poma de Ayala."
+    }
+  ],
+  "items": [
+    {
+      "question": 26,
+      "page": 10,
+      "context": "quipu",
+      "topic": "Tema global de un texto expositivo",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "B",
+      "reason": "Incluye construcción física, usos de registro y la organización de especialistas; B integra esas dimensiones."
+    },
+    {
+      "question": 27,
+      "page": 10,
+      "context": "quipu",
+      "topic": "Función de conector concesivo",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "D",
+      "reason": "Aunque introduce que el uso de transmisión de tradiciones no impide otros usos contables: concesión, no condición necesaria ni simple síntesis."
+    },
+    {
+      "question": 28,
+      "page": 10,
+      "context": "quipu",
+      "topic": "Interpretación de registro administrativo",
+      "competency_proposal": "Identifica y entiende los contenidos locales que conforman un texto",
+      "answer_proposal": "C",
+      "reason": "El párrafo vincula el registro administrativo con cuentas, impuestos, medidas de tierras y otros valores contables."
+    },
+    {
+      "question": 29,
+      "page": 10,
+      "context": "quipu",
+      "topic": "Relación entre imagen y texto",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "A",
+      "reason": "La ilustración identifica al quipucamayoc o contador, especialista comparado en el texto con contador o tesorero occidental."
+    },
+    {
+      "question": 30,
+      "page": 10,
+      "context": "quipu",
+      "topic": "Propósito de un fragmento descriptivo",
+      "competency_proposal": "Identifica y entiende los contenidos locales que conforman un texto",
+      "answer_proposal": "A",
+      "reason": "El fragmento enumera cuerda horizontal, cuerdas anudadas, cantidad, tejidos y colores: describe particularidades del quipu."
+    }
+  ]
+}

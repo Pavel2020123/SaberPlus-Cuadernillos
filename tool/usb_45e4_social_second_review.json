@@ -1,0 +1,58 @@
+{
+  "file_id": "USB-45e476387c60",
+  "date": "2026-10-30",
+  "area": "Sociales y ciudadanas",
+  "scope": "Físicas 4-5, impresas 4-5 inspeccionadas visualmente. Preguntas 7-11 sin identidad exacta verificada en registros consultados.",
+  "items": [
+    {
+      "question": 7,
+      "page": 4,
+      "printed_page": 4,
+      "topic": "Comparación de posiciones sobre propiedad y convivencia",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "answer_proposal": "A",
+      "reason": "Segunda posición exige decisión colectiva por fachada común; tercera justifica uso por necesidad de secar ropa, aunque reconoce afectación colectiva.",
+      "alert": "La tercera no concede autonomía para cualquier actividad; interpreta la necesidad particular."
+    },
+    {
+      "question": 8,
+      "page": 4,
+      "printed_page": 4,
+      "topic": "Intención de una fuente y distinción entre fuentes primarias y secundarias",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "answer_proposal": "C",
+      "reason": "C identifica la intención de defender el modelo de desarrollo mediante interpretación de indicadores, más que un estudio directo de desigualdad.",
+      "alert": "Propuesta condicionada: defender una postura NO basta para que una fuente deje de ser primaria. El texto es secundario respecto a estadísticas citadas, pero primario para estudiar ese discurso. Ninguna opción expresa con rigor esa distinción. Requiere revisión docente; no clave validada."
+    },
+    {
+      "question": 9,
+      "page": 5,
+      "printed_page": 5,
+      "topic": "Evidencia contraria a propuesta de ampliación vial",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "answer_proposal": "A",
+      "reason": "A niega la premisa de que ampliar vías para particulares solucione circulación masiva; las otras opciones no contradicen directamente la propuesta.",
+      "alert": "Se identifica relación argumentativa; no se verifica la investigación citada ni se concluye que toda ampliación vial sea inútil."
+    },
+    {
+      "question": 10,
+      "page": 5,
+      "printed_page": 5,
+      "topic": "Fiabilidad del argumento sobre neutralidad religiosa estatal",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "answer_proposal": "C",
+      "reason": "El procurador apoya su argumento en igualdad religiosa y ejercicio de función pública, pertinente para evaluar un decreto estatal; los otros apelan a religión o mayoría de creyentes.",
+      "alert": "La fiabilidad no deriva solo del cargo. Se compara la pertinencia de fundamentos dentro del caso, sin emitir dictamen jurídico actual."
+    },
+    {
+      "question": 11,
+      "page": 5,
+      "printed_page": 5,
+      "topic": "Geografía y actividad ganadera",
+      "competency_proposal": "Pensamiento reflexivo y sistémico",
+      "answer_proposal": "B",
+      "reason": "Llanuras, pastos y recursos hídricos de ambas regiones ofrecen condiciones geográficas favorables para ganadería.",
+      "alert": "Condiciones favorecen, no determinan exclusivamente la actividad. El texto no prueba decretos ni descendencia indígena ganadera como causa."
+    }
+  ]
+}

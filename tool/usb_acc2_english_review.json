@@ -1,0 +1,645 @@
+{
+  "file_id": "USB-709bc037689b",
+  "date": "2026-10-29",
+  "area": "Ingles",
+  "competency_proposal": "Competencia comunicativa en lengua inglesa (propuesta general)",
+  "scope": "Preguntas80-134 paginas33-41 inspeccionadas visualmente, incluyendo textos, bancos,carteles y alternativas.55items: dos asociaciones y dos lecturas inferenciales.No niveles MCER ni dificultad asignados.Claves propuestas sin validacion docente.Sin marcas de respuesta puntuables observadas.",
+  "contexts": [
+    {
+      "id": "ACC2-EN1",
+      "questions": [
+        80,
+        81,
+        82,
+        83,
+        84
+      ],
+      "pages": [
+        33
+      ],
+      "part": "1.A",
+      "title": "Animals",
+      "format": "Asociacion de vocabulario",
+      "answer_letters": "A-G",
+      "example_answer": "H",
+      "bank": {
+        "A": "cat",
+        "B": "cow",
+        "C": "dolphin",
+        "D": "giraffe",
+        "E": "horse",
+        "F": "lion",
+        "G": "panda",
+        "H": "rat (ejemplo)"
+      }
+    },
+    {
+      "id": "ACC2-EN2",
+      "questions": [
+        85,
+        86,
+        87,
+        88,
+        89
+      ],
+      "pages": [
+        34
+      ],
+      "part": "1.B",
+      "title": "Travel",
+      "format": "Asociacion de vocabulario",
+      "answer_letters": "A-G",
+      "example_answer": "H",
+      "bank": {
+        "A": "bag",
+        "B": "bottle",
+        "C": "camera",
+        "D": "countryside",
+        "E": "helmet",
+        "F": "map",
+        "G": "station",
+        "H": "sweater (ejemplo)"
+      }
+    },
+    {
+      "id": "ACC2-EN3",
+      "questions": [
+        90,
+        91,
+        92,
+        93,
+        94
+      ],
+      "pages": [
+        35
+      ],
+      "part": "2",
+      "title": "Avisos y lugares",
+      "format": "Avisos y senales",
+      "answer_letters": "A-C",
+      "example_answer": "A"
+    },
+    {
+      "id": "ACC2-EN4",
+      "questions": [
+        95,
+        96,
+        97,
+        98,
+        99
+      ],
+      "pages": [
+        36
+      ],
+      "part": "3",
+      "title": "Conversaciones",
+      "format": "Completar conversacion",
+      "answer_letters": "A-C",
+      "example_answer": "A"
+    },
+    {
+      "id": "ACC2-EN5",
+      "questions": [
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107
+      ],
+      "pages": [
+        37
+      ],
+      "part": "4",
+      "title": "Jane Austen",
+      "format": "Texto con espacios",
+      "answer_letters": "A-C",
+      "example_answer": "A"
+    },
+    {
+      "id": "ACC2-EN6",
+      "questions": [
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114
+      ],
+      "pages": [
+        38
+      ],
+      "part": "5",
+      "title": "Golf",
+      "format": "Comprension literal",
+      "answer_letters": "A-C",
+      "example_answer": "A"
+    },
+    {
+      "id": "ACC2-EN7",
+      "questions": [
+        115,
+        116,
+        117,
+        118,
+        119
+      ],
+      "pages": [
+        39
+      ],
+      "part": "6.A",
+      "title": "William Smith y Borussia",
+      "format": "Comprension inferencial",
+      "answer_letters": "A-D",
+      "example_answer": null
+    },
+    {
+      "id": "ACC2-EN8",
+      "questions": [
+        120,
+        121,
+        122,
+        123,
+        124
+      ],
+      "pages": [
+        40
+      ],
+      "part": "6.B",
+      "title": "Taking a gap year",
+      "format": "Comprension inferencial",
+      "answer_letters": "A-D",
+      "example_answer": null
+    },
+    {
+      "id": "ACC2-EN9",
+      "questions": [
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134
+      ],
+      "pages": [
+        41
+      ],
+      "part": "7",
+      "title": "Soledad",
+      "format": "Texto con espacios",
+      "answer_letters": "A-D",
+      "example_answer": "A"
+    }
+  ],
+  "items": [
+    {
+      "question": 80,
+      "page": 33,
+      "context": "ACC2-EN1",
+      "topic": "Asociacion de vocabulario",
+      "answer_proposal": "G",
+      "reason": "Panda: animal blanco y negro asociado a arboles."
+    },
+    {
+      "question": 81,
+      "page": 33,
+      "context": "ACC2-EN1",
+      "topic": "Asociacion de vocabulario",
+      "answer_proposal": "C",
+      "reason": "Dolphin: nada en rios y oceanos."
+    },
+    {
+      "question": 82,
+      "page": 33,
+      "context": "ACC2-EN1",
+      "topic": "Asociacion de vocabulario",
+      "answer_proposal": "D",
+      "reason": "Giraffe: cuello largo y coloracion descrita."
+    },
+    {
+      "question": 83,
+      "page": 33,
+      "context": "ACC2-EN1",
+      "topic": "Asociacion de vocabulario",
+      "answer_proposal": "A",
+      "reason": "Cat: mascota que duerme mucho y se limpia."
+    },
+    {
+      "question": 84,
+      "page": 33,
+      "context": "ACC2-EN1",
+      "topic": "Asociacion de vocabulario",
+      "answer_proposal": "F",
+      "reason": "Lion: animal fuerte y rapido entre alternativas.",
+      "alert": "La descripcion jungla es general y poco precisa biologicamente; asociacion lexical prevista."
+    },
+    {
+      "question": 85,
+      "page": 34,
+      "context": "ACC2-EN2",
+      "topic": "Asociacion de vocabulario",
+      "answer_proposal": "A",
+      "reason": "Bag sirve para guardar ropa."
+    },
+    {
+      "question": 86,
+      "page": 34,
+      "context": "ACC2-EN2",
+      "topic": "Asociacion de vocabulario",
+      "answer_proposal": "C",
+      "reason": "Camera permite tomar fotografias."
+    },
+    {
+      "question": 87,
+      "page": 34,
+      "context": "ACC2-EN2",
+      "topic": "Asociacion de vocabulario",
+      "answer_proposal": "G",
+      "reason": "Station permite comprar pasajes y abordar bus."
+    },
+    {
+      "question": 88,
+      "page": 34,
+      "context": "ACC2-EN2",
+      "topic": "Asociacion de vocabulario",
+      "answer_proposal": "B",
+      "reason": "Bottle contiene agua para beber."
+    },
+    {
+      "question": 89,
+      "page": 34,
+      "context": "ACC2-EN2",
+      "topic": "Asociacion de vocabulario",
+      "answer_proposal": "F",
+      "reason": "Map permite localizar pueblos y rios."
+    },
+    {
+      "question": 90,
+      "page": 35,
+      "context": "ACC2-EN3",
+      "topic": "Avisos y senales",
+      "answer_proposal": "B",
+      "reason": "Gafas3D se solicitan en cine."
+    },
+    {
+      "question": 91,
+      "page": 35,
+      "context": "ACC2-EN3",
+      "topic": "Avisos y senales",
+      "answer_proposal": "C",
+      "reason": "Zona para mascotas corresponde a parque canino."
+    },
+    {
+      "question": 92,
+      "page": 35,
+      "context": "ACC2-EN3",
+      "topic": "Avisos y senales",
+      "answer_proposal": "A",
+      "reason": "Bebidas de frutas y verdes corresponden a tienda de jugos."
+    },
+    {
+      "question": 93,
+      "page": 35,
+      "context": "ACC2-EN3",
+      "topic": "Avisos y senales",
+      "answer_proposal": "C",
+      "reason": "Medidas40x50 y uso en pared de dormitorio corresponden a caja de espejo."
+    },
+    {
+      "question": 94,
+      "page": 35,
+      "context": "ACC2-EN3",
+      "topic": "Avisos y senales",
+      "answer_proposal": "B",
+      "reason": "No correr por pasillos es coherente con hospital entre opciones."
+    },
+    {
+      "question": 95,
+      "page": 36,
+      "context": "ACC2-EN4",
+      "topic": "Completar conversacion",
+      "answer_proposal": "B",
+      "reason": "I guess I did responde si olvido la cita."
+    },
+    {
+      "question": 96,
+      "page": 36,
+      "context": "ACC2-EN4",
+      "topic": "Completar conversacion",
+      "answer_proposal": "A",
+      "reason": "You're right acepta el consejo de desayunar."
+    },
+    {
+      "question": 97,
+      "page": 36,
+      "context": "ACC2-EN4",
+      "topic": "Completar conversacion",
+      "answer_proposal": "C",
+      "reason": "Most weekends responde frecuencia."
+    },
+    {
+      "question": 98,
+      "page": 36,
+      "context": "ACC2-EN4",
+      "topic": "Completar conversacion",
+      "answer_proposal": "B",
+      "reason": "It's still not working responde que horno no quedo reparado."
+    },
+    {
+      "question": 99,
+      "page": 36,
+      "context": "ACC2-EN4",
+      "topic": "Completar conversacion",
+      "answer_proposal": "A",
+      "reason": "Are you sure? pide confirmacion del consejo de llamar al mesero."
+    },
+    {
+      "question": 100,
+      "page": 37,
+      "context": "ACC2-EN5",
+      "topic": "Texto con espacios",
+      "answer_proposal": "A",
+      "reason": "as clever as requiere adjetivo positivo."
+    },
+    {
+      "question": 101,
+      "page": 37,
+      "context": "ACC2-EN5",
+      "topic": "Texto con espacios",
+      "answer_proposal": "B",
+      "reason": "let es pasado de let, coherente con relato."
+    },
+    {
+      "question": 102,
+      "page": 37,
+      "context": "ACC2-EN5",
+      "topic": "Texto con espacios",
+      "answer_proposal": "A",
+      "reason": "also agrega otra iniciativa del padre."
+    },
+    {
+      "question": 103,
+      "page": 37,
+      "context": "ACC2-EN5",
+      "topic": "Texto con espacios",
+      "answer_proposal": "C",
+      "reason": "while establece simultaneidad con actuacion."
+    },
+    {
+      "question": 104,
+      "page": 37,
+      "context": "ACC2-EN5",
+      "topic": "Texto con espacios",
+      "answer_proposal": "B",
+      "reason": "performed es pasado del relato."
+    },
+    {
+      "question": 105,
+      "page": 37,
+      "context": "ACC2-EN5",
+      "topic": "Texto con espacios",
+      "answer_proposal": "A",
+      "reason": "could expresa capacidad pasada de explorar literatura."
+    },
+    {
+      "question": 106,
+      "page": 37,
+      "context": "ACC2-EN5",
+      "topic": "Texto con espacios",
+      "answer_proposal": "B",
+      "reason": "For six years expresa duracion."
+    },
+    {
+      "question": 107,
+      "page": 37,
+      "context": "ACC2-EN5",
+      "topic": "Texto con espacios",
+      "answer_proposal": "C",
+      "reason": "around the world significa en todo el mundo."
+    },
+    {
+      "question": 108,
+      "page": 38,
+      "context": "ACC2-EN6",
+      "topic": "Comprension literal",
+      "answer_proposal": "C",
+      "reason": "Stroke se define como golpear pelota."
+    },
+    {
+      "question": 109,
+      "page": 38,
+      "context": "ACC2-EN6",
+      "topic": "Comprension literal",
+      "answer_proposal": "A",
+      "reason": "El texto situa primeras formas en Netherlands y luego Scotland."
+    },
+    {
+      "question": 110,
+      "page": 38,
+      "context": "ACC2-EN6",
+      "topic": "Comprension literal",
+      "answer_proposal": "C",
+      "reason": "Ovejas comian el pasto de los primeros campos."
+    },
+    {
+      "question": 111,
+      "page": 38,
+      "context": "ACC2-EN6",
+      "topic": "Comprension literal",
+      "answer_proposal": "A",
+      "reason": "John Taylor es el britanico citado para1800s."
+    },
+    {
+      "question": 112,
+      "page": 38,
+      "context": "ACC2-EN6",
+      "topic": "Comprension literal",
+      "answer_proposal": "B",
+      "reason": "Se elige club segun distancia deseada."
+    },
+    {
+      "question": 113,
+      "page": 38,
+      "context": "ACC2-EN6",
+      "topic": "Comprension literal",
+      "answer_proposal": "A",
+      "reason": "Tecnologia de pelotas ha mejorado el juego."
+    },
+    {
+      "question": 114,
+      "page": 38,
+      "context": "ACC2-EN6",
+      "topic": "Comprension literal",
+      "answer_proposal": "B",
+      "reason": "Gana quien usa menos golpes, no mas hoyos."
+    },
+    {
+      "question": 115,
+      "page": 39,
+      "context": "ACC2-EN7",
+      "topic": "Comprension inferencial",
+      "answer_proposal": "C",
+      "reason": "Confianza y deseo de seguir anotando indican futuro favorable en Alemania."
+    },
+    {
+      "question": 116,
+      "page": 39,
+      "context": "ACC2-EN7",
+      "topic": "Comprension inferencial",
+      "answer_proposal": "A",
+      "reason": "Considera acertado aceptar cambio de club ante falta de oportunidades."
+    },
+    {
+      "question": 117,
+      "page": 39,
+      "context": "ACC2-EN7",
+      "topic": "Comprension inferencial",
+      "answer_proposal": "D",
+      "reason": "It's a real pity lamenta que queria jugar para Chelsea pero no podia."
+    },
+    {
+      "question": 118,
+      "page": 39,
+      "context": "ACC2-EN7",
+      "topic": "Comprension inferencial",
+      "answer_proposal": "B",
+      "reason": "Dice amar Borussia y querer permanecer; esta satisfecho."
+    },
+    {
+      "question": 119,
+      "page": 39,
+      "context": "ACC2-EN7",
+      "topic": "Comprension inferencial",
+      "answer_proposal": "B",
+      "reason": "Esperar oportunidad y seguir trabajando sintetiza experiencia mejor que derrota, retiro o consejos de eleccion."
+    },
+    {
+      "question": 120,
+      "page": 40,
+      "context": "ACC2-EN8",
+      "topic": "Comprension inferencial",
+      "answer_proposal": "A",
+      "reason": "Ofrece razones para tomar pausa cuando se necesita."
+    },
+    {
+      "question": 121,
+      "page": 40,
+      "context": "ACC2-EN8",
+      "topic": "Comprension inferencial",
+      "answer_proposal": "C",
+      "reason": "Aprender idioma aumenta futuras oportunidades laborales."
+    },
+    {
+      "question": 122,
+      "page": 40,
+      "context": "ACC2-EN8",
+      "topic": "Comprension inferencial",
+      "answer_proposal": "C",
+      "reason": "Explorar aficiones permite desarrollo y nueva forma al futuro."
+    },
+    {
+      "question": 123,
+      "page": 40,
+      "context": "ACC2-EN8",
+      "topic": "Comprension inferencial",
+      "answer_proposal": "D",
+      "reason": "Recomienda actividades que sumen habilidades al CV."
+    },
+    {
+      "question": 124,
+      "page": 40,
+      "context": "ACC2-EN8",
+      "topic": "Comprension inferencial",
+      "answer_proposal": "B",
+      "reason": "Anuncio de pausa y ventajas abarca proposito general."
+    },
+    {
+      "question": 125,
+      "page": 41,
+      "context": "ACC2-EN9",
+      "topic": "Texto con espacios",
+      "answer_proposal": "D",
+      "reason": "historical novels es la colocacion sobre novelas historicas."
+    },
+    {
+      "question": 126,
+      "page": 41,
+      "context": "ACC2-EN9",
+      "topic": "Texto con espacios",
+      "answer_proposal": "B",
+      "reason": "Although contrapone ficcion e inclusion de conocimiento cientifico."
+    },
+    {
+      "question": 127,
+      "page": 41,
+      "context": "ACC2-EN9",
+      "topic": "Texto con espacios",
+      "answer_proposal": "D",
+      "reason": "vanilla es especia entre alternativas."
+    },
+    {
+      "question": 128,
+      "page": 41,
+      "context": "ACC2-EN9",
+      "topic": "Texto con espacios",
+      "answer_proposal": "D",
+      "reason": "climate control encaja con cultivos andinos."
+    },
+    {
+      "question": 129,
+      "page": 41,
+      "context": "ACC2-EN9",
+      "topic": "Texto con espacios",
+      "answer_proposal": "A",
+      "reason": "widely published permite alcanzar audiencia mayor."
+    },
+    {
+      "question": 130,
+      "page": 41,
+      "context": "ACC2-EN9",
+      "topic": "Texto con espacios",
+      "answer_proposal": "B",
+      "reason": "attract new readers es colocacion apropiada."
+    },
+    {
+      "question": 131,
+      "page": 41,
+      "context": "ACC2-EN9",
+      "topic": "Texto con espacios",
+      "answer_proposal": "C",
+      "reason": "provided with an education requiere provided."
+    },
+    {
+      "question": 132,
+      "page": 41,
+      "context": "ACC2-EN9",
+      "topic": "Texto con espacios",
+      "answer_proposal": "B",
+      "reason": "determined to prove expresa determinacion."
+    },
+    {
+      "question": 133,
+      "page": 41,
+      "context": "ACC2-EN9",
+      "topic": "Texto con espacios",
+      "answer_proposal": "B",
+      "reason": "went on publishing significa continuo publicando."
+    },
+    {
+      "question": 134,
+      "page": 41,
+      "context": "ACC2-EN9",
+      "topic": "Texto con espacios",
+      "answer_proposal": "D",
+      "reason": "ought to expresa recomendacion con to ya impreso."
+    }
+  ],
+  "next": "Cuestionarios135-159 y estructura final."
+}

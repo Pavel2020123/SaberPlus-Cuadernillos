@@ -1,0 +1,158 @@
+{
+  "file_id": "USB-524d98b0a234",
+  "date": "2026-10-29",
+  "area": "Ciencias naturales",
+  "scope": "Preguntas51-64,paginasfisicas19-24 inspeccionadas visualmente.Modelos,tablas,graficas y alternativas.Resaltados verdes solo donde se observaron.Claves propuestas no oficiales,no validacion docente ni recomendaciones clinicas o de buceo.",
+  "competency_legend": {
+    "U": "Uso comprensivo del conocimiento cientifico",
+    "I": "Indagacion",
+    "E": "Explicacion de fenomenos"
+  },
+  "contexts": [
+    {
+      "id": "ABJ2-CN01",
+      "questions": [
+        54,
+        55,
+        56
+      ],
+      "pages": [
+        21
+      ],
+      "topic": "DIU y ecografia"
+    }
+  ],
+  "items": [
+    {
+      "question": 51,
+      "page": 19,
+      "topic": "Optimo de sal y conservacion de queso",
+      "competency_code": "I",
+      "answer_proposal": "C",
+      "reason": "2%ofrece textura y sabor equilibrados;4%conserva mas dias pero es duro y desagradable.No mejoran todas las propiedades.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 52,
+      "page": 19,
+      "topic": "Fuerzas intermoleculares y ebullicion",
+      "competency_code": "E",
+      "answer_proposal": "C",
+      "reason": "A igual masa molar,alcoholes hierven mas alto que eteres en cada par,coherente con fuerzas mas fuertes.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 53,
+      "page": 20,
+      "topic": "Acidificacion y carbonato calcico",
+      "competency_code": "E",
+      "answer_proposal": "D",
+      "reason": "MasH+consumeCO3^2-y favorece disolucion deCaCO3;modelo muestra menor disponibilidad de carbonato."
+    },
+    {
+      "question": 54,
+      "page": 21,
+      "topic": "Generalizacion sobre duracion de dispositivos",
+      "competency_code": "I",
+      "answer_proposal": "D",
+      "reason": "Tres modelos con38,40,48meses no prueban todos tipos entre36y120meses.",
+      "observed_highlight": "D",
+      "context": "ABJ2-CN01"
+    },
+    {
+      "question": 55,
+      "page": 21,
+      "topic": "Frecuencia y longitud de onda",
+      "competency_code": "U",
+      "answer_proposal": "A",
+      "reason": "Con velocidad fija en mismo medio,lambda=v/f:mayorf disminuyelambda.",
+      "observed_highlight": "A",
+      "alert": "Frecuencia no determina sola penetracion;se aplica relacion del ejercicio.",
+      "context": "ABJ2-CN01"
+    },
+    {
+      "question": 56,
+      "page": 21,
+      "topic": "Funcion anticonceptiva de iones de cobre",
+      "competency_code": "U",
+      "answer_proposal": "D",
+      "reason": "Propiedad espermicida es coherente con impedir fecundacion entre opciones,no favorecer ovulacion.",
+      "observed_highlight": "D",
+      "alert": "Interpretacion de alternativas,no consejo clinico ni descripcion exhaustiva del mecanismo.",
+      "context": "ABJ2-CN01"
+    },
+    {
+      "question": 57,
+      "page": 22,
+      "topic": "Energia potencial durante descenso",
+      "competency_code": "E",
+      "answer_proposal": "C",
+      "reason": "Al perder altura disminuye potencial gravitatoria y aumenta cinetica en rampa ideal sin friccion.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 58,
+      "page": 22,
+      "topic": "Separacion de mezcla con solidos",
+      "competency_code": "U",
+      "answer_proposal": "D",
+      "reason": "Filtrar retiene solido2insoluble;evaporar filtrado permite recuperar solido1disuelto.",
+      "observed_highlight": "D"
+    },
+    {
+      "question": 59,
+      "page": 22,
+      "topic": "Homeostasis en caso hipotetico de ingestion toxica",
+      "competency_code": "U",
+      "answer_proposal": "B",
+      "reason": "Bpresenta sintomas gastrointestinales y neurologicos acordes con via de ingestion descrita;otrasopciones priorizan piel o aumentos metabolicos no sustentados.",
+      "alert": "Sin identificar producto ni dosis no se pueden predecir sintomas precisos.Sobrehidratarse no es tratamiento seguro inferido;no trasladar conducta del pasaje a indicacion."
+    },
+    {
+      "question": 60,
+      "page": 23,
+      "topic": "Fotosintesis y sintesis de glucosa",
+      "competency_code": "U",
+      "answer_proposal": "A",
+      "reason": "CO2yagua aportan materia y luz aporta energia para sintesis de glucosa;no absorcion de glucosa desde suelo.",
+      "alert": "La opcionAagrupa luz con reactivos:es energia,no materia transformada en glucosa."
+    },
+    {
+      "question": 61,
+      "page": 23,
+      "topic": "Comparacion experimental de dietas de peces",
+      "competency_code": "I",
+      "answer_proposal": "D",
+      "reason": "YyZmuestran mayores longitudes y pesos finales queW yX;noW yX."
+    },
+    {
+      "question": 62,
+      "page": 24,
+      "topic": "Hipotesis sobre sintesis organica abiotica",
+      "competency_code": "I",
+      "answer_proposal": "B",
+      "reason": "El experimento de atmosfera simulada y descargas prueba posibilidad de formar moleculas organicas en esas condiciones,no composicion exacta de atmosfera real."
+    },
+    {
+      "question": 63,
+      "page": 24,
+      "topic": "Suficiencia causal de ensayos de oxidacion",
+      "competency_code": "I",
+      "answer_proposal": "C",
+      "reason": "Oxidacion/nooxidacion no sigue patron monotono de pH en tabla;conclusion no respaldada suficientemente.",
+      "observed_highlight": "C",
+      "alert": "Ademas varian sustancias,confundiendo pHcon otros efectos;no prueba ausencia universal de relacion."
+    },
+    {
+      "question": 64,
+      "page": 24,
+      "topic": "Ley de Boyle y profundidad",
+      "competency_code": "U",
+      "answer_proposal": "B",
+      "reason": "A mayor profundidad aumenta presion y disminuye volumen a temperatura constante segun modelo.",
+      "observed_highlight": "B",
+      "alert": "Aplicar tabla hasta15m exige extrapolacion;no protocolo de apnea ni estimacion clinica validada."
+    }
+  ],
+  "next": "Continuar65enpaginafisica25;resto pendiente."
+}

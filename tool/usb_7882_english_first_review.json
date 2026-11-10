@@ -1,0 +1,133 @@
+{
+  "file_id": "USB-7882c8f9ae2f",
+  "date": "2026-10-30",
+  "area": "Ingles",
+  "scope": "Preguntas80-89en físicas27-28,contextos,bancos y opciones inspeccionados visualmente. Partes1.Ay1.Bcon bancos separados A-GyHde ejemplo. Sin MCERni dificultad asignados. Propuestas no oficiales,sin letras marcadas observadas.",
+  "competency_proposal": "Competencia comunicativa en lengua inglesa (propuesta general)",
+  "contexts": [
+    {
+      "id": "picnic",
+      "title": "At a Picnic",
+      "part": "1.A",
+      "pages": [
+        27
+      ],
+      "format": "Asociación de vocabulario",
+      "answer_letters": "A-G",
+      "example_answer": "H",
+      "bank": {
+        "A": "blanket",
+        "B": "glass",
+        "C": "grass",
+        "D": "hat",
+        "E": "park",
+        "F": "salad",
+        "G": "sandwich",
+        "H": "table (ejemplo)"
+      }
+    },
+    {
+      "id": "tourist",
+      "title": "Tourist",
+      "part": "1.B",
+      "pages": [
+        28
+      ],
+      "format": "Asociación de vocabulario",
+      "answer_letters": "A-G",
+      "example_answer": "H",
+      "bank": {
+        "A": "airport",
+        "B": "bus",
+        "C": "camera",
+        "D": "car",
+        "E": "hotel",
+        "F": "map",
+        "G": "ship",
+        "H": "station (ejemplo)"
+      }
+    }
+  ],
+  "items": [
+    {
+      "question": 80,
+      "page": 27,
+      "topic": "Planta de campos",
+      "answer_proposal": "C",
+      "reason": "Grass es hierba que cubre el suelo de campos.",
+      "context": "picnic"
+    },
+    {
+      "question": 81,
+      "page": 27,
+      "topic": "Preparación con verduras",
+      "answer_proposal": "F",
+      "reason": "Salad reúne verduras y se sirve en un tazón.",
+      "context": "picnic"
+    },
+    {
+      "question": 82,
+      "page": 27,
+      "topic": "Lugar recreativo arbolado",
+      "answer_proposal": "E",
+      "reason": "Park es lugar con árboles donde pueden jugar niños.",
+      "context": "picnic"
+    },
+    {
+      "question": 83,
+      "page": 27,
+      "topic": "Recipiente para limonada",
+      "answer_proposal": "B",
+      "reason": "Glass es vaso para beber limonada.",
+      "context": "picnic"
+    },
+    {
+      "question": 84,
+      "page": 27,
+      "topic": "Objeto para proteger cabeza del sol",
+      "answer_proposal": "D",
+      "reason": "Hat se lleva en cabeza como protección solar.",
+      "context": "picnic"
+    },
+    {
+      "question": 85,
+      "page": 28,
+      "topic": "Representación para orientación turística",
+      "answer_proposal": "F",
+      "reason": "Map permite localizar lugares para visitar.",
+      "context": "tourist"
+    },
+    {
+      "question": 86,
+      "page": 28,
+      "topic": "Objeto para fotografías",
+      "answer_proposal": "C",
+      "reason": "Camera sirve para tomar fotos.",
+      "context": "tourist"
+    },
+    {
+      "question": 87,
+      "page": 28,
+      "topic": "Vehículo pequeño conducido",
+      "answer_proposal": "D",
+      "reason": "Car corresponde al vehículo pequeño que se conduce.",
+      "context": "tourist"
+    },
+    {
+      "question": 88,
+      "page": 28,
+      "topic": "Medio para viajar por mar",
+      "answer_proposal": "G",
+      "reason": "Ship es la opción del banco para desplazarse de playa hacia mar.",
+      "context": "tourist"
+    },
+    {
+      "question": 89,
+      "page": 28,
+      "topic": "Lugar para abordar aviones",
+      "answer_proposal": "A",
+      "reason": "Airport es donde se toman aviones.",
+      "context": "tourist"
+    }
+  ]
+}

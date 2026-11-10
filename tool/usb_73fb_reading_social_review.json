@@ -1,0 +1,218 @@
+{
+  "file_id": "USB-73fbd3be4b98",
+  "date": "2026-10-30",
+  "area": "Lectura crítica y Sociales",
+  "scope": "58-69doce fichas propias;70-77consolidadas como referencias exactas AAQ2 15-22tras cotejo íntegro de físicas4. No duplicar análisis.",
+  "items": [
+    {
+      "question": 58,
+      "page": 22,
+      "printed_page": 22,
+      "answer_proposal": "A",
+      "topic": "Síntesis de apartado",
+      "competency_proposal": "Comprender cómo se articulan las partes para dar sentido global",
+      "reason": "Texto introductorio:desde2006 gana popularidad y supera200millones de usuarios;Aresume sin añadir mayor red o valoración económica.",
+      "alert": "Datos históricos de infografía,no cifras actuales."
+    },
+    {
+      "question": 59,
+      "page": 22,
+      "printed_page": 22,
+      "answer_proposal": "C",
+      "topic": "Relación entre icono y gesto",
+      "competency_proposal": "Comprender cómo se articulan las partes para dar sentido global",
+      "reason": "Persona e icono t en globo se relacionan con mensaje enviado,C.",
+      "alert": "Interpretación multimodal,no logo como lugar laboral."
+    },
+    {
+      "question": 60,
+      "page": 22,
+      "printed_page": 22,
+      "answer_proposal": "C",
+      "topic": "Metáfora gráfica de nacimiento",
+      "competency_proposal": "Comprender cómo se articulan las partes para dar sentido global",
+      "reason": "Polluelo rompiendo cascarón representa nacimiento de red.",
+      "alert": "No confundir con cabeza humana ni flecha de crecimiento."
+    },
+    {
+      "question": 61,
+      "page": 22,
+      "printed_page": 22,
+      "answer_proposal": "C",
+      "topic": "Comparación proporcional en infografía",
+      "competency_proposal": "Identificar y entender contenidos locales",
+      "reason": "50millones de tweets/día a140millones:factor2.8,más del doble,no exactamente triple.",
+      "alert": "Atribución a2010/2011según ejercicio;no cifras vigentes."
+    },
+    {
+      "question": 62,
+      "page": 22,
+      "printed_page": 22,
+      "answer_proposal": "D",
+      "topic": "Tipo y procedencia textual",
+      "competency_proposal": "Reflexionar y evaluar el contenido",
+      "reason": "Infografía de datos globales forma parte de artículo informativo sobreTwitter,no manual/cómic/informe de terremoto.",
+      "alert": "Propósito informativo no implica veracidad actual de datos."
+    },
+    {
+      "question": 63,
+      "page": 23,
+      "printed_page": 23,
+      "answer_proposal": "B",
+      "topic": "Oposición conceptual al libre albedrío",
+      "competency_proposal": "Reflexionar y evaluar el contenido",
+      "reason": "Fatalismo implica predeterminación inevitable,antítesis de libertad de voluntad.",
+      "alert": "Reconstrucción conceptual del texto,no adscripción religiosa."
+    },
+    {
+      "question": 64,
+      "page": 24,
+      "printed_page": 24,
+      "answer_proposal": "B",
+      "topic": "Pregunta central de ensayo",
+      "competency_proposal": "Comprender cómo se articulan las partes para dar sentido global",
+      "reason": "Texto centra origen del mal moral humano,desarrolla libertad,deseo y explicaciones de su surgimiento.",
+      "alert": "No se reduce a distinguir mal natural del moral."
+    },
+    {
+      "question": 65,
+      "page": 24,
+      "printed_page": 24,
+      "answer_proposal": "C",
+      "topic": "Objeción a argumento",
+      "competency_proposal": "Reflexionar y evaluar el contenido",
+      "reason": "Si Dios crea cuanto existe,podría imputarse responsabilidad indirecta de privación/mal;Cobjeta inferencia de ausencia de responsabilidad.",
+      "alert": "Analiza objeción filosófica,no afirma doctrina como hecho."
+    },
+    {
+      "question": 66,
+      "page": 24,
+      "printed_page": 24,
+      "answer_proposal": "A",
+      "topic": "Comparación de perspectivas éticas",
+      "competency_proposal": "Reflexionar y evaluar el contenido",
+      "reason": "Fragmento sitúa mal en falta de límites a deseos;Apropone controlarlos,no eliminarlos ni satisfacerlos todos.",
+      "alert": "No atribuir maldad intencional que fragmento niega."
+    },
+    {
+      "question": 67,
+      "page": 25,
+      "printed_page": 25,
+      "answer_proposal": "C",
+      "topic": "Tensión entre protección ambiental y economía",
+      "competency_proposal": "Pensamiento reflexivo y sistémico",
+      "reason": "Entre opciones,Cpropone beneficio económico de recursos de selva a mediano plazo al conservarla.",
+      "alert": "La compensación de ganancias no se cuantifica ni demuestra;clave intencional condicional,revisión docente. No afirmar rentabilidad universal de conservación/extracción."
+    },
+    {
+      "question": 68,
+      "page": 25,
+      "printed_page": 25,
+      "answer_proposal": "B",
+      "topic": "Perspectiva de sector opositor",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "reason": "Quienes asocian garantías laborales con aceptación moral probablemente cuestionan regulación por sus creencias.",
+      "alert": "Inferencia del caso,no juicio sobre derechos ni moralidad del oficio."
+    },
+    {
+      "question": 69,
+      "page": 25,
+      "printed_page": 25,
+      "answer_proposal": "B",
+      "topic": "Cambio de postura política en fuente",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "reason": "Crítica a humillación y obediencia tras apoyo inicial se explica por restricciones de libertad.",
+      "alert": "No inferir miedo a represalias como motivo de crítica sin evidencia."
+    }
+  ],
+  "duplicate_occurrences": [
+    {
+      "question": 70,
+      "page": 26,
+      "printed_page": 26,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 15,
+      "canonical_page": 4,
+      "exact_content": true,
+      "verification": "Casos,discurso,opciones y citas cotejados íntegramente conAAQ2física4.",
+      "observed_annotation": "Solo cambia numeración."
+    },
+    {
+      "question": 71,
+      "page": 26,
+      "printed_page": 26,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 16,
+      "canonical_page": 4,
+      "exact_content": true,
+      "verification": "Casos,discurso,opciones y citas cotejados íntegramente conAAQ2física4.",
+      "observed_annotation": "Solo cambia numeración."
+    },
+    {
+      "question": 72,
+      "page": 26,
+      "printed_page": 26,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 17,
+      "canonical_page": 4,
+      "exact_content": true,
+      "verification": "Casos,discurso,opciones y citas cotejados íntegramente conAAQ2física4.",
+      "observed_annotation": "Solo cambia numeración."
+    },
+    {
+      "question": 73,
+      "page": 26,
+      "printed_page": 26,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 18,
+      "canonical_page": 4,
+      "exact_content": true,
+      "verification": "Casos,discurso,opciones y citas cotejados íntegramente conAAQ2física4.",
+      "observed_annotation": "Solo cambia numeración."
+    },
+    {
+      "question": 74,
+      "page": 27,
+      "printed_page": 27,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 19,
+      "canonical_page": 4,
+      "exact_content": true,
+      "verification": "Casos,discurso,opciones y citas cotejados íntegramente conAAQ2física4.",
+      "observed_annotation": "Solo cambia numeración."
+    },
+    {
+      "question": 75,
+      "page": 27,
+      "printed_page": 27,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 20,
+      "canonical_page": 4,
+      "exact_content": true,
+      "verification": "Casos,discurso,opciones y citas cotejados íntegramente conAAQ2física4.",
+      "observed_annotation": "Solo cambia numeración."
+    },
+    {
+      "question": 76,
+      "page": 27,
+      "printed_page": 27,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 21,
+      "canonical_page": 4,
+      "exact_content": true,
+      "verification": "Casos,discurso,opciones y citas cotejados íntegramente conAAQ2física4.",
+      "observed_annotation": "Solo cambia numeración."
+    },
+    {
+      "question": 77,
+      "page": 27,
+      "printed_page": 27,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 22,
+      "canonical_page": 4,
+      "exact_content": true,
+      "verification": "Casos,discurso,opciones y citas cotejados íntegramente conAAQ2física4.",
+      "observed_annotation": "Solo cambia numeración."
+    }
+  ]
+}

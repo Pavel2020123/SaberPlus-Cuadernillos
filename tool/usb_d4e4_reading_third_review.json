@@ -1,0 +1,138 @@
+{
+  "file_id": "USB-d4e43db6988a",
+  "date": "2026-10-30",
+  "area": "Lectura critica",
+  "scope": "Preguntas49-57con opciones en físicas18-20;contextos en17-19 inspeccionados visualmente.Propuestas no oficiales,marcasamarillas separadas.",
+  "competency_legend": {
+    "L": "Identificar y entender los contenidos locales que conforman un texto",
+    "G": "Comprender cómo se articulan las partes de un texto para darle un sentido global",
+    "R": "Reflexionar a partir de un texto y evaluar su contenido"
+  },
+  "contexts": [
+    {
+      "id": "riad",
+      "title": "Cómic sobre recuperación de lectura del Corán",
+      "pages": [
+        17,
+        18
+      ],
+      "source_as_printed": "Sattouf,R.(2019).El árabe del futuro4.",
+      "description": "Riadrecuerda clases de lectura con maestra. Opciones llaman niña al protagonista."
+    },
+    {
+      "id": "horoscopo",
+      "title": "Texto crítico sobre horóscopos y efecto Forer",
+      "pages": [
+        18,
+        19
+      ],
+      "source_as_printed": "Wasserman,M.(22diciembre2016).Otra vez horoscopeando.ElTiempo."
+    },
+    {
+      "id": "armisticio",
+      "title": "Relato sobre armisticio de1918",
+      "pages": [
+        19,
+        20
+      ],
+      "source_as_printed": "Esori,R.(1995).LaSegundaGuerraMundial.El preludio de la guerra.Barcelona:EdicionesFolio.",
+      "description": "Lectura de fuente histórica;no se verifica exactitud histórica o atribución bibliográfica fuera del impreso."
+    }
+  ],
+  "items": [
+    {
+      "question": 49,
+      "page": 18,
+      "topic": "Identificación de género de texto citado",
+      "competency_code": "L",
+      "answer_proposal": "B",
+      "reason": "Corán identificado en nota como libro sagrado y lectura por versículos permiten compararlo con texto religioso como Biblia.",
+      "context": "riad",
+      "observed_highlight": "B"
+    },
+    {
+      "question": 50,
+      "page": 18,
+      "topic": "Relación entre narración y globo de diálogo",
+      "competency_code": "G",
+      "answer_proposal": "C",
+      "reason": "La cursiva junto a flecha dice que escucharla era agradable;globo contiene recitación de mujer.Se expresa gusto por su voz.",
+      "context": "riad",
+      "observed_highlight": "C",
+      "alert": "La opciónCdice la niña,aunque el cómic nombraRiadal protagonista;discordancia de género de la alternativa conservada como defecto editorial."
+    },
+    {
+      "question": 51,
+      "page": 18,
+      "topic": "Identificación de voz narrativa",
+      "competency_code": "L",
+      "answer_proposal": "D",
+      "reason": "Los recuadros narran en primera persona experiencia de protagonista;no son voz de maestra,director o padre.",
+      "context": "riad",
+      "observed_highlight": "D",
+      "alert": "OpciónDusa niña para protagonistaRiad;su función de primera persona sí corresponde. No corregir el original al transcribir."
+    },
+    {
+      "question": 52,
+      "page": 19,
+      "topic": "Funciones contrapuestas de ejemplos",
+      "competency_code": "G",
+      "answer_proposal": "D",
+      "reason": "La predicción específica de enfermedad se presenta como fallida;la general de más refugiados como acertada y poco informativa.",
+      "context": "horoscopo",
+      "observed_highlight": "D"
+    },
+    {
+      "question": 53,
+      "page": 19,
+      "topic": "Función probatoria de experimento",
+      "competency_code": "R",
+      "answer_proposal": "D",
+      "reason": "El mismo perfil general fue entregado a todos y tuvo alta aceptación pese a diferencias personales,respaldando crítica a descripciones vagas.",
+      "context": "horoscopo",
+      "observed_highlight": "D"
+    },
+    {
+      "question": 54,
+      "page": 20,
+      "topic": "Localización de acontecimiento narrado",
+      "competency_code": "L",
+      "answer_proposal": "B",
+      "reason": "El relato sitúa firma en mismo vagón de tren donde se reunían alemanes con mandos aliados.",
+      "context": "armisticio",
+      "observed_highlight": "B",
+      "alert": "Territorio aliado es contexto implícito,pero vagón es lugar explícito.La opciónBes más pertinente que estación,no identificada en pasaje."
+    },
+    {
+      "question": 55,
+      "page": 20,
+      "topic": "Caracterización inferida de personajes",
+      "competency_code": "G",
+      "answer_proposal": "B",
+      "reason": "Comprendieron por primera vez magnitud de derrota al oír condiciones,por lo que estaban vencidos sin asumir plenamente su situación.",
+      "context": "armisticio",
+      "observed_highlight": "B"
+    },
+    {
+      "question": 56,
+      "page": 20,
+      "topic": "Papel de personaje en narración",
+      "competency_code": "L",
+      "answer_proposal": "B",
+      "reason": "Erzberger aparece como portavoz del grupo alemán que recibe condiciones de tregua del comandante aliado.",
+      "context": "armisticio",
+      "observed_highlight": "B",
+      "alert": "El texto lo llama portavoz,no desarrolla título diplomático formal;Bdescribe mejor su función entre opciones."
+    },
+    {
+      "question": 57,
+      "page": 20,
+      "topic": "Relación entre texto principal y fragmento adicional",
+      "competency_code": "R",
+      "answer_proposal": "C",
+      "reason": "La advertencia de tregua por veinte años complementa idea de que fuerzas del fin de PrimeraGuerraimpulsaban la Segunda.",
+      "context": "armisticio",
+      "observed_highlight": "C"
+    }
+  ]
+}

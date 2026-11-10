@@ -1,0 +1,147 @@
+{
+  "file_id": "USB-45e476387c60",
+  "date": "2026-10-30",
+  "area": "Matemáticas",
+  "scope": "Físicas 13-15 completas inspeccionadas; preguntas 35-46 idénticas a registros canónicos, sin repetir su análisis.",
+  "items": [],
+  "duplicate_occurrences": [
+    {
+      "question": 35,
+      "page": 13,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 10,
+      "canonical_page": 5,
+      "printed_page": 13,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de ambos PDF: mismo enunciado, datos, tabla/figura y opciones A-D. Solo cambian numeración, orientación y marcas de agua.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 36,
+      "page": 13,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 11,
+      "canonical_page": 5,
+      "printed_page": 13,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de ambos PDF: mismo enunciado, datos, tabla/figura y opciones A-D. Solo cambian numeración, orientación y marcas de agua.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 37,
+      "page": 13,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 12,
+      "canonical_page": 5,
+      "printed_page": 13,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de ambos PDF: mismo enunciado, datos, tabla/figura y opciones A-D. Solo cambian numeración, orientación y marcas de agua.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 38,
+      "page": 13,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 13,
+      "canonical_page": 5,
+      "printed_page": 13,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de ambos PDF: mismo enunciado, datos, tabla/figura y opciones A-D. Solo cambian numeración, orientación y marcas de agua.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 39,
+      "page": 13,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 14,
+      "canonical_page": 5,
+      "printed_page": 13,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de ambos PDF: mismo enunciado, datos, tabla/figura y opciones A-D. Solo cambian numeración, orientación y marcas de agua.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 40,
+      "page": 14,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 29,
+      "canonical_page": 10,
+      "printed_page": 14,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de ambos PDF: mismo enunciado, datos, tabla/figura y opciones A-D. Solo cambian numeración, orientación y marcas de agua.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 41,
+      "page": 14,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 30,
+      "canonical_page": 10,
+      "printed_page": 14,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de ambos PDF: mismo enunciado, datos, tabla/figura y opciones A-D. Solo cambian numeración, orientación y marcas de agua.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 42,
+      "page": 14,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 31,
+      "canonical_page": 10,
+      "printed_page": 14,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de ambos PDF: mismo enunciado, datos, tabla/figura y opciones A-D. Solo cambian numeración, orientación y marcas de agua.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 43,
+      "page": 14,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 32,
+      "canonical_page": 10,
+      "printed_page": 14,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de ambos PDF: mismo enunciado, datos, tabla/figura y opciones A-D. Solo cambian numeración, orientación y marcas de agua.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 44,
+      "page": 15,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 33,
+      "canonical_page": 11,
+      "additional_physical_pages": [16],
+      "repeated_page_note": "La física 16 repite íntegramente la impresa 15, también presente en física 15. Inspección visual directa; sin variante de contenido.",
+      "printed_page": 15,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de ambos PDF: mismo enunciado, datos, tabla/figura y opciones A-D. Solo cambian numeración, orientación y marcas de agua.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 45,
+      "page": 15,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 34,
+      "canonical_page": 11,
+      "additional_physical_pages": [16],
+      "repeated_page_note": "La física 16 repite íntegramente la impresa 15; mismo contenido y opciones.",
+      "printed_page": 15,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de ambos PDF: mismo enunciado, datos, tabla/figura y opciones A-D. Solo cambian numeración, orientación y marcas de agua.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 46,
+      "page": 15,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 35,
+      "canonical_page": 11,
+      "additional_physical_pages": [16],
+      "repeated_page_note": "La física 16 repite íntegramente la impresa 15; mismo contenido y opciones.",
+      "printed_page": 15,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de ambos PDF: mismo enunciado, datos, tabla/figura y opciones A-D. Solo cambian numeración, orientación y marcas de agua.",
+      "observed_annotation": "No se observa respuesta marcada."
+    }
+  ]
+}

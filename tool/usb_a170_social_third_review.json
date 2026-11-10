@@ -1,0 +1,98 @@
+{
+  "file_id": "USB-a170782eadcb",
+  "date": "2026-10-30",
+  "area": "Sociales y ciudadanas",
+  "scope": "Físicas15-16(impresas28-31)inspeccionadas visualmente,79-87,infografía yfragmentos completos. Sin identidad exacta verificada con fichas previas.",
+  "items": [
+    {
+      "question": 79,
+      "page": 15,
+      "printed_page": 28,
+      "topic": "Dimensión principal en conflicto de cultivo",
+      "competency_proposal": "Pensamiento reflexivo y sistémico",
+      "answer_proposal": "B",
+      "reason": "La advertencia sobre agua,bosques de niebla yecosistemas cambia decisión pese abeneficios económicos;la dimensión ambiental estructura el conflicto.",
+      "alert": "No niega dimensiones económicas opolíticas:se identifica énfasis de descripción."
+    },
+    {
+      "question": 80,
+      "page": 15,
+      "printed_page": 28,
+      "topic": "Perspectiva de empresas ante evaluación ciudadana",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "answer_proposal": "D",
+      "reason": "Las quejas previas permiten inferir que taxistas anticiparían resultado desfavorable yconsiderarían innecesaria encuesta.",
+      "alert": "Es reacción probable atribuida aactores,no justificación objetiva para omitir consulta."
+    },
+    {
+      "question": 81,
+      "page": 15,
+      "printed_page": 29,
+      "topic": "Evidencia gráfica contra idealización ambiental",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "answer_proposal": "B",
+      "reason": "Agricultura,ganadería y350000habitantes muestran intervención humana en parte de páramos,contradiciendo aislamiento absoluto.",
+      "alert": "No demuestra que todos los páramos estén intervenidos niresta valor a conservación."
+    },
+    {
+      "question": 82,
+      "page": 16,
+      "printed_page": 30,
+      "topic": "Consecuencia de discurso discriminatorio",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "answer_proposal": "B",
+      "reason": "Usar estereotipos de debilidad omenor inteligencia para justificar menor salario puede retrasar debate de igualdad.",
+      "alert": "Consecuencia consultada es sobre mujeres,no sanción personal del diputado."
+    },
+    {
+      "question": 83,
+      "page": 16,
+      "printed_page": 30,
+      "topic": "Cambio histórico en ciudadanía",
+      "competency_proposal": "Pensamiento social",
+      "answer_proposal": "C",
+      "reason": "Aexcluye expresamente amujeres convarones;Bhabla decolombianos sin esa restricción,compatible con reconocimiento posterior de derechos políticos femeninos.",
+      "alert": "No inferir fecha exacta nireconstruir toda ley solo con fragmentos."
+    },
+    {
+      "question": 84,
+      "page": 16,
+      "printed_page": 30,
+      "topic": "Desigualdad de acceso auso de recurso",
+      "competency_proposal": "Pensamiento reflexivo y sistémico",
+      "answer_proposal": "B",
+      "reason": "Ambos relatos contrastan capacidad de ricos para abastecerse yconsumo desproporcionado frente apobres:desigualdad social.",
+      "alert": "No describen monopolio ni prueban segregación causada por política concreta."
+    },
+    {
+      "question": 85,
+      "page": 16,
+      "printed_page": 31,
+      "topic": "Reconocimiento de multiculturalidad",
+      "competency_proposal": "Pensamiento social",
+      "answer_proposal": "C",
+      "reason": "Reconocer grupos con tradiciones propias yprotección especial corresponde al enfoque diferencial de derechos del fragmento.",
+      "alert": "Encuentros ocadenas de atención pueden ser instrumentos,pero no agotan el principio consultado."
+    },
+    {
+      "question": 86,
+      "page": 16,
+      "printed_page": 31,
+      "topic": "Confiabilidad por evidencia contrastable",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "answer_proposal": "C",
+      "reason": "La líder aporta videos yotras pruebas;es criterio mejor que interés electoral o prestigio de medio.",
+      "alert": "Aportar pruebas permite mayor contrastación,no demuestra automáticamente autenticidad niculpabilidad."
+    },
+    {
+      "question": 87,
+      "page": 16,
+      "printed_page": 31,
+      "topic": "Fuente pertinente para afirmación cuantitativa",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "answer_proposal": "C",
+      "reason": "DANEaporta porcentaje,periodo einvestigación cuantitativa,frente ageneralizaciones normativas uopiniones.",
+      "alert": "Confiabilidad no implica que ese dato describa todas las causas de embarazo nique cargo institucional sea infalible."
+    }
+  ]
+}

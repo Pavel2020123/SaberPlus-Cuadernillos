@@ -1,0 +1,77 @@
+{
+  "file_id": "USB-f00a52c8b6f2",
+  "date": "2026-10-30",
+  "area": "Sociales y ciudadanas",
+  "scope": "Portada y físicas2-3 inspeccionadas visualmente; preguntas1-7. Propuestas no oficiales. No se observan claves marcadas inequívocamente.",
+  "metadata": {
+    "cover": "Puente de Boyacá;2025-1;Segunda Sesión;ABR2;declara147preguntas y4horas30min.",
+    "calendar": "No confirmado explícitamente",
+    "source_status": "Escaneo con marcas de agua, sin autenticidad o permiso comercial acreditado.",
+    "coverage": "Físicas1-3 revisadas;4-36pendientes."
+  },
+  "items": [
+    {
+      "question": 1,
+      "page": 2,
+      "topic": "Intereses en solución intermedia de conflicto",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "answer_proposal": "D",
+      "reason": "Pagar50%es punto intermedio entre exención solicitada por federación y cobro del gobierno.",
+      "alert": "No demuestra legalidad de negociar impuestos ni que toda solución intermedia sea justa; se evalúa ventaja para ambas partes."
+    },
+    {
+      "question": 2,
+      "page": 2,
+      "topic": "Saberes tradicionales y seguridad alimentaria",
+      "competency_proposal": "Pensamiento reflexivo y sistémico",
+      "answer_proposal": "B",
+      "reason": "El texto conecta recuperar producción y tradiciones alimentarias con problemas de nutrición y pérdida de autosuficiencia.",
+      "alert": "No reducir la problemática a oposición absoluta al desarrollo ni atribuir causalidad exclusiva a un factor."
+    },
+    {
+      "question": 3,
+      "page": 2,
+      "topic": "Comparación de perspectivas sobre patente",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "answer_proposal": "B",
+      "reason": "Pacientes apoyan investigación para tratamientos y presidenta valora liderazgo institucional; defensores y estudiantes expresan objeciones.",
+      "alert": "Apoyo se infiere de posturas declaradas. No se verifica validez real de patente ni eficacia terapéutica."
+    },
+    {
+      "question": 4,
+      "page": 3,
+      "topic": "Contraargumento a analogía entre medios",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "answer_proposal": "C",
+      "reason": "Mayor interactividad del jugador introduce diferencia pertinente que cuestiona equiparar videojuegos y televisión.",
+      "alert": "Se identifica la razón que podría cuestionar la analogía, no se prueba que videojuegos causen delitos ni que la influencia sea necesariamente mayor."
+    },
+    {
+      "question": 5,
+      "page": 3,
+      "topic": "Alcance de una objeción metodológica",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "answer_proposal": "A",
+      "reason": "Los voceros admiten resultados alarmantes y cuestionan cobertura de contextos; no niegan que exista exclusión por género u orientación.",
+      "alert": "La crítica disputa suficiencia o alcance causal del estudio, no equivale a negar toda discriminación. Aesla opción más compatible con ese reconocimiento."
+    },
+    {
+      "question": 6,
+      "page": 3,
+      "topic": "Intención de denuncia de discriminación",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "answer_proposal": "D",
+      "reason": "La estudiante invoca creencias y libertad para presentar la negativa como vulneración de sus derechos.",
+      "alert": "Identifica intención de la estudiante, no determina jurídicamente si la restricción escolar es válida."
+    },
+    {
+      "question": 7,
+      "page": 3,
+      "topic": "Libre desarrollo de personalidad en escuela",
+      "competency_proposal": "Pensamiento social",
+      "answer_proposal": "C",
+      "reason": "Permitir continuar estudios a estudiantes embarazadas respeta sus decisiones de vida sin excluirlas de educación.",
+      "alert": "Las otras opciones se refieren más directamente a elección docente, pluralismo religioso o nutrición; no son equivalentes al derecho consultado."
+    }
+  ]
+}

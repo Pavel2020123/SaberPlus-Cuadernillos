@@ -1,0 +1,98 @@
+{
+  "file_id": "USB-4d0661231ca3",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Físicas25-28completas,71-79nueve fichas.79sinclaveporconfusión científica de sobresaturación. Ciencias51-79cubierta inicialmente.",
+  "items": [
+    {
+      "question": 71,
+      "page": 25,
+      "printed_page": 25,
+      "answer_proposal": "B",
+      "topic": "Rugosidad y distancia de frenado",
+      "competency_proposal": "Explicación de fenómenos",
+      "reason": "Con mismo impulso y mayor rugosidad,modelo predice menor recorrido por mayor rozamiento.",
+      "alert": "Rugosidad no determina universalmente coeficiente sin materiales y condiciones;respuesta según premisa."
+    },
+    {
+      "question": 72,
+      "page": 25,
+      "printed_page": 25,
+      "answer_proposal": "B",
+      "topic": "Representación de datos de isótopos",
+      "competency_proposal": "Indagación",
+      "reason": "Bbarras estables/inestables preserva2/5,2/6,2/9,1/11,2/14,2/14,2/14,3/14,1/17,4/16.",
+      "alert": "Cantidades descubiertas son datos de fuente,no inventario nuclear vigente."
+    },
+    {
+      "question": 73,
+      "page": 26,
+      "printed_page": 26,
+      "answer_proposal": "D",
+      "topic": "Solubilidad de gas y temperatura",
+      "competency_proposal": "Explicación de fenómenos",
+      "reason": "Al calentar baja solubilidad delCO2y se libera gas;D.",
+      "alert": "Destapar también cambia presión;no atribuir todo fenómeno solo a temperatura."
+    },
+    {
+      "question": 74,
+      "page": 26,
+      "printed_page": 26,
+      "answer_proposal": "B",
+      "topic": "Presión selectiva en microorganismos",
+      "competency_proposal": "Explicación de fenómenos",
+      "reason": "Ambiente ácido favorece variantes de patógenos capaces de sobrevivirlo,interpretado como estrategias adaptativas,B.",
+      "alert": "No evolución intencional ni inducida con finalidad;no consejo clínico ni validar especie del texto."
+    },
+    {
+      "question": 75,
+      "page": 26,
+      "printed_page": 26,
+      "answer_proposal": "B",
+      "topic": "Optimización de tiempos totales",
+      "competency_proposal": "Indagación",
+      "reason": "Sumas ingreso+salida:puerta1=39,2=42,3=41,4=38segundos;menores1y4.",
+      "alert": "Supone mismo número50y criterio de suma por puerta;no calcula capacidad real con concurrencia."
+    },
+    {
+      "question": 76,
+      "page": 26,
+      "printed_page": 26,
+      "answer_proposal": "B",
+      "topic": "Transformaciones de energía en tiro",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "reason": "Arco tensado almacena energía elástica;flecha cinética y gravitacional;impacto térmica.Breúneformasdelproceso.",
+      "alert": "No toda energía se vuelve calor ni se conserva solo en flecha."
+    },
+    {
+      "question": 77,
+      "page": 27,
+      "printed_page": 27,
+      "answer_proposal": "B",
+      "topic": "Alternancia reproductiva",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "reason": "Bmedusas sexuales,gametos/cigoto y colonia que produce nuevas medusas asexualmente ilustra alternancia indicada.",
+      "alert": "Definición del ejercicio de alternancia sexual/asexual,no confundir con fases multicelulares haploide/diploide de plantas."
+    },
+    {
+      "question": 78,
+      "page": 28,
+      "printed_page": 28,
+      "answer_proposal": "D",
+      "topic": "Selección de intervalo de menor demanda",
+      "competency_proposal": "Indagación",
+      "reason": "10-16h mantiene demanda baja sin pico de6ni ascenso19-22;D.",
+      "alert": "Gráfica cualitativa sin unidades no mide eficiencia de central;minimiza demanda descrita."
+    },
+    {
+      "question": 79,
+      "page": 28,
+      "printed_page": 28,
+      "answer_proposal": null,
+      "topic": "Límite de solubilidad y exceso de sólido",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "reason": "A20°Ccurva≈30-40g/100gagua;agregar70gdeja sólido sin disolver. Fase líquida llega a saturación con exceso sólido,no necesariamente solución sobresaturada.",
+      "alert": "Ninguna opción describe correctamente equilibrio. Bparece intención por glosario defectuoso del texto;no dar clave automática ni confundir exceso agregado con soluto disuelto."
+    }
+  ]
+}

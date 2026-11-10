@@ -1,0 +1,78 @@
+{
+  "file_id": "USB-45e476387c60",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Físicas 19-21 (impresas 18-20), inspección visual completa de textos, tablas, red y gráficas. Preguntas 53-59. No coincidencias exactas identificadas en fichas consultadas.",
+  "items": [
+    {
+      "question": 53,
+      "page": 19,
+      "printed_page": 18,
+      "topic": "Desequilibrio de red trófica por eliminación de consumidor",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "C",
+      "reason": "Al eliminar saltamontes desaparece el alimento exclusivo de geckos; los caracoles quedan sin competidor por plantas y sin depredador descrito, favoreciendo expansión.",
+      "alert": "Predicción del modelo cerrado; no implica que poblaciones reales desaparezcan o crezcan sin otros límites."
+    },
+    {
+      "question": 54,
+      "page": 20,
+      "printed_page": 19,
+      "topic": "Potencia por área y producción energética total",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "A",
+      "reason": "La gráfica presenta potencia por unidad de área; se necesita área con vientos fuertes para estimar potencial total de cada región.",
+      "alert": "Para energía también hace falta duración de operación; el eje mezcla potencia y unidades kW/m² con la expresión anual. El área es la variable adicional pertinente entre opciones, sin resolver toda evaluación técnica."
+    },
+    {
+      "question": 55,
+      "page": 20,
+      "printed_page": 19,
+      "topic": "Comparación de barras de potencial eólico",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "B",
+      "reason": "Cabo de la Vela tiene barra máxima y Valledupar la mínima; las otras regiones quedan por debajo del Cabo.",
+      "alert": "Promedio anual no prueba potencia constante en tiempo; barras parecidas no son exactamente iguales."
+    },
+    {
+      "question": 56,
+      "page": 20,
+      "printed_page": 19,
+      "topic": "Formación de viento por calentamiento diferencial",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "C",
+      "reason": "La radiación solar produce diferencias térmicas y de presión que originan desplazamientos de aire.",
+      "alert": "La opción resume mecanismo; viento va principalmente de mayor a menor presión, no de baja a alta temperatura como afirma B. La expansión térmica sola no explica circulación completa."
+    },
+    {
+      "question": 57,
+      "page": 21,
+      "printed_page": 20,
+      "topic": "Selección de gráfica acorde con pares de datos",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "C",
+      "reason": "C reproduce 0,4 mg→42 %, 0,7→72 %, 1,4→88 % y 3,0→60 %: aumento inicial y descenso final.",
+      "alert": "No extrapolar que más inhibidor siempre mejora el efecto; la curva interpola cuatro observaciones, no establece toda la función."
+    },
+    {
+      "question": 58,
+      "page": 21,
+      "printed_page": 20,
+      "topic": "Competencia interespecífica por recursos limitados",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "B",
+      "reason": "La deforestación disminuye alimento compartido, aumenta competencia y puede reducir individuos de ambas especies.",
+      "alert": "No se afirma reproducción cruzada ni aumento automático de abundancia; efecto poblacional condicionado a persistencia de escasez y ausencia de compensación."
+    },
+    {
+      "question": 59,
+      "page": 21,
+      "printed_page": 20,
+      "topic": "Electrones de valencia a partir de configuración",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "C",
+      "reason": "En fósforo 1s²2s²2p⁶3s²3p³, el nivel externo es n=3 y contiene 2+3=5 electrones.",
+      "alert": "El segundo nivel tiene ocho electrones pero no es capa de valencia; no sumar solo electrones del subnivel 3p."
+    }
+  ]
+}

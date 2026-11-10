@@ -1,0 +1,13 @@
+{
+  "session": "Primera sesión",
+  "version": "SP-001",
+  "cover_image": "assets/Sabi_estudiando_SP001.png",
+  "instructions_image": "assets/Sabi_indicaciones_SP001.png",
+  "time": "Por definir",
+  "areas": [
+    {"name": "Matemáticas", "count": null},
+    {"name": "Lectura crítica", "count": null},
+    {"name": "Sociales y ciudadanas", "count": null},
+    {"name": "Ciencias naturales", "count": null}
+  ]
+}

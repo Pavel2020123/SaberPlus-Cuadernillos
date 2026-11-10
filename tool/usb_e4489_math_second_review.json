@@ -1,0 +1,65 @@
+{
+  "file_id": "USB-e4489f150183",
+  "date": "2026-10-29",
+  "area": "Matematicas",
+  "scope": "Preguntas39-44,paginas15-16 inspeccionadas visualmente.Termina Matematicas44.Claves propuestas no oficiales.",
+  "competency_legend": {
+    "IR": "Interpretacion y representacion",
+    "FE": "Formulacion y ejecucion",
+    "AR": "Argumentacion"
+  },
+  "items": [
+    {
+      "question": 39,
+      "page": 15,
+      "topic": "Igualdad de areas por descomposicion",
+      "competency_code": "AR",
+      "answer_proposal": "C",
+      "reason": "La reparticion por mitades de zonas exteriores,segmentos circulares y cuadrado central da1800cm2por color.",
+      "alert": "Paso1invierte literalmente orden de resta:baldosa al circulo;C exige interpretar diferencia positiva prevista.Sin corregir original."
+    },
+    {
+      "question": 40,
+      "page": 15,
+      "topic": "Sustitucion en formula radical",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "Conw100,sqrt(w)/5=10/5=2m2.La estatura144ya esta incorporada en formula.",
+      "alert": "Ejercicio algebraico,no calculo clinico validado."
+    },
+    {
+      "question": 41,
+      "page": 15,
+      "topic": "Orden por puntaje total",
+      "competency_code": "IR",
+      "answer_proposal": "B",
+      "reason": "Andrea9,Mariana11,Catalina13;ordenCatalina,Mariana,Andrea."
+    },
+    {
+      "question": 42,
+      "page": 16,
+      "topic": "Evaluacion de funcion cuadratica",
+      "competency_code": "AR",
+      "answer_proposal": "B",
+      "reason": "x^2requiere multiplicar3por3,no3por2.El resultado correcto es5*9+1=46."
+    },
+    {
+      "question": 43,
+      "page": 16,
+      "topic": "Comparacion de costos bancarios",
+      "competency_code": "AR",
+      "answer_proposal": "D",
+      "reason": "M:4*12000+24*1000=72000;N:24*5000=120000.Cambiar cuesta48000mas.",
+      "alert": "Tarifas hipoteticas,no recomendacion financiera."
+    },
+    {
+      "question": 44,
+      "page": 16,
+      "topic": "Informacion obtenible de porcentajes",
+      "competency_code": "IR",
+      "answer_proposal": "C",
+      "reason": "Se calcula media(60+58+75+80+92)/5=73%.No se conocen numero de preguntas,pesos de preguntas ni conversion a calificacion."
+    }
+  ],
+  "next": "Ciencias45enpagina17."
+}

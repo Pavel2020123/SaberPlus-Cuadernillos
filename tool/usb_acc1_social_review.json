@@ -1,0 +1,261 @@
+{
+  "file_id": "USB-91836110f48e",
+  "date": "2026-10-29",
+  "area": "Sociales y ciudadanas",
+  "scope": "Preguntas67-91, paginas fisicas22-30 inspeccionadas visualmente. La pagina25 esta girada y se revisa tambien en render orientado, sin modificar original. Competencias y claves propuestas,no oficiales; no se certifica actualidad juridica,historica o cientifica.",
+  "competency_legend": {
+    "PS": "Pensamiento social",
+    "PA": "Interpretacion y analisis de perspectivas",
+    "RS": "Pensamiento reflexivo y sistemico"
+  },
+  "items": [
+    {
+      "question": 67,
+      "page": 22,
+      "topic": "Participacion politica y restriccion por educacion",
+      "competency_code": "PS",
+      "answer_proposal": "A",
+      "reason": "Condicionar voto a preparacion academica excluye grupos del derecho de participacion segun el supuesto constitucional del ejercicio.",
+      "alert": "La expresion sin restricciones de A es amplia: existen condiciones de ciudadania y edad. No interpretar como ausencia de toda regulacion electoral."
+    },
+    {
+      "question": 68,
+      "page": 22,
+      "topic": "Conflicto de interes y abuso de autoridad judicial",
+      "competency_code": "PS",
+      "answer_proposal": "A",
+      "reason": "La jueza utiliza su posicion para persuadir desistimiento en una controversia que beneficia su empresa."
+    },
+    {
+      "question": 69,
+      "page": 22,
+      "topic": "Concepto analitico de diferencias socioeconomicas",
+      "competency_code": "PS",
+      "answer_proposal": "D",
+      "reason": "La interpretacion relaciona usos de plaza con diferencias sociales entre residentes de altos estratos y personas sin hogar: clase social."
+    },
+    {
+      "question": 70,
+      "page": 23,
+      "topic": "Dimensiones ambiental y cultural en conflicto territorial",
+      "competency_code": "RS",
+      "answer_proposal": "B",
+      "reason": "Reforestar protege selva y alimentos; colaboracion preserva forma de vida indigena y traslado reconoce estilo de comunidad religiosa."
+    },
+    {
+      "question": 71,
+      "page": 23,
+      "topic": "Afinidad de explicaciones del cambio climatico",
+      "competency_code": "PA",
+      "answer_proposal": "D",
+      "reason": "Reducir emisiones industriales supone influencia humana, coincidente con la postura del grupo cientifico."
+    },
+    {
+      "question": 72,
+      "page": 23,
+      "topic": "Libertad religiosa y dialogo comunitario",
+      "competency_code": "PS",
+      "answer_proposal": "B",
+      "reason": "Los espacios de dialogo evitan ataques infundados contra una comunidad de creencias diferentes y reconocen libertad de culto.",
+      "alert": "Asociacion e igualdad tambien intervienen; B es la garantia mas especifica de la situacion religiosa."
+    },
+    {
+      "question": 73,
+      "page": 23,
+      "topic": "Encuadre de encuesta y discriminacion por orientacion sexual",
+      "competency_code": "PA",
+      "answer_proposal": "B",
+      "reason": "La pregunta centra elegibilidad en despido por orientacion sexual, no en capacidades para el cargo, y puede inducir estigma."
+    },
+    {
+      "question": 74,
+      "page": 24,
+      "topic": "Funciones e instituciones de ramas del poder",
+      "competency_code": "PS",
+      "answer_proposal": "C",
+      "reason": "El orden propuesto corresponde a funciones ejecutivas,legislativas y judiciales:Presidencia,Congreso,Fiscalia.",
+      "alert": "Garantizar derechos es deber transversal y Fiscalia integra rama judicial con funciones especificas; no agota toda administracion de justicia."
+    },
+    {
+      "question": 75,
+      "page": 24,
+      "topic": "Barreras de acceso a subsidio para adultos vulnerables",
+      "competency_code": "RS",
+      "answer_proposal": null,
+      "reason": "A menciona acceso a informacion y C disponibilidad de recursos, factores favorables tal como estan escritos. B y D tambien pueden operar como gestion ordinaria. No se expresa falta de acceso o insuficiencia que defina obstaculo.",
+      "alert": "No insertar mentalmente no o falta de en A/C. Mantener abierta hasta cotejo de mejor fuente o criterio docente."
+    },
+    {
+      "question": 76,
+      "page": 24,
+      "topic": "Colectivizacion agraria y propiedad estatal",
+      "competency_code": "PS",
+      "answer_proposal": "A",
+      "reason": "La organizacion socialista descrita implica intervencion estatal en propiedad,control y distribucion de tierra y recursos."
+    },
+    {
+      "question": 77,
+      "page": 25,
+      "topic": "Condiciones geograficas de calidad y produccion cafetera",
+      "competency_code": "RS",
+      "answer_proposal": "B",
+      "reason": "Clima ecuatorial,suelos y condiciones que permiten diferentes cosechas respaldan posicionamiento de calidad segun el texto.",
+      "visual_dependency": "Pagina fisica25 viene girada; se genero copia de lectura orientada sin cambiar PDF.",
+      "alert": "Texto no acredita igualdad de suelos con Vietnam/Indonesia ni que proximidad a Brasil genere calidad similar."
+    },
+    {
+      "question": 78,
+      "page": 25,
+      "topic": "Independencia y representatividad de encuesta electoral",
+      "competency_code": "PA",
+      "answer_proposal": "A",
+      "reason": "La preferencia por quien financia la encuesta permite cuestionar independencia de fuente; difusion o costo no demuestran rigor.",
+      "alert": "Coincidencia del resultado con financiador no prueba fraude por si sola, pero sustenta revisar independencia. Se identifica como ejemplo de riesgo,no conclusion universal."
+    },
+    {
+      "question": 79,
+      "page": 26,
+      "topic": "Cambio de perspectiva institucional y evidencia sobre homosexualidad",
+      "competency_code": "PA",
+      "answer_proposal": "B",
+      "reason": "El pasaje combina movilizacion social con investigaciones que no encuentran vinculo inherente con psicopatologia.",
+      "alert": "Se analiza el cambio explicado en el texto; las etiquetas historicas citadas no son clasificacion diagnostica actual."
+    },
+    {
+      "question": 80,
+      "page": 26,
+      "topic": "Aplicacion de justicia transicional",
+      "competency_code": "PS",
+      "answer_proposal": "D",
+      "reason": "Responder a represion o conflicto pasado mediante reparacion y no repeticion coincide con el modelo, no con olvido de los danos."
+    },
+    {
+      "question": 81,
+      "page": 27,
+      "topic": "Argumento favorable al voto obligatorio",
+      "competency_code": "PA",
+      "answer_proposal": "B",
+      "reason": "La formacion de cultura politica apoya la participacion defendida; otras opciones se oponen o cambian el objetivo.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 81,
+      "related_page": 27
+    },
+    {
+      "question": 82,
+      "page": 27,
+      "topic": "Desplazamiento forzado y despojo",
+      "competency_code": "PS",
+      "answer_proposal": "D",
+      "reason": "La salida coaccionada del lugar de origen es el fenomeno especifico descrito, no una migracion voluntaria.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 82,
+      "related_page": 27
+    },
+    {
+      "question": 83,
+      "page": 27,
+      "topic": "Ubicacion historica de una fuente sobre M-19",
+      "competency_code": "PS",
+      "answer_proposal": "D",
+      "reason": "La referencia a magistrados rehenes y al recinto judicial corresponde a la toma del Palacio de Justicia mencionada por D.",
+      "note": "La clave propuesta requiere conocimiento historico; no constituye autenticacion del recorte ni verificacion de todos los distractores.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 83,
+      "related_page": 27
+    },
+    {
+      "question": 84,
+      "page": 28,
+      "topic": "Estigmatizacion y efectos de un discurso",
+      "competency_code": "PA",
+      "answer_proposal": "D",
+      "reason": "La declaracion reduce el sobrepeso a responsabilidad individual y promueve culpabilizacion.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 84,
+      "related_page": 28
+    },
+    {
+      "question": 85,
+      "page": 28,
+      "topic": "Consecuencias no deseadas de una solucion ambiental",
+      "competency_code": "RS",
+      "answer_proposal": "C",
+      "reason": "La fragmentacion mantiene el riesgo de contaminacion segun la informacion del contexto.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 85,
+      "related_page": 28
+    },
+    {
+      "question": 86,
+      "page": 28,
+      "topic": "Supuesto de igualdad y dignidad en un discurso",
+      "competency_code": "PA",
+      "answer_proposal": "B",
+      "reason": "La critica a la discriminacion presupone trato digno independiente del color de piel.",
+      "alert": "El fragmento visible dice que hace cien anos se firmo la independencia. Esa atribucion historica debe verificarse antes de reutilizar: no aceptar automaticamente una adaptacion como fuente fiel.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 86,
+      "related_page": 28
+    },
+    {
+      "question": 87,
+      "page": 29,
+      "topic": "Jerarquia normativa y Estado laico",
+      "competency_code": "PS",
+      "answer_proposal": "B",
+      "reason": "Dadas las premisas del ejercicio, una ley no puede contrariar la Constitucion.",
+      "note": "Respuesta al supuesto escolar, no asesoria juridica.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 87,
+      "related_page": 29
+    },
+    {
+      "question": 88,
+      "page": 29,
+      "topic": "Afinidad entre propuestas de financiacion educativa",
+      "competency_code": "PA",
+      "answer_proposal": null,
+      "reason": "A parece la opcion prevista, pero la propuesta de rectores no explicita que el dinero sea publico; todas buscan mas materiales.",
+      "alert": "Comparacion insuficientemente delimitada. Mantener abierta hasta revision docente.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 88,
+      "related_page": 29
+    },
+    {
+      "question": 89,
+      "page": 29,
+      "topic": "Identificacion de rol politico desde atribuciones",
+      "competency_code": "PS",
+      "answer_proposal": "C",
+      "reason": "El alcance nacional, las fuerzas armadas y las decisiones generales corresponden al mandatario descrito.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 89,
+      "related_page": 29
+    },
+    {
+      "question": 90,
+      "page": 30,
+      "topic": "Ciudadania y consecuencias de alternativas territoriales",
+      "competency_code": "RS",
+      "answer_proposal": null,
+      "reason": "B es la candidata prevista por su referencia a naciones independientes, pero administrar recursos internacionalmente no implica por si solo impedir nacionalidad, Estado o participacion.",
+      "alert": "Premisas insuficientes y simplificacion del conflicto; no afirmar que la tercera propuesta produzca necesariamente ese efecto.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 90,
+      "related_page": 30
+    },
+    {
+      "question": 91,
+      "page": 30,
+      "topic": "Cooperacion para restauracion de humedales",
+      "competency_code": "RS",
+      "answer_proposal": "C",
+      "reason": "La experiencia combina acuerdos comunitarios, gestion estatal y apoyo ambiental, no desplazamiento de uno de esos actores.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 91,
+      "related_page": 30
+    }
+  ],
+  "comparison_scope": "Once pares81-91 con el mismo rango del primer PDF cotejados en enunciados y opciones; paginas fisicas tambien coinciden en ese bloque. Conservar claves abiertas88 y90. No declarar los otros14 unicos de toda la coleccion.",
+  "next": "Ciencias92-120 desde pagina fisica31; falta cierre."
+}

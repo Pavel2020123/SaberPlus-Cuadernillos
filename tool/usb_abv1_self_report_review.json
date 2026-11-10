@@ -1,0 +1,75 @@
+{
+  "file_id": "USB-b39f1fd42a79",
+  "date": "2026-10-29",
+  "area": "Cuestionario socioeconomico",
+  "scope": "Preguntas 121-131, pagina fisica 45 cotejada visualmente con USB-7b48857ae6bc 121-131. Autoinformes excluidos del banco academico: no recoger respuestas personales ni asignar aciertos. La portada anuncia tambien clima escolar pero no aparece en las paginas disponibles.",
+  "items": [
+    {
+      "question": 121,
+      "page": 45,
+      "topic": "Nivel educativo del padre",
+      "exclude_academic": true
+    },
+    {
+      "question": 122,
+      "page": 45,
+      "topic": "Nivel educativo de la madre",
+      "exclude_academic": true
+    },
+    {
+      "question": 123,
+      "page": 45,
+      "topic": "Estrato reportado de vivienda",
+      "exclude_academic": true
+    },
+    {
+      "question": 124,
+      "page": 45,
+      "topic": "Conexion a internet en el hogar",
+      "exclude_academic": true
+    },
+    {
+      "question": 125,
+      "page": 45,
+      "topic": "Television cerrada en el hogar",
+      "exclude_academic": true
+    },
+    {
+      "question": 126,
+      "page": 45,
+      "topic": "Cantidad de libros del hogar",
+      "exclude_academic": true
+    },
+    {
+      "question": 127,
+      "page": 45,
+      "topic": "Tiempo de lectura recreativa",
+      "exclude_academic": true
+    },
+    {
+      "question": 128,
+      "page": 45,
+      "topic": "Tiempo de navegacion no academica",
+      "exclude_academic": true
+    },
+    {
+      "question": 129,
+      "page": 45,
+      "topic": "Frecuencia de consumo de leche y derivados",
+      "exclude_academic": true
+    },
+    {
+      "question": 130,
+      "page": 45,
+      "topic": "Frecuencia de consumo de carnes, pescados o huevos",
+      "exclude_academic": true
+    },
+    {
+      "question": 131,
+      "page": 45,
+      "topic": "Frecuencia de consumo de cereales, frutos secos o legumbres",
+      "exclude_academic": true
+    }
+  ],
+  "next": "Primera lectura de los 131 items presentes terminada; faltan validacion docente y comparacion con los demas archivos. No inventar 132-143 anunciados pero ausentes."
+}

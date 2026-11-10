@@ -1,0 +1,127 @@
+{
+  "file_id": "USB-d4e43db6988a",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Preguntas101-113,físicas37-40 inspeccionadas visualmente,con tablas,modelos y opciones.Propuestas no oficiales,sin letras de opción marcadas observadas.",
+  "competency_legend": {
+    "U": "Uso comprensivo del conocimiento científico",
+    "E": "Explicación de fenómenos",
+    "I": "Indagación"
+  },
+  "items": [
+    {
+      "question": 101,
+      "page": 37,
+      "topic": "Clasificación por coincidencia de propiedades",
+      "competency_code": "U",
+      "answer_proposal": "B",
+      "reason": "Minerales3y6sonazules,no metálicos,transparentes;2y7sonrojos,no metálicos,no transparentes."
+    },
+    {
+      "question": 102,
+      "page": 37,
+      "topic": "Función de mitosis en crecimiento",
+      "competency_code": "E",
+      "answer_proposal": "C",
+      "reason": "La mitosis aumenta células del folículo que producen queratina y permite crecimiento del pelo.",
+      "alert": "No produce fibras a partir de células inexistentes ni altera número cromosómico típico."
+    },
+    {
+      "question": 103,
+      "page": 37,
+      "topic": "Interacción de parásito con huésped y vector",
+      "competency_code": "U",
+      "answer_proposal": "B",
+      "reason": "El esquema muestra daño en ave y reproducción en insecto sin afectar su funcionamiento,por lo queBcoincide con modelo.",
+      "alert": "El esquema define efecto neutral en vector;no generalizar ausencia de efectos a todas las infecciones reales."
+    },
+    {
+      "question": 104,
+      "page": 37,
+      "topic": "Identificación de isótopos",
+      "competency_code": "U",
+      "answer_proposal": "B",
+      "reason": "NyYtienen1protón y distinto número de neutrones0y2;comparten elemento y difieren masa."
+    },
+    {
+      "question": 105,
+      "page": 38,
+      "topic": "Comparación de masa de soluto en igual volumen",
+      "competency_code": "U",
+      "answer_proposal": "A",
+      "reason": "El mismo soluto a4,10Mcontiene doble número de moles y masa que a2,05Mparaigual volumen;disolución2.",
+      "alert": "La relación usa mismo soluto e igual volumen,no comparación numérica directa entre porcentajes y molaridad."
+    },
+    {
+      "question": 106,
+      "page": 38,
+      "topic": "Información necesaria para sustentar relación viscosidad-velocidad",
+      "competency_code": "I",
+      "answer_proposal": "C",
+      "reason": "La tabla solo presenta misma distancia5cmydistintas velocidades;faltan identidades y viscosidades de líquidos para asociar variables.",
+      "alert": "Controlar fuerza también es relevante,peroCañade la variable esencial ausente para conclusión específica."
+    },
+    {
+      "question": 107,
+      "page": 38,
+      "topic": "Interpretación de función de nutrientes en tabla",
+      "competency_code": "U",
+      "answer_proposal": "C",
+      "reason": "La tabla atribuye a fibra insoluble favorecer tránsito y regular intestino,correspondiente a problema planteado.",
+      "alert": "Ejercicio de lectura de tabla,no recomendación médica individual."
+    },
+    {
+      "question": 108,
+      "page": 39,
+      "topic": "Gráfica de relación directa hipotética",
+      "competency_code": "I",
+      "answer_proposal": "C",
+      "reason": "La hipótesis pide mayor tiempo para mayor tamaño;Cpresenta grande120,mediana60,pequeña30segundos.",
+      "alert": "Se representa hipótesis,no se confirma mecanismo experimental por la gráfica."
+    },
+    {
+      "question": 109,
+      "page": 39,
+      "topic": "Adaptación de proceso al cambio de material",
+      "competency_code": "E",
+      "answer_proposal": "C",
+      "reason": "Sin enfriamiento el caucho no queda tan frágil;una mayor capacidad mecánica de trituración es la modificación pertinente entre opciones.",
+      "alert": "No es instrucción de operación industrial ni demuestra seguridad o suficiencia real de molino."
+    },
+    {
+      "question": 110,
+      "page": 40,
+      "topic": "Ventaja de fragilización criogénica",
+      "competency_code": "E",
+      "answer_proposal": "A",
+      "reason": "Baja temperatura facilita quebrar caucho y evita múltiples pasadas necesarias para tamaño equivalente en trituración simple.",
+      "alert": "Rapidez se infiere de menos pasadas;no se aportan mediciones temporales o energía. No afirma impacto cero."
+    },
+    {
+      "question": 111,
+      "page": 40,
+      "topic": "Transferencia de energía durante enfriamiento",
+      "competency_code": "E",
+      "answer_proposal": "C",
+      "reason": "El caucho cede energía al nitrógeno más frío mediante transferencia de calor."
+    },
+    {
+      "question": 112,
+      "page": 40,
+      "topic": "Expansión de gas a presión constante",
+      "competency_code": "U",
+      "answer_proposal": "C",
+      "reason": "Recipiente flexible a presión constante permite aumentar volumen al elevar temperatura,como gráfica.",
+      "alert": "Catribuye aumento a cantidad de choques: explicación simplificada;presión se mantiene por expansión. RelaciónV/Tusa temperatura absoluta."
+    },
+    {
+      "question": 113,
+      "page": 40,
+      "topic": "Clasificación de metamorfosis",
+      "competency_code": "U",
+      "answer_proposal": "B",
+      "reason": "Mariposa pasa por larva,pupa y adulto con transformaciones drásticas,modelo2.",
+      "alert": "Huevos aparecen en ambos modelos y no permiten distinguirlos por sí solos."
+    }
+  ]
+}

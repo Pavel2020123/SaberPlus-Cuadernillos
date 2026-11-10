@@ -1,0 +1,62 @@
+{
+  "file_id": "USB-8e6cf8399239",
+  "date": "2026-10-30",
+  "area": "Matemáticas",
+  "scope": "Preguntas20-25, físicas8-9 inspeccionadas visualmente. Matemáticas1-25 cubierta inicialmente; no validación docente.",
+  "competency_legend": {
+    "IR": "Interpretación y representación",
+    "FE": "Formulación y ejecución",
+    "AR": "Argumentación"
+  },
+  "items": [
+    {
+      "question": 20,
+      "page": 8,
+      "topic": "Principio multiplicativo de conteo",
+      "competency_code": "FE",
+      "answer_proposal": "B",
+      "reason": "Cinco camisetas por cuatro pantalonetas por tres medias dan 5×4×3=60 uniformes."
+    },
+    {
+      "question": 21,
+      "page": 8,
+      "topic": "Distribución de círculos con separación fija",
+      "competency_code": "FE",
+      "answer_proposal": "D",
+      "reason": "Con radio r, separación libre r y posiciones extremas del dibujo, se intercalan dos ruedas adicionales: cuatro diámetros suman8r y tres separaciones3r, más los márgenes exteriores2r completan13r.",
+      "alert": "La solución usa separación libre r entre ruedas y márgenes dibujados. No se atribuye estabilidad mecánica comprobada a la mera incorporación de ruedas."
+    },
+    {
+      "question": 22,
+      "page": 8,
+      "topic": "Intersección de dos rectas",
+      "competency_code": "IR",
+      "answer_proposal": "C",
+      "reason": "x+y=8 y -x+y=-2 implican y=3 y x=5: punto (5,3)."
+    },
+    {
+      "question": 23,
+      "page": 9,
+      "topic": "Verificación de regla de sucesión",
+      "competency_code": "AR",
+      "answer_proposal": "D",
+      "reason": "2,4,6,8,10 no duplica cada término anterior: después de4 se requeriría8, no6. Ser par no basta."
+    },
+    {
+      "question": 24,
+      "page": 9,
+      "topic": "Orden descendente de frecuencias",
+      "competency_code": "IR",
+      "answer_proposal": "D",
+      "reason": "Los visitantes son2920,2723,2577,2386,2345 en temporadas4,3,1,2,5 respectivamente; los días no son el criterio solicitado."
+    },
+    {
+      "question": 25,
+      "page": 9,
+      "topic": "Aplicación del teorema de Pitágoras",
+      "competency_code": "FE",
+      "answer_proposal": "D",
+      "reason": "La distancia directa es √(9²+12²)=√225=15km; no la suma de recorridos."
+    }
+  ]
+}

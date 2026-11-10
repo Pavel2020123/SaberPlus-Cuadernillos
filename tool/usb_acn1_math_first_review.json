@@ -1,0 +1,131 @@
+{
+  "file_id": "USB-77cc8ac26d2c",
+  "date": "2026-10-29",
+  "area": "Matematicas",
+  "scope": "Preguntas1-14paginasfisicas2-6 inspeccionadas visualmente;8y12cotejadas ademas en ampliaciones de paginas3y5.Propuestas no oficiales.9con letras recortadas,11con sombreado muy palido.",
+  "competency_legend": {
+    "IR": "Interpretacion y representacion",
+    "FE": "Formulacion y ejecucion",
+    "AR": "Argumentacion"
+  },
+  "items": [
+    {
+      "question": 1,
+      "page": 2,
+      "topic": "Semejanza y conservacion de angulos",
+      "competency_code": "AR",
+      "answer_proposal": "B",
+      "reason": "Duplicar lados conserva angulos40,70,70;duplicar40altera semejanza."
+    },
+    {
+      "question": 2,
+      "page": 2,
+      "topic": "Datos necesarios para evaluar expresion",
+      "competency_code": "AR",
+      "answer_proposal": "B",
+      "reason": "z=.2x+.1yrequiere preciosx,y;porcentajes solos no bastan."
+    },
+    {
+      "question": 3,
+      "page": 2,
+      "topic": "Reparto proporcional de excedente",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "Excedente200000representa40%del total500000;quien consumio5000paga2000segun reparto proporcional."
+    },
+    {
+      "question": 4,
+      "page": 4,
+      "topic": "Datos intermedios en factura incompleta",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "Para hallar precio por libra de arveja se obtiene subtotalarveja=totalmenosotrosproductos y divideentre5.",
+      "alert": "Total115661yotrasfilas17465,37960,24246,4220dan31770;porlibra6354,si valores legibles se confirman."
+    },
+    {
+      "question": 5,
+      "page": 4,
+      "topic": "Comparacion de sumas de medallas",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "X30,Y35,Z40,W25;ciudadZtiene mayor total."
+    },
+    {
+      "question": 6,
+      "page": 4,
+      "topic": "Posicion polar de avion",
+      "competency_code": "IR",
+      "answer_proposal": "C",
+      "reason": "Se acerca30desde100a70km y conserva50grados a derecha del norte;C."
+    },
+    {
+      "question": 7,
+      "page": 4,
+      "topic": "Conversion de unidades de longitud",
+      "competency_code": "FE",
+      "answer_proposal": "B",
+      "reason": "8cuartas*21.5cm=172cm de diametro."
+    },
+    {
+      "question": 8,
+      "page": 3,
+      "topic": "Vertices en plano cartesiano",
+      "competency_code": "IR",
+      "answer_proposal": "C",
+      "reason": "Ampliacion-003permite leerC:(4,5),(4,6),(9,5),(9,6),coincide con rectangulo.",
+      "alert": "Primera lectura sin clave por confundir8/9;ampliacion resuelve9,sin alterarPDF."
+    },
+    {
+      "question": 9,
+      "page": 3,
+      "topic": "Mediana tras eliminar extremos",
+      "competency_code": "AR",
+      "answer_proposal": "B",
+      "reason": "Datos10,20,22,34,34,50,52tienenmediana34;sinextremos20,22,34,34,50mantienenmediana34.",
+      "alert": "Letras de opciones del margen estan recortadas;Bpor segunda alternativa visible,verificarotraedicion."
+    },
+    {
+      "question": 10,
+      "page": 3,
+      "topic": "Condicion de formula de area triangular",
+      "competency_code": "AR",
+      "answer_proposal": "A",
+      "reason": "ProductoMN*NO/2es area si segmentos sonperpendiculares,triangulo rectangulo enN."
+    },
+    {
+      "question": 11,
+      "page": 3,
+      "topic": "Area de tres cuartos de circulo",
+      "competency_code": "FE",
+      "answer_proposal": "B",
+      "reason": "Plan(2^2*pi)/4*3=3piaprox9.42cm2.",
+      "alert": "La figura esta muy palida;respuesta segun plan y radio2cm,inspeccion detallada pendiente."
+    },
+    {
+      "question": 12,
+      "page": 5,
+      "topic": "Grafica integrada de composicion de leche",
+      "competency_code": "IR",
+      "answer_proposal": "C",
+      "reason": "Ampliacion-005muestra barras apiladas deC:4+4+7=15vaca;6+9+5=20cerda;12+15+3=30coneja;2+4+7=13gata.Ausaescala100;Binvierte categorias yDtraza constantes.",
+      "alert": "Contraste bajo,pero amplitudes y segmentos corresponden enC;pendiente validacion docente."
+    },
+    {
+      "question": 13,
+      "page": 6,
+      "topic": "Interpretacion de operacion sobre subconjuntos",
+      "competency_code": "IR",
+      "answer_proposal": "B",
+      "reason": "(500-320)/3=60personas que nunca comieron sushi,no porcentaje ni una sola vez."
+    },
+    {
+      "question": 14,
+      "page": 6,
+      "topic": "Seleccion de meses con dos condiciones",
+      "competency_code": "FE",
+      "answer_proposal": "A",
+      "reason": "Minima>=4ymaxima<=19se cumplenabril7/16,octubre10/19,noviembre5/12.A."
+    }
+  ],
+  "next": "Resolver ampliaciones8,9,11,12;continuar15pagina7.Paginafisica3contiene8-11yfisica4contiene4-7;no reordenar original."
+}

@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-31",
+  "covered_pdf_count": 30,
+  "academic_records_before": 2834,
+  "academic_records_now": 2764,
+  "additional_full_reviews_consolidated": 70,
+  "academic_exact_repeat_occurrences": 723,
+  "academic_source_appearances": 3487,
+  "self_report_full_reviews": 240,
+  "self_report_repeat_occurrences": 48,
+  "all_exact_reference_occurrences": 771,
+  "candidate_pairs_initial": 5831,
+  "pending_distinct_pairs": 5680,
+  "records_with_pending_pairs": 1975,
+  "records_without_detected_pending_pairs": 789,
+  "explicit_variants_preserved_in_this_pass": 7,
+  "records_without_proposed_key": 36,
+  "records_with_alert": 1060,
+  "canonical_records_with_cross_source_key_conflict": 0,
+  "by_area": {
+    "Matemáticas": 517,
+    "Lectura crítica": 402,
+    "Sociales y ciudadanas": 565,
+    "Ciencias naturales": 615,
+    "Inglés": 665
+  },
+  "all_collection_complete": false,
+  "unique_question_audit_complete": false,
+  "teacher_validated": false,
+  "importable_question_bank_complete": false,
+  "ready_for_publication_count": 0,
+  "warning": "Analysis index only. Similarity is not identity; no automatic publication or import."
+}

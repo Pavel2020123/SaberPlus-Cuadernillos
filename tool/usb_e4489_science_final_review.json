@@ -1,0 +1,38 @@
+{
+  "file_id": "USB-e4489f150183",
+  "date": "2026-10-29",
+  "area": "Ciencias naturales",
+  "scope": "Preguntas68-70 pagina27 inspeccionada visualmente.Propuestas no oficiales.",
+  "competency_legend": {
+    "U": "Uso comprensivo del conocimiento cientifico",
+    "I": "Indagacion"
+  },
+  "items": [
+    {
+      "question": 68,
+      "page": 27,
+      "topic": "Concentracion porcentual de alcohol",
+      "competency_code": "U",
+      "answer_proposal": "D",
+      "reason": "96%v/vtiene mayor proporcion de soluto por volumen total que70%.No implica mayor eficacia desinfectante."
+    },
+    {
+      "question": 69,
+      "page": 27,
+      "topic": "Variable independiente en disolucion",
+      "competency_code": "I",
+      "answer_proposal": "C",
+      "reason": "Se varia tamano de particula y se mantiene cantidad de agua15mL y temperatura20C;C es unica opcion pertinente.",
+      "alert": "El montaje estudiaria principalmente velocidad de disolucion,no solubilidad de equilibrio.Se conserva uso impreciso de solubilidad en alternativa."
+    },
+    {
+      "question": 70,
+      "page": 27,
+      "topic": "Control experimental de relacion mutualista",
+      "competency_code": "I",
+      "answer_proposal": "B",
+      "reason": "Se comparan dos condiciones que cambian simultaneamente presencia de hormigas y herbivoro;falta control sin ambos para aislar efecto.",
+      "alert": "No aceptarD:0.5m3no esta establecido como crecimiento normal.Tampoco equivale volumen del arbol a tasa de crecimiento."
+    }
+  ]
+}

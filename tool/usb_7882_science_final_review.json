@@ -1,0 +1,56 @@
+{
+  "file_id": "USB-7882c8f9ae2f",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Preguntas75-79,físicas25-26,inspección visual. Ciencias51-79completa en primera documentación. Propuestas no oficiales,sin marcas de opción observadas.",
+  "competency_legend": {
+    "U": "Uso comprensivo del conocimiento científico",
+    "E": "Explicación de fenómenos"
+  },
+  "items": [
+    {
+      "question": 75,
+      "page": 25,
+      "topic": "Conservación de cantidad de movimiento en choque inelástico",
+      "competency_code": "U",
+      "answer_proposal": "B",
+      "reason": "Si tres carros iguales quedan unidos y solo uno tenía velocidadv, mv=3mVdaV=v/3.",
+      "alert": "Supone masa de plastilina despreciable o incorporada de forma comparable y fuerzas externas despreciables durante choque; no se conserva energía cinética."
+    },
+    {
+      "question": 76,
+      "page": 25,
+      "topic": "Selección de materiales con múltiples criterios",
+      "competency_code": "U",
+      "answer_proposal": "C",
+      "reason": "Cromoyescandio cumplen no corrosión,maleabilidad y densidad≤7,5; titanio no es maleable según tabla,cobre excede densidad,hierro presenta corrosión.",
+      "alert": "Se usa la tabla hipotética,no es especificación industrial validada."
+    },
+    {
+      "question": 77,
+      "page": 26,
+      "topic": "Temperatura de ebullición y altitud",
+      "competency_code": "U",
+      "answer_proposal": "D",
+      "reason": "Dparte de igual temperatura inicial y llega a meseta menor a1500mque a500m;Cparte de temperaturas iniciales distintas.",
+      "alert": "Supone condiciones de calentamiento comparables; el punto de ebullición depende de presión."
+    },
+    {
+      "question": 78,
+      "page": 26,
+      "topic": "Cambio de velocidad del sonido por medio",
+      "competency_code": "E",
+      "answer_proposal": "A",
+      "reason": "La refracción al pasar del aire al agua se relaciona con cambio de velocidad de propagación; no cambia fuente."
+    },
+    {
+      "question": 79,
+      "page": 26,
+      "topic": "Cambio de volumen durante sublimación",
+      "competency_code": "U",
+      "answer_proposal": "C",
+      "reason": "El gas ocupa volumen del recipiente; no se reduce tamaño o masa de moléculas al cambiar de estado.",
+      "alert": "En sistema cerrado se conserva masa; volumen macroscópico depende de condiciones y recipiente."
+    }
+  ]
+}

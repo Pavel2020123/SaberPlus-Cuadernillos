@@ -1,0 +1,112 @@
+{
+  "file_id": "USB-a170782eadcb",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Inspección visual de físicas 19-20, impresas 36-39. Preguntas 100-109. Cotejo visual directo de 108-109 con fuente canónica; no se repite su análisis.",
+  "items": [
+    {
+      "question": 100,
+      "page": 19,
+      "printed_page": 36,
+      "topic": "Comunicación del procedimiento experimental",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "D",
+      "reason": "D presenta hipótesis, secuencia de siembra y espera seguida de inoculación y resultado observado: resistencia de flor blanca y afectación de morada.",
+      "alert": "A usa porcentajes sin magnitud pertinente; B invierte secuencia lógica; C inventa valores cuantitativos. No se demuestra resistencia universal fuera del ensayo."
+    },
+    {
+      "question": 101,
+      "page": 19,
+      "printed_page": 37,
+      "topic": "Potencia eléctrica y eficiencia luminosa",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "A",
+      "reason": "Cinco LED de 12 W suman 60 W, igual potencia del incandescente sustituido; cada uno proporciona luminosidad equivalente, por lo que aumenta iluminación y se espera menor calentamiento local.",
+      "alert": "Energía igual solo para igual tiempo de uso. Luz fría es una denominación ambigua: no garantiza una reducción determinada de temperatura de la habitación; la opción A es la intención más cercana del modelo."
+    },
+    {
+      "question": 102,
+      "page": 19,
+      "printed_page": 37,
+      "topic": "Contraste de hipótesis con controles y réplicas",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "A",
+      "reason": "Se compara crecimiento con y sin azúcar, tres cajas por condición y observaciones temporales; datos apoyan mayor diámetro con azúcar.",
+      "alert": "Se asume comparabilidad de las demás condiciones. Una hipótesis no requiere haber sido evaluada para ser hipótesis: la justificación de A identifica respaldo experimental, no una definición exhaustiva."
+    },
+    {
+      "question": 103,
+      "page": 19,
+      "printed_page": 37,
+      "topic": "Área real de contacto y rozamiento",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "C",
+      "reason": "C relaciona incremento del área real de contacto con mayor interacción y rozamiento, coherente con la descripción microscópica.",
+      "alert": "Respuesta condicionada: C por sí sola no demuestra independencia respecto al área aparente; falta explicitar la compensación presión/deformación a carga constante. No tomar la conclusión como universal para todas las superficies."
+    },
+    {
+      "question": 104,
+      "page": 19,
+      "printed_page": 37,
+      "topic": "Efecto de fertilizantes en ecosistemas acuáticos",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "D",
+      "reason": "Según la premisa dada, el nitrógeno residual llega al agua y produce acidificación, cambiando condiciones de las especies.",
+      "alert": "Se responde al modelo del texto; no todo aporte de nitrógeno acidifica automáticamente. También pueden intervenir eutrofización, forma química y capacidad amortiguadora."
+    },
+    {
+      "question": 105,
+      "page": 20,
+      "printed_page": 38,
+      "topic": "Experimentación y cambio de explicación del movimiento",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "C",
+      "reason": "La experimentación y el ideal de ausencia de fricción permiten plantear persistencia del movimiento sin fuerza que lo sostenga.",
+      "alert": "Sin fuerza neta, no sin cualquier fuerza; reconstrucción histórica simplificada, no prueba de que se haya realizado un ensayo literalmente sin fricción."
+    },
+    {
+      "question": 106,
+      "page": 20,
+      "printed_page": 38,
+      "topic": "Circuitos en paralelo y fuentes en serie",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "A",
+      "reason": "A combina baterías de 12 V y 6 V sumando voltajes y conecta ambas bombillas en paralelo, dando mayor voltaje a cada bombilla que las otras configuraciones propuestas.",
+      "alert": "Modelo de fuentes ideales y resistencia de bombillas comparable; no implica que bombillas reales soporten 18 V sin dañarse ni que brillo sea lineal con voltaje."
+    },
+    {
+      "question": 107,
+      "page": 20,
+      "printed_page": 38,
+      "topic": "Dilatación térmica de un líquido",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "C",
+      "reason": "Al pasar de 20 a 50 °C el mercurio se expande y asciende por el capilar.",
+      "alert": "La indicación depende de dilatación diferencial respecto al vidrio; no hay ebullición en ese intervalo."
+    }
+  ],
+  "duplicate_occurrences": [
+    {
+      "question": 108,
+      "page": 20,
+      "printed_page": 39,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 54,
+      "canonical_page": 18,
+      "exact_content": true,
+      "verification": "Cotejo visual de ambas páginas renderizadas: mismo contexto alveolar y vacunas, figura, enunciado y opciones A-D, incluidas gráficas 23/13,13/23,60/40,90/10. Solo cambian numeración y maquetación.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 109,
+      "page": 20,
+      "printed_page": 39,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 55,
+      "canonical_page": 18,
+      "exact_content": true,
+      "verification": "Cotejo visual de ambas páginas renderizadas: mismo contexto alveolar y vacunas, figura, enunciado y opciones A-D, incluidas gráficas 23/13,13/23,60/40,90/10. Solo cambian numeración y maquetación.",
+      "observed_annotation": "No se observa respuesta marcada."
+    }
+  ]
+}

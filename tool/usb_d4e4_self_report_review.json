@@ -1,0 +1,96 @@
+{
+  "file_id": "USB-d4e43db6988a",
+  "date": "2026-10-30",
+  "area": "Autoinforme socioeconomico",
+  "scope": "Preguntas121-131enfísica44inspeccionadas visualmente;instrucciónexpresa indica que no hay respuestas correctas ni equivocadas y no afectan calificación.Física45enblanco.",
+  "items": [
+    {
+      "question": 121,
+      "page": 44,
+      "topic": "Nivel educativo del padre",
+      "exclude_academic": true,
+      "answer_proposal": null,
+      "reason": "Autoinforme de condiciones o hábitos del hogar,sin clave académica;no usar para diagnóstico de competencias ni ranking."
+    },
+    {
+      "question": 122,
+      "page": 44,
+      "topic": "Nivel educativo de la madre",
+      "exclude_academic": true,
+      "answer_proposal": null,
+      "reason": "Autoinforme de condiciones o hábitos del hogar,sin clave académica;no usar para diagnóstico de competencias ni ranking."
+    },
+    {
+      "question": 123,
+      "page": 44,
+      "topic": "Estrato de vivienda",
+      "exclude_academic": true,
+      "answer_proposal": null,
+      "reason": "Autoinforme de condiciones o hábitos del hogar,sin clave académica;no usar para diagnóstico de competencias ni ranking."
+    },
+    {
+      "question": 124,
+      "page": 44,
+      "topic": "Conexión a internet del hogar",
+      "exclude_academic": true,
+      "answer_proposal": null,
+      "reason": "Autoinforme de condiciones o hábitos del hogar,sin clave académica;no usar para diagnóstico de competencias ni ranking."
+    },
+    {
+      "question": 125,
+      "page": 44,
+      "topic": "Servicio de televisión del hogar",
+      "exclude_academic": true,
+      "answer_proposal": null,
+      "reason": "Autoinforme de condiciones o hábitos del hogar,sin clave académica;no usar para diagnóstico de competencias ni ranking."
+    },
+    {
+      "question": 126,
+      "page": 44,
+      "topic": "Libros disponibles en hogar",
+      "exclude_academic": true,
+      "answer_proposal": null,
+      "reason": "Autoinforme de condiciones o hábitos del hogar,sin clave académica;no usar para diagnóstico de competencias ni ranking."
+    },
+    {
+      "question": 127,
+      "page": 44,
+      "topic": "Tiempo de lectura por entretenimiento",
+      "exclude_academic": true,
+      "answer_proposal": null,
+      "reason": "Autoinforme de condiciones o hábitos del hogar,sin clave académica;no usar para diagnóstico de competencias ni ranking."
+    },
+    {
+      "question": 128,
+      "page": 44,
+      "topic": "Tiempo de navegación no académica",
+      "exclude_academic": true,
+      "answer_proposal": null,
+      "reason": "Autoinforme de condiciones o hábitos del hogar,sin clave académica;no usar para diagnóstico de competencias ni ranking."
+    },
+    {
+      "question": 129,
+      "page": 44,
+      "topic": "Frecuencia de consumo de lácteos",
+      "exclude_academic": true,
+      "answer_proposal": null,
+      "reason": "Autoinforme de condiciones o hábitos del hogar,sin clave académica;no usar para diagnóstico de competencias ni ranking."
+    },
+    {
+      "question": 130,
+      "page": 44,
+      "topic": "Frecuencia de consumo de carne,pescado o huevos",
+      "exclude_academic": true,
+      "answer_proposal": null,
+      "reason": "Autoinforme de condiciones o hábitos del hogar,sin clave académica;no usar para diagnóstico de competencias ni ranking."
+    },
+    {
+      "question": 131,
+      "page": 44,
+      "topic": "Frecuencia de consumo de cereales,frutos secos o legumbres",
+      "exclude_academic": true,
+      "answer_proposal": null,
+      "reason": "Autoinforme de condiciones o hábitos del hogar,sin clave académica;no usar para diagnóstico de competencias ni ranking."
+    }
+  ]
+}

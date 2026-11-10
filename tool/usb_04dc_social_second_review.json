@@ -1,0 +1,141 @@
+{
+  "file_id": "USB-04dc5257ed8b",
+  "date": "2026-10-30",
+  "area": "Sociales y ciudadanas",
+  "scope": "Preguntas64-77, físicas22-25 inspeccionadas visualmente. Propuestas iniciales no oficiales. Los textos históricos e hipotéticos no son asesoría ni verificación de legislación o eventos actuales.",
+  "competency_legend": {
+    "PS": "Pensamiento social",
+    "IP": "Interpretación y análisis de perspectivas",
+    "RS": "Pensamiento reflexivo y sistémico"
+  },
+  "items": [
+    {
+      "question": 64,
+      "page": 22,
+      "topic": "Cambio de justificación de política extractiva",
+      "competency_code": "IP",
+      "answer_proposal": "B",
+      "reason": "En campaña se opone por efectos ambientales; luego aprueba pilotos dentro de una agenda de reactivación económica.",
+      "observed_highlight": "B"
+    },
+    {
+      "question": 65,
+      "page": 22,
+      "topic": "Dimensión cultural de una prohibición",
+      "competency_code": "RS",
+      "answer_proposal": "C",
+      "reason": "Prohibir totalmente el consumo de yagé afectaría la conservación de una práctica tradicional indígena; la pregunta pide dimensión cultural, no ingresos o salud.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 66,
+      "page": 22,
+      "topic": "Correspondencia entre posiciones sobre discriminación",
+      "competency_code": "IP",
+      "answer_proposal": "C",
+      "reason": "La opción rechaza emitir contenido ofensivo que se burla de rasgos físicos, coincidiendo con la crítica a la discriminación del programa.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 67,
+      "page": 23,
+      "topic": "Identificación de representación política",
+      "competency_code": "IP",
+      "answer_proposal": "C",
+      "reason": "La intervención se opone a la despenalización e intenta reunir sectores sociales alrededor de esa posición; no representa necesariamente a toda la población.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 68,
+      "page": 23,
+      "topic": "Participación y deliberación ciudadana",
+      "competency_code": "PS",
+      "answer_proposal": "D",
+      "reason": "La propuesta abre información, consulta y justificación pública; los funcionarios conservan la decisión, por lo que no transfiere a la ciudadanía la decisión final.",
+      "observed_highlight": "D"
+    },
+    {
+      "question": 69,
+      "page": 23,
+      "topic": "Función representativa del Congreso",
+      "competency_code": "PS",
+      "answer_proposal": "C",
+      "reason": "La representación de intereses diversos sustenta el argumento sobre distribución democrática del poder; las otras opciones no defienden esa función.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 70,
+      "page": 24,
+      "topic": "Consecuencias de eliminación de barreras comerciales",
+      "competency_code": "RS",
+      "answer_proposal": "A",
+      "reason": "Al facilitar el ingreso de bienes extranjeros aumenta la competencia con empresas nacionales; el texto no garantiza más ventas o menor demanda nacional.",
+      "observed_highlight": "A"
+    },
+    {
+      "question": 71,
+      "page": 24,
+      "topic": "Condición favorable para estrategia de adopción",
+      "competency_code": "RS",
+      "answer_proposal": "B",
+      "reason": "Difundir beneficios de las mascotas puede estimular adopciones y liberar cupos en el centro; las demás campañas no promueven esa acción directamente.",
+      "observed_highlight": "B"
+    },
+    {
+      "question": 72,
+      "page": 24,
+      "topic": "Mecanismo de reforma constitucional por votación",
+      "competency_code": "PS",
+      "answer_proposal": "C",
+      "reason": "Se someten propuestas de reforma a aprobación de los votantes, lo que corresponde a referendo en el caso narrado.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 73,
+      "page": 24,
+      "topic": "Intención de desacreditar una fuente",
+      "competency_code": "IP",
+      "answer_proposal": "D",
+      "reason": "El discurso presenta la organización como cómplice y sesgada para restar credibilidad a su denuncia, no para pedirle apoyo.",
+      "observed_highlight": "D"
+    },
+    {
+      "question": 74,
+      "page": 25,
+      "topic": "Derecho colectivo y efectos ambientales de política",
+      "competency_code": "RS",
+      "answer_proposal": "D",
+      "reason": "La opciónD identifica el ambiente sano como dimensión colectiva omitida al valorar expansión de carros, maquinaria y actividades productivas.",
+      "observed_highlight": "D",
+      "alert": "Reducir impuestos no prueba por sí solo una violación jurídica. D es la intención pedagógica más pertinente al riesgo ambiental descrito, no una conclusión jurídica verificada."
+    },
+    {
+      "question": 75,
+      "page": 25,
+      "topic": "Deber profesional frente a posición personal",
+      "competency_code": "IP",
+      "answer_proposal": "B",
+      "reason": "El funcionario antepone objeciones y barreras personales, mientras el juez, pese a no compartir la decisión, aplica las garantías establecidas en el país hipotético.",
+      "observed_highlight": "B"
+    },
+    {
+      "question": 76,
+      "page": 25,
+      "topic": "Relación conceptual entre refugio y migración",
+      "competency_code": "PS",
+      "answer_proposal": "C",
+      "reason": "El desplazamiento transfronterizo narrado se ubica en el concepto de migración, no extradición o desplazamiento interno.",
+      "observed_highlight": "C",
+      "alert": "La definición inicial es simplificada y no recoge por sí sola todos los criterios de protección internacional; la migración también puede ser interna. Se analiza el caso transfronterizo del texto, no se adopta su definición como norma."
+    },
+    {
+      "question": 77,
+      "page": 25,
+      "topic": "Dimensiones de conflicto por contaminación industrial",
+      "competency_code": "RS",
+      "answer_proposal": "A",
+      "reason": "Se contraponen reducción del impacto ambiental de curtiembres y sus aportes económicos; lo laboral aparece relacionado pero la disyuntiva expresa es economía y ambiente.",
+      "observed_highlight": "A"
+    }
+  ]
+}

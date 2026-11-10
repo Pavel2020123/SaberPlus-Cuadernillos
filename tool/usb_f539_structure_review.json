@@ -1,0 +1,28 @@
+{
+  "file_id": "USB-f539288d427d",
+  "date": "2026-10-30",
+  "area": "Estructura documental",
+  "scope": "Todas7páginas inspeccionadas visualmente;24preguntas67-90documentadas y cotejadas.No validación docente.",
+  "items": [],
+  "metadata": {
+    "cover": "CompilaciónSociales,SamuelPalacios,marca de grupo;sinfecha/sesión/calendario verificables.",
+    "filename_period": "2026-2no corroborado en interior",
+    "present_questions": 24,
+    "range": "67-90",
+    "page_map": {
+      "2": "67-69einiciocontexto70",
+      "3": "70-73",
+      "4": "74-76",
+      "5": "77-81",
+      "6": "82-85",
+      "7": "86-90"
+    },
+    "related_file_id": "USB-295a0508d0cf",
+    "comparison": "Se conservan ambos:versiónResueltoañade marcas83-90;diferencias no borradas aunque preguntas coincidan.",
+    "unresolved": [
+      "85sin clave por inferencias excesivas de opciones,aunque marcaA.",
+      "82opcionesB/Csolapadas,propuestaCcondicionada."
+    ],
+    "collection_complete": false
+  }
+}

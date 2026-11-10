@@ -1,0 +1,92 @@
+{
+  "file_id": "USB-04dc5257ed8b",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Enunciados, opciones, tablas y diagramas inspeccionados visualmente en páginas físicas26-29. Propuestas no oficiales. Alertas de alcance de inferencias conservadas.",
+  "competency_legend": {
+    "U": "Uso comprensivo del conocimiento científico",
+    "E": "Explicación de fenómenos",
+    "I": "Indagación"
+  },
+  "items": [
+    {
+      "question": 81,
+      "page": 27,
+      "topic": "Contaminación por filtración durante extracción",
+      "competency_code": "E",
+      "answer_proposal": "D",
+      "reason": "La presión puede facilitar que petróleo existente se filtre hasta el lago; no transforma agua en petróleo.",
+      "observed_highlight": "D",
+      "alert": "El caso propone una causa posible, no demuestra mediante muestreo el origen real de contaminación."
+    },
+    {
+      "question": 82,
+      "page": 27,
+      "topic": "Hipótesis para tendencia de extracción",
+      "competency_code": "I",
+      "answer_proposal": "B",
+      "reason": "B es una hipótesis compatible con aumento de fracking y descenso de otras técnicas; las demás describen tendencias contrarias o recomendaciones.",
+      "observed_highlight": "B",
+      "alert": "La gráfica muestra porcentajes por técnica, no reservas ni volumen total; no prueba agotamiento como causa. Conservar propuestaB como explicación posible, no conclusión demostrada."
+    },
+    {
+      "question": 83,
+      "page": 27,
+      "topic": "Caída libre y velocidad de impacto",
+      "competency_code": "E",
+      "answer_proposal": "A",
+      "reason": "Desde mayor profundidad de caída, el sensor permanece más tiempo acelerándose por gravedad y llega con mayor velocidad en el modelo de caída libre.",
+      "observed_highlight": "A",
+      "alert": "Supone condiciones comparables y resistencia despreciable; no se debe atribuir el cambio a aumento significativo de gravedad."
+    },
+    {
+      "question": 84,
+      "page": 28,
+      "topic": "Evaluación de hipótesis sobre cromosomas y tamaño",
+      "competency_code": "I",
+      "answer_proposal": "B",
+      "reason": "La mariposa tiene380 cromosomas frente a36 del elefante: los datos contradicen que mayor tamaño implique mayor número.",
+      "observed_highlight": "B",
+      "alert": "La tabla no mide tamaños; la comparación usa conocimiento de tamaños relativos de especies y refuta una relación monotónica simple, no demuestra independencia estadística general."
+    },
+    {
+      "question": 85,
+      "page": 28,
+      "topic": "Predicción del ciclo lisogénico",
+      "competency_code": "E",
+      "answer_proposal": "D",
+      "reason": "La división de bacterias portadoras del profago multiplica copias de ADN viral que luego pueden originar nuevos virus.",
+      "observed_highlight": "D",
+      "alert": "Durante la lisogenia se replican copias del genoma integrado, no necesariamente partículas virales completas en cada división; D simplifica esa distinción."
+    },
+    {
+      "question": 86,
+      "page": 29,
+      "topic": "Función de bicarbonato en cocción",
+      "competency_code": "E",
+      "answer_proposal": "A",
+      "reason": "Según el modelo, retirar bicarbonato reduce la generación de dióxido de carbono que forma poros y favorece esponjosidad.",
+      "observed_highlight": "A",
+      "alert": "Se explica el modelo del ítem; expansión y retención de gas, no solo explosión de burbujas, intervienen en la estructura."
+    },
+    {
+      "question": 87,
+      "page": 29,
+      "topic": "Rozamiento y equilibrio de botella",
+      "competency_code": "E",
+      "answer_proposal": "C",
+      "reason": "La interacción de rozamiento entre lápiz y arroz permite sostener la botella; su peso no desaparece ni se cancela con el peso del lápiz.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 88,
+      "page": 29,
+      "topic": "Relación cualitativa entre masa y efecto de fuerza",
+      "competency_code": "U",
+      "answer_proposal": "B",
+      "reason": "Con igual fuerza y condiciones comparables, mayor masa produce menor aceleración, que es la relación que pretende evaluarB.",
+      "observed_highlight": "B",
+      "alert": "La distancia final no se determina solo por masa y fuerza: también importan duración del contacto, velocidad inicial, rozamiento y vuelo. La propuesta exige mantener comparables esas condiciones."
+    }
+  ]
+}

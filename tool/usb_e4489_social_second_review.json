@@ -1,0 +1,25 @@
+{
+  "file_id": "USB-e4489f150183",
+  "date": "2026-10-29",
+  "area": "Sociales y ciudadanas",
+  "scope": "Preguntas21-22 pagina fisica8 inspeccionada visualmente;termina Sociales.Claves propuestas no oficiales.",
+  "competency_proposal": "Interpretacion y analisis de perspectivas",
+  "items": [
+    {
+      "question": 21,
+      "page": 8,
+      "topic": "Desarrollo sostenible",
+      "answer_proposal": "C",
+      "reason": "Equilibrar riqueza y proteccion ambiental corresponde a definicion de sostenibilidad;no explotacion ilimitada ni prohibicion absoluta."
+    },
+    {
+      "question": 22,
+      "page": 8,
+      "topic": "Confiabilidad de afirmaciones de dirigente sobre clima",
+      "answer_proposal": "B",
+      "reason": "B identifica posible interes economico que puede sesgar postura;cargo y numero de seguidores no prueban veracidad.",
+      "alert": "Interes economico no demuestra por si solo falsedad ni falta de confiabilidad;se omite en opciones el error de confundir tiempo local con tendencia climatica.Mantener revision docente pendiente.Marca marginal no es clave."
+    }
+  ],
+  "next": "Matematicas23desdepagina9."
+}

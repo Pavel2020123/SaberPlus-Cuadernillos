@@ -1,0 +1,153 @@
+{
+  "file_id": "USB-73fbd3be4b98",
+  "date": "2026-10-30",
+  "area": "Sociales y ciudadanas",
+  "scope": "Físicas28-31 completas.78-80referenciasAAQ2 23-25;81-91once fichas propias.87ambiguo señalado.",
+  "items": [
+    {
+      "question": 81,
+      "page": 29,
+      "printed_page": 29,
+      "answer_proposal": "C",
+      "topic": "Crítica de analogía entre medios",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "reason": "Participación activa del jugador frente a televidente ofrece diferencia relevante que puede cuestionar analogía de expertos.",
+      "alert": "No prueba por sí sola influencia mayor ni causalidad de violencia;se identifica argumento posible."
+    },
+    {
+      "question": 82,
+      "page": 29,
+      "printed_page": 29,
+      "answer_proposal": "A",
+      "topic": "Reconocimiento y cuestionamiento metodológico",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "reason": "Voces reconocen resultados alarmantes aunque piden considerar contextos;Aexplica que no niegan existencia de exclusión.",
+      "alert": "Cuestionar explicación causal no niega automáticamente cifras;lectura de intención del caso."
+    },
+    {
+      "question": 83,
+      "page": 29,
+      "printed_page": 29,
+      "answer_proposal": "D",
+      "topic": "Intención de reclamo de discriminación",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "reason": "Estudiante denuncia vulneración de derechos al impedir práctica de creencias,no pide dinero.",
+      "alert": "No validar tarot científicamente ni excluir límites legítimos de convivencia."
+    },
+    {
+      "question": 84,
+      "page": 29,
+      "printed_page": 29,
+      "answer_proposal": "C",
+      "topic": "Libre desarrollo de personalidad",
+      "competency_proposal": "Pensamiento social",
+      "reason": "Permitir continuidad educativa de estudiantes embarazadas si lo desean protege proyecto de vida y elección personal.",
+      "alert": "No confundir libertad religiosa o nutrición con derecho preguntado."
+    },
+    {
+      "question": 85,
+      "page": 30,
+      "printed_page": 30,
+      "answer_proposal": "D",
+      "topic": "Efecto no deseado de asignación de responsabilidades",
+      "competency_proposal": "Pensamiento reflexivo y sistémico",
+      "reason": "Centrar liderazgo ambiental en indígenas puede llevar a otros grupos a desentenderse de deberes de cuidado.",
+      "alert": "Posible efecto,no consecuencia inevitable ni quitar liderazgo indígena."
+    },
+    {
+      "question": 86,
+      "page": 30,
+      "printed_page": 30,
+      "answer_proposal": "C",
+      "topic": "Compatibilidad de soluciones ambientales",
+      "competency_proposal": "Pensamiento reflexivo y sistémico",
+      "reason": "Consumo del pez león capturado puede aprovechar captura de control sin contradecirla.",
+      "alert": "No recomendar cultivo ni protocolos de captura/consumo;seguridad requiere orientación."
+    },
+    {
+      "question": 87,
+      "page": 30,
+      "printed_page": 30,
+      "answer_proposal": null,
+      "topic": "Límites de facultades presidenciales",
+      "competency_proposal": "Pensamiento social",
+      "reason": "Sin clave firme:el presidente no reforma unilateralmente la Constitución.Aconfunde reforma con imposición judicial de condenas;Cafirma incorrectamente que Congreso es único mecanismo de reforma.B yDatribuyen poder unilateral injustificado.",
+      "alert": "Ítem requiere revisión docente:ninguna opción explica adecuadamente el límite preguntado.No reutilizar con clave automática;no es asesoría legal vigente."
+    },
+    {
+      "question": 88,
+      "page": 31,
+      "printed_page": 31,
+      "answer_proposal": "B",
+      "topic": "Identificación contextual de discurso político",
+      "competency_proposal": "Pensamiento social",
+      "reason": "Crítica a oligarquías liberal y conservadora en1946para posicionar proyecto propio es pista compatible conGaitán.",
+      "alert": "NoFrenteNacional,posterior;autoría no se demuestra solo por estilo,sino por contexto de fuente."
+    },
+    {
+      "question": 89,
+      "page": 31,
+      "printed_page": 31,
+      "answer_proposal": "B",
+      "topic": "Identificación de discriminación por orientación sexual",
+      "competency_proposal": "Pensamiento social",
+      "reason": "Ataque ligado a pertenecer a comunidad homosexual corresponde a homofobia.",
+      "alert": "No confundir con transfobia,xenofobia o misoginia."
+    },
+    {
+      "question": 90,
+      "page": 31,
+      "printed_page": 31,
+      "answer_proposal": "D",
+      "topic": "Adaptación a condiciones geográficas",
+      "competency_proposal": "Pensamiento social",
+      "reason": "Escasez de ríos y fuentes superficiales explica sistemas de captación y almacenamiento de lluvia/subsuelo.",
+      "alert": "No asumir lluvias constantes ni guerras como causa del diseño."
+    },
+    {
+      "question": 91,
+      "page": 31,
+      "printed_page": 31,
+      "answer_proposal": "D",
+      "topic": "Desarrollo sostenible",
+      "competency_proposal": "Pensamiento reflexivo y sistémico",
+      "reason": "Crecimiento que preserva recursos para futuro coincide conprosperar sin comprometer recursos y equidad.",
+      "alert": "No equivaler a explotación ilimitada ni conservar distribución desigual de riqueza."
+    }
+  ],
+  "duplicate_occurrences": [
+    {
+      "question": 78,
+      "page": 28,
+      "printed_page": 28,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 23,
+      "canonical_page": 5,
+      "exact_content": true,
+      "verification": "Darién,teología liberación y discurso sobre tradiciones:contextos y opciones completos cotejados conAAQ2física5.",
+      "observed_annotation": "Solo cambia numeración."
+    },
+    {
+      "question": 79,
+      "page": 28,
+      "printed_page": 28,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 24,
+      "canonical_page": 5,
+      "exact_content": true,
+      "verification": "Darién,teología liberación y discurso sobre tradiciones:contextos y opciones completos cotejados conAAQ2física5.",
+      "observed_annotation": "Solo cambia numeración."
+    },
+    {
+      "question": 80,
+      "page": 28,
+      "printed_page": 28,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 25,
+      "canonical_page": 5,
+      "exact_content": true,
+      "verification": "Darién,teología liberación y discurso sobre tradiciones:contextos y opciones completos cotejados conAAQ2física5.",
+      "observed_annotation": "Solo cambia numeración."
+    }
+  ]
+}

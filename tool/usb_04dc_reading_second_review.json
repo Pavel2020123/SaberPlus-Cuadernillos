@@ -1,0 +1,177 @@
+{
+  "file_id": "USB-04dc5257ed8b",
+  "date": "2026-10-30",
+  "area": "Lectura critica",
+  "scope": "Preguntas26-37 en páginas físicas9-13 inspeccionadas visualmente. La38 continúa en otra página, no se incluye todavía. Propuestas no oficiales; marcas de autoría desconocida.",
+  "competency_legend": {
+    "L": "Identificar y entender los contenidos locales que conforman un texto",
+    "G": "Comprender cómo se articulan las partes de un texto para darle un sentido global",
+    "R": "Reflexionar a partir de un texto y evaluar su contenido"
+  },
+  "contexts": [
+    {
+      "id": "petricor",
+      "title": "Petricor: el olor de la lluvia",
+      "pages": [
+        9,
+        10
+      ],
+      "description": "Infografía atribuida a Pictoline; formación de burbujas, partículas del suelo y dispersión del olor."
+    },
+    {
+      "id": "infancia",
+      "title": "La verdad en la infancia",
+      "pages": [
+        10
+      ],
+      "description": "Fragmento atribuido a Hernando Téllez; sinceridad infantil y maduración asociada al disimulo."
+    },
+    {
+      "id": "feminismo",
+      "title": "¿Cómo educar en el feminismo?",
+      "pages": [
+        11
+      ],
+      "description": "Fragmento atribuido a Adichie; crítica al feminismo light y a la igualdad condicional."
+    },
+    {
+      "id": "filosofia",
+      "title": "Filosofía en viñetas",
+      "pages": [
+        12
+      ],
+      "description": "Cómic sobre filosofía, ciencia, explicaciones naturalistas y revisión del conocimiento."
+    },
+    {
+      "id": "efectos",
+      "title": "Efectos secundarios: el problema de la investigación médica sin mujeres",
+      "pages": [
+        13
+      ],
+      "description": "Infografía atribuida a Pictoline con perspectiva de género en investigación. Se documenta comprensión del texto, no recomendación médica."
+    }
+  ],
+  "items": [
+    {
+      "question": 26,
+      "page": 9,
+      "topic": "Comparación figurada de la efervescencia",
+      "competency_code": "L",
+      "answer_proposal": "C",
+      "reason": "La semejanza se refiere a cómo el gas sale de las burbujas, no a su composición alcohólica, temperatura o color.",
+      "context": "petricor",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 27,
+      "page": 9,
+      "topic": "Función del último cuadro de una infografía",
+      "competency_code": "G",
+      "answer_proposal": "D",
+      "reason": "El último cuadro cierra el proceso descrito e identifica el olor resultante como petricor o tierra mojada.",
+      "context": "petricor",
+      "observed_highlight": "D"
+    },
+    {
+      "question": 28,
+      "page": 10,
+      "topic": "Valor del conector disyuntivo",
+      "competency_code": "L",
+      "answer_proposal": "C",
+      "reason": "La palabra o introduce otra denominación del mismo olor: tierra mojada como alternativa a petricor.",
+      "context": "petricor",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 29,
+      "page": 10,
+      "topic": "Organización explicativa de infografía",
+      "competency_code": "R",
+      "answer_proposal": "D",
+      "reason": "La infografía explica secuencialmente formación de burbujas, captura y dispersión de partículas y olor resultante.",
+      "context": "petricor",
+      "observed_highlight": "D"
+    },
+    {
+      "question": 30,
+      "page": 10,
+      "topic": "Tesis sobre sinceridad infantil",
+      "competency_code": "G",
+      "answer_proposal": "D",
+      "reason": "El texto presenta la infancia como certeza de sinceridad y contrapone esa condición a la hipocresía aprendida por los adultos.",
+      "context": "infancia",
+      "observed_highlight": "D"
+    },
+    {
+      "question": 31,
+      "page": 10,
+      "topic": "Estrategia de sustentación de tesis",
+      "competency_code": "R",
+      "answer_proposal": "B",
+      "reason": "Tras sostener la sinceridad infantil, el autor enumera ejemplos de amor franco y objetos amados sin disimulo.",
+      "context": "infancia",
+      "observed_highlight": "B"
+    },
+    {
+      "question": 32,
+      "page": 11,
+      "topic": "Síntesis de párrafo argumentativo",
+      "competency_code": "G",
+      "answer_proposal": "B",
+      "reason": "La autora rechaza la igualdad condicional del feminismo light, porque la igualdad plena no admite subordinación natural de la mujer al hombre.",
+      "context": "feminismo",
+      "observed_highlight": "B"
+    },
+    {
+      "question": 33,
+      "page": 11,
+      "topic": "Relación entre ejemplos y generalización",
+      "competency_code": "G",
+      "answer_proposal": "D",
+      "reason": "Las preguntas exigentes dirigidas a mujeres poderosas son ejemplos y razones que sustentan que se las juzga más duramente que a los hombres poderosos, no a la inversa.",
+      "context": "feminismo",
+      "observed_highlight": "C",
+      "alert": "Discrepancia: marca visible C; propuesta razonada D. Mantener ambas separadas para revisión docente."
+    },
+    {
+      "question": 34,
+      "page": 11,
+      "topic": "Paráfrasis de una posición argumentativa",
+      "competency_code": "L",
+      "answer_proposal": "B",
+      "reason": "Decir que el bienestar debe basarse en algo más que la benevolencia implica que las buenas acciones masculinas no bastan para garantizarlo.",
+      "context": "feminismo",
+      "observed_highlight": "B"
+    },
+    {
+      "question": 35,
+      "page": 12,
+      "topic": "Ejemplificación entre enunciados",
+      "competency_code": "G",
+      "answer_proposal": "C",
+      "reason": "El caso de Newton llamado filósofo de la naturaleza ejemplifica el sentido amplio previo de filosofía, que incluía la ciencia.",
+      "context": "filosofia",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 36,
+      "page": 12,
+      "topic": "Aplicación de una categoría conceptual",
+      "competency_code": "R",
+      "answer_proposal": "A",
+      "reason": "Explicar el origen de las cosas por las transformaciones del aire utiliza un principio natural como los ejemplos del cómic.",
+      "context": "filosofia",
+      "observed_highlight": "A"
+    },
+    {
+      "question": 37,
+      "page": 13,
+      "topic": "Causa explícita en infografía",
+      "competency_code": "L",
+      "answer_proposal": "A",
+      "reason": "Según la infografía, el predominio de cuerpos masculinos en las pruebas deja sin estudiar efectos específicos en mujeres hasta la comercialización.",
+      "context": "efectos",
+      "observed_highlight": "A"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "file_id": "USB-1bc205e23b46",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Inspección visual de páginas físicas 15-20: preguntas 55-61 y 65-70. Salto 62-64 pendiente de comprobar en el resto. Competencias y claves propuestas, no oficiales.",
+  "items": [
+    {
+      "question": 55,
+      "page": 15,
+      "topic": "Frecuencia de ondas en gráficos temporales",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "D",
+      "reason": "D muestra unas cinco veces más oscilaciones en el grupo 2 durante el mismo intervalo de tiempo; no debe confundirse frecuencia con amplitud.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 56,
+      "page": 15,
+      "topic": "Comunicación de un modelo de conectividad",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "D",
+      "reason": "El esquema permite visualizar conexiones entre varias poblaciones; D es la alternativa que recoge esa función comunicativa.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      },
+      "alert": "La afirmación de señal muy estable de D no queda demostrada por la topología del dibujo: requeriría mediciones de calidad de servicio."
+    },
+    {
+      "question": 57,
+      "page": 16,
+      "topic": "Modelo de especiación por aislamiento geográfico",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "A",
+      "reason": "A conserva la barrera del río entre dos grupos y representa su diferenciación posterior en dos especies; las otras secuencias omiten o revierten la separación.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 58,
+      "page": 16,
+      "topic": "Evaluación de una generalización sobre velocidad de reacción",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "D",
+      "reason": "Observar una fruta no permite concluir que todos los cambios químicos necesitan días. La velocidad depende de condiciones y reactivos, como señala el texto.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 59,
+      "page": 17,
+      "topic": "Gráfico de fuerza según desplazamiento",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "C",
+      "reason": "La fuerza aumenta hasta los 4 m y permanece constante entre 4 y 6 m; ese orden corresponde a C.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 60,
+      "page": 17,
+      "topic": "Comparación de propiedades de minerales",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "B",
+      "reason": "3 y 6 coinciden en azul, no metálico y transparente; 2 y 7 en rojo, no metálico y no transparente.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      },
+      "alert": "Las coincidencias en estas tres propiedades no prueban por sí solas identidad mineralógica; se responde sobre características de la tabla."
+    },
+    {
+      "question": 61,
+      "page": 17,
+      "topic": "Identificación de isótopos",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "B",
+      "reason": "Ñ e Y tienen un protón y distintos neutrones (0 y 2), por lo que son isótopos. X y Z también lo serían, pero esa pareja no aparece entre las opciones.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 65,
+      "page": 18,
+      "topic": "Interacciones de un parásito con hospedero y vector",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "B",
+      "reason": "El diagrama afirma daño hepático y a glóbulos rojos del ave, pero reproducción sin afectar el funcionamiento del insecto; B recoge esa diferencia.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      },
+      "alert": "Neutralidad para el mosquito se limita al modelo presentado, no es prueba universal de ausencia de efectos en cualquier interacción real."
+    },
+    {
+      "question": 66,
+      "page": 18,
+      "topic": "Mitosis y crecimiento del pelo",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "C",
+      "reason": "La mitosis aumenta el número de células del folículo conservando la dotación cromosómica; no produce recombinación ni convierte fibras de queratina en células madre.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 67,
+      "page": 19,
+      "topic": "Representación de concentraciones medidas",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "D",
+      "reason": "El enunciado informa mayor concentración de plomo en agua que en leche: D muestra ambas barras positivas y la de agua más alta.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      },
+      "alert": "No se proporcionan valores numéricos; el gráfico apoya solo la comparación cualitativa."
+    },
+    {
+      "question": 68,
+      "page": 20,
+      "topic": "Orden de un procedimiento de análisis de muestras",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "A",
+      "reason": "Primero se recolectan las muestras, luego se preparan, se aplica el análisis y finalmente se obtienen resultados.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      },
+      "alert": "El orden es correcto, pero el esquema no especifica técnica, calibración, blancos ni unidades; no constituye un protocolo analítico completo."
+    },
+    {
+      "question": 69,
+      "page": 20,
+      "topic": "Ruta de contaminación de leche por metales",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "B",
+      "reason": "El modelo indica incorporación de metales a pastos por fertilizantes y acumulación en animales que comen ese pasto; esa ruta corresponde a B.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      },
+      "alert": "El modelo propone la ruta, pero la comparación de concentraciones por sí sola no demuestra causalidad de una fuente concreta."
+    },
+    {
+      "question": 70,
+      "page": 20,
+      "topic": "Ganancia de electrones y estado de oxidación",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "A",
+      "reason": "Pasar de 2p4 a 2p6 supone ganar dos electrones: la carga resultante es -2, opción A.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      },
+      "alert": "El ejercicio usa una representación iónica simplificada. No generalizar este estado a todos los enlaces o compuestos de oxígeno."
+    }
+  ]
+}

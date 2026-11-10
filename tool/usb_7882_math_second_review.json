@@ -1,0 +1,103 @@
+{
+  "file_id": "USB-7882c8f9ae2f",
+  "date": "2026-10-30",
+  "area": "Matematicas",
+  "scope": "Preguntas40-50en físicas13-16 inspeccionadas visualmente. Matemáticas26-50completa en primera documentación. Propuestas no oficiales, sin marcas de opción observadas.",
+  "competency_legend": {
+    "IR": "Interpretación y representación",
+    "FE": "Formulación y ejecución",
+    "AR": "Argumentación"
+  },
+  "items": [
+    {
+      "question": 40,
+      "page": 13,
+      "topic": "Algoritmo de calculadora no convencional",
+      "competency_code": "FE",
+      "answer_proposal": "A",
+      "reason": "(-1+5)²+1=17."
+    },
+    {
+      "question": 41,
+      "page": 13,
+      "topic": "Comparación de trayectorias por longitud",
+      "competency_code": "FE",
+      "answer_proposal": "A",
+      "reason": "SiPQ=d,recta=d,semicírculo=πd/2y camino por tercer vértice equilátero=2d;1<π/2<2."
+    },
+    {
+      "question": 42,
+      "page": 13,
+      "topic": "Procedimiento de media aritmética",
+      "competency_code": "FE",
+      "answer_proposal": "A",
+      "reason": "Sumar edades y dividir por número de integrantes calcula promedio; luego se compara con25."
+    },
+    {
+      "question": 43,
+      "page": 14,
+      "topic": "Área de jardín por complemento",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "Rectángulo60×40=2400; cuatro triángulos exteriores tienen áreas100,100,500,500; jardín1200m²."
+    },
+    {
+      "question": 44,
+      "page": 14,
+      "topic": "Interpretación de correlación de Pearson",
+      "competency_code": "IR",
+      "answer_proposal": "C",
+      "reason": "0,92es positivo y cercano a1,lo que indica asociación lineal fuerte positiva; no es factor multiplicativo entre notas.",
+      "alert": "Correlación fuerte no demuestra causalidad ni permite asignar una probabilidad numérica individual a nota alta."
+    },
+    {
+      "question": 45,
+      "page": 14,
+      "topic": "Principio multiplicativo de conteo",
+      "competency_code": "AR",
+      "answer_proposal": "A",
+      "reason": "Diez equipos y tres uniformes por equipo permiten10×3=30elecciones de equipo uniformado, no treinta equipos distintos."
+    },
+    {
+      "question": 46,
+      "page": 14,
+      "topic": "Validación de promedio con total",
+      "competency_code": "AR",
+      "answer_proposal": "C",
+      "reason": "350litros/5días=70litros diarios de promedio, aunque los días varíen."
+    },
+    {
+      "question": 47,
+      "page": 15,
+      "topic": "Evaluación de condiciones con disyunción",
+      "competency_code": "FE",
+      "answer_proposal": "A",
+      "reason": "Luisa supera patrimonio350000;Ernesta tiene40%de400000=160000>20000;Paolo40%de45000=18000y patrimonio300000no cumple.",
+      "alert": "Impuesto y umbrales son hipotéticos; no aplicar como orientación tributaria real."
+    },
+    {
+      "question": 48,
+      "page": 15,
+      "topic": "Ordenación por número de lados",
+      "competency_code": "IR",
+      "answer_proposal": "D",
+      "reason": "Mantel2triangular3lados, mantel1cuadrado4,mantel3hexágono6:2-1-3."
+    },
+    {
+      "question": 49,
+      "page": 15,
+      "topic": "Datos necesarios para combinaciones",
+      "competency_code": "AR",
+      "answer_proposal": "B",
+      "reason": "ParaC(n,k)se necesitan número de estudiantes disponibles y tamaño del grupo, sin asignar cargos."
+    },
+    {
+      "question": 50,
+      "page": 16,
+      "topic": "Correspondencia de tabla y diagrama de caja",
+      "competency_code": "IR",
+      "answer_proposal": "C",
+      "reason": "Los cinco valores resumen son mínimo155,Q1=162,mediana165,Q3=170,máximo172;Ccoincide."
+    }
+  ]
+}

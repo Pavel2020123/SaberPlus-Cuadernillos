@@ -1,0 +1,89 @@
+{
+  "file_id": "USB-524d98b0a234",
+  "date": "2026-10-29",
+  "area": "Matematicas",
+  "scope": "Preguntas26-33paginas10-12 inspeccionadas visualmente.Claves propuestas independientes de resaltados,no oficiales.",
+  "competency_legend": {
+    "IR": "Interpretacion y representacion",
+    "FE": "Formulacion y ejecucion",
+    "AR": "Argumentacion"
+  },
+  "items": [
+    {
+      "question": 26,
+      "page": 10,
+      "topic": "Modelo afin de altura",
+      "competency_code": "IR",
+      "answer_proposal": "B",
+      "observed_highlight": "B",
+      "reason": "Alturas crecen1.5cm/dia y en dia1son4.5;h=1.5d+3."
+    },
+    {
+      "question": 27,
+      "page": 10,
+      "topic": "Rango,mediana y extremos posibles",
+      "competency_code": "AR",
+      "answer_proposal": "C",
+      "observed_highlight": "D",
+      "reason": "Mediana21y rango10no imponen simetria.Extremo minimo posible11y maximo posible31se obtienen con mediana menos/mas10,comoC.",
+      "alert": "Cdescribe limites entre todos los conjuntos,no minimo11ymaximo31simultaneos en un mismo conjunto,que darian rango20.Dimpone multiplos de10sin base."
+    },
+    {
+      "question": 28,
+      "page": 10,
+      "topic": "Mediana y seleccion de candidatos",
+      "competency_code": "FE",
+      "answer_proposal": "B",
+      "observed_highlight": "B",
+      "reason": "Orden3.6,4.53,5.01,5.09,5.2,6.4,10;mediana5.09.SuperanMartin,Eliana,Tania:opcionB.",
+      "alert": "Correccion:la letra propuesta debe serB,segun lista;Monica5.09no supera mediana."
+    },
+    {
+      "question": 29,
+      "page": 11,
+      "topic": "Comprobacion de estadisticos",
+      "competency_code": "AR",
+      "answer_proposal": "D",
+      "observed_highlight": "D",
+      "reason": "Suma96,media96/7aprox13.714,no11;moda15,mediana14y rango5son correctos."
+    },
+    {
+      "question": 30,
+      "page": 11,
+      "topic": "Ajuste lineal aproximado",
+      "competency_code": "IR",
+      "answer_proposal": "C",
+      "observed_highlight": "C",
+      "reason": "Datos parten cerca4ycrecenaprox1mm/dia;L=T+4es ajuste disponible,no igualdad exacta en todos puntos."
+    },
+    {
+      "question": 31,
+      "page": 11,
+      "topic": "Suma de fracciones algebraicas",
+      "competency_code": "FE",
+      "answer_proposal": "B",
+      "observed_highlight": "B",
+      "reason": "x/2+x/6=3x/6+x/6=4x/6."
+    },
+    {
+      "question": 32,
+      "page": 12,
+      "topic": "Extrapolacion de fuga de tanque",
+      "competency_code": "AR",
+      "answer_proposal": "B",
+      "observed_highlight": "B",
+      "reason": "5litrosen30min equivalen a10L/h y240L/dia bajo modelo constante.",
+      "alert": "Necesita abastecimiento continuo y tasa constante;una medicion de vaciado no prueba tasa invariable."
+    },
+    {
+      "question": 33,
+      "page": 12,
+      "topic": "Paso innecesario en ingreso no recaudado",
+      "competency_code": "AR",
+      "answer_proposal": "C",
+      "observed_highlight": "C",
+      "reason": "Se multiplica cada cantidad sin vender por su tarifa y suma;contar todas juntas enpaso1no se usa."
+    }
+  ],
+  "next": "Continuar34enpagina13."
+}

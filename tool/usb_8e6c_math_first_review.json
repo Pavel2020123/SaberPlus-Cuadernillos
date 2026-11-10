@@ -1,0 +1,95 @@
+{
+  "file_id": "USB-8e6cf8399239",
+  "date": "2026-10-30",
+  "area": "Matemáticas",
+  "scope": "Portada y físicas 2-4 inspeccionadas visualmente; preguntas 1-9. Sin marcas de respuesta claras observadas en estos ítems. No se usa la marca de agua como prueba de autorización o autenticidad.",
+  "competency_legend": {
+    "IR": "Interpretación y representación",
+    "FE": "Formulación y ejecución",
+    "AR": "Argumentación"
+  },
+  "items": [
+    {
+      "question": 1,
+      "page": 2,
+      "topic": "Volumen de semiesfera y detección de error",
+      "competency_code": "AR",
+      "answer_proposal": "C",
+      "reason": "Dividir el diámetro 12 entre 2 obtiene correctamente radio 6, pero aplicar 4πr³/3 calcula la esfera completa. Cada envase requiere la mitad de esa fórmula."
+    },
+    {
+      "question": 2,
+      "page": 2,
+      "topic": "Validación de gráfico circular frente a tabla",
+      "competency_code": "AR",
+      "answer_proposal": "B",
+      "reason": "Abril tiene el máximo de 600 vasos, pero el sector señalado para abril es el menor. La gráfica no representa las proporciones 400,200,600,300."
+    },
+    {
+      "question": 3,
+      "page": 2,
+      "topic": "Lectura de máximo en gráfico de barras",
+      "competency_code": "IR",
+      "answer_proposal": "D",
+      "reason": "Coco alcanza 7 helados, más que chocolate y fresa (6) y vainilla (3)."
+    },
+    {
+      "question": 4,
+      "page": 3,
+      "topic": "Procedimiento para calcular ganancia",
+      "competency_code": "FE",
+      "answer_proposal": "A",
+      "reason": "La ganancia total es (precio de venta unitario-100000) multiplicado por unidades vendidas, suponiendo precio unitario común y sin otros costos.",
+      "alert": "El modelo solo incorpora el costo de adquisición que proporciona el enunciado."
+    },
+    {
+      "question": 5,
+      "page": 3,
+      "topic": "Crítica de selección de muestra estratificada",
+      "competency_code": "AR",
+      "answer_proposal": "D",
+      "reason": "Eliminar el orden por notas evita seleccionar exclusivamente los mejores y mantiene las cantidades 100 rurales y 300 urbanos del paso 2.",
+      "alert": "No se especifica aleatorización ni independencia del nuevo orden: D corrige el sesgo explícito, pero no garantiza una muestra representativa por sí sola. C invierte proporciones."
+    },
+    {
+      "question": 6,
+      "page": 3,
+      "topic": "Comparación de datos tabulares y series gráficas",
+      "competency_code": "AR",
+      "answer_proposal": "C",
+      "reason": "La gráfica cambia Antioquia 2012 a 20,5 frente a 21,7 y 2013 a 18,3 frente a 22,4; Bogotá 2015 aparece 7,6 frente a 4,7."
+    },
+    {
+      "question": 7,
+      "page": 4,
+      "topic": "Cruce de condiciones en tablas",
+      "competency_code": "IR",
+      "answer_proposal": "B",
+      "reason": "El curso de dos semanas es Fotografía. Hernando tiene carné par 110; Luisa tiene 117 impar."
+    },
+    {
+      "question": 8,
+      "page": 4,
+      "topic": "Datos necesarios para área de dos circunferencias",
+      "competency_code": "IR",
+      "answer_proposal": "A",
+      "reason": "VY da el radio exterior y WX el interior; su diferencia de áreas π[(VY)²-(WX)²] determina la zona sombreada aun con centros desplazados.",
+      "alert": "No asumir que las circunferencias son concéntricas: sus centros son V y W."
+    },
+    {
+      "question": 9,
+      "page": 4,
+      "topic": "Validación de modelo lineal de precio unitario",
+      "competency_code": "AR",
+      "answer_proposal": "C",
+      "reason": "y=1050-50x produce 1000 para x=1,950 para x=2 y900 para x=3; disminuye 50 por cada unidad adicional.",
+      "alert": "El dominio explícito es x entero entre 1 y 10. Argumentos de opciones sobre x=0 no invalidan el modelo fuera de su dominio."
+    }
+  ],
+  "metadata": {
+    "cover": "Metro de Medellín; 2025-1; Primera Sesión; ABR1; declara 131 preguntas y 4 horas 30 minutos.",
+    "calendar": "No confirmado explícitamente en portada.",
+    "source_status": "Escaneo con marcas de agua añadidas. No se acredita autenticidad ni permiso de reutilización comercial.",
+    "coverage": "Solo físicas 1-4; restantes 5-41 pendientes."
+  }
+}

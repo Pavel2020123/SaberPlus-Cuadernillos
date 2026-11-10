@@ -1,0 +1,99 @@
+{
+  "file_id": "USB-8e6cf8399239",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Preguntas95-103, físicas32-34 inspeccionadas visualmente, incluidas leyendas y escalas. Propuestas no oficiales.",
+  "contexts": [
+    {
+      "id": "biomasa",
+      "page": 32,
+      "title": "Producción de biomasa y combustión",
+      "description": "Participaciones18%natural,23%animal,10%industrial,6%urbana,43%agrícola; criterio simplificado de carbono. Preguntas95-97."
+    }
+  ],
+  "items": [
+    {
+      "question": 95,
+      "page": 32,
+      "topic": "Disponibilidad de fuentes de biomasa",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "C",
+      "reason": "La biomasa agrícola de caña representa43%, mayor fracción del gráfico; por disponibilidad es la alternativa indicada.",
+      "context": "biomasa",
+      "alert": "Disponibilidad relativa no demuestra por sí sola sostenibilidad o conveniencia integral."
+    },
+    {
+      "question": 96,
+      "page": 32,
+      "topic": "Comparación de fórmulas orgánicas en modelo energético",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "B",
+      "reason": "C20H22O10 tiene20 carbonos por molécula, más que5,6y15 en las demás fórmulas, según el criterio simplificado del enunciado.",
+      "context": "biomasa",
+      "alert": "Por cantidad de biomasa es ambiguo: número de carbonos por molécula no determina energía por igual masa. La propuesta B depende de comparación por molécula; se requiere revisión docente."
+    },
+    {
+      "question": 97,
+      "page": 32,
+      "topic": "Representación de combustión de biomasa",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "C",
+      "reason": "El residuo CxHyOz reacciona con oxígeno y produce CO2 y H2O, como representa C.",
+      "context": "biomasa",
+      "alert": "Es esquema general de reactivos/productos, no ecuación balanceada con coeficientes definidos."
+    },
+    {
+      "question": 98,
+      "page": 32,
+      "topic": "Hipótesis de relación presión-temperatura",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "A",
+      "reason": "A volumen constante, la tabla muestra presión creciente de1,0a1,6atm cuando temperatura aumenta300a450K.",
+      "alert": "Los valores muestran tendencia creciente pero no proporcionalidad exacta P/T; no afirmar validación exacta de gas ideal."
+    },
+    {
+      "question": 99,
+      "page": 33,
+      "topic": "Dirección de transferencia de calor",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "B",
+      "reason": "Para enfriar, los discos calientes ceden calor al sistema de enfriamiento; absorber calor no disminuye su temperatura."
+    },
+    {
+      "question": 100,
+      "page": 33,
+      "topic": "Comprobación experimental de datos de sustancias",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "B",
+      "reason": "Repetir determinación de puntos de fusión/ebullición en las mismas sustancias permite comprobar resultados; cambiar sustancias no comprueba el caso completo.",
+      "alert": "A35°C la sustancia2 está exactamente en su punto de fusión: puede coexistir sólido/líquido y la tabla sola no permite afirmar exclusivamente sólido. Repetir mediciones no elimina esta limitación conceptual."
+    },
+    {
+      "question": 101,
+      "page": 33,
+      "topic": "Predicción de efecto de sequía en reproducción",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "C",
+      "reason": "La ausencia de charcos por sequía limita puesta de huevos y reduce población según condiciones descritas.",
+      "alert": "Predicción contextual, no resultado medido ni regla para todas las poblaciones de la especie."
+    },
+    {
+      "question": 102,
+      "page": 34,
+      "topic": "Separación de arena y sal en agua",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "C",
+      "reason": "La filtración retira arena insoluble y la evaporación permite recuperar sal disuelta.",
+      "alert": "Evaporación no recupera el agua condensada; si se pretende conservar también agua se requiere otra etapa, como destilación. Se responde a separación ofrecida."
+    },
+    {
+      "question": 103,
+      "page": 34,
+      "topic": "Comparación de promedios trimestrales de precipitación",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "C",
+      "reason": "Octubre,noviembre,diciembre suman aproximadamente140+60+20=220mm, mayor que julio-agosto-septiembre (15+45+130=190mm) y los otros trimestres.",
+      "alert": "Promedio se interpreta como precipitación mensual media de cada trimestre, no como monotonía de días lluviosos."
+    }
+  ]
+}

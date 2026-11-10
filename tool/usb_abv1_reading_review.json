@@ -1,0 +1,710 @@
+{
+  "file_id": "USB-b39f1fd42a79",
+  "date": "2026-10-29",
+  "area": "Lectura critica",
+  "scope": "Preguntas 26-66, paginas fisicas 10-22, lectura visual completa de textos y opciones y cotejo con USB-7b48857ae6bc preguntas 26-66. Coincidencia sustantiva de los 41 pares en este alcance; no identidad del archivo. Propuestas no oficiales, sin validacion docente.",
+  "competency_proposal": "Competencia lectora",
+  "process_legend": {
+    "L": "Identificar y ubicar informacion local",
+    "R": "Relacionar e interpretar informacion",
+    "E": "Evaluar y reflexionar sobre la forma y el contenido"
+  },
+  "taxonomy_note": "Se usa nomenclatura de procesos del marco 2026 documentado en el proyecto, no se afirma que sea la clasificacion oficial de estos items ni que el documento corresponda a ese ano.",
+  "contexts": [
+    {
+      "id": "LC01",
+      "questions": [
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "pages": [
+        10,
+        11
+      ],
+      "title": "Lo que el concepto de parche nos dice sobre la sociedad colombiana",
+      "type": "Cronica reflexiva y argumentacion cultural",
+      "source_as_printed": "Spahlinger, L., Revista Late, julio de 2018"
+    },
+    {
+      "id": "LC02",
+      "questions": [
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "pages": [
+        12,
+        13
+      ],
+      "title": "Deliciosos panqueques",
+      "type": "Receta e instrucciones",
+      "source_as_printed": "Sitio web Campi"
+    },
+    {
+      "id": "LC03",
+      "questions": [
+        36,
+        37
+      ],
+      "pages": [
+        13,
+        14
+      ],
+      "title": "Viaje a pie",
+      "type": "Fragmento ensayistico",
+      "source_as_printed": "Gonzalez, F., 1929"
+    },
+    {
+      "id": "LC04",
+      "questions": [
+        38,
+        39
+      ],
+      "pages": [
+        14
+      ],
+      "title": "Armas, germenes y acero",
+      "type": "Argumentacion sobre explicacion y justificacion",
+      "source_as_printed": "Diamond, J., 2006"
+    },
+    {
+      "id": "LC05",
+      "questions": [
+        40,
+        41,
+        42
+      ],
+      "pages": [
+        15
+      ],
+      "title": "El arte y la ciencia mas alla de la utilidad",
+      "type": "Texto argumentativo",
+      "source_as_printed": "Suarez, C., 2017, Revista Poietica"
+    },
+    {
+      "id": "LC06",
+      "questions": [
+        43,
+        44,
+        45
+      ],
+      "pages": [
+        15,
+        16
+      ],
+      "title": "La obra maestra",
+      "type": "Fabula",
+      "source_as_printed": "Yunque, A., 2004, La obra, Caminos de la fabula",
+      "ocr_alert": "El OCR recorta el titulo; se registro el encabezado visible completo."
+    },
+    {
+      "id": "LC07",
+      "questions": [
+        46,
+        47,
+        48
+      ],
+      "pages": [
+        16
+      ],
+      "title": "La tentacion del mar",
+      "type": "Narracion autobiografica",
+      "source_as_printed": "Zapata Olivella, M., 2020, Pasion vagabunda"
+    },
+    {
+      "id": "LC08",
+      "questions": [
+        49,
+        50,
+        51,
+        52
+      ],
+      "pages": [
+        17
+      ],
+      "title": "De ratones y hombres",
+      "type": "Narracion con dialogo",
+      "source_as_printed": "Steinbeck, J., 2009"
+    },
+    {
+      "id": "LC09",
+      "questions": [
+        53,
+        54,
+        55
+      ],
+      "pages": [
+        18
+      ],
+      "title": "Un viaje por el conocimiento que tenemos",
+      "type": "Reflexion filosofica",
+      "source_as_printed": "Savater, F., 1999, Las preguntas de la vida"
+    },
+    {
+      "id": "LC10",
+      "questions": [
+        56,
+        57
+      ],
+      "pages": [
+        19
+      ],
+      "title": "No me toques el pelo",
+      "type": "Opinion y experiencia personal",
+      "source_as_printed": "Vidal, V., 3 de diciembre de 2022, Cambio Colombia"
+    },
+    {
+      "id": "LC11",
+      "questions": [
+        58,
+        59,
+        60,
+        61
+      ],
+      "pages": [
+        20,
+        21
+      ],
+      "title": "Los computadores hacen lo que se les manda",
+      "type": "Explicacion argumentada",
+      "source_as_printed": "Dawkins, R., 2007, El espejismo de Dios"
+    },
+    {
+      "id": "LC12",
+      "questions": [
+        62,
+        63
+      ],
+      "pages": [
+        21
+      ],
+      "title": "Frankenstein",
+      "type": "Narracion literaria",
+      "source_as_printed": "Shelley, Mary, 2018"
+    },
+    {
+      "id": "LC13",
+      "questions": [
+        64,
+        65,
+        66
+      ],
+      "pages": [
+        22
+      ],
+      "title": "El general en su laberinto",
+      "type": "Narracion literaria",
+      "source_as_printed": "Garcia Marquez, G., 2012"
+    }
+  ],
+  "items": [
+    {
+      "question": 26,
+      "page": 10,
+      "context": "LC01",
+      "process": "R",
+      "topic": "Inferencia temporal desde referencia bibliografica",
+      "answer_proposal": "C",
+      "reason": "Las experiencias relatadas deben preceder o ser contemporaneas a la publicacion de julio de 2018.",
+      "alert": "B formula un limite mas amplio que tambien puede incluir julio; C es el limite mas preciso. Revisar exclusividad de distractores.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 26,
+      "related_page": 9
+    },
+    {
+      "question": 27,
+      "page": 11,
+      "context": "LC01",
+      "process": "R",
+      "topic": "Expectativas del narrador y significado contextual",
+      "answer_proposal": "A",
+      "reason": "El narrador creia que parchar era una actividad todavia por iniciar, no que ya estuvieran haciendola.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 27,
+      "related_page": 10
+    },
+    {
+      "question": 28,
+      "page": 11,
+      "context": "LC01",
+      "process": "R",
+      "topic": "Caracterizacion global del narrador",
+      "answer_proposal": "B",
+      "reason": "Integra la observacion empatica y la reflexion cultural del relato completo.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 28,
+      "related_page": 10
+    },
+    {
+      "question": 29,
+      "page": 11,
+      "context": "LC01",
+      "process": "E",
+      "topic": "Pregunta retorica e intencion discursiva",
+      "answer_proposal": "C",
+      "reason": "La forma interrogativa introduce la reflexion sobre fragmentacion social sin adoptar la forma directa de una afirmacion.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 29,
+      "related_page": 10
+    },
+    {
+      "question": 30,
+      "page": 11,
+      "context": "LC01",
+      "process": "R",
+      "topic": "Funcion de un parrafo en la estructura",
+      "answer_proposal": "D",
+      "reason": "El parrafo enlaza la anecdota con el analisis cultural del lenguaje.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 30,
+      "related_page": 10
+    },
+    {
+      "question": 31,
+      "page": 12,
+      "context": "LC02",
+      "process": "L",
+      "topic": "Razon explicita de una preferencia",
+      "answer_proposal": "B",
+      "reason": "La receta tradicional permite seleccionar ingredientes y cantidades al gusto.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 31,
+      "related_page": 11
+    },
+    {
+      "question": 32,
+      "page": 12,
+      "context": "LC02",
+      "process": "L",
+      "topic": "Secuencia de instrucciones",
+      "answer_proposal": "A",
+      "reason": "Tras preparar la mezcla original se incorporan vainilla, leudante y sal.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 32,
+      "related_page": 11
+    },
+    {
+      "question": 33,
+      "page": 12,
+      "context": "LC02",
+      "process": "L",
+      "topic": "Excepcion explicita en lista de ingredientes",
+      "answer_proposal": "D",
+      "reason": "La lista indica omitir azucar o edulcorante en la version salada.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 33,
+      "related_page": 11
+    },
+    {
+      "question": 34,
+      "page": 13,
+      "context": "LC02",
+      "process": "R",
+      "topic": "Funcion introductoria de un fragmento",
+      "answer_proposal": "C",
+      "reason": "Presenta y promociona el plato cuya preparacion se explica despues.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 34,
+      "related_page": 12
+    },
+    {
+      "question": 35,
+      "page": 13,
+      "context": "LC02",
+      "process": "R",
+      "topic": "Implicacion de una afirmacion",
+      "answer_proposal": "C",
+      "reason": "Su presencia habitual en otras regiones excluye la exclusividad estadounidense.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 35,
+      "related_page": 12
+    },
+    {
+      "question": 36,
+      "page": 13,
+      "context": "LC03",
+      "process": "R",
+      "topic": "Relacion entre afirmacion y razon",
+      "answer_proposal": "A",
+      "reason": "La enumeracion de enfermedades da apoyo a la caracterizacion del hombre como enfermo.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 36,
+      "related_page": 12
+    },
+    {
+      "question": 37,
+      "page": 14,
+      "context": "LC03",
+      "process": "R",
+      "topic": "Identificacion de tesis",
+      "answer_proposal": "A",
+      "reason": "La busqueda de fortuna sintetiza la caracterizacion central del siglo.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 37,
+      "related_page": 13
+    },
+    {
+      "question": 38,
+      "page": 14,
+      "context": "LC04",
+      "process": "E",
+      "topic": "Proposito comunicativo argumentativo",
+      "answer_proposal": "B",
+      "reason": "Defiende que explicar causas no equivale a justificar resultados.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 38,
+      "related_page": 13
+    },
+    {
+      "question": 39,
+      "page": 14,
+      "context": "LC04",
+      "process": "E",
+      "topic": "Comparacion intertextual de planteamientos",
+      "answer_proposal": null,
+      "reason": "A es la candidata mas proxima por admitir la comprension causal, pero no formula la distincion central entre explicar y justificar.",
+      "alert": "No cerrar clave sin revision docente: ninguna alternativa reproduce claramente la tesis central.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 39,
+      "related_page": 13
+    },
+    {
+      "question": 40,
+      "page": 15,
+      "context": "LC05",
+      "process": "R",
+      "topic": "Conector de reformulacion",
+      "answer_proposal": "B",
+      "reason": "Introduce una explicacion equivalente de la idea precedente; no contraste ni ejemplificacion.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 40,
+      "related_page": 14
+    },
+    {
+      "question": 41,
+      "page": 15,
+      "context": "LC05",
+      "process": "R",
+      "topic": "Tema global",
+      "answer_proposal": "D",
+      "reason": "El texto defiende la presencia de belleza en productos humanos como la ciencia.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 41,
+      "related_page": 14
+    },
+    {
+      "question": 42,
+      "page": 15,
+      "context": "LC05",
+      "process": "E",
+      "topic": "Argumento que refuta una postura",
+      "answer_proposal": "C",
+      "reason": "La experiencia con productos utiles y bellos contradice la exclusion de la belleza.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 42,
+      "related_page": 14
+    },
+    {
+      "question": 43,
+      "page": 15,
+      "context": "LC06",
+      "process": "L",
+      "topic": "Cuantificador y excepcion narrativa",
+      "answer_proposal": "D",
+      "reason": "Se excluye al condor del conjunto de admiradores; no fueron todos.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 43,
+      "related_page": 14
+    },
+    {
+      "question": 44,
+      "page": 15,
+      "context": "LC06",
+      "process": "L",
+      "topic": "Contenido explicito de una intervencion",
+      "answer_proposal": "C",
+      "reason": "Comunica que el supuesto objeto artistico era un tronco.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 44,
+      "related_page": 14
+    },
+    {
+      "question": 45,
+      "page": 16,
+      "context": "LC06",
+      "process": "R",
+      "topic": "Motivacion causal del personaje",
+      "answer_proposal": "B",
+      "reason": "La posibilidad de volar le permite comprobar directamente el objeto.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 45,
+      "related_page": 15
+    },
+    {
+      "question": 46,
+      "page": 16,
+      "context": "LC07",
+      "process": "E",
+      "topic": "Proposito narrativo global",
+      "answer_proposal": "B",
+      "reason": "Relata la experiencia y el intento frustrado de embarcarse.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 46,
+      "related_page": 15
+    },
+    {
+      "question": 47,
+      "page": 16,
+      "context": "LC07",
+      "process": "E",
+      "topic": "Juicio de valor frente a descripcion",
+      "answer_proposal": "C",
+      "reason": "La sumision comparada con la esclavitud expresa una valoracion social.",
+      "alert": "A y B tambien presentan subjetividad y autoevaluacion; distinguir subjetividad de juicio valorativo explicito en revision docente.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 47,
+      "related_page": 15
+    },
+    {
+      "question": 48,
+      "page": 16,
+      "context": "LC07",
+      "process": "R",
+      "topic": "Relacion explicativa y causal entre fragmentos",
+      "answer_proposal": null,
+      "reason": "La advertencia de reclutamiento explica el temor y la permanencia en tierra; B y C expresan relaciones compatibles.",
+      "alert": "Posible ambiguedad B/C. No seleccionar clave definitiva sin criterio docente o fuente verificable. En esta variante D dice argumento en contra de lo mencionado en el segundo, referencia autorreferente tal como esta impresa; no corregir silenciosamente el distractor.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 48,
+      "related_page": 15
+    },
+    {
+      "question": 49,
+      "page": 17,
+      "context": "LC08",
+      "process": "L",
+      "topic": "Identificacion de agente explicito",
+      "answer_proposal": "C",
+      "reason": "El patron saca y abre su libreta.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 49,
+      "related_page": 16
+    },
+    {
+      "question": 50,
+      "page": 17,
+      "context": "LC08",
+      "process": "L",
+      "topic": "Caracteristica explicita del personaje",
+      "answer_proposal": "C",
+      "reason": "Jorge insiste en la fuerza de Charlie como aptitud laboral.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 50,
+      "related_page": 16
+    },
+    {
+      "question": 51,
+      "page": 17,
+      "context": "LC08",
+      "process": "E",
+      "topic": "Intencion pragmatica de una pregunta",
+      "answer_proposal": "D",
+      "reason": "La pregunta funciona como reclamo a Jorge por contestar en nombre del otro.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 51,
+      "related_page": 16
+    },
+    {
+      "question": 52,
+      "page": 17,
+      "context": "LC08",
+      "process": "R",
+      "topic": "Analogia entre situaciones narrativas",
+      "answer_proposal": "D",
+      "reason": "Conserva enojo del observador y verguenza por incumplir instrucciones.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 52,
+      "related_page": 16
+    },
+    {
+      "question": 53,
+      "page": 18,
+      "context": "LC09",
+      "process": "R",
+      "topic": "Tema global frente a subtemas",
+      "answer_proposal": "B",
+      "reason": "El desarrollo enumera fuentes de conocimiento: otros, escuela y experiencia; el cierre introduce su fiabilidad.",
+      "alert": "El inicio y cierre tambien plantean la duda; confirmar con revision docente que se privilegia el tema desarrollado y no solo el marco reflexivo.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 53,
+      "related_page": 17
+    },
+    {
+      "question": 54,
+      "page": 18,
+      "context": "LC09",
+      "process": "R",
+      "topic": "Contraste de fuentes de conocimiento",
+      "answer_proposal": "C",
+      "reason": "La experiencia propia se contrapone al conocimiento transmitido por otros.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 54,
+      "related_page": 17
+    },
+    {
+      "question": 55,
+      "page": 18,
+      "context": "LC09",
+      "process": "R",
+      "topic": "Generalizacion comun de dos fragmentos",
+      "answer_proposal": "D",
+      "reason": "Ambos ejemplifican formas de adquirir conocimiento, aunque sus fuentes difieren.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 55,
+      "related_page": 17
+    },
+    {
+      "question": 56,
+      "page": 19,
+      "context": "LC10",
+      "process": "R",
+      "topic": "Funcion contextualizadora del primer parrafo",
+      "answer_proposal": "D",
+      "reason": "La escena de la peluqueria presenta identidad y cabello antes de las experiencias criticadas.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 56,
+      "related_page": 18
+    },
+    {
+      "question": 57,
+      "page": 19,
+      "context": "LC10",
+      "process": "R",
+      "topic": "Conector concesivo",
+      "answer_proposal": "B",
+      "reason": "No predominar demograficamente no impide que los rasgos se consideren normales y deseables.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 57,
+      "related_page": 18
+    },
+    {
+      "question": 58,
+      "page": 20,
+      "context": "LC11",
+      "process": "R",
+      "topic": "Interpretacion de comparacion",
+      "answer_proposal": "C",
+      "reason": "La comparacion con soldados destaca obedecer ordenes sin cuestionamiento.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 58,
+      "related_page": 19
+    },
+    {
+      "question": 59,
+      "page": 20,
+      "context": "LC11",
+      "process": "R",
+      "topic": "Pregunta global que organiza el texto",
+      "answer_proposal": "B",
+      "reason": "Incluye la obediencia y tanto sus ventajas como la vulnerabilidad.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 59,
+      "related_page": 19
+    },
+    {
+      "question": 60,
+      "page": 20,
+      "context": "LC11",
+      "process": "R",
+      "topic": "Ejemplo como evidencia de una afirmacion",
+      "answer_proposal": "C",
+      "reason": "El programa malicioso ejemplifica la vulnerabilidad derivada de la obediencia.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 60,
+      "related_page": 19
+    },
+    {
+      "question": 61,
+      "page": 21,
+      "context": "LC11",
+      "process": "R",
+      "topic": "Consecuencia de una instruccion descrita",
+      "answer_proposal": "B",
+      "reason": "Segun el programa del texto, la instruccion implica copiar y enviar a las direcciones encontradas.",
+      "note": "Analisis de lo afirmado por el texto, no una afirmacion tecnica universal sobre sistemas actuales.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 61,
+      "related_page": 20
+    },
+    {
+      "question": 62,
+      "page": 21,
+      "context": "LC12",
+      "process": "E",
+      "topic": "Intencion expresiva del narrador",
+      "answer_proposal": "B",
+      "reason": "El narrador expresa una emocion y valoracion retrospectiva de su obsesion.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 62,
+      "related_page": 20
+    },
+    {
+      "question": 63,
+      "page": 21,
+      "context": "LC12",
+      "process": "L",
+      "topic": "Causa explicita de una decision",
+      "answer_proposal": "B",
+      "reason": "La pequenez de las piezas obstaculizaba la rapidez del trabajo.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 63,
+      "related_page": 20
+    },
+    {
+      "question": 64,
+      "page": 22,
+      "context": "LC13",
+      "process": "R",
+      "topic": "Inferencia de tiempo narrativo",
+      "answer_proposal": "B",
+      "reason": "Las primeras luces y el reloj que aun no marca cinco sit�an la escena antes de las cinco de la manana.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 64,
+      "related_page": 21
+    },
+    {
+      "question": 65,
+      "page": 22,
+      "context": "LC13",
+      "process": "E",
+      "topic": "Proposito de la caracterizacion literaria",
+      "answer_proposal": "C",
+      "reason": "La vulnerabilidad corporal humaniza al general al final de su vida.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 65,
+      "related_page": 21
+    },
+    {
+      "question": 66,
+      "page": 22,
+      "context": "LC13",
+      "process": "E",
+      "topic": "Evaluacion de fidelidad de un resumen",
+      "answer_proposal": "B",
+      "reason": "El resumen tergiversa la debilidad descrita y la sustituye por fortaleza y triunfo.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 66,
+      "related_page": 21
+    }
+  ],
+  "layout_notes": [
+    "Los contextos y preguntas continúan entre paginas; mantener las paginas fisicas propias de esta variante.",
+    "En ABV1 la pagina fisica coincide con la impresa en el bloque observado; no extrapolar a otros archivos."
+  ],
+  "next": "Sociales y ciudadanas comienza en pregunta 67, pagina fisica 23. Falta leer el resto del PDF."
+}

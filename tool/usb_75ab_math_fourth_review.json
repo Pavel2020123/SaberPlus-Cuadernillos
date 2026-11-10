@@ -1,0 +1,65 @@
+{
+  "file_id": "USB-75abccb84c15",
+  "date": "2026-10-30",
+  "area": "Matemáticas",
+  "scope": "Físicas16-17inspeccionadas completas.44-48idénticas aAAO2 33-37físicas7-8,cotejo directo de fórmula,menú,tabla deedades,ruta ycapacidades decarretillas. Cinco referencias,no repetir análisis.",
+  "items": [],
+  "duplicate_occurrences": [
+    {
+      "question": 44,
+      "page": 16,
+      "printed_page": 16,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 33,
+      "canonical_page": 7,
+      "exact_content": true,
+      "verification": "Cotejo visual directo deenunciado,datos,tablas,figuras y opcionesA-D. Mismo contenido salvo numeración,código,maquetación y marcas deagua.48capacidades3,6,7,2idénticas,canónica37respuestaA. Reservas canónicas conservadas.",
+      "observed_annotation": "Sin opción seleccionada inequívoca enAAR2."
+    },
+    {
+      "question": 45,
+      "page": 16,
+      "printed_page": 16,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 34,
+      "canonical_page": 7,
+      "exact_content": true,
+      "verification": "Cotejo visual directo deenunciado,datos,tablas,figuras y opcionesA-D. Mismo contenido salvo numeración,código,maquetación y marcas deagua.48capacidades3,6,7,2idénticas,canónica37respuestaA. Reservas canónicas conservadas.",
+      "observed_annotation": "Sin opción seleccionada inequívoca enAAR2."
+    },
+    {
+      "question": 46,
+      "page": 17,
+      "printed_page": 17,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 35,
+      "canonical_page": 8,
+      "exact_content": true,
+      "verification": "Cotejo visual directo deenunciado,datos,tablas,figuras y opcionesA-D. Mismo contenido salvo numeración,código,maquetación y marcas deagua.48capacidades3,6,7,2idénticas,canónica37respuestaA. Reservas canónicas conservadas.",
+      "observed_annotation": "Sin opción seleccionada inequívoca enAAR2."
+    },
+    {
+      "question": 47,
+      "page": 17,
+      "printed_page": 17,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 36,
+      "canonical_page": 8,
+      "exact_content": true,
+      "verification": "Cotejo visual directo deenunciado,datos,tablas,figuras y opcionesA-D. Mismo contenido salvo numeración,código,maquetación y marcas deagua.48capacidades3,6,7,2idénticas,canónica37respuestaA. Reservas canónicas conservadas.",
+      "observed_annotation": "Sin opción seleccionada inequívoca enAAR2."
+    },
+    {
+      "question": 48,
+      "page": 17,
+      "printed_page": 17,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 37,
+      "canonical_page": 8,
+      "exact_content": true,
+      "verification": "Cotejo visual directo deenunciado,datos,tablas,figuras y opcionesA-D. Mismo contenido salvo numeración,código,maquetación y marcas deagua.48capacidades3,6,7,2idénticas,canónica37respuestaA. Reservas canónicas conservadas.",
+      "observed_annotation": "Sin opción seleccionada inequívoca enAAR2."
+    }
+  ],
+  "next": "Física18,49en adelante."
+}

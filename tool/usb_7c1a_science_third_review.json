@@ -1,0 +1,133 @@
+{
+  "file_id": "USB-7c1a96cf7ade",
+  "date": "2026-10-31",
+  "area": "Ciencias naturales",
+  "scope": "Físicas25-28completas.67-69y71-77diez referenciasABA2;70variante real deopciónC.",
+  "items": [
+    {
+      "question": 70,
+      "page": 25,
+      "printed_page": 26,
+      "topic": "Grupos periódicos y electronegatividad enLED",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "B",
+      "reason": "Grupos antiguosIIIAyVA suman3+5=8. Cdeeste ejemplar dice diferencia esde1.7,falso:GaP0.38yGaAs0.37. Bquedaúnicacorrecta.",
+      "alert": "ABA2q70dice menorde1.7enC,porloque allíB/Csonverdaderas. AquíC cambió;noheredar ambigüedad nilaclavenula delotroPDF.",
+      "related_file_id": "USB-4d0661231ca3",
+      "related_question": 70,
+      "related_page": 24
+    }
+  ],
+  "duplicate_occurrences": [
+    {
+      "question": 67,
+      "page": 25,
+      "printed_page": 26,
+      "canonical_file_id": "USB-4d0661231ca3",
+      "canonical_question": 67,
+      "canonical_page": 24,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro conABA2físicas24-27:arenisca,tabla peces,fricción,isótopos,gaseosa,selección,puertas,arco y modelosreproductivos;opciones idénticas.70excluida por cambio enopciónC.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 68,
+      "page": 25,
+      "printed_page": 26,
+      "canonical_file_id": "USB-4d0661231ca3",
+      "canonical_question": 68,
+      "canonical_page": 24,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro conABA2físicas24-27:arenisca,tabla peces,fricción,isótopos,gaseosa,selección,puertas,arco y modelosreproductivos;opciones idénticas.70excluida por cambio enopciónC.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 69,
+      "page": 25,
+      "printed_page": 26,
+      "canonical_file_id": "USB-4d0661231ca3",
+      "canonical_question": 69,
+      "canonical_page": 24,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro conABA2físicas24-27:arenisca,tabla peces,fricción,isótopos,gaseosa,selección,puertas,arco y modelosreproductivos;opciones idénticas.70excluida por cambio enopciónC.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 71,
+      "page": 26,
+      "printed_page": 27,
+      "canonical_file_id": "USB-4d0661231ca3",
+      "canonical_question": 71,
+      "canonical_page": 25,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro conABA2físicas24-27:arenisca,tabla peces,fricción,isótopos,gaseosa,selección,puertas,arco y modelosreproductivos;opciones idénticas.70excluida por cambio enopciónC.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 72,
+      "page": 26,
+      "printed_page": 27,
+      "canonical_file_id": "USB-4d0661231ca3",
+      "canonical_question": 72,
+      "canonical_page": 25,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro conABA2físicas24-27:arenisca,tabla peces,fricción,isótopos,gaseosa,selección,puertas,arco y modelosreproductivos;opciones idénticas.70excluida por cambio enopciónC.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 73,
+      "page": 27,
+      "printed_page": 28,
+      "canonical_file_id": "USB-4d0661231ca3",
+      "canonical_question": 73,
+      "canonical_page": 26,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro conABA2físicas24-27:arenisca,tabla peces,fricción,isótopos,gaseosa,selección,puertas,arco y modelosreproductivos;opciones idénticas.70excluida por cambio enopciónC.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 74,
+      "page": 27,
+      "printed_page": 28,
+      "canonical_file_id": "USB-4d0661231ca3",
+      "canonical_question": 74,
+      "canonical_page": 26,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro conABA2físicas24-27:arenisca,tabla peces,fricción,isótopos,gaseosa,selección,puertas,arco y modelosreproductivos;opciones idénticas.70excluida por cambio enopciónC.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 75,
+      "page": 27,
+      "printed_page": 28,
+      "canonical_file_id": "USB-4d0661231ca3",
+      "canonical_question": 75,
+      "canonical_page": 26,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro conABA2físicas24-27:arenisca,tabla peces,fricción,isótopos,gaseosa,selección,puertas,arco y modelosreproductivos;opciones idénticas.70excluida por cambio enopciónC.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 76,
+      "page": 27,
+      "printed_page": 28,
+      "canonical_file_id": "USB-4d0661231ca3",
+      "canonical_question": 76,
+      "canonical_page": 26,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro conABA2físicas24-27:arenisca,tabla peces,fricción,isótopos,gaseosa,selección,puertas,arco y modelosreproductivos;opciones idénticas.70excluida por cambio enopciónC.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 77,
+      "page": 28,
+      "printed_page": 29,
+      "canonical_file_id": "USB-4d0661231ca3",
+      "canonical_question": 77,
+      "canonical_page": 27,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro conABA2físicas24-27:arenisca,tabla peces,fricción,isótopos,gaseosa,selección,puertas,arco y modelosreproductivos;opciones idénticas.70excluida por cambio enopciónC.",
+      "observed_annotation": "Sin marca relevante."
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "file_id": "USB-73fbd3be4b98",
+  "date": "2026-10-30",
+  "area": "Matemáticas",
+  "scope": "Físicas5-8 inspeccionadas completas,9-21fichas iniciales,tablas y gráficas cotejadas con lectura.",
+  "items": [
+    {
+      "question": 9,
+      "page": 5,
+      "printed_page": 5,
+      "answer_proposal": "A",
+      "topic": "Comparación de representaciones",
+      "competency_proposal": "Interpretación y representación",
+      "reason": "Tabla y gráfica muestran mismos radios de asteroides;orden distinto:tablaCeres,Eunomia,Hygiea,Pallas,Psyche,Vesta;gráfica orden decreciente.",
+      "alert": "Propuesta inicial,sin validación docente;comparación global pendiente."
+    },
+    {
+      "question": 10,
+      "page": 5,
+      "printed_page": 5,
+      "answer_proposal": "D",
+      "topic": "Tarifa fija y variable",
+      "competency_proposal": "Formulación y ejecución",
+      "reason": "Total250000+25000n;D.",
+      "alert": "Propuesta inicial,sin validación docente;comparación global pendiente."
+    },
+    {
+      "question": 11,
+      "page": 5,
+      "printed_page": 5,
+      "answer_proposal": "B",
+      "topic": "Frecuencia absoluta y relativa",
+      "competency_proposal": "Interpretación y representación",
+      "reason": "Máximo noviembre-diciembre46días=23%;ambas representaciones permiten reconocer el bimestre más lluvioso.",
+      "alert": "Propuesta inicial,sin validación docente;comparación global pendiente."
+    },
+    {
+      "question": 12,
+      "page": 6,
+      "printed_page": 6,
+      "answer_proposal": "B",
+      "topic": "Pendiente y crecimiento lineal",
+      "competency_proposal": "Argumentación",
+      "reason": "Cada100neumáticos agrega200000deutilidad;pendiente2000positiva.",
+      "alert": "Propuesta inicial,sin validación docente;comparación global pendiente."
+    },
+    {
+      "question": 13,
+      "page": 6,
+      "printed_page": 6,
+      "answer_proposal": "A",
+      "topic": "Probabilidad de unión disjunta",
+      "competency_proposal": "Formulación y ejecución",
+      "reason": "Dos ofensivos y uno ambos entre5:2/5+1/5=3/5,si selección equiprobable.",
+      "alert": "Requiere selección equiprobable de integrante."
+    },
+    {
+      "question": 14,
+      "page": 6,
+      "printed_page": 6,
+      "answer_proposal": "A",
+      "topic": "Áreas en tangram",
+      "competency_proposal": "Formulación y ejecución",
+      "reason": "Fichas restantes8,8,4,16,16cm²;con3=4y4=8suman64=8².",
+      "alert": "Propuesta inicial,sin validación docente;comparación global pendiente."
+    },
+    {
+      "question": 15,
+      "page": 7,
+      "printed_page": 7,
+      "answer_proposal": "A",
+      "topic": "Ejecución de algoritmo no usual",
+      "competency_proposal": "Formulación y ejecución",
+      "reason": "(-1+5)²+1=17,no producto habitual-5.",
+      "alert": "Propuesta inicial,sin validación docente;comparación global pendiente."
+    },
+    {
+      "question": 16,
+      "page": 7,
+      "printed_page": 7,
+      "answer_proposal": "C",
+      "topic": "Comparación de longitudes",
+      "competency_proposal": "Formulación y ejecución",
+      "reason": "SiPQ=d,camino2=2d,arco3=πd/2,recta1=d:2>3>1.",
+      "alert": "Propuesta inicial,sin validación docente;comparación global pendiente."
+    },
+    {
+      "question": 17,
+      "page": 7,
+      "printed_page": 7,
+      "answer_proposal": "A",
+      "topic": "Procedimiento de media aritmética",
+      "competency_proposal": "Interpretación y representación",
+      "reason": "Sumar edades,dividir por integrantes y comparar media con25;A.",
+      "alert": "Propuesta inicial,sin validación docente;comparación global pendiente."
+    },
+    {
+      "question": 18,
+      "page": 8,
+      "printed_page": 8,
+      "answer_proposal": "C",
+      "topic": "Área por complemento",
+      "competency_proposal": "Formulación y ejecución",
+      "reason": "Rectángulo2400;triángulos exteriores suman1200;área jardín1200m².",
+      "alert": "Propuesta inicial,sin validación docente;comparación global pendiente."
+    },
+    {
+      "question": 19,
+      "page": 8,
+      "printed_page": 8,
+      "answer_proposal": "C",
+      "topic": "Interpretación de correlación positiva",
+      "competency_proposal": "Argumentación",
+      "reason": "r=0.92positivo cercano1 apoya asociación lineal positiva fuerte,no igualdad/proporcionalidad ni causalidad.",
+      "alert": "No inferir nota exacta ni causalidad de correlación."
+    },
+    {
+      "question": 20,
+      "page": 8,
+      "printed_page": 8,
+      "answer_proposal": "A",
+      "topic": "Principio multiplicativo",
+      "competency_proposal": "Argumentación",
+      "reason": "10equipos×3uniformes=30pares equipo-uniforme;no30equipos.",
+      "alert": "Propuesta inicial,sin validación docente;comparación global pendiente."
+    },
+    {
+      "question": 21,
+      "page": 8,
+      "printed_page": 8,
+      "answer_proposal": "C",
+      "topic": "Validación de media",
+      "competency_proposal": "Argumentación",
+      "reason": "Total350L/5días=70L/día;350=70×5,no exige70cada día.",
+      "alert": "Propuesta inicial,sin validación docente;comparación global pendiente."
+    }
+  ]
+}

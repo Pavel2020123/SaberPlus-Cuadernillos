@@ -1,0 +1,666 @@
+{
+  "file_id": "USB-91836110f48e",
+  "date": "2026-10-29",
+  "area": "Lectura critica",
+  "competency_proposal": "Competencia lectora",
+  "process_legend": {
+    "L": "Identificar y ubicar informacion local",
+    "R": "Relacionar e interpretar informacion",
+    "E": "Evaluar y reflexionar sobre la forma y el contenido"
+  },
+  "scope": "Preguntas26-66 y textos completos de paginas fisicas10-21 leidos visualmente, incluidas historieta y pintura. Propuestas analiticas sin clave oficial ni revision docente. No certifica referencias historicas,cientificas o actuales.",
+  "contexts": [
+    {
+      "id": "LC05",
+      "questions": [
+        31,
+        32,
+        33
+      ],
+      "pages": [
+        11
+      ],
+      "title": "El arte y la ciencia mas alla de la utilidad",
+      "type": "Texto argumentativo",
+      "source_as_printed": "Suarez, C., 2017, Revista Poietica"
+    },
+    {
+      "id": "LC06",
+      "questions": [
+        34,
+        35,
+        36
+      ],
+      "pages": [
+        11,
+        12
+      ],
+      "title": "La obra maestra",
+      "type": "Fabula",
+      "source_as_printed": "Yunque, A., 2004, La obra, Caminos de la fabula",
+      "ocr_alert": "El OCR recorta el titulo; se registro el encabezado visible completo."
+    },
+    {
+      "id": "LC07",
+      "questions": [
+        37,
+        38,
+        39
+      ],
+      "pages": [
+        12
+      ],
+      "title": "La tentacion del mar",
+      "type": "Narracion autobiografica",
+      "source_as_printed": "Zapata Olivella, M., 2020, Pasion vagabunda"
+    },
+    {
+      "id": "LC11",
+      "questions": [
+        58,
+        59,
+        60,
+        61
+      ],
+      "pages": [
+        19,
+        20
+      ],
+      "title": "Los computadores hacen lo que se les manda",
+      "type": "Explicacion argumentada",
+      "source_as_printed": "Dawkins, R., 2007, El espejismo de Dios"
+    },
+    {
+      "id": "LC12",
+      "questions": [
+        62,
+        63
+      ],
+      "pages": [
+        20
+      ],
+      "title": "Frankenstein",
+      "type": "Narracion literaria",
+      "source_as_printed": "Shelley, Mary, 2018"
+    },
+    {
+      "id": "LC13",
+      "questions": [
+        64,
+        65,
+        66
+      ],
+      "pages": [
+        21
+      ],
+      "title": "El general en su laberinto",
+      "type": "Narracion literaria",
+      "source_as_printed": "Garcia Marquez, G., 2012"
+    },
+    {
+      "id": "ACW-LC04",
+      "questions": [
+        49,
+        50,
+        51
+      ],
+      "pages": [
+        16,
+        17
+      ],
+      "title": "Fragmento sobre El Greco y un cardenal (sin titulo propio)",
+      "type": "Exposicion sobre pintura con retrato reproducido",
+      "source_as_printed": "Scholz-Hansel, M., 2005, El Greco, Taschen"
+    },
+    {
+      "id": "ACW-LC05",
+      "questions": [
+        52,
+        53,
+        54
+      ],
+      "pages": [
+        17,
+        18
+      ],
+      "title": "Creencias",
+      "type": "Argumentacion filosofica",
+      "source_as_printed": "Russell, B., 2003, Ensayos filosoficos, Alianza"
+    },
+    {
+      "id": "ACW-LC06",
+      "questions": [
+        55,
+        56,
+        57
+      ],
+      "pages": [
+        18
+      ],
+      "title": "La lactosa",
+      "type": "Texto sobre cultura alimentaria",
+      "source_as_printed": "Malof, K., sin fecha, El Malpensante, edicion 206; lectura de referencia del escaneo pendiente de confirmacion"
+    },
+    {
+      "id": "ACC-LC01",
+      "questions": [
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "pages": [
+        10
+      ],
+      "title": "Los valientes sastres de la familia",
+      "type": "Narracion de recuerdos familiares",
+      "source_as_printed": "Talese, G.,2011, Periodismo narrativo en Latinoamerica"
+    },
+    {
+      "id": "ACC-LC05",
+      "questions": [
+        40,
+        41,
+        42,
+        43
+      ],
+      "pages": [
+        13
+      ],
+      "title": "Consciencia y alma en los animales",
+      "type": "Argumentacion filosofica",
+      "source_as_printed": "Regan, T.,2016, En defensa de los derechos de los animales"
+    },
+    {
+      "id": "ACC-LC06",
+      "questions": [
+        44,
+        45,
+        46
+      ],
+      "pages": [
+        14,
+        15
+      ],
+      "title": "Fragmento de Sapiens, una historia grafica",
+      "type": "Historieta expositiva de cuatro vinetas",
+      "source_as_printed": "Harari,Y.N.;Vandermeulen,D.;Casanave,D.,2020, El nacimiento de la humanidad",
+      "visual_dependency": "Cuatro vinetas enlazan fisica,quimica,biologia e historia; no eliminar imagenes como decoracion."
+    },
+    {
+      "id": "ACC-LC07",
+      "questions": [
+        47,
+        48
+      ],
+      "pages": [
+        15
+      ],
+      "title": "Como identificar peces bajo el agua",
+      "type": "Instrucciones de buceo",
+      "source_as_printed": "Professional Association of Diving Instructors,2022, Manual Advanced Open Water Diver"
+    }
+  ],
+  "items": [
+    {
+      "question": 26,
+      "page": 10,
+      "context": "ACC-LC01",
+      "process": "E",
+      "topic": "Proposito de narracion de recuerdos familiares",
+      "answer_proposal": "A",
+      "reason": "Muestra el ambiente de las casas de moda del sur italiano a partir de experiencias del padre aprendiz; no cuenta la propia infancia laboral del narrador."
+    },
+    {
+      "question": 27,
+      "page": 10,
+      "context": "ACC-LC01",
+      "process": "R",
+      "topic": "Interpretacion de comparacion de longitud",
+      "answer_proposal": "A",
+      "reason": "El adjetivo largas centra comparacion en tamano de tijeras y espada, no acredita que se usaran para matar.",
+      "alert": "La comparacion tambien contribuye a un tono amenazante; A atiende el rasgo explicito de longitud frente a B. Revisar precision de distractores."
+    },
+    {
+      "question": 28,
+      "page": 10,
+      "context": "ACC-LC01",
+      "process": "R",
+      "topic": "Accion de personaje y encubrimiento de error",
+      "answer_proposal": "B",
+      "reason": "Cristiani no admite mal diseno y atribuye al cliente una forma incorrecta de usar el saco, mintiendo sobre su uso."
+    },
+    {
+      "question": 29,
+      "page": 10,
+      "context": "ACC-LC01",
+      "process": "R",
+      "topic": "Tipo de narrador y fuente de recuerdos",
+      "answer_proposal": "D",
+      "reason": "La voz narra recuerdos laborales de su padre, no es el aprendiz protagonista ni voz omnisciente externa."
+    },
+    {
+      "question": 30,
+      "page": 10,
+      "context": "ACC-LC01",
+      "process": "E",
+      "topic": "Estrategia narrativa de descripcion y anecdota",
+      "answer_proposal": "B",
+      "reason": "Detalles del taller y episodios con colegas/clientes transmiten la experiencia de trabajo en casas de moda."
+    },
+    {
+      "question": 31,
+      "page": 11,
+      "context": "LC05",
+      "process": "R",
+      "topic": "Conector de reformulacion",
+      "answer_proposal": "B",
+      "reason": "Introduce una explicacion equivalente de la idea precedente; no contraste ni ejemplificacion.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 40,
+      "related_page": 14
+    },
+    {
+      "question": 32,
+      "page": 11,
+      "context": "LC05",
+      "process": "R",
+      "topic": "Tema global",
+      "answer_proposal": "D",
+      "reason": "El texto defiende la presencia de belleza en productos humanos como la ciencia.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 41,
+      "related_page": 14
+    },
+    {
+      "question": 33,
+      "page": 11,
+      "context": "LC05",
+      "process": "E",
+      "topic": "Argumento que refuta una postura",
+      "answer_proposal": "C",
+      "reason": "La experiencia con productos utiles y bellos contradice la exclusion de la belleza.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 42,
+      "related_page": 14
+    },
+    {
+      "question": 34,
+      "page": 11,
+      "context": "LC06",
+      "process": "L",
+      "topic": "Cuantificador y excepcion narrativa",
+      "answer_proposal": "D",
+      "reason": "Se excluye al condor del conjunto de admiradores; no fueron todos.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 43,
+      "related_page": 14
+    },
+    {
+      "question": 35,
+      "page": 11,
+      "context": "LC06",
+      "process": "L",
+      "topic": "Contenido explicito de una intervencion",
+      "answer_proposal": "C",
+      "reason": "Comunica que el supuesto objeto artistico era un tronco.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 44,
+      "related_page": 14
+    },
+    {
+      "question": 36,
+      "page": 12,
+      "context": "LC06",
+      "process": "R",
+      "topic": "Motivacion causal del personaje",
+      "answer_proposal": "B",
+      "reason": "La posibilidad de volar le permite comprobar directamente el objeto.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 45,
+      "related_page": 15
+    },
+    {
+      "question": 37,
+      "page": 12,
+      "context": "LC07",
+      "process": "E",
+      "topic": "Proposito narrativo global",
+      "answer_proposal": "B",
+      "reason": "Relata la experiencia y el intento frustrado de embarcarse.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 46,
+      "related_page": 15
+    },
+    {
+      "question": 38,
+      "page": 12,
+      "context": "LC07",
+      "process": "E",
+      "topic": "Juicio de valor frente a descripcion",
+      "answer_proposal": "C",
+      "reason": "La sumision comparada con la esclavitud expresa una valoracion social.",
+      "alert": "A y B tambien presentan subjetividad y autoevaluacion; distinguir subjetividad de juicio valorativo explicito en revision docente.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 47,
+      "related_page": 15
+    },
+    {
+      "question": 39,
+      "page": 12,
+      "context": "LC07",
+      "process": "R",
+      "topic": "Relacion explicativa y causal entre fragmentos",
+      "answer_proposal": null,
+      "reason": "La advertencia de reclutamiento explica el temor y la permanencia en tierra; B y C expresan relaciones compatibles.",
+      "alert": "Posible ambiguedad B/C. No seleccionar clave definitiva sin criterio docente o fuente verificable.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 48,
+      "related_page": 15
+    },
+    {
+      "question": 40,
+      "page": 13,
+      "context": "ACC-LC05",
+      "process": "R",
+      "topic": "Pregunta central de critica filosofica",
+      "answer_proposal": "C",
+      "reason": "El texto cuestiona vincular consciencia con alma inmortal; el centro no es solo describir a Descartes."
+    },
+    {
+      "question": 41,
+      "page": 13,
+      "context": "ACC-LC05",
+      "process": "R",
+      "topic": "Implicacion dentro de argumento citado",
+      "answer_proposal": "B",
+      "reason": "En la postura citada, ostras y esponjas se consideran casos demasiado imperfectos para atribuirles alma inmortal.",
+      "alert": "Es una implicacion de la postura de Descartes que el autor critica; no afirmacion biologica demostrada ni adhesion del autor."
+    },
+    {
+      "question": 42,
+      "page": 13,
+      "context": "ACC-LC05",
+      "process": "E",
+      "topic": "Funcion critica de una cita filosofica",
+      "answer_proposal": "C",
+      "reason": "La cita permite cuestionar la conexion necesaria entre consciencia e inmortalidad del alma."
+    },
+    {
+      "question": 43,
+      "page": 13,
+      "context": "ACC-LC05",
+      "process": "R",
+      "topic": "Conclusion global y distincion conceptual",
+      "answer_proposal": "C",
+      "reason": "Puede evaluarse consciencia de un individuo sin atribuirle simultaneamente alma inmortal."
+    },
+    {
+      "question": 44,
+      "page": 14,
+      "context": "ACC-LC06",
+      "process": "R",
+      "topic": "Relacion de campos de conocimiento en historieta",
+      "answer_proposal": "D",
+      "reason": "Materia,energia,tiempo y espacio se asocian a fisica; atomos,moleculas e interacciones a quimica."
+    },
+    {
+      "question": 45,
+      "page": 14,
+      "context": "ACC-LC06",
+      "process": "R",
+      "topic": "Relacion entre texto e imagen de vineta",
+      "answer_proposal": "B",
+      "reason": "Los dibujos acompanan desarrollo de culturas humanas, no se presentan como primeros organismos ni escritura."
+    },
+    {
+      "question": 46,
+      "page": 15,
+      "context": "ACC-LC06",
+      "process": "E",
+      "topic": "Intencion asertiva de enunciado expositivo",
+      "answer_proposal": "C",
+      "reason": "Afirma origen de materia,tiempo y espacio en big bang; no pregunta ni expresa valoracion de importancia.",
+      "alert": "Se evalua intencion del texto, no se valida aqui cronologia cosmologica ni exactitud cientifica de la adaptacion."
+    },
+    {
+      "question": 47,
+      "page": 15,
+      "context": "ACC-LC07",
+      "process": "E",
+      "topic": "Funcion instructiva de imperativo",
+      "answer_proposal": "C",
+      "reason": "Sugiere una tecnica concreta para identificar despues peces que no se reconocen, registrando rasgos y consultandolos al salir.",
+      "alert": "B tambien menciona uso del cuaderno, pero no recoge tan especificamente el proposito de la instruccion para identificar especies."
+    },
+    {
+      "question": 48,
+      "page": 15,
+      "context": "ACC-LC07",
+      "process": "L",
+      "topic": "Condicion temporal explicita de una instruccion",
+      "answer_proposal": "C",
+      "reason": "El registro de rasgos se hace al ver un pez que no se logra reconocer; la enciclopedia se consulta despues."
+    },
+    {
+      "question": 49,
+      "page": 16,
+      "context": "ACW-LC04",
+      "process": "R",
+      "topic": "Titulo que sintetiza tema y enfoque",
+      "answer_proposal": "D",
+      "reason": "Integra al pintor, el retrato del cardenal y su acercamiento al entorno de la Inquisicion.",
+      "related_file_id": "USB-eee9960ca52a",
+      "related_question": 32,
+      "related_page": 11
+    },
+    {
+      "question": 50,
+      "page": 17,
+      "context": "ACW-LC04",
+      "process": "R",
+      "topic": "Relacion entre evidencia y juicio del autor",
+      "answer_proposal": "B",
+      "reason": "Elegir al pintor rechazado por el rey demuestra un criterio propio y aprecio por su originalidad, no simple oposicion al rey.",
+      "related_file_id": "USB-eee9960ca52a",
+      "related_question": 33,
+      "related_page": 12
+    },
+    {
+      "question": 51,
+      "page": 17,
+      "context": "ACW-LC04",
+      "process": "E",
+      "topic": "Relacion entre fragmento adicional y texto base",
+      "answer_proposal": "A",
+      "reason": "Aporta detalles nuevos sobre el significado y uso de las lentes, sin contradecir ni solo parafrasear el texto.",
+      "related_file_id": "USB-eee9960ca52a",
+      "related_question": 34,
+      "related_page": 12
+    },
+    {
+      "question": 52,
+      "page": 17,
+      "context": "ACW-LC05",
+      "process": "R",
+      "topic": "Clasificacion de un ejemplo de creencia",
+      "answer_proposal": "B",
+      "reason": "La explicacion gravitacional se ubica entre las leyes fisicas mencionadas.",
+      "related_file_id": "USB-eee9960ca52a",
+      "related_question": 35,
+      "related_page": 12
+    },
+    {
+      "question": 53,
+      "page": 17,
+      "context": "ACW-LC05",
+      "process": "R",
+      "topic": "Tema global frente a enumeracion de tipos",
+      "answer_proposal": "B",
+      "reason": "Los distintos tipos se presentan para mostrar grados de firmeza y disposicion a abandonar creencias.",
+      "related_file_id": "USB-eee9960ca52a",
+      "related_question": 36,
+      "related_page": 12
+    },
+    {
+      "question": 54,
+      "page": 18,
+      "context": "ACW-LC05",
+      "process": "R",
+      "topic": "Conclusion introducida por conector",
+      "answer_proposal": "B",
+      "reason": "Por consiguiente introduce la inferencia derivada de los ejemplos anteriores.",
+      "related_file_id": "USB-eee9960ca52a",
+      "related_question": 37,
+      "related_page": 13
+    },
+    {
+      "question": 55,
+      "page": 18,
+      "context": "ACW-LC06",
+      "process": "L",
+      "topic": "Identificacion explicita de emisor citado",
+      "answer_proposal": "C",
+      "reason": "La ultima oracion atribuye la descripcion a un cortesano en el contexto de la dinastia Ming.",
+      "related_file_id": "USB-eee9960ca52a",
+      "related_question": 38,
+      "related_page": 13
+    },
+    {
+      "question": 56,
+      "page": 18,
+      "context": "ACW-LC06",
+      "process": "R",
+      "topic": "Titulo global y juego de palabras",
+      "answer_proposal": "D",
+      "reason": "La vida lactea abarca el tema de leche, lactosa y costumbres; los otros titulos no se ajustan.",
+      "related_file_id": "USB-eee9960ca52a",
+      "related_question": 39,
+      "related_page": 13
+    },
+    {
+      "question": 57,
+      "page": 18,
+      "context": "ACW-LC06",
+      "process": "L",
+      "topic": "Localizacion de lugar explicitamente mencionado",
+      "answer_proposal": "B",
+      "reason": "El primer enunciado incluye al Libano como lugar de consumo milenario.",
+      "related_file_id": "USB-eee9960ca52a",
+      "related_question": 40,
+      "related_page": 13
+    },
+    {
+      "question": 58,
+      "page": 19,
+      "context": "LC11",
+      "process": "R",
+      "topic": "Interpretacion de comparacion",
+      "answer_proposal": "C",
+      "reason": "La comparacion con soldados destaca obedecer ordenes sin cuestionamiento.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 58,
+      "related_page": 19
+    },
+    {
+      "question": 59,
+      "page": 19,
+      "context": "LC11",
+      "process": "R",
+      "topic": "Pregunta global que organiza el texto",
+      "answer_proposal": "B",
+      "reason": "Incluye la obediencia y tanto sus ventajas como la vulnerabilidad.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 59,
+      "related_page": 19
+    },
+    {
+      "question": 60,
+      "page": 19,
+      "context": "LC11",
+      "process": "R",
+      "topic": "Ejemplo como evidencia de una afirmacion",
+      "answer_proposal": "C",
+      "reason": "El programa malicioso ejemplifica la vulnerabilidad derivada de la obediencia.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 60,
+      "related_page": 19
+    },
+    {
+      "question": 61,
+      "page": 20,
+      "context": "LC11",
+      "process": "R",
+      "topic": "Consecuencia de una instruccion descrita",
+      "answer_proposal": "B",
+      "reason": "Segun el programa del texto, la instruccion implica copiar y enviar a las direcciones encontradas.",
+      "note": "Analisis de lo afirmado por el texto, no una afirmacion tecnica universal sobre sistemas actuales.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 61,
+      "related_page": 20
+    },
+    {
+      "question": 62,
+      "page": 20,
+      "context": "LC12",
+      "process": "E",
+      "topic": "Intencion expresiva del narrador",
+      "answer_proposal": "B",
+      "reason": "El narrador expresa una emocion y valoracion retrospectiva de su obsesion.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 62,
+      "related_page": 20
+    },
+    {
+      "question": 63,
+      "page": 20,
+      "context": "LC12",
+      "process": "L",
+      "topic": "Causa explicita de una decision",
+      "answer_proposal": "B",
+      "reason": "La pequenez de las piezas obstaculizaba la rapidez del trabajo.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 63,
+      "related_page": 20
+    },
+    {
+      "question": 64,
+      "page": 21,
+      "context": "LC13",
+      "process": "R",
+      "topic": "Inferencia de tiempo narrativo",
+      "answer_proposal": "B",
+      "reason": "Las primeras luces y el reloj que aun no marca cinco sit�an la escena antes de las cinco de la manana.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 64,
+      "related_page": 21
+    },
+    {
+      "question": 65,
+      "page": 21,
+      "context": "LC13",
+      "process": "E",
+      "topic": "Proposito de la caracterizacion literaria",
+      "answer_proposal": "C",
+      "reason": "La vulnerabilidad corporal humaniza al general al final de su vida.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 65,
+      "related_page": 21
+    },
+    {
+      "question": 66,
+      "page": 21,
+      "context": "LC13",
+      "process": "E",
+      "topic": "Evaluacion de fidelidad de un resumen",
+      "answer_proposal": "B",
+      "reason": "El resumen tergiversa la debilidad descrita y la sustituye por fortaleza y triunfo.",
+      "related_file_id": "USB-7b48857ae6bc",
+      "related_question": 66,
+      "related_page": 21
+    }
+  ],
+  "comparison_scope": "27 pares cotejados:31-39 con40-48 del primer PDF;49-57 con32-40 deACM7;58-66 con el mismo rango del primer PDF. Los bloques se alternan: no aplicar un solo desplazamiento de numeros o paginas. Conservar las claves abiertas y alertas de origen.",
+  "next": "Sociales desde67,pagina fisica22; falta resto del documento."
+}

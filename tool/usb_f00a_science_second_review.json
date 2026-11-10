@@ -1,0 +1,78 @@
+{
+  "file_id": "USB-f00a52c8b6f2",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Preguntas57-64,físicas19-21inspeccionadas visualmente con modelos/tablas. Se registran supuestos y ambigüedades.",
+  "items": [
+    {
+      "question": 57,
+      "page": 19,
+      "topic": "Contraste de hipótesis entre tamaño y cromosomas",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "B",
+      "reason": "La tabla incluye mariposa380y cangrejo280frente elefante36; contradice que especies más grandes tengan necesariamente más cromosomas.",
+      "alert": "La tabla no incluye medidas de tamaño ni demuestra independencia estadística universal; respalda rechazar tendencia simple con ejemplos."
+    },
+    {
+      "question": 58,
+      "page": 19,
+      "topic": "Predicción a partir de ciclo lisogénico",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "D",
+      "reason": "El ADN viral integrado se copia cuando la bacteria se reproduce; más bacterias portadoras pueden originar muchos virus al activarse el ciclo lítico.",
+      "alert": "Durante fase lisogénica no se producen necesariamente viriones de inmediato; la predicción requiere inducción posterior. No confundir copia de profago con producción continua de virus."
+    },
+    {
+      "question": 59,
+      "page": 20,
+      "topic": "Papel de agente leudante",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "A",
+      "reason": "Sin bicarbonato falta la fuente de CO2del modelo y disminuye esponjosidad.",
+      "alert": "La descomposición real del bicarbonato produce también carbonato de sodio; el dibujo omite ese producto. Otras fuentes de gas no están consideradas."
+    },
+    {
+      "question": 60,
+      "page": 20,
+      "topic": "Rozamiento estático en soporte de carga",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "C",
+      "reason": "El rozamiento entre lápiz y arroz compactado permite transmitir fuerza de sostén a botella y contenido.",
+      "alert": "No disminuye peso al introducir lápiz ni se equilibra con peso del propio lápiz."
+    },
+    {
+      "question": 61,
+      "page": 20,
+      "topic": "Masa,fuerza y distancia recorrida",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "B",
+      "reason": "Con mayor masa y misma fuerza, la bola2acelera menos en condiciones comparables y puede recorrer menor distancia.",
+      "alert": "El alcance no queda determinado solo por masa y fuerza sin duración de golpe,rozamiento y trayectoria comparables; Busa supuestos implícitos."
+    },
+    {
+      "question": 62,
+      "page": 21,
+      "topic": "Oxidación por pérdida de electrones",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "D",
+      "reason": "Zn0pasa aZn2+,pierde2electrones y se oxida;Cu2+se reduce aCu0."
+    },
+    {
+      "question": 63,
+      "page": 21,
+      "topic": "Alcance de identificación con rasgos celulares",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "C",
+      "reason": "Núcleo,cloroplastos,gran vacuola y pared permiten identificar tipo celular vegetal/eucariota; no especie exacta,locomoción o mecanismo de transporte."
+    },
+    {
+      "question": 64,
+      "page": 21,
+      "topic": "Efecto de concentración de enzima en velocidad",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "A",
+      "reason": "Menor masa de hígado aporta menos enzima y suele reducir rapidez de formación de burbujas en un intervalo comparable.",
+      "alert": "Menor rapidez no implica menor cantidad final deO2si elH2O2se consume totalmente. Ase interpreta como intensidad o cantidad en igual tiempo; tiempo no explícito hace ambigua comparación conD."
+    }
+  ]
+}

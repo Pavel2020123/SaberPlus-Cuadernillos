@@ -1,0 +1,117 @@
+{
+  "file_id": "USB-73fbd3be4b98",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Físicas32-35 completas.92-94tres fichas;95-101siete referenciasAAR2. Reservas canónicas heredadas.",
+  "items": [
+    {
+      "question": 92,
+      "page": 32,
+      "printed_page": 32,
+      "answer_proposal": "C",
+      "topic": "Selección contextual de fuente energética",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "reason": "Días soleados y poco viento favorecen solar,de bajo impacto relativo en tabla;C.",
+      "alert": "Selección según modelo del texto;no demuestra impacto cero ni viabilidad económica."
+    },
+    {
+      "question": 93,
+      "page": 32,
+      "printed_page": 32,
+      "answer_proposal": "D",
+      "topic": "Título integrador de tabla",
+      "competency_proposal": "Indagación",
+      "reason": "La tabla reúne descripciones,ventajas,desventajas,costos e impactos de distintas fuentes;Dabarca todas.",
+      "alert": "Incluye nuclear,no todas son renovables ni solo costos."
+    },
+    {
+      "question": 94,
+      "page": 32,
+      "printed_page": 32,
+      "answer_proposal": "C",
+      "topic": "Conservación de masa en reacción",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "reason": "C+O2→CO2conserva átomos y masa del sistema químico;calor no implica desaparición de materia.",
+      "alert": "Modelo químico clásico de sistema cerrado;no confundir pérdida de gases del recipiente con pérdida de masa total."
+    }
+  ],
+  "duplicate_occurrences": [
+    {
+      "question": 95,
+      "page": 33,
+      "printed_page": 33,
+      "canonical_file_id": "USB-75abccb84c15",
+      "canonical_question": 67,
+      "canonical_page": 25,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de geotermia,tabla,gráficas,crecimiento vegetal,conejos,máquinaGoldberg y fuerzas eléctricas, incluidos textos y opciones;coinciden conAAR2físicas25-27.",
+      "observed_annotation": "Solo cambia numeración."
+    },
+    {
+      "question": 96,
+      "page": 33,
+      "printed_page": 33,
+      "canonical_file_id": "USB-75abccb84c15",
+      "canonical_question": 68,
+      "canonical_page": 25,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de geotermia,tabla,gráficas,crecimiento vegetal,conejos,máquinaGoldberg y fuerzas eléctricas, incluidos textos y opciones;coinciden conAAR2físicas25-27.",
+      "observed_annotation": "Solo cambia numeración."
+    },
+    {
+      "question": 97,
+      "page": 34,
+      "printed_page": 34,
+      "canonical_file_id": "USB-75abccb84c15",
+      "canonical_question": 69,
+      "canonical_page": 26,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de geotermia,tabla,gráficas,crecimiento vegetal,conejos,máquinaGoldberg y fuerzas eléctricas, incluidos textos y opciones;coinciden conAAR2físicas25-27.",
+      "observed_annotation": "Solo cambia numeración."
+    },
+    {
+      "question": 98,
+      "page": 34,
+      "printed_page": 34,
+      "canonical_file_id": "USB-75abccb84c15",
+      "canonical_question": 70,
+      "canonical_page": 26,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de geotermia,tabla,gráficas,crecimiento vegetal,conejos,máquinaGoldberg y fuerzas eléctricas, incluidos textos y opciones;coinciden conAAR2físicas25-27.",
+      "observed_annotation": "Solo cambia numeración."
+    },
+    {
+      "question": 99,
+      "page": 35,
+      "printed_page": 35,
+      "canonical_file_id": "USB-75abccb84c15",
+      "canonical_question": 71,
+      "canonical_page": 27,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de geotermia,tabla,gráficas,crecimiento vegetal,conejos,máquinaGoldberg y fuerzas eléctricas, incluidos textos y opciones;coinciden conAAR2físicas25-27.",
+      "observed_annotation": "Solo cambia numeración."
+    },
+    {
+      "question": 100,
+      "page": 35,
+      "printed_page": 35,
+      "canonical_file_id": "USB-75abccb84c15",
+      "canonical_question": 72,
+      "canonical_page": 27,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de geotermia,tabla,gráficas,crecimiento vegetal,conejos,máquinaGoldberg y fuerzas eléctricas, incluidos textos y opciones;coinciden conAAR2físicas25-27.",
+      "observed_annotation": "Solo cambia numeración."
+    },
+    {
+      "question": 101,
+      "page": 35,
+      "printed_page": 35,
+      "canonical_file_id": "USB-75abccb84c15",
+      "canonical_question": 73,
+      "canonical_page": 27,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de geotermia,tabla,gráficas,crecimiento vegetal,conejos,máquinaGoldberg y fuerzas eléctricas, incluidos textos y opciones;coinciden conAAR2físicas25-27.",
+      "observed_annotation": "Solo cambia numeración."
+    }
+  ]
+}

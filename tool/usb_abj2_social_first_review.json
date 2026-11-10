@@ -1,0 +1,169 @@
+{
+  "file_id": "USB-524d98b0a234",
+  "date": "2026-10-29",
+  "area": "Sociales y ciudadanas",
+  "scope": "Preguntas1-17,paginasfisicas1-6 inspeccionadas visualmente.Segunda sesion en encabezados;ano2026-2yversionABJ2solo en nombre,sin portada.Resaltados verdes documentados,no oficiales.Propuestas y competencias sin validacion docente.",
+  "competency_legend": {
+    "P": "Pensamiento social",
+    "I": "Interpretacion y analisis de perspectivas",
+    "S": "Pensamiento reflexivo y sistemico"
+  },
+  "items": [
+    {
+      "question": 1,
+      "page": 1,
+      "topic": "Consecuencia de omitir perspectivas culturales",
+      "competency_code": "S",
+      "answer_proposal": "C",
+      "reason": "Excluir observaciones de comunidades puede hacer que familias se sientan discriminadas culturalmente.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 2,
+      "page": 1,
+      "topic": "Libre comercio y productores campesinos",
+      "competency_code": "S",
+      "answer_proposal": "A",
+      "reason": "Apertura aumenta presencia de productos extranjeros y competencia local,no garantiza mayores exportaciones de pequenos productores.",
+      "observed_highlight": "A"
+    },
+    {
+      "question": 3,
+      "page": 1,
+      "topic": "Via institucional para norma nacional",
+      "competency_code": "P",
+      "answer_proposal": "C",
+      "reason": "Proyecto de ley ante Congreso permite debate nacional;campanas y politicas internas no crean por si solas norma nacional.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 4,
+      "page": 2,
+      "topic": "Propaganda xenofoba",
+      "competency_code": "I",
+      "answer_proposal": "A",
+      "reason": "Contraponer sangre vienesa y extranjero favorece rechazo y hostilidad contra extranjeros.",
+      "observed_highlight": "A"
+    },
+    {
+      "question": 5,
+      "page": 2,
+      "topic": "Continuidad de trata como actividad economica",
+      "competency_code": "P",
+      "answer_proposal": "D",
+      "reason": "Antes comercio de esclavos y ahora mercados de explotacion mantienen dimension de negocio;no igual reconocimiento de derechos en ambas epocas.",
+      "observed_highlight": "D"
+    },
+    {
+      "question": 6,
+      "page": 2,
+      "topic": "Conflicto y separacion de Panama",
+      "competency_code": "P",
+      "answer_proposal": "C",
+      "reason": "Departamento de Panama,control estadounidense y etapa final de guerra remiten a guerra de Mil Dias.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 7,
+      "page": 3,
+      "topic": "Perspectivas sobre rescate de migrantes",
+      "competency_code": "I",
+      "answer_proposal": "C",
+      "reason": "Puertos cerrados restringen atencion que busca rescate humanitario;no todo derecho migrante se opone necesariamente al de ciudadanos.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 8,
+      "page": 3,
+      "topic": "Derechos humanos y cierre de brechas",
+      "competency_code": "P",
+      "answer_proposal": "A",
+      "reason": "Inclusion,libertades y acceso a justicia buscan condiciones de dignidad para todas las personas.",
+      "observed_highlight": "A"
+    },
+    {
+      "question": 9,
+      "page": 4,
+      "topic": "Cosmovision de autonomia y reduccion de danos",
+      "competency_code": "I",
+      "answer_proposal": "D",
+      "reason": "La organizacion privilegia decision informada y autorregulacion,no castigo ni imposicion moral colectiva.",
+      "observed_highlight": "D"
+    },
+    {
+      "question": 10,
+      "page": 4,
+      "topic": "Identidad cultural de comunidades indigenas",
+      "competency_code": "P",
+      "answer_proposal": "A",
+      "reason": "Imponer lengua y vestido a cambio de empleo vulnera preservacion de identidad cultural.",
+      "observed_highlight": "A"
+    },
+    {
+      "question": 11,
+      "page": 4,
+      "topic": "Participacion ciudadana sobre decision local",
+      "competency_code": "P",
+      "answer_proposal": "D",
+      "reason": "Consulta popular es mecanismo entre opciones para pronunciarse sobre asunto colectivo.",
+      "observed_highlight": "D",
+      "alert": "Respuesta en contexto del ejercicio;no define alcance juridico vigente de competencia local en subsuelo."
+    },
+    {
+      "question": 12,
+      "page": 5,
+      "topic": "Autonomia de mujeres sobre cuerpo",
+      "competency_code": "I",
+      "answer_proposal": "C",
+      "reason": "El argumento general de autonomia incluye a mujeres y decisiones personales,no subordinacion al Estado,Iglesia o familia.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 13,
+      "page": 5,
+      "topic": "Fuentes para tendencia de robos",
+      "competency_code": "I",
+      "answer_proposal": "B",
+      "reason": "Base de denuncias cuantifica variacion registrada;sondeo,miedo y ficcion televisiva no miden casos igual.",
+      "observed_highlight": "B",
+      "alert": "Denuncias no capturan delitos no denunciados;fuente mas precisa entre dadas,no censo total."
+    },
+    {
+      "question": 14,
+      "page": 5,
+      "topic": "Modelo de desarrollo sostenible",
+      "competency_code": "S",
+      "answer_proposal": "C",
+      "reason": "Fragmento articula estructura ecologica con procesos economicos y sociales.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 15,
+      "page": 6,
+      "topic": "Identidad historica y reclamo territorial",
+      "competency_code": "I",
+      "answer_proposal": "B",
+      "reason": "Ambas declaraciones vinculan historia cultural del pueblo con tierra;no ambas afirman entrega divina en citas.",
+      "observed_highlight": "B"
+    },
+    {
+      "question": 16,
+      "page": 6,
+      "topic": "Separacion de poderes",
+      "competency_code": "P",
+      "answer_proposal": "C",
+      "reason": "Ejecutivo ordenando congresistas emitir leyes compromete autonomia legislativa.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 17,
+      "page": 6,
+      "topic": "Derecho de asociacion sindical",
+      "competency_code": "P",
+      "answer_proposal": "B",
+      "reason": "Organizar sindicato corresponde a libre asociacion,no culto o conciencia.",
+      "observed_highlight": "B"
+    }
+  ],
+  "next": "Continuar18desdepaginafisica7,paginaimpresa8;verificar distribucion restante."
+}

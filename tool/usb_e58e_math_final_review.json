@@ -1,0 +1,251 @@
+{
+  "file_id": "USB-e58ef5771b78",
+  "date": "2026-10-30",
+  "area": "Matemáticas",
+  "scope": "Físicas6-9(impresas10-16)inspeccionadas completas;22coincidencias29-50haciaABR2yAAO2,sin repetir análisis. Matemáticas26-50inicialmente cubierta.",
+  "items": [],
+  "duplicate_occurrences": [
+    {
+      "question": 29,
+      "page": 6,
+      "printed_page": 10,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 29,
+      "canonical_page": 10,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto,enunciado,tablas,gráficas,figuras y opciones A-D con páginas canónicas. Idénticas;solo código ypresentación distintos.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 30,
+      "page": 6,
+      "printed_page": 10,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 30,
+      "canonical_page": 10,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto,enunciado,tablas,gráficas,figuras y opciones A-D con páginas canónicas. Idénticas;solo código ypresentación distintos.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 31,
+      "page": 6,
+      "printed_page": 10,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 31,
+      "canonical_page": 10,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto,enunciado,tablas,gráficas,figuras y opciones A-D con páginas canónicas. Idénticas;solo código ypresentación distintos.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 32,
+      "page": 6,
+      "printed_page": 10,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 32,
+      "canonical_page": 10,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto,enunciado,tablas,gráficas,figuras y opciones A-D con páginas canónicas. Idénticas;solo código ypresentación distintos.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 33,
+      "page": 6,
+      "printed_page": 11,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 33,
+      "canonical_page": 11,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto,enunciado,tablas,gráficas,figuras y opciones A-D con páginas canónicas. Idénticas;solo código ypresentación distintos.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 34,
+      "page": 6,
+      "printed_page": 11,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 34,
+      "canonical_page": 11,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto,enunciado,tablas,gráficas,figuras y opciones A-D con páginas canónicas. Idénticas;solo código ypresentación distintos.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 35,
+      "page": 6,
+      "printed_page": 11,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 35,
+      "canonical_page": 11,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto,enunciado,tablas,gráficas,figuras y opciones A-D con páginas canónicas. Idénticas;solo código ypresentación distintos.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 36,
+      "page": 7,
+      "printed_page": 12,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 36,
+      "canonical_page": 12,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto,enunciado,tablas,gráficas,figuras y opciones A-D con páginas canónicas. Idénticas;solo código ypresentación distintos.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 37,
+      "page": 7,
+      "printed_page": 12,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 37,
+      "canonical_page": 12,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto,enunciado,tablas,gráficas,figuras y opciones A-D con páginas canónicas. Idénticas;solo código ypresentación distintos.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 38,
+      "page": 7,
+      "printed_page": 12,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 38,
+      "canonical_page": 12,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto,enunciado,tablas,gráficas,figuras y opciones A-D con páginas canónicas. Idénticas;solo código ypresentación distintos.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 39,
+      "page": 7,
+      "printed_page": 12,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 39,
+      "canonical_page": 12,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto,enunciado,tablas,gráficas,figuras y opciones A-D con páginas canónicas. Idénticas;solo código ypresentación distintos.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 40,
+      "page": 7,
+      "printed_page": 13,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 40,
+      "canonical_page": 13,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto,enunciado,tablas,gráficas,figuras y opciones A-D con páginas canónicas. Idénticas;solo código ypresentación distintos.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 41,
+      "page": 7,
+      "printed_page": 13,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 41,
+      "canonical_page": 13,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto,enunciado,tablas,gráficas,figuras y opciones A-D con páginas canónicas. Idénticas;solo código ypresentación distintos.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 42,
+      "page": 7,
+      "printed_page": 13,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 42,
+      "canonical_page": 13,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto,enunciado,tablas,gráficas,figuras y opciones A-D con páginas canónicas. Idénticas;solo código ypresentación distintos.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 43,
+      "page": 7,
+      "printed_page": 13,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 43,
+      "canonical_page": 13,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto,enunciado,tablas,gráficas,figuras y opciones A-D con páginas canónicas. Idénticas;solo código ypresentación distintos.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 44,
+      "page": 8,
+      "printed_page": 14,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 44,
+      "canonical_page": 14,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto,enunciado,tablas,gráficas,figuras y opciones A-D con páginas canónicas. Idénticas;solo código ypresentación distintos.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 45,
+      "page": 8,
+      "printed_page": 14,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 45,
+      "canonical_page": 14,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto,enunciado,tablas,gráficas,figuras y opciones A-D con páginas canónicas. Idénticas;solo código ypresentación distintos.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 46,
+      "page": 8,
+      "printed_page": 14,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 46,
+      "canonical_page": 14,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto,enunciado,tablas,gráficas,figuras y opciones A-D con páginas canónicas. Idénticas;solo código ypresentación distintos.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 47,
+      "page": 8,
+      "printed_page": 15,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 47,
+      "canonical_page": 10,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto,enunciado,tablas,gráficas,figuras y opciones A-D con páginas canónicas. Idénticas;solo código ypresentación distintos.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 48,
+      "page": 8,
+      "printed_page": 15,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 48,
+      "canonical_page": 10,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto,enunciado,tablas,gráficas,figuras y opciones A-D con páginas canónicas. Idénticas;solo código ypresentación distintos.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 49,
+      "page": 9,
+      "printed_page": 16,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 49,
+      "canonical_page": 10,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto,enunciado,tablas,gráficas,figuras y opciones A-D con páginas canónicas. Idénticas;solo código ypresentación distintos.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 50,
+      "page": 9,
+      "printed_page": 16,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 50,
+      "canonical_page": 10,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto,enunciado,tablas,gráficas,figuras y opciones A-D con páginas canónicas. Idénticas;solo código ypresentación distintos.",
+      "observed_annotation": "No se observa respuesta marcada."
+    }
+  ]
+}

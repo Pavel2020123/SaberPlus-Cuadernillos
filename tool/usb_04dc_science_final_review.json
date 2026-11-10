@@ -1,0 +1,71 @@
+{
+  "file_id": "USB-04dc5257ed8b",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Preguntas101-106 inspeccionadas visualmente en físicas34-36; física37 en blanco. Propuestas no oficiales.",
+  "competency_legend": {
+    "U": "Uso comprensivo del conocimiento científico",
+    "E": "Explicación de fenómenos",
+    "I": "Indagación"
+  },
+  "items": [
+    {
+      "question": 101,
+      "page": 34,
+      "topic": "Separación de mezcla de arena y sal disuelta",
+      "competency_code": "U",
+      "answer_proposal": "C",
+      "reason": "La filtración retiene arena insoluble y la evaporación permite recuperar sal de la disolución acuosa.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 102,
+      "page": 34,
+      "topic": "Comparación de promedios trimestrales en gráfica",
+      "competency_code": "U",
+      "answer_proposal": "C",
+      "reason": "Las precipitaciones de octubre,noviembre y diciembre suman aproximadamente220mm, superiores a julio-septiembre, aproximadamente170mm, y a los demás trimestres.",
+      "observed_highlight": "C",
+      "alert": "El mayor mes aislado no basta; se comparan tres meses por trimestre. La gráfica combina precipitación y días de lluvia en ejes diferentes."
+    },
+    {
+      "question": 103,
+      "page": 35,
+      "topic": "Identificación de variables en gráfica experimental",
+      "competency_code": "I",
+      "answer_proposal": "C",
+      "reason": "Se varía tiempo de exposición a la llama y se mide altura de la pesa, que disminuye; tiempo va en eje horizontal y altura en vertical.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 104,
+      "page": 35,
+      "topic": "Transformación de energías en movimiento vertical",
+      "competency_code": "U",
+      "answer_proposal": "A",
+      "reason": "Mientras sube un objeto en caída libre sin resistencia, disminuye energía cinética, aumenta potencial y se conserva mecánica.",
+      "observed_highlight": "A",
+      "alert": "Conservación supone ausencia de fuerzas disipativas; caída libre incluye tramo ascendente tras el lanzamiento."
+    },
+    {
+      "question": 105,
+      "page": 36,
+      "topic": "Conclusión sustentada por comparación de tratamientos",
+      "competency_code": "I",
+      "answer_proposal": "D",
+      "reason": "Entre los tratamientos observados,16h da110cm y verde oscuro,10h da65cm y verde claro,21h da135cm pero amarillo.16h combina altura y color buscados.",
+      "observed_highlight": "D",
+      "alert": "No demuestra óptimo universal ni cantidad necesaria de nitrógeno/calcio: todos recibieron agua y nutrientes adecuados y solo se compararon tres exposiciones."
+    },
+    {
+      "question": 106,
+      "page": 36,
+      "topic": "Coevolución y adaptación de polinizadores",
+      "competency_code": "E",
+      "answer_proposal": "A",
+      "reason": "La diversificación de plantas favorece adaptación evolutiva de poblaciones de insectos a nuevas variedades florales.",
+      "observed_highlight": "A",
+      "alert": "No interpretar como modificación voluntaria de cada insecto al alimentarse ni herencia de cambios adquiridos."
+    }
+  ]
+}

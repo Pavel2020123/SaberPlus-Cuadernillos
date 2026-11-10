@@ -1,0 +1,342 @@
+{
+  "file_id": "USB-2722e7c48dfd",
+  "date": "2026-10-30",
+  "area": "Matematicas",
+  "scope": "Preguntas23-44 en físicas9-16 inspeccionadas visualmente. Todas propuestas iniciales no oficiales. Nueve pares cotejados con USB-04dc5257ed8b sin eliminar escaneos distintos.",
+  "competency_legend": {
+    "IR": "Interpretación y representación",
+    "FE": "Formulación y ejecución",
+    "AR": "Argumentación"
+  },
+  "items": [
+    {
+      "question": 23,
+      "page": 9,
+      "topic": "Conversión de proporción a porcentaje",
+      "competency_code": "AR",
+      "answer_proposal": "B",
+      "reason": "30/50=0,6 corresponde a60%, no0,6%; falta multiplicar por100.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo naranja en zona de opciones",
+        "provenance": "Marca en escaneo de autoría no comprobada; no oficial."
+      }
+    },
+    {
+      "question": 24,
+      "page": 9,
+      "topic": "Ejecución de procedimiento numérico",
+      "competency_code": "FE",
+      "answer_proposal": "D",
+      "reason": "0,21×10+6=8,1, entre8y9 en las unidades del enunciado.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "círculo naranja en zona de opciones",
+        "provenance": "Marca en escaneo de autoría no comprobada; no oficial."
+      },
+      "alert": "Caso numérico hipotético, no modelo farmacológico ni recomendación médica."
+    },
+    {
+      "question": 25,
+      "page": 9,
+      "topic": "Información determinable de encuesta porcentual",
+      "competency_code": "IR",
+      "answer_proposal": "C",
+      "reason": "Negro tiene50%, la mayor preferencia. No se informa tamaño de muestra:1000es población y se eligió solo parte.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo naranja en zona de opciones",
+        "provenance": "Marca en escaneo de autoría no comprobada; no oficial."
+      }
+    },
+    {
+      "question": 26,
+      "page": 10,
+      "topic": "Traducción de tabla a barras agrupadas",
+      "competency_code": "IR",
+      "answer_proposal": "B",
+      "reason": "B conserva ingresos mayores que gastos y los valores mensuales aproximados12780/5400,15200/4903,10500/7250,13700/3500,10000/4103,11650/6230.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo naranja en zona de opciones",
+        "provenance": "Marca en escaneo de autoría no comprobada; no oficial."
+      },
+      "alert": "Numeral26 parcialmente recortado en esquina; continuidad25/27y posición lo identifican."
+    },
+    {
+      "question": 27,
+      "page": 10,
+      "topic": "Moda y grupo de máxima frecuencia",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "Dos idiomas aparecen cuatro veces,T,U,V,W; un idioma aparece tres,Q,R,S.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo naranja en zona de opciones",
+        "provenance": "Marca en escaneo de autoría no comprobada; no oficial."
+      }
+    },
+    {
+      "question": 28,
+      "page": 10,
+      "topic": "Suficiencia de datos para resolver triángulo",
+      "competency_code": "AR",
+      "answer_proposal": "B",
+      "reason": "Se conocen dos ángulos45°y55°y ladoPQ=5m; el tercero es80° y ley de senos permiteQR.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo naranja en zona de opciones",
+        "provenance": "Marca en escaneo de autoría no comprobada; no oficial."
+      },
+      "alert": "El dibujo puede sugerir verticalidad, pero los ángulos45+55implicanQ=80,no90; B usa ley de senos sin imponer ángulo recto."
+    },
+    {
+      "question": 29,
+      "page": 11,
+      "topic": "Representación de inventarios en barras",
+      "competency_code": "IR",
+      "answer_proposal": "A",
+      "reason": "A representa almacén1con10,5,7,12y almacén2con14,18,11,9 sin sumar indebidamente las existencias.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "círculo naranja en zona de opciones",
+        "provenance": "Marca en escaneo de autoría no comprobada; no oficial."
+      }
+    },
+    {
+      "question": 30,
+      "page": 11,
+      "topic": "Proyección horizontal con coseno",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "L=4cos30°=4√3/2=2√3metros.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo naranja en zona de opciones",
+        "provenance": "Marca en escaneo de autoría no comprobada; no oficial."
+      }
+    },
+    {
+      "question": 31,
+      "page": 12,
+      "topic": "Algoritmo de promedio ponderado",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "Al descartar una mínima por rutina quedan promedios7,9y5; (2×7+9+5)/4=7.",
+      "observed_annotation": {
+        "value": "B/C ambiguo",
+        "type": "círculo naranja en zona de opciones",
+        "provenance": "Marca en escaneo de autoría no comprobada; no oficial."
+      },
+      "alert": "Marca naranja ocupa zonaB/C, no asignar una letra inequívoca por el trazo. La claveCprocede del cálculo."
+    },
+    {
+      "question": 32,
+      "page": 12,
+      "topic": "Igualdad de radios de circunferencia",
+      "competency_code": "AR",
+      "answer_proposal": "B",
+      "reason": "OPyOQunen el centroOcon puntos de la circunferencia y tienen igual longitud; no son diámetros.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo naranja en zona de opciones",
+        "provenance": "Marca en escaneo de autoría no comprobada; no oficial."
+      }
+    },
+    {
+      "question": 33,
+      "page": 12,
+      "topic": "Permutaciones de cuatro objetos distintos",
+      "competency_code": "FE",
+      "answer_proposal": "B",
+      "reason": "Los cuatro discos de distinto tamaño admiten4!=24órdenes si no se impone restricción adicional.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo naranja en zona de opciones",
+        "provenance": "Marca en escaneo de autoría no comprobada; no oficial."
+      },
+      "alert": "Supone discos distinguibles insertables en cualquier orden; no se exige que queden ordenados por tamaño."
+    },
+    {
+      "question": 34,
+      "page": 13,
+      "topic": "Masa total de paquetes",
+      "competency_code": "FE",
+      "answer_proposal": "D",
+      "reason": "Arroz3×2=6kg; fríjol2×1=2kg; lenteja2×0,5=1kg.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "círculo naranja en zona de opciones",
+        "provenance": "Marca en escaneo de autoría no comprobada; no oficial."
+      },
+      "related_file_id": "USB-04dc5257ed8b",
+      "related_question": 12,
+      "related_page": 5,
+      "variant_comparison": "Contexto, datos, enunciado y opciones cotejados visualmente; cambia numeración, escaneo y marca. Ambos documentos se conservan."
+    },
+    {
+      "question": 35,
+      "page": 13,
+      "topic": "Saldo tras compra",
+      "competency_code": "FE",
+      "answer_proposal": "D",
+      "reason": "6000-1000-4×900=1400.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "círculo naranja en zona de opciones",
+        "provenance": "Marca en escaneo de autoría no comprobada; no oficial."
+      },
+      "related_file_id": "USB-04dc5257ed8b",
+      "related_question": 13,
+      "related_page": 5,
+      "variant_comparison": "Contexto, datos, enunciado y opciones cotejados visualmente; cambia numeración, escaneo y marca. Ambos documentos se conservan."
+    },
+    {
+      "question": 36,
+      "page": 13,
+      "topic": "Validación de frecuencias",
+      "competency_code": "AR",
+      "answer_proposal": "D",
+      "reason": "Los valores2000,3000y4000aparecen2,1y3veces, no1,2y3; las primeras frecuencias están intercambiadas.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "círculo naranja en zona de opciones",
+        "provenance": "Marca en escaneo de autoría no comprobada; no oficial."
+      },
+      "related_file_id": "USB-04dc5257ed8b",
+      "related_question": 14,
+      "related_page": 5,
+      "variant_comparison": "Contexto, datos, enunciado y opciones cotejados visualmente; cambia numeración, escaneo y marca. Ambos documentos se conservan."
+    },
+    {
+      "question": 37,
+      "page": 13,
+      "topic": "Diámetro y segmento complementario",
+      "competency_code": "FE",
+      "answer_proposal": "B",
+      "reason": "El diámetro mide10cm y el lado del cuadrado ocupa4cm; s=6cm.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo naranja en zona de opciones",
+        "provenance": "Marca en escaneo de autoría no comprobada; no oficial."
+      },
+      "related_file_id": "USB-04dc5257ed8b",
+      "related_question": 15,
+      "related_page": 5,
+      "variant_comparison": "Contexto, datos, enunciado y opciones cotejados visualmente; cambia numeración, escaneo y marca. Ambos documentos se conservan."
+    },
+    {
+      "question": 38,
+      "page": 14,
+      "topic": "Información perdida al agregar datos",
+      "competency_code": "IR",
+      "answer_proposal": "B",
+      "reason": "El gráfico solo conserva distribución global de satisfacción; la tabla permite recuperar35%,30%,35%por estrato.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo naranja en zona de opciones",
+        "provenance": "Marca en escaneo de autoría no comprobada; no oficial."
+      },
+      "alert": "Numeral38 parcialmente recortado; continuidad37/39permite identificarlo."
+    },
+    {
+      "question": 39,
+      "page": 14,
+      "topic": "Porcentaje de masa de aleación",
+      "competency_code": "FE",
+      "answer_proposal": "D",
+      "reason": "60anillos×5g=300g;10%de300=30gde níquel.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "círculo naranja en zona de opciones",
+        "provenance": "Marca en escaneo de autoría no comprobada; no oficial."
+      }
+    },
+    {
+      "question": 40,
+      "page": 15,
+      "topic": "Porcentaje de población y altura de barra",
+      "competency_code": "IR",
+      "answer_proposal": "C",
+      "reason": "60%de50=30estudiantes, representados enC.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo naranja en zona de opciones",
+        "provenance": "Marca en escaneo de autoría no comprobada; no oficial."
+      },
+      "related_file_id": "USB-04dc5257ed8b",
+      "related_question": 18,
+      "related_page": 6,
+      "variant_comparison": "Contexto, datos, enunciado y opciones cotejados visualmente; cambia numeración, escaneo y marca. Ambos documentos se conservan."
+    },
+    {
+      "question": 41,
+      "page": 15,
+      "topic": "Número de lados a partir de perímetro",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "30/5=6lados, por lo que el dibujo pretendido es el hexágonoC.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo naranja en zona de opciones",
+        "provenance": "Marca en escaneo de autoría no comprobada; no oficial."
+      },
+      "alert": "En un hexágono regular de lado5la apotema sería5√3/2≈4,33,no4exactos; datos del ítem geométricamente imprecisos. Cpor número de lados pretendido.",
+      "related_file_id": "USB-04dc5257ed8b",
+      "related_question": 19,
+      "related_page": 6,
+      "variant_comparison": "Contexto, datos, enunciado y opciones cotejados visualmente; cambia numeración, escaneo y marca. Ambos documentos se conservan."
+    },
+    {
+      "question": 42,
+      "page": 16,
+      "topic": "Contraejemplo a unicidad de ordenación",
+      "competency_code": "AR",
+      "answer_proposal": "C",
+      "reason": "Intercambiar aseo y golosinas en extremos deja congelados al centro y respeta separación; hay otra disposición.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo naranja en zona de opciones",
+        "provenance": "Marca en escaneo de autoría no comprobada; no oficial."
+      },
+      "related_file_id": "USB-04dc5257ed8b",
+      "related_question": 20,
+      "related_page": 7,
+      "variant_comparison": "Contexto, datos, enunciado y opciones cotejados visualmente; cambia numeración, escaneo y marca. Ambos documentos se conservan."
+    },
+    {
+      "question": 43,
+      "page": 16,
+      "topic": "Algoritmo no convencional de calculadora",
+      "competency_code": "FE",
+      "answer_proposal": "A",
+      "reason": "(-1+5)²+1=17.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "círculo naranja en zona de opciones",
+        "provenance": "Marca en escaneo de autoría no comprobada; no oficial."
+      },
+      "related_file_id": "USB-04dc5257ed8b",
+      "related_question": 21,
+      "related_page": 7,
+      "variant_comparison": "Contexto, datos, enunciado y opciones cotejados visualmente; cambia numeración, escaneo y marca. Ambos documentos se conservan."
+    },
+    {
+      "question": 44,
+      "page": 16,
+      "topic": "Datos necesarios para comparar áreas",
+      "competency_code": "AR",
+      "answer_proposal": "C",
+      "reason": "Para rectángulo se calcula lado faltante a partir del lado2y diagonal3; para triángulo se calcula altura a partir de base3e hipotenusa5.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo naranja en zona de opciones",
+        "provenance": "Marca en escaneo de autoría no comprobada; no oficial."
+      },
+      "related_file_id": "USB-04dc5257ed8b",
+      "related_question": 22,
+      "related_page": 7,
+      "variant_comparison": "Contexto, datos, enunciado y opciones cotejados visualmente; cambia numeración, escaneo y marca. Ambos documentos se conservan."
+    }
+  ]
+}

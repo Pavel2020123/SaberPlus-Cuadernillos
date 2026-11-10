@@ -1,0 +1,381 @@
+{
+  "file_id": "USB-75abccb84c15",
+  "date": "2026-10-30",
+  "area": "Inglés",
+  "scope": "Físicas34-37 inspeccionadas completas, últimas dos laterales.22 referencias exactas y10 fichas Earth Day.135-147 ausentes respecto portada147. No clave oficial.",
+  "contexts": [
+    {
+      "id": "earth",
+      "page": 36,
+      "title": "Earth Day",
+      "description": "Diez espacios115-124 con opciones A-D; consejos ambientales,reciclaje,árboles,duchas,voluntariado.",
+      "alert": "116y120 presentan problemas idiomáticos; propuestas condicionales, revisión antes de reutilizar."
+    }
+  ],
+  "items": [
+    {
+      "question": 115,
+      "page": 36,
+      "printed_page": 36,
+      "context": "earth",
+      "topic": "Selección léxica y cohesión textual",
+      "competency_proposal": "Competencia comunicativa: conocimiento léxico y textual",
+      "answer_proposal": "D",
+      "selected_option": "protect",
+      "reason": "Protect the planet expresa proteger el planeta.",
+      "alert": "Sin nivelMCERni dificultad certificados."
+    },
+    {
+      "question": 116,
+      "page": 36,
+      "printed_page": 36,
+      "context": "earth",
+      "topic": "Selección léxica y cohesión textual",
+      "competency_proposal": "Competencia comunicativa: conocimiento léxico y textual",
+      "answer_proposal": "A",
+      "selected_option": "worth",
+      "reason": "Make it a worth place es la intención aparente, pero construcción incorrecta: debería decir a worthwhile/better place. Ninguna opción es plenamente idiomática.",
+      "alert": "Construcción defectuosa;no tratar como ítem validado."
+    },
+    {
+      "question": 117,
+      "page": 36,
+      "printed_page": 36,
+      "context": "earth",
+      "topic": "Selección léxica y cohesión textual",
+      "competency_proposal": "Competencia comunicativa: conocimiento léxico y textual",
+      "answer_proposal": "B",
+      "selected_option": "involved",
+      "reason": "Get involved as well significa participar también.",
+      "alert": "Sin nivelMCERni dificultad certificados."
+    },
+    {
+      "question": 118,
+      "page": 36,
+      "printed_page": 36,
+      "context": "earth",
+      "topic": "Selección léxica y cohesión textual",
+      "competency_proposal": "Competencia comunicativa: conocimiento léxico y textual",
+      "answer_proposal": "C",
+      "selected_option": "whether",
+      "reason": "Whether litter can be recycled or reused introduce interrogativa indirecta.",
+      "alert": "Sin nivelMCERni dificultad certificados."
+    },
+    {
+      "question": 119,
+      "page": 36,
+      "printed_page": 36,
+      "context": "earth",
+      "topic": "Selección léxica y cohesión textual",
+      "competency_proposal": "Competencia comunicativa: conocimiento léxico y textual",
+      "answer_proposal": "D",
+      "selected_option": "thrown",
+      "reason": "Being thrown away requiere participio en pasiva.",
+      "alert": "Sin nivelMCERni dificultad certificados."
+    },
+    {
+      "question": 120,
+      "page": 36,
+      "printed_page": 36,
+      "context": "earth",
+      "topic": "Selección léxica y cohesión textual",
+      "competency_proposal": "Competencia comunicativa: conocimiento léxico y textual",
+      "answer_proposal": "A",
+      "selected_option": "amount",
+      "reason": "Limit amount es intención aparente, pero falta the y complemento; buying fewer things aclara reducir cantidad. Revisión necesaria.",
+      "alert": "Construcción defectuosa;no tratar como ítem validado."
+    },
+    {
+      "question": 121,
+      "page": 36,
+      "printed_page": 36,
+      "context": "earth",
+      "topic": "Selección léxica y cohesión textual",
+      "competency_proposal": "Competencia comunicativa: conocimiento léxico y textual",
+      "answer_proposal": "A",
+      "selected_option": "reduce",
+      "reason": "La sombra puede reducir uso de aire acondicionado.",
+      "alert": "Sin nivelMCERni dificultad certificados."
+    },
+    {
+      "question": 122,
+      "page": 36,
+      "printed_page": 36,
+      "context": "earth",
+      "topic": "Selección léxica y cohesión textual",
+      "competency_proposal": "Competencia comunicativa: conocimiento léxico y textual",
+      "answer_proposal": "C",
+      "selected_option": "Challenge",
+      "reason": "Challenge yourself to take shorter showers es colocación adecuada.",
+      "alert": "Sin nivelMCERni dificultad certificados."
+    },
+    {
+      "question": 123,
+      "page": 36,
+      "printed_page": 36,
+      "context": "earth",
+      "topic": "Selección léxica y cohesión textual",
+      "competency_proposal": "Competencia comunicativa: conocimiento léxico y textual",
+      "answer_proposal": "D",
+      "selected_option": "nearby",
+      "reason": "A park nearby indica parque cercano.",
+      "alert": "Sin nivelMCERni dificultad certificados."
+    },
+    {
+      "question": 124,
+      "page": 36,
+      "printed_page": 36,
+      "context": "earth",
+      "topic": "Selección léxica y cohesión textual",
+      "competency_proposal": "Competencia comunicativa: conocimiento léxico y textual",
+      "answer_proposal": "B",
+      "selected_option": "Hopefully",
+      "reason": "Hopefully you'll make new friends introduce resultado deseado.",
+      "alert": "Sin nivelMCERni dificultad certificados."
+    }
+  ],
+  "duplicate_occurrences": [
+    {
+      "question": 103,
+      "page": 34,
+      "printed_page": 34,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 113,
+      "canonical_page": 36,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de lectura Istanbul, siete preguntas y opciones. Solo cambia numeración. Canónicas113 y118 corregidas por lectura visual de opciones.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 104,
+      "page": 34,
+      "printed_page": 34,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 114,
+      "canonical_page": 36,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de lectura Istanbul, siete preguntas y opciones. Solo cambia numeración. Canónicas113 y118 corregidas por lectura visual de opciones.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 105,
+      "page": 34,
+      "printed_page": 34,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 115,
+      "canonical_page": 36,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de lectura Istanbul, siete preguntas y opciones. Solo cambia numeración. Canónicas113 y118 corregidas por lectura visual de opciones.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 106,
+      "page": 34,
+      "printed_page": 34,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 116,
+      "canonical_page": 36,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de lectura Istanbul, siete preguntas y opciones. Solo cambia numeración. Canónicas113 y118 corregidas por lectura visual de opciones.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 107,
+      "page": 34,
+      "printed_page": 34,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 117,
+      "canonical_page": 36,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de lectura Istanbul, siete preguntas y opciones. Solo cambia numeración. Canónicas113 y118 corregidas por lectura visual de opciones.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 108,
+      "page": 34,
+      "printed_page": 34,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 118,
+      "canonical_page": 36,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de lectura Istanbul, siete preguntas y opciones. Solo cambia numeración. Canónicas113 y118 corregidas por lectura visual de opciones.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 109,
+      "page": 34,
+      "printed_page": 34,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 119,
+      "canonical_page": 36,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de lectura Istanbul, siete preguntas y opciones. Solo cambia numeración. Canónicas113 y118 corregidas por lectura visual de opciones.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 110,
+      "page": 35,
+      "printed_page": 35,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 120,
+      "canonical_page": 37,
+      "exact_content": true,
+      "verification": "Texto Gymnastics y cinco preguntas, incluidas opciones gráficas finales, cotejados completos. Canónicas120-122 corregidas.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 111,
+      "page": 35,
+      "printed_page": 35,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 121,
+      "canonical_page": 37,
+      "exact_content": true,
+      "verification": "Texto Gymnastics y cinco preguntas, incluidas opciones gráficas finales, cotejados completos. Canónicas120-122 corregidas.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 112,
+      "page": 35,
+      "printed_page": 35,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 122,
+      "canonical_page": 37,
+      "exact_content": true,
+      "verification": "Texto Gymnastics y cinco preguntas, incluidas opciones gráficas finales, cotejados completos. Canónicas120-122 corregidas.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 113,
+      "page": 35,
+      "printed_page": 35,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 123,
+      "canonical_page": 37,
+      "exact_content": true,
+      "verification": "Texto Gymnastics y cinco preguntas, incluidas opciones gráficas finales, cotejados completos. Canónicas120-122 corregidas.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 114,
+      "page": 35,
+      "printed_page": 35,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 124,
+      "canonical_page": 37,
+      "exact_content": true,
+      "verification": "Texto Gymnastics y cinco preguntas, incluidas opciones gráficas finales, cotejados completos. Canónicas120-122 corregidas.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 125,
+      "page": 37,
+      "printed_page": 37,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 125,
+      "canonical_page": 38,
+      "exact_content": true,
+      "verification": "Lectura Biographies, todos los espacios y cuatro opciones por espacio cotejados visualmente; imagen AAR2 lateral leída completa.",
+      "observed_annotation": "Ejemplo alive excluido."
+    },
+    {
+      "question": 126,
+      "page": 37,
+      "printed_page": 37,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 126,
+      "canonical_page": 38,
+      "exact_content": true,
+      "verification": "Lectura Biographies, todos los espacios y cuatro opciones por espacio cotejados visualmente; imagen AAR2 lateral leída completa.",
+      "observed_annotation": "Ejemplo alive excluido."
+    },
+    {
+      "question": 127,
+      "page": 37,
+      "printed_page": 37,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 127,
+      "canonical_page": 38,
+      "exact_content": true,
+      "verification": "Lectura Biographies, todos los espacios y cuatro opciones por espacio cotejados visualmente; imagen AAR2 lateral leída completa.",
+      "observed_annotation": "Ejemplo alive excluido."
+    },
+    {
+      "question": 128,
+      "page": 37,
+      "printed_page": 37,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 128,
+      "canonical_page": 38,
+      "exact_content": true,
+      "verification": "Lectura Biographies, todos los espacios y cuatro opciones por espacio cotejados visualmente; imagen AAR2 lateral leída completa.",
+      "observed_annotation": "Ejemplo alive excluido."
+    },
+    {
+      "question": 129,
+      "page": 37,
+      "printed_page": 37,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 129,
+      "canonical_page": 38,
+      "exact_content": true,
+      "verification": "Lectura Biographies, todos los espacios y cuatro opciones por espacio cotejados visualmente; imagen AAR2 lateral leída completa.",
+      "observed_annotation": "Ejemplo alive excluido."
+    },
+    {
+      "question": 130,
+      "page": 37,
+      "printed_page": 37,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 130,
+      "canonical_page": 38,
+      "exact_content": true,
+      "verification": "Lectura Biographies, todos los espacios y cuatro opciones por espacio cotejados visualmente; imagen AAR2 lateral leída completa.",
+      "observed_annotation": "Ejemplo alive excluido."
+    },
+    {
+      "question": 131,
+      "page": 37,
+      "printed_page": 37,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 131,
+      "canonical_page": 38,
+      "exact_content": true,
+      "verification": "Lectura Biographies, todos los espacios y cuatro opciones por espacio cotejados visualmente; imagen AAR2 lateral leída completa.",
+      "observed_annotation": "Ejemplo alive excluido."
+    },
+    {
+      "question": 132,
+      "page": 37,
+      "printed_page": 37,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 132,
+      "canonical_page": 38,
+      "exact_content": true,
+      "verification": "Lectura Biographies, todos los espacios y cuatro opciones por espacio cotejados visualmente; imagen AAR2 lateral leída completa.",
+      "observed_annotation": "Ejemplo alive excluido."
+    },
+    {
+      "question": 133,
+      "page": 37,
+      "printed_page": 37,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 133,
+      "canonical_page": 38,
+      "exact_content": true,
+      "verification": "Lectura Biographies, todos los espacios y cuatro opciones por espacio cotejados visualmente; imagen AAR2 lateral leída completa.",
+      "observed_annotation": "Ejemplo alive excluido."
+    },
+    {
+      "question": 134,
+      "page": 37,
+      "printed_page": 37,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 134,
+      "canonical_page": 38,
+      "exact_content": true,
+      "verification": "Lectura Biographies, todos los espacios y cuatro opciones por espacio cotejados visualmente; imagen AAR2 lateral leída completa.",
+      "observed_annotation": "Ejemplo alive excluido."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "file_id": "USB-234fa4e3ddce",
+  "date": "2026-10-29",
+  "scope": "Todas las35paginas inspeccionadas visualmente.Primera lectura de todos los110enunciados presentes,no validacion docente.",
+  "items": [],
+  "metadata": {
+    "declared_period": "2026-1",
+    "declared_session": 1,
+    "declared_version": "ADB3",
+    "declared_total": 110,
+    "pages": 35,
+    "academic": 86,
+    "excluded_self_report": 24,
+    "ranges": [
+      [
+        "Matematicas",
+        1,
+        18,
+        2,
+        7
+      ],
+      [
+        "Lectura critica",
+        19,
+        46,
+        8,
+        16
+      ],
+      [
+        "Sociales",
+        47,
+        64,
+        17,
+        23
+      ],
+      [
+        "Ciencias",
+        65,
+        86,
+        24,
+        33
+      ],
+      [
+        "Socioeconomico",
+        87,
+        110,
+        34,
+        35
+      ]
+    ],
+    "notes": [
+      "Portada es primera sesion,no inferir tercera por sufijo3.",
+      "Pagina25invertida180grados;imagen auxiliar orientada,PDFintacto.",
+      "No bloque de Ingles ni clima escolar en este documento.",
+      "Ano declarado,no autenticidad ni calendario verificados.",
+      "Comparacion exhaustiva de variantes aun pendiente;no eliminar por contenido similar."
+    ]
+  }
+}

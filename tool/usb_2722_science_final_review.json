@@ -1,0 +1,38 @@
+{
+  "file_id": "USB-2722e7c48dfd",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Preguntas69-70, física25, inspección visual y cotejo con105-106deUSB-04dc5257ed8b. Propuestas no oficiales.",
+  "competency_legend": {
+    "I": "Indagación",
+    "E": "Explicación de fenómenos"
+  },
+  "items": [
+    {
+      "question": 69,
+      "page": 25,
+      "topic": "Conclusión sustentada por tratamientos de iluminación",
+      "competency_code": "I",
+      "answer_proposal": "D",
+      "reason": "16horas combina110cmde altura y hojas verde oscuro;21hda más altura pero hojas amarillas. Solo se comparan los tres tratamientos.",
+      "alert": "No demuestra óptimo universal ni dosis de nutrientes: agua y nutrientes se mantuvieron adecuados en todos los tratamientos.",
+      "observed_highlight": "D",
+      "related_file_id": "USB-04dc5257ed8b",
+      "related_question": 105,
+      "related_page": 36
+    },
+    {
+      "question": 70,
+      "page": 25,
+      "topic": "Coevolución de polinizadores y flores",
+      "competency_code": "E",
+      "answer_proposal": "A",
+      "reason": "La diversificación floral favorece adaptación evolutiva de poblaciones de insectos a nuevas variedades.",
+      "alert": "No interpretar como transformación voluntaria de estructuras individuales durante alimentación.",
+      "observed_highlight": "A",
+      "related_file_id": "USB-04dc5257ed8b",
+      "related_question": 106,
+      "related_page": 36
+    }
+  ]
+}

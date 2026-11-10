@@ -1,0 +1,97 @@
+{
+  "file_id": "USB-8e6cf8399239",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Preguntas111-120 y figuras en físicas38-40 inspeccionadas visualmente. Ciencias92-120 cubierta inicialmente.",
+  "items": [
+    {
+      "question": 111,
+      "page": 38,
+      "topic": "Disipación de energía en oscilaciones",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "B",
+      "reason": "Oscilaciones amortiguadas describen pérdida gradual de energía y reducción de amplitud.",
+      "alert": "Modelo simplificado; la eficacia real de un aislador no se prueba por el dibujo."
+    },
+    {
+      "question": 112,
+      "page": 38,
+      "topic": "Identificación de compuesto por reacción",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "A",
+      "reason": "Fe2O3 resulta de unión química de hierro y oxígeno: compuesto, no mezcla ni elemento.",
+      "alert": "La herrumbre real puede incluir óxidos hidratados; se responde al modelo Fe2O3 explícito."
+    },
+    {
+      "question": 113,
+      "page": 38,
+      "topic": "Distinción entre conclusión y evidencia",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "C",
+      "reason": "La frase sintetiza la tendencia descendente de temperatura de ebullición con altitud en la tabla: es conclusión, no dato individual.",
+      "alert": "Describe asociación de datos de ciudades; no presenta por sí sola explicación causal."
+    },
+    {
+      "question": 114,
+      "page": 39,
+      "topic": "Modelo de fotosíntesis",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "C",
+      "reason": "C muestra agua,CO2y luz como entradas y compuestos orgánicos yO2como salidas.",
+      "alert": "El enunciado generaliza autótrofos; la descripción corresponde a fotosíntesis oxigénica, no a todos los autótrofos."
+    },
+    {
+      "question": 115,
+      "page": 39,
+      "topic": "Potencia conjunta y límite eléctrico",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "A",
+      "reason": "Microondas1000W más aire3000W suman4000W, superior a3500W. Las otras parejas no exceden el límite.",
+      "alert": "Se suman potencias nominales en funcionamiento simultáneo bajo el modelo dado."
+    },
+    {
+      "question": 116,
+      "page": 39,
+      "topic": "Par de fuerzas magnéticas de acción y reacción",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "C",
+      "reason": "El alfiler es atraído hacia el imán abajo a la izquierda; la fuerza sobre el imán apunta hacia el alfiler arriba a la derecha, opciónC.",
+      "alert": "Las dos fuerzas actúan en objetos distintos; no se confunden con tensión o peso."
+    },
+    {
+      "question": 117,
+      "page": 40,
+      "topic": "Límites de generalización a partir de muestreo",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "D",
+      "reason": "Resultados diferentes entre municipios hacen relevante identificar procedencia; no permiten afirmar contaminación de todo el cacao nacional.",
+      "alert": "La procedencia orienta riesgo en municipios estudiados, no garantiza contenido de un lote sin medición."
+    },
+    {
+      "question": 118,
+      "page": 40,
+      "topic": "Carga iónica a partir de protones y electrones",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "D",
+      "reason": "Número atómico78 implica78protones y76electrones: exceso de2cargas positivas, ion positivo."
+    },
+    {
+      "question": 119,
+      "page": 40,
+      "topic": "Predicción de efecto de hormona del crecimiento",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "C",
+      "reason": "Según el papel deGHsobre cartílago en infancia/adolescencia, mayor producción puede generar crecimiento excesivo de brazos y piernas.",
+      "alert": "Propuesta condicionada a etapa de crecimiento; en adultos no implica aumento general de estatura. No es diagnóstico médico."
+    },
+    {
+      "question": 120,
+      "page": 40,
+      "topic": "Diseño para observar transpiración vegetal",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "C",
+      "reason": "C cubre partes aéreas verdes con plástico transparente y mantiene luz y agua, permitiendo observar gotas asociadas al vapor de la planta.",
+      "alert": "Requiere control para descartar condensación ambiental y evaporación del sustrato. Transpiración no es sinónimo de fotosíntesis ni exige que solo ocurra durante ella."
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "file_id": "USB-d4e43db6988a",
+  "date": "2026-10-30",
+  "area": "Sociales y ciudadanas",
+  "scope": "Preguntas84-91,físicas29-31 inspeccionadas visualmente.Sociales67-91completa inicialmente.Marcasrojas observadas separadas;86sin clave y90discrepante.Propuestas no oficiales.",
+  "competency_legend": {
+    "PS": "Pensamiento social",
+    "IP": "Interpretación y análisis de perspectivas",
+    "RS": "Pensamiento reflexivo y sistémico"
+  },
+  "items": [
+    {
+      "question": 84,
+      "page": 29,
+      "topic": "Restricción presupuestal de obra pública",
+      "competency_code": "RS",
+      "answer_proposal": "B",
+      "reason": "El diseño requiere más dinero del disponible;los aspectos sociales,ambientales y trazado sí están previstos.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "resaltado rojo sobre letra o texto de opción",
+        "provenance": "Marca del escaneo,autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 85,
+      "page": 29,
+      "topic": "Cambio de función militar según contexto de paz",
+      "competency_code": "PS",
+      "answer_proposal": "D",
+      "reason": "Custodiar tránsito a vida civil responde a nuevo contexto sociopolítico, no a subordinación del Ejército al grupo armado.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "resaltado rojo sobre letra o texto de opción",
+        "provenance": "Marca del escaneo,autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 86,
+      "page": 29,
+      "topic": "Evaluación de confiabilidad de afirmaciones políticas",
+      "competency_code": "IP",
+      "answer_proposal": null,
+      "reason": "Las frases no aportan evidencia para negar cambio climático y confunden clima con frío local;ninguna opción formula esa razón con precisión.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "resaltado rojo sobre letra o texto de opción",
+        "provenance": "Marca del escaneo,autoría y carácter oficial no comprobados."
+      },
+      "alert": "Bsupone intereses económicos del presidente,no demostrados para las frases concretas;Cdescarta conocimiento por profesión yA/Dpor autoridad/popularidad.Sin clave suficientemente sustentada;marcaBconservada."
+    },
+    {
+      "question": 87,
+      "page": 30,
+      "topic": "Aplicación de teoría de dependencia",
+      "competency_code": "PS",
+      "answer_proposal": "B",
+      "reason": "Comprar materias primas baratas en país pobre,procesarlas y revender productos con valor añadido reproduce intercambio desigual descrito.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "resaltado rojo sobre letra o texto de opción",
+        "provenance": "Marca del escaneo,autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 88,
+      "page": 30,
+      "topic": "Equilibrio de dimensiones del desarrollo sostenible",
+      "competency_code": "PS",
+      "answer_proposal": "C",
+      "reason": "La definición combina generación de riqueza y protección ambiental sin agotar recursos futuros.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "resaltado rojo sobre letra o texto de opción",
+        "provenance": "Marca del escaneo,autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 89,
+      "page": 31,
+      "topic": "Especialización e intercambio en división del trabajo",
+      "competency_code": "PS",
+      "answer_proposal": "D",
+      "reason": "Según texto,mercado distribuye bienes producidos con especialización de manera eficiente frente al autosuministro.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "resaltado rojo sobre letra o texto de opción",
+        "provenance": "Marca del escaneo,autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 90,
+      "page": 31,
+      "topic": "Pertinencia de fuente para objetivo investigativo",
+      "competency_code": "IP",
+      "answer_proposal": "C",
+      "reason": "La depredación de peces jóvenes nativos aporta un factor para explicar disminución de fauna costera.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "resaltado rojo sobre letra o texto de opción",
+        "provenance": "Marca del escaneo,autoría y carácter oficial no comprobados."
+      },
+      "alert": "Discrepancia:marca sobre textoBla caza;propuestaC.La fuente describe daños,no evalúa eficacia o viabilidad económica de promover caza."
+    },
+    {
+      "question": 91,
+      "page": 31,
+      "topic": "Participación ciudadana mediante referendo",
+      "competency_code": "PS",
+      "answer_proposal": "C",
+      "reason": "El caso permite continuar iniciativa por mecanismo ciudadano,sin reservar toda propuesta a representantes o consultar cada decisión pública.",
+      "alert": "No implica trámite completo ni aprobación automática;se clasifica mecanismo del ejercicio,no asesoría jurídica."
+    }
+  ]
+}

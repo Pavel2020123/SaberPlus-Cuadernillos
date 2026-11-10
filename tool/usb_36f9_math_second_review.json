@@ -1,0 +1,197 @@
+{
+  "file_id": "USB-36f91aeae115",
+  "date": "2026-10-30",
+  "area": "Matemáticas",
+  "scope": "Físicas7-9 (impresas12-17) inspeccionadas completas. Nuevas29-39;40-46cotejadas exactamente contraABR2mismos números físicas13-14. Propuestas iniciales, sin validación docente.",
+  "items": [
+    {
+      "question": 29,
+      "page": 7,
+      "printed_page": 12,
+      "topic": "Producto en notación científica",
+      "competency_proposal": "Formulación y ejecución",
+      "answer_proposal": "C",
+      "reason": "(2,2×10³)(3,3×10⁵)=7,26×10⁸ loros.",
+      "alert": "La cifra extraordinaria pertenece al modelo del ejercicio; no se verifica como censo real."
+    },
+    {
+      "question": 30,
+      "page": 7,
+      "printed_page": 12,
+      "topic": "Volumen de cilindro y área de base",
+      "competency_proposal": "Formulación y ejecución",
+      "answer_proposal": "A",
+      "reason": "Para V=área de base×altura se calcula πr² con r=1m; V=2πm³.",
+      "alert": "Área es dato intermedio calculable; se asume tanque lleno y dimensiones interiores."
+    },
+    {
+      "question": 31,
+      "page": 7,
+      "printed_page": 12,
+      "topic": "Validación de triángulo rectángulo por Pitágoras",
+      "competency_proposal": "Argumentación",
+      "answer_proposal": "C",
+      "reason": "Entre longitudes2,3,4,5, solo3²+4²=5²; N,O,P forman el triángulo rectángulo solicitado.",
+      "alert": "Otras ternas pueden formar triángulos no rectángulos; no confundir suma de longitudes con suma de ángulos."
+    },
+    {
+      "question": 32,
+      "page": 7,
+      "printed_page": 12,
+      "topic": "Longitud de recorrido en mapa",
+      "competency_proposal": "Formulación y ejecución",
+      "answer_proposal": "C",
+      "reason": "Ruta C recorre2km por Calle5 y4km por Avenida22:6km exactos.",
+      "alert": "Se cuentan segmentos de ruta marcada, no distancia directa entre extremos; alturas1,5+1+1,5=4km."
+    },
+    {
+      "question": 33,
+      "page": 7,
+      "printed_page": 13,
+      "topic": "Identificación de variable faltante en fórmula",
+      "competency_proposal": "Interpretación y representación",
+      "answer_proposal": "D",
+      "reason": "Se conocen e=1,m=5,s=14días; falta k específico de aerolínea.",
+      "alert": "No hay que calcular precio sin k; fórmula presupone e distinto de cero y unidades del modelo."
+    },
+    {
+      "question": 34,
+      "page": 7,
+      "printed_page": 13,
+      "topic": "Comparación de sumas en menú",
+      "competency_proposal": "Argumentación",
+      "answer_proposal": "B",
+      "reason": "Opción1 suma15000+2000+1000=18000; opción2=20000; opción3=20500. La primera tiene menor total.",
+      "alert": "Precio menor de un componente aislado no prueba mínimo del conjunto."
+    },
+    {
+      "question": 35,
+      "page": 8,
+      "printed_page": 14,
+      "topic": "Mediana y selección con desigualdad estricta",
+      "competency_proposal": "Interpretación y representación",
+      "answer_proposal": "C",
+      "reason": "Las8edades ordenadas son22,23,25,26,26,26,26,26; mediana26. SoloNatalia,Juan yÉmerson tienen edad estrictamente menor.",
+      "alert": "Daniel tiene26,no es admitido bajo regla menor que mediana."
+    },
+    {
+      "question": 36,
+      "page": 8,
+      "printed_page": 14,
+      "topic": "Representación aritmética de desplazamientos",
+      "competency_proposal": "Formulación y ejecución",
+      "answer_proposal": "C",
+      "reason": "Avanza3, luego6, luego3, regresa10 y avanza1:3+6+3−10+1=3cuadras desde farmacia a casa.",
+      "alert": "Se pide distancia entre lugares siguiendo eje descrito, no longitud total caminada23cuadras."
+    },
+    {
+      "question": 37,
+      "page": 8,
+      "printed_page": 14,
+      "topic": "Selección bajo cota superior",
+      "competency_proposal": "Formulación y ejecución",
+      "answer_proposal": "A",
+      "reason": "Entre capacidades3,6,7,2bultos, la mayor sin superar5es3, carretilla1.",
+      "alert": "No elegir capacidad6por cercanía absoluta: supera máximo permitido."
+    },
+    {
+      "question": 38,
+      "page": 8,
+      "printed_page": 15,
+      "topic": "Escalamiento de área en figuras semejantes",
+      "competency_proposal": "Argumentación",
+      "answer_proposal": "B",
+      "reason": "Factor lineal9/3=3; altura pasa2→6 y área6→54m², factor9.",
+      "alert": "Semejanza escala áreas al cuadrado del factor lineal, no al cuadrado de un área dimensional."
+    },
+    {
+      "question": 39,
+      "page": 8,
+      "printed_page": 15,
+      "topic": "Información de intersecciones en diagrama de conjuntos",
+      "competency_proposal": "Interpretación y representación",
+      "answer_proposal": "D",
+      "reason": "El diagrama distingue intereses compartidos en dos o tres bailes; la tabla solo da totales por género y ninguno.",
+      "alert": "El diagrama tiene9+6+0+10=25personas en al menos dos géneros. El total80incluye5fuera de conjuntos."
+    }
+  ],
+  "duplicate_occurrences": [
+    {
+      "question": 40,
+      "page": 9,
+      "printed_page": 16,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 40,
+      "canonical_page": 13,
+      "exact_content": true,
+      "verification": "Cotejo visual directo del enunciado, tablas, gráfica, procedimiento y opciones A-D: identidad de contenido; cambia código y maquetación.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 41,
+      "page": 9,
+      "printed_page": 16,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 41,
+      "canonical_page": 13,
+      "exact_content": true,
+      "verification": "Cotejo visual directo del enunciado, tablas, gráfica, procedimiento y opciones A-D: identidad de contenido; cambia código y maquetación.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 42,
+      "page": 9,
+      "printed_page": 16,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 42,
+      "canonical_page": 13,
+      "exact_content": true,
+      "verification": "Cotejo visual directo del enunciado, tablas, gráfica, procedimiento y opciones A-D: identidad de contenido; cambia código y maquetación.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 43,
+      "page": 9,
+      "printed_page": 16,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 43,
+      "canonical_page": 13,
+      "exact_content": true,
+      "verification": "Cotejo visual directo del enunciado, tablas, gráfica, procedimiento y opciones A-D: identidad de contenido; cambia código y maquetación.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 44,
+      "page": 9,
+      "printed_page": 17,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 44,
+      "canonical_page": 14,
+      "exact_content": true,
+      "verification": "Cotejo visual directo del enunciado, tablas, gráfica, procedimiento y opciones A-D: identidad de contenido; cambia código y maquetación.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 45,
+      "page": 9,
+      "printed_page": 17,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 45,
+      "canonical_page": 14,
+      "exact_content": true,
+      "verification": "Cotejo visual directo del enunciado, tablas, gráfica, procedimiento y opciones A-D: identidad de contenido; cambia código y maquetación.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 46,
+      "page": 9,
+      "printed_page": 17,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 46,
+      "canonical_page": 14,
+      "exact_content": true,
+      "verification": "Cotejo visual directo del enunciado, tablas, gráfica, procedimiento y opciones A-D: identidad de contenido; cambia código y maquetación.",
+      "observed_annotation": "No se observa respuesta marcada."
+    }
+  ]
+}

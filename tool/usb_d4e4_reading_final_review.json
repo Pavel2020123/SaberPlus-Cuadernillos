@@ -1,0 +1,162 @@
+{
+  "file_id": "USB-d4e43db6988a",
+  "date": "2026-10-30",
+  "area": "Lectura critica",
+  "scope": "Preguntas58-69,enunciados,contextos y opciones inspeccionados visualmente en físicas21-24.Lectura26-66completa inicialmente.Propuestas no oficiales;marcasazules de autoría desconocida.",
+  "competency_legend": {
+    "L": "Identificar y entender los contenidos locales que conforman un texto",
+    "G": "Comprender cómo se articulan las partes de un texto para darle un sentido global",
+    "R": "Reflexionar a partir de un texto y evaluar su contenido"
+  },
+  "contexts": [
+    {
+      "id": "extincion",
+      "title": "Texto sobre preservación y extinción",
+      "pages": [
+        21
+      ]
+    },
+    {
+      "id": "computadores",
+      "title": "Texto sobre obediencia y vulnerabilidad de computadores",
+      "pages": [
+        22,
+        23
+      ],
+      "source_as_printed": "Dawkins,R.(2007).El espejismo de Dios.",
+      "description": "Comprensión de fragmento histórico,no especificación de seguridad informática actual."
+    },
+    {
+      "id": "frankenstein",
+      "title": "Frankenstein (fragmento)",
+      "pages": [
+        23
+      ],
+      "source_as_printed": "Shelley,Mary.(2018).Frankenstein,p.74."
+    }
+  ],
+  "items": [
+    {
+      "question": 58,
+      "page": 21,
+      "topic": "Relación entre tesis y pregunta retórica",
+      "competency_code": "G",
+      "answer_proposal": "D",
+      "reason": "La pregunta refuerza el argumento citado de que extinción natural no requeriría preocupación;ambos enunciados apoyan esa misma tesis.",
+      "context": "extincion",
+      "observed_annotation": {
+        "value": "D",
+        "type": "letra rodeada en azul",
+        "provenance": "Marca en escaneo,autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 59,
+      "page": 21,
+      "topic": "Perspectiva de un interlocutor en debate",
+      "competency_code": "R",
+      "answer_proposal": "D",
+      "reason": "Desde la postura contraria a preservar especies,el personaje atribuye a naturaleza lucha por sobrevivir y rechaza favorecerla,lo que podría usarse como apoyo a esa tesis.",
+      "context": "extincion",
+      "alert": "La cita es satírica y también puede caricaturizar esa postura; la pregunta exige perspectiva de opositores a preservación, no del autor principal. Dpropuesta condicionada, revisión docente."
+    },
+    {
+      "question": 60,
+      "page": 22,
+      "topic": "Vocabulario contextual",
+      "competency_code": "L",
+      "answer_proposal": "C",
+      "reason": "Inmune a infección equivale a invulnerable, no proclive o propenso.",
+      "context": "computadores",
+      "observed_annotation": {
+        "value": "C",
+        "type": "letra rodeada en azul",
+        "provenance": "Marca en escaneo,autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 61,
+      "page": 22,
+      "topic": "Sentido de comparación de obediencia",
+      "competency_code": "G",
+      "answer_proposal": "C",
+      "reason": "La comparación con soldados destaca seguir órdenes sin cuestionarlas.",
+      "context": "computadores",
+      "observed_annotation": {
+        "value": "C",
+        "type": "letra rodeada en azul",
+        "provenance": "Marca en escaneo,autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 62,
+      "page": 22,
+      "topic": "Ejemplo que sustenta afirmación general",
+      "competency_code": "G",
+      "answer_proposal": "C",
+      "reason": "El programa que se copia al ser obedecido ejemplifica vulnerabilidad causada por obediencia,por lo que1apoya2.",
+      "context": "computadores",
+      "observed_annotation": {
+        "value": "C",
+        "type": "letra rodeada en azul",
+        "provenance": "Marca en escaneo,autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 63,
+      "page": 23,
+      "topic": "Pregunta global respondida por texto",
+      "competency_code": "G",
+      "answer_proposal": "B",
+      "reason": "El texto presenta obediencia como rasgo principal y explica tanto utilidad como vulnerabilidad resultantes.",
+      "context": "computadores",
+      "observed_annotation": {
+        "value": "B",
+        "type": "letra rodeada en azul",
+        "provenance": "Marca en escaneo,autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 64,
+      "page": 23,
+      "topic": "Aplicación de información explícita",
+      "competency_code": "L",
+      "answer_proposal": "B",
+      "reason": "El programa descrito ordena copiarse y enviarse a direcciones del disco;el computador lo obedece.",
+      "context": "computadores",
+      "observed_annotation": {
+        "value": "B",
+        "type": "letra rodeada en azul",
+        "provenance": "Marca en escaneo,autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 65,
+      "page": 23,
+      "topic": "Motivación explícita de decisión narrativa",
+      "competency_code": "L",
+      "answer_proposal": "B",
+      "reason": "La pequeñez de partes dificultaba rapidez de trabajo;crear cuerpo gigante reducía esa dificultad.",
+      "context": "frankenstein",
+      "observed_annotation": {
+        "value": "B",
+        "type": "letra rodeada en azul",
+        "provenance": "Marca en escaneo,autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 66,
+      "page": 23,
+      "topic": "Intención expresiva de narrador",
+      "competency_code": "G",
+      "answer_proposal": "B",
+      "reason": "El narrador expresa su estado afectivo y obsesión durante creación,no pregunta al lector o promesa futura.",
+      "context": "frankenstein",
+      "observed_annotation": {
+        "value": "B",
+        "type": "letra rodeada en azul",
+        "provenance": "Marca en escaneo,autoría y carácter oficial no comprobados."
+      }
+    }
+  ]
+}

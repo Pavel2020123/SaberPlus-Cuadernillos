@@ -1,0 +1,109 @@
+{
+  "file_id": "USB-f00a52c8b6f2",
+  "date": "2026-10-30",
+  "area": "Matemáticas",
+  "scope": "Preguntas29-39,físicas10-12inspeccionadas visualmente con diagramas y tablas. Propuestas no oficiales.",
+  "competency_legend": {
+    "IR": "Interpretación y representación",
+    "FE": "Formulación y ejecución",
+    "AR": "Argumentación"
+  },
+  "items": [
+    {
+      "question": 29,
+      "page": 10,
+      "topic": "Conteo de lados en polígonos cóncavos",
+      "competency_code": "IR",
+      "answer_proposal": "C",
+      "reason": "X contiene figuras de6,5y6lados; el polígono cóncavo tipo flecha de5lados es el menor, opciónC.",
+      "alert": "No contar la hendidura como un solo segmento ni clasificar por área."
+    },
+    {
+      "question": 30,
+      "page": 10,
+      "topic": "Selección de mínimo en tabla",
+      "competency_code": "IR",
+      "answer_proposal": "C",
+      "reason": "El menor precio es1200000, modeloEnos deSoiBeep; los demás cuestan1250000o más."
+    },
+    {
+      "question": 31,
+      "page": 10,
+      "topic": "Conteo de placas por casos",
+      "competency_code": "FE",
+      "answer_proposal": "D",
+      "reason": "Tipo1 tiene26³×10³combinaciones;tipo2 fijaT y ofrece10⁴. Se suman casos:26³×10³+1×10⁴.",
+      "alert": "Se asume independencia y que ambos formatos identifican casos distintos por estructura."
+    },
+    {
+      "question": 32,
+      "page": 10,
+      "topic": "Comparación de compra con promoción",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "Supermercado1:5000permite5pagados y1bono por cada4pagados, total6. Supermercado2:⌊5000/850⌋=5.",
+      "alert": "Usa la interpretación de promoción y procedimiento expresamente dados."
+    },
+    {
+      "question": 33,
+      "page": 11,
+      "topic": "Proporcionalidad directa en movimiento",
+      "competency_code": "IR",
+      "answer_proposal": "C",
+      "reason": "La razón es3km/min; a4min son12km, relación directa."
+    },
+    {
+      "question": 34,
+      "page": 11,
+      "topic": "Verificación de expresión algebraica",
+      "competency_code": "AR",
+      "answer_proposal": "C",
+      "reason": "Para edad1,67-6=61,no73. La tabla aumenta6por mes y sería compatible con67+6×edad.",
+      "alert": "La tabla describe paciente hipotético,no pauta clínica."
+    },
+    {
+      "question": 35,
+      "page": 11,
+      "topic": "Espacio muestral combinatorio",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "Se requieren todas las formas de escoger3bolas entre9: C(9,3)=84. Favorables C(4,2)C(5,1)+C(4,3)=34.",
+      "alert": "Muestreo simultáneo sin reemplazo; probabilidad34/84=17/42si todas las ternas son equiprobables."
+    },
+    {
+      "question": 36,
+      "page": 12,
+      "topic": "Área de rectángulo",
+      "competency_code": "FE",
+      "answer_proposal": "A",
+      "reason": "5km×7km=35km²; no sumar lados para calcular área."
+    },
+    {
+      "question": 37,
+      "page": 12,
+      "topic": "Escalamiento proporcional de tiempo",
+      "competency_code": "AR",
+      "answer_proposal": "B",
+      "reason": "15es50%más que10y3es50%más que2; a velocidad constante se conserva razón distancia/tiempo.",
+      "alert": "Dhabla de duplicar aunque los valores aumentan por factor1,5."
+    },
+    {
+      "question": 38,
+      "page": 12,
+      "topic": "Contraejemplo a desigualdad universal",
+      "competency_code": "AR",
+      "answer_proposal": "B",
+      "reason": "Conx=1,x²=1y2x=2:la afirmación falla. Para0<x<2también falla.",
+      "alert": "Omitir0no refuta la desigualdad,pues allí sí hay igualdad."
+    },
+    {
+      "question": 39,
+      "page": 12,
+      "topic": "Construcción de triángulo con cuerda",
+      "competency_code": "FE",
+      "answer_proposal": "A",
+      "reason": "Los tres lados miden3,5y12-3-5=4m. Como3²+4²=5², es rectángulo con hipotenusa5m.",
+      "alert": "Se interpreta la cuerda tensa como borde triangular entre los tres puntos fijados; la información no describe un rectángulo."
+    }
+  ]
+}

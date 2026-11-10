@@ -1,0 +1,127 @@
+{
+  "file_id": "USB-04dc5257ed8b",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Preguntas89-100 en físicas30-33 inspeccionadas visualmente; propuestas no oficiales con límites de modelo registrados.",
+  "competency_legend": {
+    "U": "Uso comprensivo del conocimiento científico",
+    "E": "Explicación de fenómenos",
+    "I": "Indagación"
+  },
+  "items": [
+    {
+      "question": 89,
+      "page": 30,
+      "topic": "Oxidación y pérdida de electrones",
+      "competency_code": "U",
+      "answer_proposal": "D",
+      "reason": "El Zn pasa de estado0 a+2, por lo que pierde dos electrones y se oxida.",
+      "observed_highlight": "D"
+    },
+    {
+      "question": 90,
+      "page": 30,
+      "topic": "Pregunta respondible con registros celulares",
+      "competency_code": "I",
+      "answer_proposal": "C",
+      "reason": "Cloroplastos, gran vacuola, pared y núcleo permiten identificar tipo celular vegetal eucariota, no una especie determinada ni un mecanismo de transporte.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 91,
+      "page": 30,
+      "topic": "Cantidad de enzima y velocidad de reacción",
+      "competency_code": "E",
+      "answer_proposal": "A",
+      "reason": "Con menos tejido hay menos catalasa y se espera menor efervescencia por unidad de tiempo bajo condiciones comparables.",
+      "observed_highlight": "A",
+      "alert": "El enunciado no fija intervalo de observación. Menos catalizador reduce velocidad, no necesariamente cantidad final de oxígeno si se descompone todo el mismo H2O2. A es propuesta para intensidad inicial, no rendimiento total."
+    },
+    {
+      "question": 92,
+      "page": 31,
+      "topic": "Alcance de evidencia experimental sobre flotación",
+      "competency_code": "I",
+      "answer_proposal": "A",
+      "reason": "Cambiar la forma de un único material no permite concluir que el material sea irrelevante en todos los cuerpos.",
+      "observed_highlight": "A"
+    },
+    {
+      "question": 93,
+      "page": 31,
+      "topic": "Adaptación mutualista y acceso al néctar",
+      "competency_code": "E",
+      "answer_proposal": "B",
+      "reason": "El tubo largo restringe acceso a visitantes que no polinizan y favorece al colibrí con pico adaptado.",
+      "observed_highlight": "B",
+      "alert": "Es una ventaja según el modelo simplificado, no prueba de exclusión absoluta de todo ladrón de néctar."
+    },
+    {
+      "question": 94,
+      "page": 32,
+      "topic": "Disponibilidad relativa de fuente energética",
+      "competency_code": "U",
+      "answer_proposal": "C",
+      "reason": "La biomasa agrícola representa43%, mayor que animal23%, natural18%, industrial10% y urbana6%.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 95,
+      "page": 32,
+      "topic": "Comparación de composición y energía de biomasa",
+      "competency_code": "U",
+      "answer_proposal": "B",
+      "reason": "B presenta el mayor número de átomos de carbono por fórmula,20, frente a5,6 y15; esa es la comparación simplificada que parece pretender el texto.",
+      "observed_highlight": "B",
+      "alert": "El ítem dice por cantidad de biomasa sin definir masa o cantidad de moléculas. Comparar subíndices no basta por unidad de masa ni para poder calorífico real. La fórmula y composición completa importan. PropuestaB condicionada a igual número de moléculas y al modelo del enunciado; revisión docente requerida."
+    },
+    {
+      "question": 96,
+      "page": 32,
+      "topic": "Reactivos y productos de combustión",
+      "competency_code": "U",
+      "answer_proposal": "C",
+      "reason": "La combustión del residuo orgánico con oxígeno produce dióxido de carbono y agua, a diferencia de las reacciones inversas o de descomposición.",
+      "observed_highlight": "C",
+      "alert": "La opción es un esquema genérico de reacción, no ecuación estequiométrica balanceada."
+    },
+    {
+      "question": 97,
+      "page": 32,
+      "topic": "Hipótesis sobre presión y temperatura a volumen fijo",
+      "competency_code": "I",
+      "answer_proposal": "A",
+      "reason": "En los registros, al aumentar temperatura de300a450K aumenta presión de1,0a1,6atm manteniendo volumen.",
+      "observed_highlight": "A",
+      "alert": "Los cocientesP/T no son exactamente constantes; el dato respalda tendencia creciente, no proporcionalidad ideal exacta."
+    },
+    {
+      "question": 98,
+      "page": 33,
+      "topic": "Sentido del flujo térmico en enfriamiento",
+      "competency_code": "E",
+      "answer_proposal": "B",
+      "reason": "Para enfriarse, los discos calientes transfieren calor al sistema de enfriamiento.",
+      "observed_highlight": "B"
+    },
+    {
+      "question": 99,
+      "page": 33,
+      "topic": "Reproducibilidad de mediciones de cambio de estado",
+      "competency_code": "I",
+      "answer_proposal": "B",
+      "reason": "Repetir mediciones en las mismas sustancias permite contrastar los valores utilizados y la afirmación sobre su estado.",
+      "observed_highlight": "B",
+      "alert": "A35°C la sustancia2 está justo en su punto de fusión; puede coexistir sólido y líquido. Repetir puntos de fusión no hace cierta sin más la afirmación de estado exclusivamente sólido."
+    },
+    {
+      "question": 100,
+      "page": 33,
+      "topic": "Cambio ambiental y reproducción de anfibios",
+      "competency_code": "E",
+      "answer_proposal": "C",
+      "reason": "Según el caso, mayores sequías reducen charcos para depositar huevos y pueden disminuir población.",
+      "observed_highlight": "C"
+    }
+  ]
+}

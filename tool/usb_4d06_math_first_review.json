@@ -1,0 +1,144 @@
+{
+  "file_id": "USB-4d0661231ca3",
+  "date": "2026-10-30",
+  "area": "Matemáticas",
+  "scope": "Físicas9-12 completas.26-27referenciasAAQ2,29-37referenciasAAO2.28variante real de algoritmo frenteAAQ2,se conserva.",
+  "items": [
+    {
+      "question": 28,
+      "page": 9,
+      "printed_page": 9,
+      "topic": "Distancia euclidiana y ejecución de algoritmo",
+      "competency_proposal": "Formulación y ejecución",
+      "answer_proposal": "A",
+      "reason": "Coordenadas(1,3)y(9,7):d=√((9−1)²+(7−3)²)=√80≈8.94km,aproximadamente9.",
+      "alert": "Paso4eleva valor de paso3,correcto. AAQ2impreso eleva paso1otra vez y produce√164;no consolidar ambos ejercicios ni trasladar claveC.",
+      "related_file_id": "USB-e58ef5771b78",
+      "related_question": 28,
+      "related_page": 5
+    }
+  ],
+  "duplicate_occurrences": [
+    {
+      "question": 26,
+      "page": 9,
+      "printed_page": 9,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 26,
+      "canonical_page": 5,
+      "exact_content": true,
+      "verification": "Tabla de mensajería400/300/500/200 y cobros o frutas150/130/250y5/6/3, enunciado y opciones cotejados conAAQ2física5.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 27,
+      "page": 9,
+      "printed_page": 9,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 27,
+      "canonical_page": 5,
+      "exact_content": true,
+      "verification": "Tabla de mensajería400/300/500/200 y cobros o frutas150/130/250y5/6/3, enunciado y opciones cotejados conAAQ2física5.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 29,
+      "page": 10,
+      "printed_page": 10,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 29,
+      "canonical_page": 7,
+      "exact_content": true,
+      "verification": "Cotejo visual completo conAAO2físicas7-8 de tablas,fórmula,rutas,mapa y opciones. Carretillas3/6/7/2idénticas.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 30,
+      "page": 10,
+      "printed_page": 10,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 30,
+      "canonical_page": 7,
+      "exact_content": true,
+      "verification": "Cotejo visual completo conAAO2físicas7-8 de tablas,fórmula,rutas,mapa y opciones. Carretillas3/6/7/2idénticas.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 31,
+      "page": 10,
+      "printed_page": 10,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 31,
+      "canonical_page": 7,
+      "exact_content": true,
+      "verification": "Cotejo visual completo conAAO2físicas7-8 de tablas,fórmula,rutas,mapa y opciones. Carretillas3/6/7/2idénticas.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 32,
+      "page": 10,
+      "printed_page": 10,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 32,
+      "canonical_page": 7,
+      "exact_content": true,
+      "verification": "Cotejo visual completo conAAO2físicas7-8 de tablas,fórmula,rutas,mapa y opciones. Carretillas3/6/7/2idénticas.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 33,
+      "page": 11,
+      "printed_page": 11,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 33,
+      "canonical_page": 7,
+      "exact_content": true,
+      "verification": "Cotejo visual completo conAAO2físicas7-8 de tablas,fórmula,rutas,mapa y opciones. Carretillas3/6/7/2idénticas.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 34,
+      "page": 11,
+      "printed_page": 11,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 34,
+      "canonical_page": 7,
+      "exact_content": true,
+      "verification": "Cotejo visual completo conAAO2físicas7-8 de tablas,fórmula,rutas,mapa y opciones. Carretillas3/6/7/2idénticas.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 35,
+      "page": 12,
+      "printed_page": 12,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 35,
+      "canonical_page": 8,
+      "exact_content": true,
+      "verification": "Cotejo visual completo conAAO2físicas7-8 de tablas,fórmula,rutas,mapa y opciones. Carretillas3/6/7/2idénticas.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 36,
+      "page": 12,
+      "printed_page": 12,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 36,
+      "canonical_page": 8,
+      "exact_content": true,
+      "verification": "Cotejo visual completo conAAO2físicas7-8 de tablas,fórmula,rutas,mapa y opciones. Carretillas3/6/7/2idénticas.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 37,
+      "page": 12,
+      "printed_page": 12,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 37,
+      "canonical_page": 8,
+      "exact_content": true,
+      "verification": "Cotejo visual completo conAAO2físicas7-8 de tablas,fórmula,rutas,mapa y opciones. Carretillas3/6/7/2idénticas.",
+      "observed_annotation": "Sin marca relevante."
+    }
+  ]
+}

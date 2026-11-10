@@ -1,0 +1,53 @@
+{
+  "file_id": "USB-04dc5257ed8b",
+  "date": "2026-10-30",
+  "area": "Lectura critica",
+  "scope": "Preguntas23-25, página física8, lectura y opciones inspeccionadas visualmente. Marcas de origen desconocido, no clave oficial.",
+  "contexts": [
+    {
+      "id": "solitaria",
+      "title": "Parábola de la solitaria",
+      "pages": [
+        8
+      ],
+      "description": "Carta que compara la vocación literaria con la servidumbre de José María a una solitaria. Fuente impresa atribuida a Vargas Llosa."
+    }
+  ],
+  "competency_legend": {
+    "L": "Identificar y entender los contenidos locales que conforman un texto",
+    "G": "Comprender cómo se articulan las partes de un texto para darle un sentido global",
+    "R": "Reflexionar a partir de un texto y evaluar su contenido"
+  },
+  "items": [
+    {
+      "question": 23,
+      "page": 8,
+      "topic": "Analogía como estrategia retórica",
+      "competency_code": "R",
+      "context": "solitaria",
+      "answer_proposal": "C",
+      "reason": "Se compara la situación del escritor con la subordinación de quien alberga el parásito para ilustrar la esclavitud de la vocación.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 24,
+      "page": 8,
+      "topic": "Localización de información explícita",
+      "competency_code": "L",
+      "context": "solitaria",
+      "answer_proposal": "B",
+      "reason": "El fragmento deB explica que el parásito se alimenta del huésped, crece y se fortalece a sus expensas.",
+      "observed_highlight": "B"
+    },
+    {
+      "question": 25,
+      "page": 8,
+      "topic": "Sentido de una confesión en el relato",
+      "competency_code": "G",
+      "context": "solitaria",
+      "answer_proposal": "B",
+      "reason": "José María afirma que ya no vive para sí sino como sirviente de la solitaria: caracteriza su esclavitud y no su libertad.",
+      "observed_highlight": "B"
+    }
+  ]
+}

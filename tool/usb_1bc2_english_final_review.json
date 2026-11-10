@@ -1,0 +1,235 @@
+{
+  "file_id": "USB-1bc205e23b46",
+  "date": "2026-10-30",
+  "area": "Inglés",
+  "scope": "Preguntas 120-134 inspeccionadas visualmente en físicas 29-30. Propuestas gramaticales y lectoras no oficiales.",
+  "contexts": [
+    {
+      "id": "machines",
+      "page": 29,
+      "title": "Parte 6: máquinas y empleo",
+      "description": "Cinco preguntas 120-124 sobre progreso, sustitución de tareas y creación de nuevos empleos."
+    },
+    {
+      "id": "aquaman",
+      "page": 30,
+      "title": "Parte 7: Aquaman",
+      "description": "Diez espacios 125-134, cuatro alternativas cada uno; ejemplo interest."
+    }
+  ],
+  "items": [
+    {
+      "question": 120,
+      "page": 29,
+      "context": "machines",
+      "topic": "Propósito global de un artículo",
+      "competency_proposal": "Competencia comunicativa: comprensión de propósito, inferencias y sentido global",
+      "answer_proposal": "D",
+      "reason": "Discute ventajas y desafíos de la mecanización para empleo y productividad.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 121,
+      "page": 29,
+      "context": "machines",
+      "topic": "Información del primer párrafo",
+      "competency_proposal": "Competencia comunicativa: comprensión de propósito, inferencias y sentido global",
+      "answer_proposal": "B",
+      "reason": "El párrafo vincula máquinas con creación de empleos, nuevos productos y progreso humano.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 122,
+      "page": 29,
+      "context": "machines",
+      "topic": "Función de un ejemplo",
+      "competency_proposal": "Competencia comunicativa: comprensión de propósito, inferencias y sentido global",
+      "answer_proposal": "C",
+      "reason": "Jugar ajedrez contra un computador ejemplifica máquinas que realizan tareas como personas.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 123,
+      "page": 29,
+      "context": "machines",
+      "topic": "Paráfrasis de una afirmación",
+      "competency_proposal": "Competencia comunicativa: comprensión de propósito, inferencias y sentido global",
+      "answer_proposal": "D",
+      "reason": "Inventar nuevos trabajos responde a que programas y máquinas aprenden tareas anteriores.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 124,
+      "page": 29,
+      "context": "machines",
+      "topic": "Idea central sobre empleo y tecnología",
+      "competency_proposal": "Competencia comunicativa: comprensión de propósito, inferencias y sentido global",
+      "answer_proposal": "C",
+      "reason": "El artículo propone crear nuevos empleos a medida que las máquinas reemplazan los anteriores.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 125,
+      "page": 30,
+      "context": "aquaman",
+      "topic": "Adverbio de frecuencia",
+      "competency_proposal": "Competencia comunicativa: uso léxico y gramatical en contexto",
+      "answer_proposal": "C",
+      "reason": "Usually wears expresa hábito en la vestimenta.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 126,
+      "page": 30,
+      "context": "aquaman",
+      "topic": "Selección léxica en descripción de héroe",
+      "competency_proposal": "Competencia comunicativa: uso léxico y gramatical en contexto",
+      "answer_proposal": "C",
+      "reason": "Superhuman powers incluye respirar bajo el agua y comunicarse con criaturas marinas.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 127,
+      "page": 30,
+      "context": "aquaman",
+      "topic": "Construcción used to",
+      "competency_proposal": "Competencia comunicativa: uso léxico y gramatical en contexto",
+      "answer_proposal": "A",
+      "reason": "He used to be expresa un estado anterior. Uses to be no es la construcción estándar.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      },
+      "alert": "Discrepancia entre la marca del PDF y la respuesta propuesta a partir de la estructura lingüística."
+    },
+    {
+      "question": 128,
+      "page": 30,
+      "context": "aquaman",
+      "topic": "Selección léxica en historia de un personaje",
+      "competency_proposal": "Competencia comunicativa: uso léxico y gramatical en contexto",
+      "answer_proposal": "B",
+      "reason": "Early versions of Aquaman se refiere a versiones anteriores del personaje, no notices.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      },
+      "alert": "Discrepancia entre la marca del PDF y la respuesta propuesta a partir de la estructura lingüística."
+    },
+    {
+      "question": 129,
+      "page": 30,
+      "context": "aquaman",
+      "topic": "Conector aditivo",
+      "competency_proposal": "Competencia comunicativa: uso léxico y gramatical en contexto",
+      "answer_proposal": "A",
+      "reason": "Besides añade el hecho de haberse casado; las demás opciones no conectan adecuadamente la oración.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 130,
+      "page": 30,
+      "context": "aquaman",
+      "topic": "Verbo seguido de infinitivo",
+      "competency_proposal": "Competencia comunicativa: uso léxico y gramatical en contexto",
+      "answer_proposal": "C",
+      "reason": "Has always intended to kill expresa intención; focused requeriría otra preposición y forma verbal.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 131,
+      "page": 30,
+      "context": "aquaman",
+      "topic": "Infinitivo después de modal",
+      "competency_proposal": "Competencia comunicativa: uso léxico y gramatical en contexto",
+      "answer_proposal": "B",
+      "reason": "Would later be known requiere be, forma base tras would.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 132,
+      "page": 30,
+      "context": "aquaman",
+      "topic": "Participio en pasado perfecto",
+      "competency_proposal": "Competencia comunicativa: uso léxico y gramatical en contexto",
+      "answer_proposal": "B",
+      "reason": "Had appeared in animated television shows completa el pasado perfecto con verbo intransitivo y preposición in.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 133,
+      "page": 30,
+      "context": "aquaman",
+      "topic": "Infinitivo sin to tras make",
+      "competency_proposal": "Competencia comunicativa: uso léxico y gramatical en contexto",
+      "answer_proposal": "A",
+      "reason": "Made him shine requiere la forma base shine, no shines.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      },
+      "alert": "Discrepancia entre la marca del PDF y la respuesta propuesta a partir de la estructura lingüística."
+    },
+    {
+      "question": 134,
+      "page": 30,
+      "context": "aquaman",
+      "topic": "Presente simple en primera condicional",
+      "competency_proposal": "Competencia comunicativa: uso léxico y gramatical en contexto",
+      "answer_proposal": "D",
+      "reason": "If Aquaman appears in more films encaja con la cláusula principal will become.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    }
+  ]
+}

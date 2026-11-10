@@ -1,0 +1,107 @@
+{
+  "file_id": "USB-8e6cf8399239",
+  "date": "2026-10-30",
+  "area": "Lectura crítica",
+  "scope": "Preguntas31-39 y textos completos compartidos inspeccionados visualmente, físicas11-13. Propuestas no oficiales; no se observan claves marcadas inequívocamente.",
+  "contexts": [
+    {
+      "id": "bogotazo",
+      "page": 11,
+      "title": "Una historia sobre los tres disparos que le quitaron la vida a Gaitán",
+      "description": "Reconstrucción periodística de la crónica de Hernando Téllez, asesinato, linchamiento de Roa, saqueos y episodio de Monroy. Pregunta34 continúa en física12."
+    },
+    {
+      "id": "red",
+      "page": 12,
+      "title": "En_línea: leer y escribir en la red (fragmento)",
+      "description": "Texto atribuido a Cassany2012 sobre tiempo conectado, aprendizaje digital y distancia de currículos escolares. Preguntas35-39 en físicas12-13."
+    }
+  ],
+  "items": [
+    {
+      "question": 31,
+      "page": 11,
+      "context": "bogotazo",
+      "topic": "Función introductoria de un fragmento",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "A",
+      "reason": "El fragmento presenta la crónica de Téllez y los antecedentes inmediatos a la muerte de Gaitán, introduciendo los hechos que serán narrados.",
+      "alert": "La opción A resume la contextualización; el fragmento menciona además la publicación posterior de la crónica, no únicamente el asesinato."
+    },
+    {
+      "question": 32,
+      "page": 11,
+      "context": "bogotazo",
+      "topic": "Referencia explícita a otro texto",
+      "competency_proposal": "Identifica y entiende los contenidos locales que conforman un texto",
+      "answer_proposal": "B",
+      "reason": "El inicio identifica el texto de Hernando Téllez publicado en Semana el 24 de abril de1948; es la referencia explícita solicitada."
+    },
+    {
+      "question": 33,
+      "page": 11,
+      "context": "bogotazo",
+      "topic": "Tema general de relato histórico",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "B",
+      "reason": "La narración aborda linchamiento, saqueos, incendios y muertes inmediatamente posteriores al asesinato de Gaitán, no solo testigos o un episodio aislado."
+    },
+    {
+      "question": 34,
+      "page": 12,
+      "context": "bogotazo",
+      "topic": "Relación entre afirmación y ejemplos",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "B",
+      "reason": "Los saqueos y el caso de Carlos Monroy ejemplifican la afirmación general sobre revueltas, fallecimientos y caos."
+    },
+    {
+      "question": 35,
+      "page": 12,
+      "context": "red",
+      "topic": "Conector concesivo",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "B",
+      "reason": "Aunque introduce una salvedad: se adquieren conocimientos relevantes pese a no figurar en los currículos oficiales; no causa, comparación ni ejemplo.",
+      "alert": "Restricción es la denominación más cercana ofrecida; el valor lingüístico específico es concesivo."
+    },
+    {
+      "question": 36,
+      "page": 13,
+      "context": "red",
+      "topic": "Paráfrasis de un argumento",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "D",
+      "reason": "D conserva que prácticas de Internet desarrollan competencias pese a su escasa presencia en la escuela; las otras opciones niegan relevancia o invierten la inclusión curricular."
+    },
+    {
+      "question": 37,
+      "page": 13,
+      "context": "red",
+      "topic": "Evidencia para una tesis",
+      "competency_proposal": "Reflexiona a partir de un texto y evalúa su contenido",
+      "answer_proposal": "B",
+      "reason": "El ejemplo del chat vincula tiempo conectado con información, práctica y empatía, apoyando incidencia en vida y educación; no solo duración de uso."
+    },
+    {
+      "question": 38,
+      "page": 13,
+      "context": "red",
+      "topic": "Propósito y destinatarios inferidos",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "C",
+      "reason": "El texto explica beneficios de prácticas digitales para competencias personales y escolares; maestros y padres son destinatarios compatibles con esa discusión.",
+      "alert": "El público se infiere de las opciones y del enfoque educativo, no se nombra expresamente en el fragmento."
+    },
+    {
+      "question": 39,
+      "page": 13,
+      "context": "red",
+      "topic": "Estrategia argumentativa de un texto",
+      "competency_proposal": "Reflexiona a partir de un texto y evalúa su contenido",
+      "answer_proposal": "C",
+      "reason": "Presenta una tesis, ejemplos de redes/chat/videojuegos y menciona estudios; C recoge esa estructura y la aproximación entre prácticas escolares y extraescolares.",
+      "alert": "La importancia de acercar ambas prácticas se infiere del contraste final y sus efectos negativos; no aparece formulada como recomendación explícita. No tratar la mención genérica de estudios como datos científicos presentados."
+    }
+  ]
+}

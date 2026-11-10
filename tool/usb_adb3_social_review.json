@@ -1,0 +1,162 @@
+{
+  "file_id": "USB-234fa4e3ddce",
+  "date": "2026-10-29",
+  "area": "Sociales y ciudadanas",
+  "scope": "Preguntas47-64,paginas17-23 inspeccionadas visualmente.Sin claves resaltadas observadas.Competencias y respuestas propuestas,no validacion docente.Los pasajes historicos o sanitarios no son asesoramiento actual.",
+  "competency_legend": {
+    "P": "Pensamiento social",
+    "I": "Interpretacion y analisis de perspectivas",
+    "S": "Pensamiento reflexivo y sistemico"
+  },
+  "items": [
+    {
+      "question": 47,
+      "page": 17,
+      "topic": "Impacto sanitario de esterilizacion y adopcion",
+      "competency_code": "S",
+      "answer_proposal": "B",
+      "reason": "Menor crecimiento de animales abandonados reduce exposicion poblacional; B es la alternativa vinculada a salud publica.",
+      "alert": "Esterilizar no inmuniza por si solo contra rabia; no presentar alternativa como garantia clinica."
+    },
+    {
+      "question": 48,
+      "page": 17,
+      "topic": "Equilibrio de dimensiones de desarrollo sostenible",
+      "competency_code": "S",
+      "answer_proposal": "C",
+      "reason": "C equilibra riqueza y proteccion ambiental; no privilegia explotacion ilimitada ni prohibicion economica absoluta."
+    },
+    {
+      "question": 49,
+      "page": 18,
+      "topic": "Enfoque de politica publica en intervencion",
+      "competency_code": "S",
+      "answer_proposal": "D",
+      "reason": "La cita enfatiza proteccion de menores,mujeres y comunidad vulnerable,mas amplia que persecucion policial o tratamiento exclusivo de drogas."
+    },
+    {
+      "question": 50,
+      "page": 18,
+      "topic": "Dimensiones de una represa",
+      "competency_code": "S",
+      "answer_proposal": "D",
+      "reason": "Electricidad,ingresos y empleo representan economia; riesgos para biodiversidad representan ambiente."
+    },
+    {
+      "question": 51,
+      "page": 18,
+      "topic": "Derechos privilegiados en argumento judicial historico",
+      "competency_code": "P",
+      "answer_proposal": "C",
+      "reason": "La cita invoca tradicion taurina reconocida; el derecho priorizado en ese fragmento es cultural.",
+      "alert": "Lectura de cita2012,no afirmacion sobre vigencia normativa actual."
+    },
+    {
+      "question": 52,
+      "page": 19,
+      "topic": "Abuso de cargo publico para beneficio privado",
+      "competency_code": "P",
+      "answer_proposal": "C",
+      "reason": "Funcionario exige descuento invocando cargo y gestion a costa del patrimonio de comerciante; no regalo espontaneo ni soborno ofrecido por ella."
+    },
+    {
+      "question": 53,
+      "page": 19,
+      "topic": "Estereotipo de genero en reconocimiento deportivo",
+      "competency_code": "I",
+      "answer_proposal": "C",
+      "reason": "Se elogia tecnica de varones y belleza de mujeres,desplazando reconocimiento de sus capacidades deportivas."
+    },
+    {
+      "question": 54,
+      "page": 19,
+      "topic": "Relacion de fuentes sobre grupos armados",
+      "competency_code": "P",
+      "answer_proposal": "B",
+      "reason": "Ambas fuentes explican origen y expansion de actores del conflicto armado interno."
+    },
+    {
+      "question": 55,
+      "page": 20,
+      "topic": "Adaptacion normativa a transformaciones familiares",
+      "competency_code": "P",
+      "answer_proposal": "C",
+      "reason": "El texto vincula nuevos patrones de familia y proteccion igualitaria con cambio de concepto legal."
+    },
+    {
+      "question": 56,
+      "page": 20,
+      "topic": "Pertinencia de fuente historica indigena",
+      "competency_code": "I",
+      "answer_proposal": "A",
+      "reason": "Fuente en nahuatl sobre mitos e historias sirve para estudiar creencias religiosas antiguas; no demuestra identidad con ritos actuales."
+    },
+    {
+      "question": 57,
+      "page": 21,
+      "topic": "Control del intercambio clientelista",
+      "competency_code": "P",
+      "answer_proposal": "A",
+      "reason": "Intercambio de privilegios por respaldo electoral constituye ventaja indebida que justifica supervision; C lo legitima."
+    },
+    {
+      "question": 58,
+      "page": 21,
+      "topic": "Identificacion de prejuicio etnico",
+      "competency_code": "I",
+      "answer_proposal": "D",
+      "reason": "Atribuir pobreza a sangre indigena asigna rasgo negativo a ascendencia y discrimina colectivamente."
+    },
+    {
+      "question": 59,
+      "page": 21,
+      "topic": "Intencion contextual de discurso de paz",
+      "competency_code": "I",
+      "answer_proposal": "C",
+      "reason": "Gaitan solicita al presidente impedir derramamiento de sangre y restablecer tranquilidad; busca medidas contra violencia.",
+      "alert": "Fecha febrero1948 precede Bogotazo,no atribuir discurso a consecuencias posteriores."
+    },
+    {
+      "question": 60,
+      "page": 22,
+      "topic": "Consecuencia no deseada de fumigacion",
+      "competency_code": "S",
+      "answer_proposal": "D",
+      "reason": "El riesgo de dano a habitantes contradice objetivo de erradicacion; D deriva directamente de advertencia sanitaria del ejercicio.",
+      "alert": "No validar causalidad medica real solo por pasaje."
+    },
+    {
+      "question": 61,
+      "page": 22,
+      "topic": "Evaluacion de confiabilidad de argumento historico",
+      "competency_code": "I",
+      "answer_proposal": "D",
+      "reason": "El argumento reconoce incertidumbre de cifras y aporta memorias del general y telegrama diplomatico; no basa toda prueba en novela."
+    },
+    {
+      "question": 62,
+      "page": 23,
+      "topic": "Generalizacion apresurada sobre mascotas",
+      "competency_code": "I",
+      "answer_proposal": "C",
+      "reason": "Videos particulares no prueban agresividad universal; D tambien generaliza docilidad."
+    },
+    {
+      "question": 63,
+      "page": 23,
+      "topic": "Perspectivas de actores en politica de vivienda",
+      "competency_code": "I",
+      "answer_proposal": "D",
+      "reason": "Sociologos defienden terrenos centrales por acceso a servicios; vivienda periferica contradice esa prioridad."
+    },
+    {
+      "question": 64,
+      "page": 23,
+      "topic": "Alcance del movimiento por derechos civiles",
+      "competency_code": "P",
+      "answer_proposal": "C",
+      "reason": "C vincula conciencia de derechos con carencias raciales y socioeconomicas,no aislamiento del resto de grupos ni oposicion a segunda guerra."
+    }
+  ],
+  "next": "Ciencias65desdepagina24.Pagina25invertida requiere lectura auxiliar orientada."
+}

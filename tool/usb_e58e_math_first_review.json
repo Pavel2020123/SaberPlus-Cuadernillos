@@ -1,0 +1,38 @@
+{
+  "file_id": "USB-e58ef5771b78",
+  "date": "2026-10-30",
+  "area": "Matemáticas",
+  "scope": "Física5impresa9 inspeccionada con tablas,plano y opciones;preguntas26-28.",
+  "items": [
+    {
+      "question": 26,
+      "page": 5,
+      "printed_page": 9,
+      "topic": "Razón constante entre cobro y cantidad",
+      "competency_proposal": "Formulación y ejecución",
+      "answer_proposal": "C",
+      "reason": "400000/400=1000pesos por envío;las demás semanas mantienen razón1000.",
+      "alert": "Se usa cobro total de cada semana,no cantidad de semanas."
+    },
+    {
+      "question": 27,
+      "page": 5,
+      "printed_page": 9,
+      "topic": "Peso promedio de paquete desde promedio unitario",
+      "competency_proposal": "Formulación y ejecución",
+      "answer_proposal": "D",
+      "reason": "Manzanas130gpor unidad×6unidades=780gpor paquete en promedio.",
+      "alert": "No confundir con pera150×5=750g;se asume número fijo de unidades."
+    },
+    {
+      "question": 28,
+      "page": 5,
+      "printed_page": 9,
+      "topic": "Ejecución de procedimiento geométrico incorrecto",
+      "competency_proposal": "Formulación y ejecución",
+      "answer_proposal": "C",
+      "reason": "Procedimiento impreso:Δx=9−1=8;paso3suma7+3=10;raíz(8²+10²)=raíz164≈12,81km,opción12como alternativa más cercana entre9,11,12,40.",
+      "alert": "Reserva:12,81redondea13,no12. Además distancia real usa7−3=4yvale raíz80≈8,94km. La pregunta pide resultado del procedimiento impreso,no distancia correcta;Csolo aproximación entre opciones,requiere revisión docente."
+    }
+  ]
+}

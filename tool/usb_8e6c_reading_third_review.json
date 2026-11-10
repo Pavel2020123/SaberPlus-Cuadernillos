@@ -1,0 +1,114 @@
+{
+  "file_id": "USB-8e6cf8399239",
+  "date": "2026-10-30",
+  "area": "Lectura crítica",
+  "scope": "Preguntas40-48 y sus textos compartidos completos, físicas14-16, inspeccionados visualmente. Propuestas no oficiales;41sin clave por inferencia no sustentada.",
+  "contexts": [
+    {
+      "id": "exo",
+      "page": 14,
+      "title": "Exobiología",
+      "description": "Viking, extremófilos, vida subterránea, meteoritos y búsquedas de señales; pregunta sobre ubicación de nueva misión y límites de inferencia."
+    },
+    {
+      "id": "religion",
+      "page": 15,
+      "title": "¿Es menos probable que un religioso se vuelva asesino?",
+      "description": "Estudio de sesgos en juicios morales, porcentajes60/30 y referencia a Michael Stone. No se usa como diagnóstico clínico."
+    },
+    {
+      "id": "lectora",
+      "page": 16,
+      "title": "La lectora (fragmento)",
+      "description": "Narradora abordada por un hombre, pregunta sobre saber leer, bolso con libro de Kundera y amenaza final."
+    }
+  ],
+  "items": [
+    {
+      "question": 40,
+      "page": 14,
+      "context": "exo",
+      "topic": "Ubicación de información bajo subtítulo",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "C",
+      "reason": "Una nueva misión de exploración de Marte se relaciona con Nuevos avances, no con resultados desalentadores de Viking.",
+      "alert": "El enunciado menciona geología y exploración humana, no evidencia directa de vida; asociación por tema de avance exploratorio."
+    },
+    {
+      "question": 41,
+      "page": 14,
+      "context": "exo",
+      "topic": "Límites de una inferencia sobre postura del autor",
+      "competency_proposal": "Reflexiona a partir de un texto y evalúa su contenido",
+      "answer_proposal": null,
+      "reason": "El artículo sobre posibilidad de vida extraterrestre no afirma rechazo al creacionismo, al big bang ni a cosmología; la investigación de microorganismos concuerda con su tema.",
+      "alert": "No hay alternativa inequívocamente respaldada. No inferir incompatibilidad entre explicación científica y creencias religiosas sin evidencia textual."
+    },
+    {
+      "question": 42,
+      "page": 15,
+      "context": "religion",
+      "topic": "Identificación de datos que apoyan estudio",
+      "competency_proposal": "Reflexiona a partir de un texto y evalúa su contenido",
+      "answer_proposal": "C",
+      "reason": "El contraste entre cerca del60% y30% en elecciones de participantes es el dato empírico del estudio sobre sesgo; A resume conclusión y B describe procedimiento.",
+      "alert": "Se documentan resultados tal como se presentan en el fragmento, sin verificar el estudio original ni diagnosticar personas."
+    },
+    {
+      "question": 43,
+      "page": 15,
+      "context": "religion",
+      "topic": "Función de evidencia frente a creencias",
+      "competency_proposal": "Reflexiona a partir de un texto y evalúa su contenido",
+      "answer_proposal": "D",
+      "reason": "La referencia a Stone y asesinos con creencias religiosas cuestiona el supuesto de participantes de que religiosidad protege contra inmoralidad; no refuta el hallazgo sobre existencia del sesgo.",
+      "alert": "Contradice creencias, no el estudio que las identifica; evitar generalizar asociación entre diagnóstico y violencia."
+    },
+    {
+      "question": 44,
+      "page": 16,
+      "context": "lectora",
+      "topic": "Causa explícita de una reacción narrativa",
+      "competency_proposal": "Identifica y entiende los contenidos locales que conforman un texto",
+      "answer_proposal": "A",
+      "reason": "La narradora afirma que tuvo un mal presentimiento y quiso correr antes del diálogo."
+    },
+    {
+      "question": 45,
+      "page": 16,
+      "context": "lectora",
+      "topic": "Reconocimiento de autor mencionado",
+      "competency_proposal": "Identifica y entiende los contenidos locales que conforman un texto",
+      "answer_proposal": "C",
+      "reason": "El objeto mostrado es un libro de Kundera. Álvarez aparece como autor de la fuente, no como autor del libro dentro de la historia."
+    },
+    {
+      "question": 46,
+      "page": 16,
+      "context": "lectora",
+      "topic": "Identificación de personaje y pertenencia",
+      "competency_proposal": "Identifica y entiende los contenidos locales que conforman un texto",
+      "answer_proposal": "A",
+      "reason": "El hombre toma el bolso de la persona narradora y muestra el libro encontrado dentro."
+    },
+    {
+      "question": 47,
+      "page": 16,
+      "context": "lectora",
+      "topic": "Prejuicio basado en apariencia",
+      "competency_proposal": "Reflexiona a partir de un texto y evalúa su contenido",
+      "answer_proposal": "A",
+      "reason": "Vincular pelo largo, bigote y ropa llamativa con aprendices de mafioso atribuye un rasgo social a partir del aspecto."
+    },
+    {
+      "question": 48,
+      "page": 16,
+      "context": "lectora",
+      "topic": "Intención de una pregunta retórica",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "C",
+      "reason": "¿A usted qué le importa? comunica rechazo a responder la pregunta sobre saber leer, no una petición real de información.",
+      "alert": "La intención se interpreta a partir de la rabia y el intercambio; la opción B declara irrelevante la información, pero C representa más precisamente el rechazo interpersonal."
+    }
+  ]
+}

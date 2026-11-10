@@ -1,0 +1,85 @@
+{
+  "file_id": "USB-8e6cf8399239",
+  "date": "2026-10-30",
+  "area": "Lectura crítica",
+  "scope": "Físicas20-22 inspeccionadas visualmente; preguntas61-66. Lectura26-66 cubierta inicialmente, sin validación docente.",
+  "contexts": [
+    {
+      "id": "filosofia",
+      "page": 20,
+      "title": "Filosofía en viñetas",
+      "description": "Seis viñetas sobre filosofía, ciencia, Tales y revisión de lo considerado verdadero; preguntas61-62."
+    },
+    {
+      "id": "efectos",
+      "page": 21,
+      "title": "Efectos secundarios",
+      "description": "Infografía sobre investigación médica sin mujeres, cuatro recuadros. Pregunta64 continúa en22; cifras se tratan como afirmaciones de la fuente."
+    },
+    {
+      "id": "huerto",
+      "page": 22,
+      "title": "Pequeña guía para crear tu propio huerto en casa",
+      "description": "Seis recuadros de especies, recipiente, sustrato, siembra, separación, sol y riego; preguntas65-66."
+    }
+  ],
+  "items": [
+    {
+      "question": 61,
+      "page": 20,
+      "context": "filosofia",
+      "topic": "Ejemplificación entre viñetas",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "C",
+      "reason": "Newton como filósofo natural ejemplifica que filosofía abarcaba también ciencia, según la afirmación de la primera viñeta."
+    },
+    {
+      "question": 62,
+      "page": 20,
+      "context": "filosofia",
+      "topic": "Reconocimiento de explicación naturalista",
+      "competency_proposal": "Identifica y entiende los contenidos locales que conforman un texto",
+      "answer_proposal": "A",
+      "reason": "Explicar todo por aire, condensación y enrarecimiento recurre a elementos y procesos naturales, no solo a preguntas, ética o fuentes del conocimiento.",
+      "alert": "Identifica el tipo de explicación presentado, no valida esa antigua cosmología como ciencia actual."
+    },
+    {
+      "question": 63,
+      "page": 21,
+      "context": "efectos",
+      "topic": "Causa expuesta en una infografía",
+      "competency_proposal": "Identifica y entiende los contenidos locales que conforman un texto",
+      "answer_proposal": "A",
+      "reason": "El recuadro2 atribuye descubrimiento tardío de efectos en mujeres a pruebas principalmente masculinas, no a ausencia total de pruebas previas.",
+      "alert": "Lectura de afirmaciones de la infografía histórica; no consejo médico ni verificación actual de tasas de retiro."
+    },
+    {
+      "question": 64,
+      "page": 22,
+      "context": "efectos",
+      "topic": "Relación semántica de expresiones",
+      "competency_proposal": "Identifica y entiende los contenidos locales que conforman un texto",
+      "answer_proposal": "A",
+      "reason": "Células masculinas, animales machos y hombres comparten referencia al sexo masculino en distintas etapas de investigación.",
+      "alert": "No confundir células con organismos completos; la relación común es referencia a componentes o sujetos masculinos."
+    },
+    {
+      "question": 65,
+      "page": 22,
+      "context": "huerto",
+      "topic": "Interpretación de símbolo gráfico de duración",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "B",
+      "reason": "La porción sombreada del reloj acompaña recibir al menos cuatro horas de sol al día: representa duración aproximada, no hora exacta ni calendario de riego."
+    },
+    {
+      "question": 66,
+      "page": 22,
+      "context": "huerto",
+      "topic": "Aplicación de una instrucción explícita",
+      "competency_proposal": "Identifica y entiende los contenidos locales que conforman un texto",
+      "answer_proposal": "B",
+      "reason": "El recuadro4 indica15cm si son tubérculos. Las otras opciones cambian mezcla, profundidad o porcentaje de piedras."
+    }
+  ]
+}

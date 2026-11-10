@@ -1,0 +1,63 @@
+{
+  "file_id": "USB-75abccb84c15",
+  "date": "2026-10-30",
+  "area": "Matemáticas y Ciencias naturales",
+  "scope": "Físicas18-19 inspeccionadas visualmente completas.49-50idénticas aAAO2 38-39física8,cotejo con imagen consultada enpase anterior. Ciencias51-53tres fichas nuevas,sin coincidencia localizada mediante búsqueda dirigida,no unicidad global certificada.",
+  "items": [
+    {
+      "question": 51,
+      "page": 19,
+      "printed_page": 19,
+      "topic": "Transferencia deenergía entre productores yconsumidores",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "D",
+      "reason": "Mayor luz permite mayor producción vegetal enelrango mostrado,yelalimento vegetal transfiere energía alospulgones,permitiendo aumento poblacional.",
+      "alert": "No extrapolar crecimiento ilimitado conluz;tabla limitada atres niveles yagua constante,no descarta otros factores."
+    },
+    {
+      "question": 52,
+      "page": 19,
+      "printed_page": 19,
+      "topic": "Control devariables enmuestreo detemperatura marina",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "B",
+      "reason": "Medir alas mismas horas yenlos mismos sitios reduce variación debida ahorario ylocalización,ymejora comparabilidad delregistro.",
+      "alert": "Controlar hora ysitio no garantiza que cambios reproductivos sean causados directamente portemperatura. Elestudio observacional descrito permite estudiar asociación,con posibles variables deconfusión."
+    },
+    {
+      "question": 53,
+      "page": 19,
+      "printed_page": 19,
+      "topic": "Interdependencia trófica ydisponibilidad desustrato reproductivo",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "B",
+      "reason": "Menos monos yloros pueden dejar menos semillas descubiertas;elescarabajoGdeposita huevos enesas semillas enelsuelo,porloque su población podría disminuir.",
+      "alert": "Disminución posible según modelo,no extinción necesaria. Eldiagrama no cuantifica demografía ni efectos sobreotras especies."
+    }
+  ],
+  "duplicate_occurrences": [
+    {
+      "question": 49,
+      "page": 18,
+      "printed_page": 18,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 38,
+      "canonical_page": 8,
+      "exact_content": true,
+      "verification": "Cotejo visual directo detextos,dimensiones,figuras,diagramaVenn,tabla y opciones:muros3×2ybase9;baile80personas,valores18/6/15/9/10/0/17/5. Igual contenido salvo numeración,código ymaquetación.",
+      "observed_annotation": "Sin opción seleccionada inequívoca enAAR2."
+    },
+    {
+      "question": 50,
+      "page": 18,
+      "printed_page": 18,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 39,
+      "canonical_page": 8,
+      "exact_content": true,
+      "verification": "Cotejo visual directo detextos,dimensiones,figuras,diagramaVenn,tabla y opciones:muros3×2ybase9;baile80personas,valores18/6/15/9/10/0/17/5. Igual contenido salvo numeración,código ymaquetación.",
+      "observed_annotation": "Sin opción seleccionada inequívoca enAAR2."
+    }
+  ],
+  "next": "Física20,54en adelante."
+}

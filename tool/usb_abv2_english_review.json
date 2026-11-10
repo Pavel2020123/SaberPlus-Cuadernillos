@@ -1,0 +1,890 @@
+{
+  "file_id": "USB-1c44481d3d4a",
+  "date": "2026-10-29",
+  "area": "Ingles",
+  "competency_proposal": "Competencia comunicativa en lengua inglesa (propuesta general)",
+  "scope": "Preguntas80-134, paginas fisicas35-42 leidas visualmente completas, con ejemplos, carteles, opciones e imagenes. Propuestas no oficiales, sin MCER o dificultad asignados. Anotaciones manuscritas se documentan por separado, no se convierten en claves.",
+  "contexts": [
+    {
+      "id": "ABV2-EN1",
+      "questions": [
+        80,
+        81,
+        82,
+        83,
+        84
+      ],
+      "pages": [
+        35
+      ],
+      "title": "At the mall",
+      "format": "Asociacion de vocabulario",
+      "part": "1",
+      "answer_letters": "A-G",
+      "bank": {
+        "A": "basement",
+        "B": "bathroom",
+        "C": "bookstore",
+        "D": "cafe",
+        "E": "cinema",
+        "F": "elevator",
+        "G": "playground",
+        "H": "supermarket (solo ejemplo)"
+      },
+      "example_answer": "H",
+      "extra_words": [
+        "basement",
+        "bathroom"
+      ]
+    },
+    {
+      "id": "ABV2-EN2",
+      "questions": [
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91
+      ],
+      "pages": [
+        36
+      ],
+      "title": "Avisos y lugares",
+      "format": "Avisos y senales",
+      "part": "2",
+      "answer_letters": "A-C",
+      "example_answer": "A",
+      "visual_dependency": "Cinco carteles distintos; el del ejemplo de comida para gatos no es una pregunta puntuable.",
+      "note": "Siete avisos: dos adicionales al bloque ABU2, por eso 87-91 corresponden alli a85-89."
+    },
+    {
+      "id": "ABV2-EN3",
+      "questions": [
+        92,
+        93,
+        94,
+        95,
+        96
+      ],
+      "pages": [
+        37
+      ],
+      "title": "Conversaciones cotidianas",
+      "format": "Completar conversacion",
+      "part": "3",
+      "answer_letters": "A-C",
+      "example_answer": "A",
+      "note": "Cinco conversaciones distintas a las siete de ABU2; no copiar respuestas por numero."
+    },
+    {
+      "id": "ABV2-EN4A",
+      "pages": [
+        38
+      ],
+      "questions": [
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104
+      ],
+      "title": "Kung Fu Panda",
+      "format": "Texto con espacios",
+      "part": "4.A",
+      "answer_letters": "A-C",
+      "example_answer": "A",
+      "note": "Letras manuscritas de origen desconocido en varios huecos, no clave oficial."
+    },
+    {
+      "id": "ABV2-EN4B",
+      "pages": [
+        39
+      ],
+      "questions": [
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112
+      ],
+      "title": "Luthiers",
+      "format": "Texto con espacios",
+      "part": "4.B",
+      "answer_letters": "A-C",
+      "example_answer": "A",
+      "note": "Mismo contenido que77322 parte4, con numeracion distinta. Ejemplo trae una letra manuscrita B, pero la oracion pide keeps, A. En110 el trazo se considera no univoco: no se registra letra cierta."
+    },
+    {
+      "id": "ABV2-EN5",
+      "questions": [
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119
+      ],
+      "pages": [
+        40
+      ],
+      "title": "Evelyn Smith",
+      "format": "Comprension lectora",
+      "part": "5",
+      "answer_letters": "A-C",
+      "example_answer": "A",
+      "note": "Analizar datos del texto; no dar por comprobada identidad biografica o exactitud historica del relato."
+    },
+    {
+      "id": "ABV2-EN6",
+      "questions": [
+        120,
+        121,
+        122,
+        123,
+        124
+      ],
+      "pages": [
+        41
+      ],
+      "title": "Taking a gap year",
+      "format": "Comprension lectora",
+      "part": "6",
+      "answer_letters": "A-D",
+      "visual_dependency": "124 contiene cuatro anuncios en recuadros; conservarlos como opciones de ese item."
+    },
+    {
+      "id": "ABV2-EN7",
+      "questions": [
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134
+      ],
+      "pages": [
+        42
+      ],
+      "title": "Chinua Achebe",
+      "format": "Texto con espacios",
+      "part": "7",
+      "answer_letters": "A-D",
+      "example_answer": "A",
+      "note": "Coincide sustantivamente con 7.B de USB-578d9b20297e; aqui no existe una parte 7.A previa."
+    }
+  ],
+  "items": [
+    {
+      "question": 80,
+      "page": 35,
+      "context": "ABV2-EN1",
+      "topic": "Vocabulario de lugares de ocio",
+      "answer_proposal": "E",
+      "reason": "Cinema es el lugar para ver peliculas.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 80,
+      "related_page": 32
+    },
+    {
+      "question": 81,
+      "page": 35,
+      "context": "ABV2-EN1",
+      "topic": "Vocabulario de desplazamiento entre pisos",
+      "answer_proposal": "F",
+      "reason": "Elevator transporta personas entre pisos.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 81,
+      "related_page": 32
+    },
+    {
+      "question": 82,
+      "page": 35,
+      "context": "ABV2-EN1",
+      "topic": "Vocabulario de espacios infantiles",
+      "answer_proposal": "G",
+      "reason": "Playground es un espacio de juego para correr y saltar.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 82,
+      "related_page": 32
+    },
+    {
+      "question": 83,
+      "page": 35,
+      "context": "ABV2-EN1",
+      "topic": "Vocabulario de establecimientos comerciales",
+      "answer_proposal": "C",
+      "reason": "Bookstore vende material para leer.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 83,
+      "related_page": 32
+    },
+    {
+      "question": 84,
+      "page": 35,
+      "context": "ABV2-EN1",
+      "topic": "Vocabulario de establecimientos de bebidas",
+      "answer_proposal": "D",
+      "reason": "Cafe es el establecimiento donde comprar cafe.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 84,
+      "related_page": 32
+    },
+    {
+      "question": 85,
+      "page": 36,
+      "context": "ABV2-EN2",
+      "topic": "Aviso de comportamiento ante animales",
+      "answer_proposal": "A",
+      "reason": "La peticion de no aplaudir a animales corresponde al zoologico entre opciones."
+    },
+    {
+      "question": 86,
+      "page": 36,
+      "context": "ABV2-EN2",
+      "topic": "Lugar con restriccion de mascotas",
+      "answer_proposal": "B",
+      "reason": "Un hospital es el contexto mas adecuado para no admitir mascotas entre las alternativas dadas.",
+      "alert": "No afirma prohibicion universal: existen animales de asistencia y reglas particulares; se responde al aviso y opciones."
+    },
+    {
+      "question": 87,
+      "page": 36,
+      "context": "ABV2-EN2",
+      "topic": "Aviso para guardar juguetes",
+      "answer_proposal": "B",
+      "reason": "Osos de peluche, munecas y juegos de mesa se guardan en toy box.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 85,
+      "related_page": 33
+    },
+    {
+      "question": 88,
+      "page": 36,
+      "context": "ABV2-EN2",
+      "topic": "Lugar de actividad despues de clase",
+      "answer_proposal": "B",
+      "reason": "La referencia a despues de clase de matematicas situa la invitacion en una escuela.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 86,
+      "related_page": 33
+    },
+    {
+      "question": 89,
+      "page": 36,
+      "context": "ABV2-EN2",
+      "topic": "Aviso de ingredientes y empaque",
+      "answer_proposal": "A",
+      "reason": "Leche, huevos y chocolate corresponden a un pastel, no jugo o pasta.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 87,
+      "related_page": 33
+    },
+    {
+      "question": 90,
+      "page": 36,
+      "context": "ABV2-EN2",
+      "topic": "Aviso de ruta y horario de transporte",
+      "answer_proposal": "C",
+      "reason": "Numero de bus, destino y horario se anuncian en una estacion.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 88,
+      "related_page": 33
+    },
+    {
+      "question": 91,
+      "page": 36,
+      "context": "ABV2-EN2",
+      "topic": "Aviso de mascota y limpieza de habitacion",
+      "answer_proposal": "B",
+      "reason": "La solicitud de no limpiar una habitacion con mascota corresponde al hotel entre las opciones.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 89,
+      "related_page": 33
+    },
+    {
+      "question": 92,
+      "page": 37,
+      "context": "ABV2-EN3",
+      "topic": "Respuesta de desconocimiento ante pregunta de lugar",
+      "answer_proposal": "B",
+      "reason": "I don't know responde si ese es el salon de computadores."
+    },
+    {
+      "question": 93,
+      "page": 37,
+      "context": "ABV2-EN3",
+      "topic": "Minimizacion de una preocupacion",
+      "answer_proposal": "C",
+      "reason": "It's nothing responde coherentemente a Is something wrong?"
+    },
+    {
+      "question": 94,
+      "page": 37,
+      "context": "ABV2-EN3",
+      "topic": "Reaccion a recordatorio de seguridad",
+      "answer_proposal": "A",
+      "reason": "I almost forgot reconoce el recordatorio de ponerse cinturon."
+    },
+    {
+      "question": 95,
+      "page": 37,
+      "context": "ABV2-EN3",
+      "topic": "Pregunta ante anuncio sorprendente",
+      "answer_proposal": "B",
+      "reason": "What happened? pide el contenido de la noticia que no se creera."
+    },
+    {
+      "question": 96,
+      "page": 37,
+      "context": "ABV2-EN3",
+      "topic": "Respuesta sobre experiencia anterior",
+      "answer_proposal": "C",
+      "reason": "Only once responde a Have you had...before?"
+    },
+    {
+      "question": 97,
+      "page": 38,
+      "context": "ABV2-EN4A",
+      "topic": "Pronombre relativo para personaje",
+      "answer_proposal": "A",
+      "reason": "Who introduce la relativa con works para Po; where y whose no encajan."
+    },
+    {
+      "question": 98,
+      "page": 38,
+      "context": "ABV2-EN4A",
+      "topic": "Gerundio como sujeto de proposicion",
+      "answer_proposal": "C",
+      "reason": "Becoming a Kung Fu champion funciona como sujeto de is his destiny.",
+      "observed_annotation": {
+        "type": "letra manuscrita",
+        "value": "C",
+        "provenance": "desconocida"
+      }
+    },
+    {
+      "question": 99,
+      "page": 38,
+      "context": "ABV2-EN4A",
+      "topic": "Conector de simultaneidad",
+      "answer_proposal": "B",
+      "reason": "While Po is working introduce la accion simultanea a recibir la noticia.",
+      "observed_annotation": {
+        "type": "letra manuscrita",
+        "value": "B",
+        "provenance": "desconocida"
+      }
+    },
+    {
+      "question": 100,
+      "page": 38,
+      "context": "ABV2-EN4A",
+      "topic": "Adverbio de evaluacion de evento adverso",
+      "answer_proposal": "C",
+      "reason": "Unfortunately introduce que Po llega tarde, evento desfavorable.",
+      "observed_annotation": {
+        "type": "letra manuscrita",
+        "value": "B",
+        "provenance": "desconocida"
+      },
+      "alert": "La anotacion B=Usually no sigue el evento unico narrado; propuesta C no heredada de la letra manuscrita."
+    },
+    {
+      "question": 101,
+      "page": 38,
+      "context": "ABV2-EN4A",
+      "topic": "Adverbio temporal de coincidencia",
+      "answer_proposal": "A",
+      "reason": "Just when the gates are closing expresa que llega precisamente cuando se cierran."
+    },
+    {
+      "question": 102,
+      "page": 38,
+      "context": "ABV2-EN4A",
+      "topic": "Preposicion seguida de gerundio",
+      "answer_proposal": "B",
+      "reason": "After trying several times expresa secuencia tras intentarlo repetidamente.",
+      "observed_annotation": {
+        "type": "letra manuscrita",
+        "value": "B",
+        "provenance": "desconocida"
+      }
+    },
+    {
+      "question": 103,
+      "page": 38,
+      "context": "ABV2-EN4A",
+      "topic": "Pronombre reflexivo referido al sujeto",
+      "answer_proposal": "C",
+      "reason": "Po throws himself exige reflexivo porque se lanza a si mismo.",
+      "observed_annotation": {
+        "type": "letra manuscrita",
+        "value": "A",
+        "provenance": "desconocida"
+      },
+      "alert": "La anotacion A=both discrepa de la referencia singular y reflexiva; no aceptar como solucionario."
+    },
+    {
+      "question": 104,
+      "page": 38,
+      "context": "ABV2-EN4A",
+      "topic": "Determinante indefinido ante singular",
+      "answer_proposal": "C",
+      "reason": "Another movie determina un segundo filme contable singular; some movie no expresa esa continuidad en este contexto.",
+      "observed_annotation": {
+        "type": "letra manuscrita",
+        "value": "B",
+        "provenance": "desconocida"
+      },
+      "alert": "Se ve anotacion B=some. Another es la alternativa mas natural para otra pelicula; some movie puede ser gramatical en otros contextos. Revisar precision discursiva."
+    },
+    {
+      "question": 105,
+      "page": 39,
+      "context": "ABV2-EN4B",
+      "topic": "Adverbio de frecuencia en presente habitual",
+      "answer_proposal": "A",
+      "reason": "Often se integra con la eleccion habitual de tipos de instrumentos.",
+      "related_file_id": "USB-578d9b20297e",
+      "related_question": 95,
+      "related_page": 35,
+      "observed_annotation": {
+        "type": "letra manuscrita en hueco",
+        "value": "C",
+        "provenance": "desconocida"
+      },
+      "alert": "Anotacion manuscrita C, discrepante con propuesta A; no se hereda como clave."
+    },
+    {
+      "question": 106,
+      "page": 39,
+      "context": "ABV2-EN4B",
+      "topic": "Adverbio de grado ante adjetivo",
+      "answer_proposal": "C",
+      "reason": "Quite similar modifica naturalmente similar; enough se ubicaria despues del adjetivo.",
+      "related_file_id": "USB-578d9b20297e",
+      "related_question": 96,
+      "related_page": 35,
+      "observed_annotation": {
+        "type": "letra manuscrita en hueco",
+        "value": "B",
+        "provenance": "desconocida"
+      },
+      "alert": "Anotacion manuscrita B, discrepante con propuesta C; no se hereda como clave."
+    },
+    {
+      "question": 107,
+      "page": 39,
+      "context": "ABV2-EN4B",
+      "topic": "Cuantificador ante sustantivo plural",
+      "answer_proposal": "B",
+      "reason": "Several materials concuerda con materiales plurales; every requiere singular y less no es la opcion adecuada.",
+      "related_file_id": "USB-578d9b20297e",
+      "related_question": 97,
+      "related_page": 35,
+      "observed_annotation": {
+        "type": "letra manuscrita en hueco",
+        "value": "C",
+        "provenance": "desconocida"
+      },
+      "alert": "Anotacion manuscrita C, discrepante con propuesta B; no se hereda como clave."
+    },
+    {
+      "question": 108,
+      "page": 39,
+      "context": "ABV2-EN4B",
+      "topic": "Pronombre relativo para objetos",
+      "answer_proposal": "B",
+      "reason": "Which retoma instrumentos como sujeto de are played; who refiere a personas y where a lugares.",
+      "related_file_id": "USB-578d9b20297e",
+      "related_question": 98,
+      "related_page": 35,
+      "observed_annotation": {
+        "type": "letra manuscrita en hueco",
+        "value": "B",
+        "provenance": "desconocida"
+      },
+      "alert": "Anotacion manuscrita B, coincidente con propuesta B; no se hereda como clave."
+    },
+    {
+      "question": 109,
+      "page": 39,
+      "context": "ABV2-EN4B",
+      "topic": "Participio en construccion get broken",
+      "answer_proposal": "C",
+      "reason": "Broken expresa estado resultante de dano despues de get.",
+      "related_file_id": "USB-578d9b20297e",
+      "related_question": 99,
+      "related_page": 35,
+      "observed_annotation": {
+        "type": "letra manuscrita en hueco",
+        "value": "A",
+        "provenance": "desconocida"
+      },
+      "alert": "Anotacion manuscrita A, discrepante con propuesta C; no se hereda como clave."
+    },
+    {
+      "question": 110,
+      "page": 39,
+      "context": "ABV2-EN4B",
+      "topic": "Preposicion temporal y causa contextual",
+      "answer_proposal": "A",
+      "reason": "After an accident situa la interrupcion de funcionamiento tras el accidente.",
+      "related_file_id": "USB-578d9b20297e",
+      "related_question": 100,
+      "related_page": 35
+    },
+    {
+      "question": 111,
+      "page": 39,
+      "context": "ABV2-EN4B",
+      "topic": "Determinante ante sustantivo singular",
+      "answer_proposal": "C",
+      "reason": "Another part significa otra parte del trabajo; both exige plural y either presupone dos alternativas.",
+      "related_file_id": "USB-578d9b20297e",
+      "related_question": 101,
+      "related_page": 35,
+      "observed_annotation": {
+        "type": "letra manuscrita en hueco",
+        "value": "C",
+        "provenance": "desconocida"
+      },
+      "alert": "Anotacion manuscrita C, coincidente con propuesta C; no se hereda como clave."
+    },
+    {
+      "question": 112,
+      "page": 39,
+      "context": "ABV2-EN4B",
+      "topic": "Conector condicional",
+      "answer_proposal": "B",
+      "reason": "If introduce la condicion de querer ser luthier.",
+      "related_file_id": "USB-578d9b20297e",
+      "related_question": 102,
+      "related_page": 35,
+      "observed_annotation": {
+        "type": "letra manuscrita en hueco",
+        "value": "C",
+        "provenance": "desconocida"
+      },
+      "alert": "Anotacion manuscrita C, discrepante con propuesta B; no se hereda como clave."
+    },
+    {
+      "question": 113,
+      "page": 40,
+      "context": "ABV2-EN5",
+      "topic": "Localizacion de residencia juvenil",
+      "answer_proposal": "C",
+      "reason": "La familia se traslado a Texas y alli crecio con su hermana.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 113,
+      "related_page": 37
+    },
+    {
+      "question": 114,
+      "page": 40,
+      "context": "ABV2-EN5",
+      "topic": "Identificacion de personaje en relato",
+      "answer_proposal": "C",
+      "reason": "El tio Jim la llevo a la feria y al avion.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 114,
+      "related_page": 37
+    },
+    {
+      "question": 115,
+      "page": 40,
+      "context": "ABV2-EN5",
+      "topic": "Rol de protagonista en primer vuelo",
+      "answer_proposal": "B",
+      "reason": "El tio pilotaba mientras ella estaba sentada a su lado como pasajera.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 115,
+      "related_page": 37
+    },
+    {
+      "question": 116,
+      "page": 40,
+      "context": "ABV2-EN5",
+      "topic": "Parafrasis de ocupacion",
+      "answer_proposal": "A",
+      "reason": "En Toronto ayudaba a vender medicinas; pharmacist es la alternativa relacionada.",
+      "alert": "Ayudar a vender medicinas no acredita titulacion de farmaceutica. La opcion es una aproximacion semantica, no una profesion demostrada por el texto.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 116,
+      "related_page": 37
+    },
+    {
+      "question": 117,
+      "page": 40,
+      "context": "ABV2-EN5",
+      "topic": "Lugar de aprendizaje de vuelo",
+      "answer_proposal": "C",
+      "reason": "El texto situa el aprendizaje en Sacramento.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 117,
+      "related_page": 37
+    },
+    {
+      "question": 118,
+      "page": 40,
+      "context": "ABV2-EN5",
+      "topic": "Relacion familiar y prestamo",
+      "answer_proposal": "A",
+      "reason": "El padre presto dinero para comprar el avion; father pertenece a parents.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 118,
+      "related_page": 37
+    },
+    {
+      "question": 119,
+      "page": 40,
+      "context": "ABV2-EN5",
+      "topic": "Sintesis global de biografia",
+      "answer_proposal": "A",
+      "reason": "Viajes, aprendizaje y vuelo transoceanico caracterizan una vida de aventura; no una sucesion de accidentes o dedicacion al arte.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 119,
+      "related_page": 37
+    },
+    {
+      "question": 120,
+      "page": 41,
+      "context": "ABV2-EN6",
+      "topic": "Proposito argumentativo del articulo",
+      "answer_proposal": "A",
+      "reason": "Presenta razones a favor de un ano de pausa cuando se necesita, sin exigirlo a todos.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 120,
+      "related_page": 38
+    },
+    {
+      "question": 121,
+      "page": 41,
+      "context": "ABV2-EN6",
+      "topic": "Inferencia de beneficios profesionales del biling�ismo",
+      "answer_proposal": "C",
+      "reason": "El segundo parrafo vincula aprender idioma con oportunidades de trabajo y mejores salarios.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 121,
+      "related_page": 38
+    },
+    {
+      "question": 122,
+      "page": 41,
+      "context": "ABV2-EN6",
+      "topic": "Inferencia de renovacion personal",
+      "answer_proposal": "C",
+      "reason": "El tercer parrafo propone explorar intereses, recuperar energia e inspirar el futuro.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 122,
+      "related_page": 38
+    },
+    {
+      "question": 123,
+      "page": 41,
+      "context": "ABV2-EN6",
+      "topic": "Recomendacion para retorno laboral",
+      "answer_proposal": "D",
+      "reason": "Incluir actividades utiles desarrolla habilidades que mejoran el CV segun el ultimo parrafo.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 123,
+      "related_page": 38
+    },
+    {
+      "question": 124,
+      "page": 41,
+      "context": "ABV2-EN6",
+      "topic": "Transferencia de idea global a anuncio",
+      "answer_proposal": "B",
+      "reason": "B anuncia descanso y aprovechamiento de ventajas, abarcando el tema global sin reducirlo a idioma o cambio de profesion.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 124,
+      "related_page": 38
+    },
+    {
+      "question": 125,
+      "page": 42,
+      "context": "ABV2-EN7",
+      "topic": "Colocacion de traduccion a lenguas",
+      "answer_proposal": "B",
+      "reason": "Translated into forty languages expresa traduccion de novelas.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 125,
+      "related_page": 39,
+      "observed_annotation": {
+        "type": "letra manuscrita en hueco",
+        "value": "D",
+        "provenance": "desconocida"
+      },
+      "alert": "Letra manuscrita D en el ejemplar; discrepa de la propuesta B. No es clave oficial."
+    },
+    {
+      "question": 126,
+      "page": 42,
+      "context": "ABV2-EN7",
+      "topic": "Seleccion lexica de representacion de personas",
+      "answer_proposal": "D",
+      "reason": "Descriptions of African people weren't accurate se refiere a su representacion.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 126,
+      "related_page": 39,
+      "observed_annotation": {
+        "type": "letra manuscrita en hueco",
+        "value": "B",
+        "provenance": "desconocida"
+      },
+      "alert": "Letra manuscrita B en el ejemplar; discrepa de la propuesta D. No es clave oficial."
+    },
+    {
+      "question": 127,
+      "page": 42,
+      "context": "ABV2-EN7",
+      "topic": "Adjetivo de representacion realista",
+      "answer_proposal": "A",
+      "reason": "More realistic way responde a descripciones inexactas.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 127,
+      "related_page": 39,
+      "observed_annotation": {
+        "type": "letra manuscrita en hueco",
+        "value": "B",
+        "provenance": "desconocida"
+      },
+      "alert": "Letra manuscrita B en el ejemplar; discrepa de la propuesta A. No es clave oficial."
+    },
+    {
+      "question": 128,
+      "page": 42,
+      "context": "ABV2-EN7",
+      "topic": "Verbo de elaboracion de obra",
+      "answer_proposal": "D",
+      "reason": "Developed Things Fall Apart expresa elaboracion de la obra en ese contexto.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 128,
+      "related_page": 39,
+      "observed_annotation": {
+        "type": "letra manuscrita en hueco",
+        "value": "A",
+        "provenance": "desconocida"
+      },
+      "alert": "Letra manuscrita A en el ejemplar; discrepa de la propuesta D. No es clave oficial."
+    },
+    {
+      "question": 129,
+      "page": 42,
+      "context": "ABV2-EN7",
+      "topic": "Locucion temporal de secuencia",
+      "answer_proposal": "B",
+      "reason": "At first se contrapone al posterior abandono del intento.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 129,
+      "related_page": 39,
+      "observed_annotation": {
+        "type": "letra manuscrita en hueco",
+        "value": "B",
+        "provenance": "desconocida"
+      },
+      "alert": "Letra manuscrita B en el ejemplar; coincide con la propuesta B. No es clave oficial."
+    },
+    {
+      "question": 130,
+      "page": 42,
+      "context": "ABV2-EN7",
+      "topic": "Adverbio con after",
+      "answer_proposal": "A",
+      "reason": "Shortly after significa poco despues de la publicacion.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 130,
+      "related_page": 39,
+      "observed_annotation": {
+        "type": "letra manuscrita en hueco",
+        "value": "B",
+        "provenance": "desconocida"
+      },
+      "alert": "Letra manuscrita B en el ejemplar; discrepa de la propuesta A. No es clave oficial."
+    },
+    {
+      "question": 131,
+      "page": 42,
+      "context": "ABV2-EN7",
+      "topic": "Construccion causativa con participio",
+      "answer_proposal": "C",
+      "reason": "Had the play produced usa have + objeto + participio; made o let requeririan otra forma verbal.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 131,
+      "related_page": 39,
+      "observed_annotation": {
+        "type": "letra manuscrita en hueco",
+        "value": "C",
+        "provenance": "desconocida"
+      },
+      "alert": "Letra manuscrita C en el ejemplar; coincide con la propuesta C. No es clave oficial."
+    },
+    {
+      "question": 132,
+      "page": 42,
+      "context": "ABV2-EN7",
+      "topic": "Conector concesivo",
+      "answer_proposal": "C",
+      "reason": "Although contrasta seguir escribiendo con viajar durante la misma decada.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 132,
+      "related_page": 39,
+      "observed_annotation": {
+        "type": "letra manuscrita en hueco",
+        "value": "B",
+        "provenance": "desconocida"
+      },
+      "alert": "Letra manuscrita B en el ejemplar; discrepa de la propuesta C. No es clave oficial."
+    },
+    {
+      "question": 133,
+      "page": 42,
+      "context": "ABV2-EN7",
+      "topic": "Verbo introductor de cita",
+      "answer_proposal": "D",
+      "reason": "Mentioned in an interview introduce lo expresado en la entrevista.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 133,
+      "related_page": 39,
+      "observed_annotation": {
+        "type": "letra manuscrita en hueco",
+        "value": "C",
+        "provenance": "desconocida"
+      },
+      "alert": "Letra manuscrita C en el ejemplar; discrepa de la propuesta D. No es clave oficial."
+    },
+    {
+      "question": 134,
+      "page": 42,
+      "context": "ABV2-EN7",
+      "topic": "Capacidad negada en pasado",
+      "answer_proposal": "A",
+      "reason": "Even if I wanted I couldn't expresa incapacidad para continuar novelas antes de pasar a poesia.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 134,
+      "related_page": 39,
+      "observed_annotation": {
+        "type": "letra manuscrita en hueco",
+        "value": "C",
+        "provenance": "desconocida"
+      },
+      "alert": "Letra manuscrita C en el ejemplar; discrepa de la propuesta A. No es clave oficial."
+    }
+  ],
+  "comparison_scope": "40 pares cotejados:32 conABU2 (80-84,87-91 frente85-89,113-134) y8 con77322 (105-112 frente95-102). Misma sustancia de texto/opciones en esos pares, distinta numeracion en algunos y marcas de escritura adicionales. Los otros15 no se declaran unicos de toda la coleccion.",
+  "next": "Autoinformes135-159 en paginas43-44; no evaluan aciertos ni competencias academicas."
+}

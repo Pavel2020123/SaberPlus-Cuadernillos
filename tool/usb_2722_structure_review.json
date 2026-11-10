@@ -1,0 +1,65 @@
+{
+  "file_id": "USB-2722e7c48dfd",
+  "date": "2026-10-30",
+  "area": "Estructura documental",
+  "scope": "Las33páginas inspeccionadas visualmente. Todos los117enunciados presentes tienen primera ficha; no equivale a edición completa ni validación docente.",
+  "items": [],
+  "metadata": {
+    "cover": {
+      "declared_period": "2026-1",
+      "session": "Segunda sesión",
+      "declared_questions": 115,
+      "duration": "4h30",
+      "illustration": "Cristo Redentor de Cali",
+      "calendar": "No confirmado",
+      "authenticity": "No verificada",
+      "version": "Pendiente lectura fina"
+    },
+    "physical_pages": 33,
+    "blank_pages": [
+      33
+    ],
+    "academic_present": 117,
+    "self_reports_present": 0,
+    "missing_printed_numbers": [
+      81,
+      82,
+      83,
+      84,
+      85
+    ],
+    "repeated_printed_ranges": [
+      {
+        "range": "94-100",
+        "page": 28,
+        "title": "Clever Children",
+        "internal_identifiers": "94.1-100.1",
+        "part": "5.A"
+      },
+      {
+        "range": "94-100",
+        "page": 30,
+        "title": "Who invented sunglasses?",
+        "internal_identifiers": "94.2-100.2",
+        "part": "5.B"
+      }
+    ],
+    "warning": "Los decimales son identificadores internos de fichas, no números impresos. No sobrescribir textos distintos con mismo número. Parte3ausente; páginas28/29conpartes5.A/4fuera de orden.",
+    "area_pages": {
+      "sociales": "1-22en2-8",
+      "matematicas": "23-44en9-16",
+      "ciencias": "45-70en17-25",
+      "ingles": "71-80en26-27;94-100varianteAen28;86-93en29;94-100varianteBen30;101-105en31;106-115en32"
+    },
+    "remaining_alerts": [
+      "Inglés100varianteA: marcaB,propuestaC.",
+      "Inglés103:marcaC,propuestaB.",
+      "Sociales12:marcaB,propuestaA.",
+      "Matemáticas31:marcaB/Cambigua,propuestaC.",
+      "Matemáticas41inconsistencia apotema.",
+      "Ciencias59: cantidad de biomasa sin base definida.",
+      "Faltan81-85; no completar desde otro PDF."
+    ],
+    "collection_complete": false
+  }
+}

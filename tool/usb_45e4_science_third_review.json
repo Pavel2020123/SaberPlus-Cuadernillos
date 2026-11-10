@@ -1,0 +1,78 @@
+{
+  "file_id": "USB-45e476387c60",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Físicas 22-24, impresas 21-23, inspeccionadas completas con tablas, estructuras y figuras. Preguntas 60-66, sin coincidencia exacta verificada en fichas consultadas.",
+  "items": [
+    {
+      "question": 60,
+      "page": 22,
+      "printed_page": 21,
+      "topic": "Separación por solubilidad selectiva",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "C",
+      "reason": "Corrección por cotejo visual del 2026-10-30: X no se disuelve en agua ni en tolueno; Z sí se disuelve en agua. Agregar agua, filtrar X y evaporar el agua permite recuperar Z. La lectura anterior de la solubilidad de X era incorrecta.",
+      "alert": "Ambos sólidos tienen tamaño 1 mm y carecen de magnetismo; tamizado e imantación no los distinguen. Clasificación teórica, no protocolo seguro de manejo de tolueno."
+    },
+    {
+      "question": 61,
+      "page": 22,
+      "printed_page": 21,
+      "topic": "Evidencia experimental y formulación de hipótesis",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "A",
+      "reason": "A temperatura constante de 80 °C, el proceso tarda 5 h sin catalizador y 5,2,4 h con tres catalizadores. Algunos reducen tiempo, apoyando hipótesis de aumento de velocidad.",
+      "alert": "Solo dos catalizadores aceleran frente al control, no todos. Se presupone mismo criterio de final de reacción; tiempo aislado no describe toda cinética."
+    },
+    {
+      "question": 62,
+      "page": 23,
+      "printed_page": 22,
+      "topic": "Contrastación de hipótesis con seguimiento temporal",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "C",
+      "reason": "Alta montaña registra 2,3,4 mutaciones en primer, décimo y último año; baja montaña 2,5;2,5;4. Ambos promedios llegan a 4, por lo que no se corrobora acumulación final mayor en alta montaña.",
+      "alert": "C dice número similar a lo largo de los años: simplifica diferencias intermedias. No hay tamaño muestral ni varianza para probar igualdad estadística; más intensidad UV no prueba automáticamente resultado de hipótesis."
+    },
+    {
+      "question": 63,
+      "page": 23,
+      "printed_page": 22,
+      "topic": "Inferencia de efecto fisiológico a partir del relato",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "B",
+      "reason": "El caso describe cortisol elevado y recomendaciones para evitar retención de líquidos y daño vascular; entre opciones, aumento de presión arterial con hinchazón es el efecto coherente.",
+      "alert": "Respuesta al relato pedagógico, no diagnóstico ni recomendación clínica. No se atribuye pérdida total de funciones cerebrales."
+    },
+    {
+      "question": 64,
+      "page": 23,
+      "printed_page": 22,
+      "topic": "Representación de fuerza magnética sobre clips",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "B",
+      "reason": "La fuerza de atracción sobre clips bajo los imanes se orienta hacia arriba; el imán 2 sostiene más clips iguales, por lo que el modelo lo representa con flecha mayor.",
+      "alert": "La cantidad máxima soportada es un indicador aproximado bajo condiciones comparables; no mide por sí sola campo o fuerza exacta a cualquier distancia."
+    },
+    {
+      "question": 65,
+      "page": 24,
+      "printed_page": 23,
+      "topic": "Grupos funcionales que permiten enlace peptídico",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "A",
+      "reason": "La estructura 3 (cisteína) posee grupo amino y ácido carboxílico, ambos requeridos por la explicación para formar enlaces peptídicos.",
+      "alert": "Serotonina y dopamina tienen amino pero no carboxilo; no confundir hidroxilo fenólico con ácido carboxílico. Descripción simplificada de formación de proteínas."
+    },
+    {
+      "question": 66,
+      "page": 24,
+      "printed_page": 23,
+      "topic": "Diseño de tabla para supervivencia experimental",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "D",
+      "reason": "D permite registrar tiempo de exposición por grupo y números inicial y final de larvas; esos conteos permiten comparar supervivencia relativa.",
+      "alert": "D no explicita el día de medición ni control en encabezado; deben registrarse al completar datos. B omite exposición, A/C omiten conteos finales."
+    }
+  ]
+}

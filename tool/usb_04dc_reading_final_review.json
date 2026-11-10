@@ -1,0 +1,101 @@
+{
+  "file_id": "USB-04dc5257ed8b",
+  "date": "2026-10-30",
+  "area": "Lectura critica",
+  "scope": "Inspección visual de enunciados, opciones y contextos en páginas físicas18-21. Propuestas no oficiales, marcas de autoría desconocida.",
+  "competency_legend": {
+    "L": "Identificar y entender los contenidos locales que conforman un texto",
+    "G": "Comprender cómo se articulan las partes de un texto para darle un sentido global",
+    "R": "Reflexionar a partir de un texto y evaluar su contenido"
+  },
+  "contexts": [
+    {
+      "id": "sesgo",
+      "title": "¿Es menos probable que un religioso se vuelva asesino? Eso creemos, según un estudio",
+      "pages": [
+        18
+      ],
+      "description": "Texto atribuido a Carey,2017: experimento de percepciones sobre religiosidad y asesinos. Documentar el sesgo descrito sin adoptarlo como afirmación sobre grupos."
+    },
+    {
+      "id": "lectora",
+      "title": "La lectora (fragmento)",
+      "pages": [
+        19
+      ],
+      "description": "Relato atribuido a Sergio Álvarez: narrador amenazado para que lea un libro."
+    }
+  ],
+  "items": [
+    {
+      "question": 52,
+      "page": 18,
+      "topic": "Diferenciación de resultados y conclusiones",
+      "competency_code": "R",
+      "answer_proposal": "C",
+      "reason": "Los porcentajes60% y30% constituyen resultados del experimento sobre sesgo; la afirmación inicial es una conclusión y el25% pertenece a otro análisis.",
+      "observed_highlight": "C",
+      "context": "sesgo"
+    },
+    {
+      "question": 53,
+      "page": 18,
+      "topic": "Función argumentativa de fuente citada",
+      "competency_code": "G",
+      "answer_proposal": "D",
+      "reason": "El análisis de Stone se introduce después de señalar asesinos que profesan creencias religiosas y cuestiona la creencia mayoritaria de que el asesino sería ateo, no los resultados sobre existencia del sesgo.",
+      "observed_highlight": "D",
+      "context": "sesgo"
+    },
+    {
+      "question": 54,
+      "page": 19,
+      "topic": "Motivación explícita de personaje",
+      "competency_code": "L",
+      "answer_proposal": "A",
+      "reason": "El narrador afirma que tuvo un mal presentimiento y quiso correr al ver acercarse al hombre.",
+      "observed_highlight": "A",
+      "context": "lectora"
+    },
+    {
+      "question": 55,
+      "page": 19,
+      "topic": "Identificación explícita de autor mencionado",
+      "competency_code": "L",
+      "answer_proposal": "C",
+      "reason": "El relato menciona un libro de Kundera; Álvarez figura en la atribución del fragmento, no como autor del libro que lleva el personaje.",
+      "observed_highlight": "C",
+      "context": "lectora"
+    },
+    {
+      "question": 56,
+      "page": 19,
+      "topic": "Identificación de narrador y personaje",
+      "competency_code": "L",
+      "answer_proposal": "A",
+      "reason": "El narrador en primera persona dice que el otro vació su bolso y encontró el libro que había tomado a su cuñado.",
+      "observed_highlight": "A",
+      "context": "lectora"
+    },
+    {
+      "question": 57,
+      "page": 19,
+      "topic": "Reconocimiento de prejuicio por apariencia",
+      "competency_code": "R",
+      "answer_proposal": "A",
+      "reason": "La descripción del cabello, bigote y ropa se asocia con aprendices de mafioso y constituye un juicio basado en apariencia.",
+      "observed_highlight": "A",
+      "context": "lectora"
+    },
+    {
+      "question": 58,
+      "page": 19,
+      "topic": "Intención pragmática de pregunta",
+      "competency_code": "G",
+      "answer_proposal": "C",
+      "reason": "Preguntar a usted qué le importa expresa resistencia a responder sobre saber leer; no equivale a prometer que nunca responderá.",
+      "observed_highlight": "C",
+      "context": "lectora"
+    }
+  ]
+}

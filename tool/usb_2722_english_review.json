@@ -1,0 +1,748 @@
+{
+  "file_id": "USB-2722e7c48dfd",
+  "date": "2026-10-30",
+  "area": "Ingles",
+  "competency_proposal": "Competencia comunicativa en lengua inglesa (propuesta general)",
+  "scope": "47enunciados inspeccionados visualmente en físicas26-32, textos,bancos y opciones completos. Faltan81-85. Dos bloques distintos impresos94-100: identificadores internos94.1-100.1paraCleverChildreny94.2-100.2paraSunglasses, no números impresos. No MCER ni dificultad asignados. Marcas no oficiales.",
+  "contexts": [
+    {
+      "id": "objects",
+      "title": "Object Uses",
+      "part": "1",
+      "pages": [
+        26
+      ],
+      "format": "Asociación de vocabulario",
+      "answer_letters": "A-G",
+      "example_answer": "H",
+      "bank": {
+        "A": "boat",
+        "B": "camera",
+        "C": "draw",
+        "D": "guitar",
+        "E": "laptop",
+        "F": "movie",
+        "G": "music",
+        "H": "swim (ejemplo)"
+      }
+    },
+    {
+      "id": "signs",
+      "title": "Avisos",
+      "part": "2",
+      "pages": [
+        27
+      ],
+      "format": "Avisos y señales",
+      "answer_letters": "A-C"
+    },
+    {
+      "id": "lynda",
+      "title": "Lynda Carter",
+      "part": "4",
+      "pages": [
+        29
+      ],
+      "format": "Texto con espacios",
+      "answer_letters": "A-C"
+    },
+    {
+      "id": "clever",
+      "title": "Clever Children",
+      "part": "5.A (identificador editorial)",
+      "pages": [
+        28
+      ],
+      "format": "Comprensión lectora",
+      "answer_letters": "A-C",
+      "printed_questions": "94-100"
+    },
+    {
+      "id": "sunglasses",
+      "title": "Who invented sunglasses?",
+      "part": "5.B (identificador editorial)",
+      "pages": [
+        30
+      ],
+      "format": "Comprensión lectora",
+      "answer_letters": "A-C",
+      "printed_questions": "94-100"
+    },
+    {
+      "id": "art",
+      "title": "Texto sobre arte en la educación",
+      "part": "6",
+      "pages": [
+        31
+      ],
+      "format": "Comprensión lectora",
+      "answer_letters": "A-D"
+    },
+    {
+      "id": "aquaman",
+      "title": "Aquaman",
+      "part": "7",
+      "pages": [
+        32
+      ],
+      "format": "Texto con espacios",
+      "answer_letters": "A-D"
+    }
+  ],
+  "items": [
+    {
+      "question": 71,
+      "page": 26,
+      "topic": "Objetos para interpretar canciones",
+      "answer_proposal": "D",
+      "reason": "Guitar permite tocar una canción.",
+      "context": "objects",
+      "observed_annotation": {
+        "value": "D",
+        "type": "letra manuscrita naranja",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 72,
+      "page": 26,
+      "topic": "Objeto para usar Internet",
+      "answer_proposal": "E",
+      "reason": "Laptop es el dispositivo del banco apropiado para acceder a Internet.",
+      "context": "objects",
+      "observed_annotation": {
+        "value": "E",
+        "type": "letra manuscrita naranja",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 73,
+      "page": 26,
+      "topic": "Objeto para tomar fotografías",
+      "answer_proposal": "B",
+      "reason": "Camera corresponde a tomar fotos.",
+      "context": "objects",
+      "observed_annotation": {
+        "value": "B",
+        "type": "letra manuscrita naranja",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 74,
+      "page": 26,
+      "topic": "Actividad con lápices y papel",
+      "answer_proposal": "C",
+      "reason": "Draw corresponde a dibujar con lápices de colores y papel.",
+      "context": "objects",
+      "observed_annotation": {
+        "value": "C",
+        "type": "letra manuscrita naranja",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 75,
+      "page": 26,
+      "topic": "Entretenimiento con entrada",
+      "answer_proposal": "F",
+      "reason": "Movie es lo que se puede ver comprando una entrada.",
+      "context": "objects",
+      "observed_annotation": {
+        "value": "F",
+        "type": "letra manuscrita naranja",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 76,
+      "page": 27,
+      "topic": "Aviso de horarios de comida",
+      "answer_proposal": "B",
+      "reason": "Almuerzo y cena en esos horarios corresponden mejor a un hotel entre las tres opciones.",
+      "context": "signs",
+      "observed_annotation": {
+        "value": "B",
+        "type": "trazo naranja sobre opción",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 77,
+      "page": 27,
+      "topic": "Norma de silencio",
+      "answer_proposal": "A",
+      "reason": "Silence,please es una instrucción típica de biblioteca.",
+      "context": "signs",
+      "observed_annotation": {
+        "value": "A",
+        "type": "trazo naranja sobre opción",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 78,
+      "page": 27,
+      "topic": "Cartel de función con entradas",
+      "answer_proposal": "A",
+      "reason": "Título,horarios y precio anuncian espectáculo en un póster.",
+      "context": "signs",
+      "observed_annotation": {
+        "value": "A",
+        "type": "trazo naranja sobre opción",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 79,
+      "page": 27,
+      "topic": "Identificación de directora escolar",
+      "answer_proposal": "C",
+      "reason": "Nombre y cargo identifican una puerta de oficina.",
+      "context": "signs",
+      "observed_annotation": {
+        "value": "C",
+        "type": "trazo naranja sobre opción",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 80,
+      "page": 27,
+      "topic": "Prohibición de alimentar animales",
+      "answer_proposal": "C",
+      "reason": "Don't feed the monkeys corresponde al zoológico.",
+      "context": "signs",
+      "observed_annotation": {
+        "value": "C",
+        "type": "trazo naranja sobre opción",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 86,
+      "page": 29,
+      "topic": "Adverbio enfático",
+      "answer_proposal": "C",
+      "reason": "Even enfatiza que incluso la llamabanOlive.",
+      "context": "lynda",
+      "observed_annotation": {
+        "value": "C",
+        "type": "trazo naranja sobre opción",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 87,
+      "page": 29,
+      "topic": "Conector de consecuencia",
+      "answer_proposal": "A",
+      "reason": "So une aspiración artística con cambio de nombre como consecuencia.",
+      "context": "lynda",
+      "observed_annotation": {
+        "value": "A",
+        "type": "trazo naranja sobre opción",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 88,
+      "page": 29,
+      "topic": "Pronombre reflexivo",
+      "answer_proposal": "B",
+      "reason": "Thought to herself concuerda con sujeto femeninoLynda.",
+      "context": "lynda",
+      "observed_annotation": {
+        "value": "B",
+        "type": "trazo naranja sobre opción",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 89,
+      "page": 29,
+      "topic": "Locución de extensión geográfica",
+      "answer_proposal": "B",
+      "reason": "All over the country expresa viajar por todo el país.",
+      "context": "lynda",
+      "observed_annotation": {
+        "value": "B",
+        "type": "trazo naranja sobre opción",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 90,
+      "page": 29,
+      "topic": "Pasado simple coordinado",
+      "answer_proposal": "C",
+      "reason": "Went y began comparten marco pasado y coordinación.",
+      "context": "lynda",
+      "observed_annotation": {
+        "value": "C",
+        "type": "trazo naranja sobre opción",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 91,
+      "page": 29,
+      "topic": "Adverbio aditivo",
+      "answer_proposal": "A",
+      "reason": "Also añade que continuó la actividad musical junto a actuación.",
+      "context": "lynda",
+      "observed_annotation": {
+        "value": "A",
+        "type": "trazo naranja sobre opción",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 92,
+      "page": 29,
+      "topic": "Participio de voz pasiva",
+      "answer_proposal": "C",
+      "reason": "Was invited to act requiere participioinvited.",
+      "context": "lynda",
+      "observed_annotation": {
+        "value": "C",
+        "type": "trazo naranja sobre opción",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 93,
+      "page": 29,
+      "topic": "Pronombre de personas",
+      "answer_proposal": "A",
+      "reason": "Everyone puede ser sujeto de loved referido al público;something/everything no encajan con sentido.",
+      "context": "lynda",
+      "observed_annotation": {
+        "value": "A",
+        "type": "trazo naranja sobre opción",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 94.1,
+      "page": 28,
+      "topic": "Información explícita sobre prodigios",
+      "answer_proposal": "C",
+      "reason": "No-one knows why they are so clever equivale a que no se entiende por qué lo son.",
+      "context": "clever",
+      "printed_question_number": 94,
+      "variant": "5.A",
+      "alert": "Numeración impresa94-100repetida con otro texto. Decimal solo identificador interno para conservar ambas preguntas, no numeración del original.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "punto verde junto a opción",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 95.1,
+      "page": 28,
+      "topic": "Inferencia sobre padres de prodigios",
+      "answer_proposal": "C",
+      "reason": "Los padres de Francesca se sorprenden por los talentos de sus hijos; no se dice que todos sean músicos o muy inteligentes.",
+      "context": "clever",
+      "printed_question_number": 95,
+      "variant": "5.A",
+      "alert": "Numeración impresa94-100repetida con otro texto. Decimal solo identificador interno para conservar ambas preguntas, no numeración del original.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "punto verde junto a opción",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 96.1,
+      "page": 28,
+      "topic": "Reconocimiento de Mozart como prodigio",
+      "answer_proposal": "B",
+      "reason": "Se presenta explícitamente como child prodigy desde que tocaba muy pequeño.",
+      "context": "clever",
+      "printed_question_number": 96,
+      "variant": "5.A",
+      "alert": "Numeración impresa94-100repetida con otro texto. Decimal solo identificador interno para conservar ambas preguntas, no numeración del original.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "punto verde junto a opción",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 97.1,
+      "page": 28,
+      "topic": "Idea explícita de talentos múltiples",
+      "answer_proposal": "A",
+      "reason": "El texto afirma que a veces son buenos en más de una o dos cosas.",
+      "context": "clever",
+      "printed_question_number": 97,
+      "variant": "5.A",
+      "alert": "Numeración impresa94-100repetida con otro texto. Decimal solo identificador interno para conservar ambas preguntas, no numeración del original.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "punto verde junto a opción",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 98.1,
+      "page": 28,
+      "topic": "Semejanza física con adolescentes",
+      "answer_proposal": "A",
+      "reason": "Francesca looks like any other young teenager expresa parecido de apariencia.",
+      "context": "clever",
+      "printed_question_number": 98,
+      "variant": "5.A",
+      "alert": "Numeración impresa94-100repetida con otro texto. Decimal solo identificador interno para conservar ambas preguntas, no numeración del original.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "punto verde junto a opción",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 99.1,
+      "page": 28,
+      "topic": "Aprendizaje autónomo de personaje",
+      "answer_proposal": "B",
+      "reason": "Peter se enseña matemáticas y ciencias con libros universitarios.",
+      "context": "clever",
+      "printed_question_number": 99,
+      "variant": "5.A",
+      "alert": "Numeración impresa94-100repetida con otro texto. Decimal solo identificador interno para conservar ambas preguntas, no numeración del original.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "punto verde junto a opción",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 100.1,
+      "page": 28,
+      "topic": "Alcance de dato sobre competencia",
+      "answer_proposal": "C",
+      "reason": "A los cinco ganó primer premio en competencia para niños de hasta18años; no se especifica que fuera una competición pequeña.",
+      "context": "clever",
+      "printed_question_number": 100,
+      "variant": "5.A",
+      "alert": "Impreso100, variante5.A,página28; identificador decimal interno. MarcaB, propuestaC: el texto especifica participantes hasta18años, no tamaño pequeño de competición.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "punto verde junto a opción",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 94.2,
+      "page": 30,
+      "topic": "Información sobre compradores históricos",
+      "answer_proposal": "C",
+      "reason": "Only by the very rich indica que los primeros compradores tenían mucho dinero.",
+      "context": "sunglasses",
+      "printed_question_number": 94,
+      "variant": "5.B",
+      "alert": "Numeración impresa94-100repetida con otro texto. Decimal solo identificador interno para conservar ambas preguntas, no numeración del original.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "trazo naranja sobre opción",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 95.2,
+      "page": 30,
+      "topic": "Función de ocultar pensamiento",
+      "answer_proposal": "B",
+      "reason": "Las gafas cubrían ojos y lo que pensaban para impedir que otros conocieran sus ideas.",
+      "context": "sunglasses",
+      "printed_question_number": 95,
+      "variant": "5.B",
+      "alert": "Numeración impresa94-100repetida con otro texto. Decimal solo identificador interno para conservar ambas preguntas, no numeración del original.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "trazo naranja sobre opción",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 96.2,
+      "page": 30,
+      "topic": "Transferencia histórica de objeto",
+      "answer_proposal": "A",
+      "reason": "En el sigloXVllegaron a Italia gafas de vidrio oscuro para mejorar visión, una nueva variedad.",
+      "context": "sunglasses",
+      "printed_question_number": 96,
+      "variant": "5.B",
+      "alert": "Numeración impresa94-100repetida con otro texto. Decimal solo identificador interno para conservar ambas preguntas, no numeración del original.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "trazo naranja sobre opción",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 97.2,
+      "page": 30,
+      "topic": "Papel de actores en difusión",
+      "answer_proposal": "B",
+      "reason": "Las estrellas de Hollywood las usaban para protegerse de luces de estudio y las popularizaron.",
+      "context": "sunglasses",
+      "printed_question_number": 97,
+      "variant": "5.B",
+      "alert": "Numeración impresa94-100repetida con otro texto. Decimal solo identificador interno para conservar ambas preguntas, no numeración del original.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "trazo naranja sobre opción",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 98.2,
+      "page": 30,
+      "topic": "Resultado comercial de personaje",
+      "answer_proposal": "A",
+      "reason": "El texto dice que Sam Foster se hizo exitoso vendiendo muchas gafas.",
+      "context": "sunglasses",
+      "printed_question_number": 98,
+      "variant": "5.B",
+      "alert": "Numeración impresa94-100repetida con otro texto. Decimal solo identificador interno para conservar ambas preguntas, no numeración del original.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "trazo naranja sobre opción",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 99.2,
+      "page": 30,
+      "topic": "Localización explícita más distante",
+      "answer_proposal": "B",
+      "reason": "El texto destaca que para1930se encontraban incluso en Alaska.",
+      "context": "sunglasses",
+      "printed_question_number": 99,
+      "variant": "5.B",
+      "alert": "Numeración impresa94-100repetida con otro texto. Decimal solo identificador interno para conservar ambas preguntas, no numeración del original.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "trazo naranja sobre opción",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 100.2,
+      "page": 30,
+      "topic": "Función de publicidad",
+      "answer_proposal": "B",
+      "reason": "Los anuncios de los sesenta hicieron muy famosas las gafas y apoyaron el éxito comercial.",
+      "context": "sunglasses",
+      "printed_question_number": 100,
+      "variant": "5.B",
+      "alert": "Numeración impresa94-100repetida con otro texto. Decimal solo identificador interno para conservar ambas preguntas, no numeración del original.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "trazo naranja sobre opción",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 101,
+      "page": 31,
+      "topic": "Propósito global del autor",
+      "answer_proposal": "C",
+      "reason": "El texto defiende beneficios significativos de enseñar arte en educación.",
+      "context": "art",
+      "observed_annotation": {
+        "value": "C",
+        "type": "marca amarilla junto a letra",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 102,
+      "page": 31,
+      "topic": "Inferencia sobre formación temprana",
+      "answer_proposal": "A",
+      "reason": "Comenzar a explorar arte temprano favorece habilidades relevantes para universidad y trabajo futuros.",
+      "context": "art",
+      "observed_annotation": {
+        "value": "A",
+        "type": "marca amarilla junto a letra",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 103,
+      "page": 31,
+      "topic": "Beneficio de diversidad cultural",
+      "answer_proposal": "B",
+      "reason": "El párrafo2dice que conocer variedad cultural ayuda a aceptar diferencias y trabajar en equipo; eso respalda respeto por variedad.",
+      "context": "art",
+      "observed_annotation": {
+        "value": "C",
+        "type": "marca amarilla junto a letra",
+        "provenance": "Marca observada de autoría no comprobada."
+      },
+      "alert": "MarcaC, propuestaB. El párrafo2destaca aceptación de diversidad; individual education no expresa ese beneficio concreto."
+    },
+    {
+      "question": 104,
+      "page": 31,
+      "topic": "Integración curricular del arte",
+      "answer_proposal": "D",
+      "reason": "El autor propone aprovechar historia y otras materias para incluir periodos de creatividad.",
+      "context": "art",
+      "observed_annotation": {
+        "value": "D",
+        "type": "marca amarilla junto a letra",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 105,
+      "page": 31,
+      "topic": "Título que sintetiza el texto",
+      "answer_proposal": "A",
+      "reason": "The Importance of Art in Education recoge la tesis y los beneficios expuestos.",
+      "context": "art",
+      "observed_annotation": {
+        "value": "A",
+        "type": "marca amarilla junto a letra",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 106,
+      "page": 32,
+      "topic": "Adverbio de frecuencia",
+      "answer_proposal": "C",
+      "reason": "Usually wears describe hábito de vestuario; las otras opciones no expresan frecuencia apropiada.",
+      "context": "aquaman",
+      "observed_annotation": {
+        "value": "C",
+        "type": "trazo naranja sobre opción",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 107,
+      "page": 32,
+      "topic": "Vocabulario de capacidades sobrehumanas",
+      "answer_proposal": "C",
+      "reason": "Superhuman powers engloba respirar bajo agua y comunicarse con criaturas marinas.",
+      "context": "aquaman",
+      "observed_annotation": {
+        "value": "C",
+        "type": "trazo naranja sobre opción",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 108,
+      "page": 32,
+      "topic": "Construcción used to",
+      "answer_proposal": "A",
+      "reason": "Used to be expresa ocupación o condición pasada.",
+      "context": "aquaman",
+      "observed_annotation": {
+        "value": "A",
+        "type": "trazo naranja sobre opción",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 109,
+      "page": 32,
+      "topic": "Vocabulario de variantes narrativas",
+      "answer_proposal": "B",
+      "reason": "Early versions of Aquaman se refiere a versiones del personaje.",
+      "context": "aquaman",
+      "observed_annotation": {
+        "value": "B",
+        "type": "trazo naranja sobre opción",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 110,
+      "page": 32,
+      "topic": "Conector aditivo",
+      "answer_proposal": "A",
+      "reason": "Besides introduce otro hecho biográfico;despite requeriría estructura nominal, no oración completa directa.",
+      "context": "aquaman",
+      "observed_annotation": {
+        "value": "A",
+        "type": "trazo naranja sobre opción",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 111,
+      "page": 32,
+      "topic": "Complementación verbal con infinitivo",
+      "answer_proposal": "C",
+      "reason": "Has always intended to kill utiliza intended to para expresar propósito.",
+      "context": "aquaman",
+      "observed_annotation": {
+        "value": "C",
+        "type": "trazo naranja sobre opción",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 112,
+      "page": 32,
+      "topic": "Verbo tras modal",
+      "answer_proposal": "B",
+      "reason": "Would later be known requiere forma basebe.",
+      "context": "aquaman",
+      "observed_annotation": {
+        "value": "B",
+        "type": "trazo naranja sobre opción",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 113,
+      "page": 32,
+      "topic": "Participio en pasado perfecto",
+      "answer_proposal": "B",
+      "reason": "Had appeared in animated television shows expresa aparición anterior a1973.",
+      "context": "aquaman",
+      "observed_annotation": {
+        "value": "B",
+        "type": "trazo naranja sobre opción",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 114,
+      "page": 32,
+      "topic": "Infinitivo sin to tras make",
+      "answer_proposal": "A",
+      "reason": "Made him shine utiliza make+objeto+verbo base.",
+      "context": "aquaman",
+      "observed_annotation": {
+        "value": "A",
+        "type": "trazo naranja sobre opción",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    },
+    {
+      "question": 115,
+      "page": 32,
+      "topic": "Complementación y primer condicional",
+      "answer_proposal": "D",
+      "reason": "Continues appearing expresa continuidad; if+presente combina con will become.",
+      "context": "aquaman",
+      "observed_annotation": {
+        "value": "D",
+        "type": "trazo naranja sobre opción",
+        "provenance": "Marca observada de autoría no comprobada."
+      }
+    }
+  ]
+}

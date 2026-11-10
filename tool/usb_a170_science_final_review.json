@@ -1,0 +1,130 @@
+{
+  "file_id": "USB-a170782eadcb",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Físicas 21-22, impresas 40-43 inspeccionadas. Ciencias 110-120 cotejadas visualmente con físicas 19-21 de USB-7882c8f9ae2f: mismo contenido y opciones, distinta numeración/maquetación. No repetir análisis.",
+  "items": [],
+  "duplicate_occurrences": [
+    {
+      "question": 110,
+      "page": 21,
+      "printed_page": 40,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 56,
+      "canonical_page": 19,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de enunciado, contexto, figuras, datos y opciones A-D de las dos versiones. Identidad de contenido; solo numeración y presentación distintas.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 111,
+      "page": 21,
+      "printed_page": 40,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 57,
+      "canonical_page": 19,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de enunciado, contexto, figuras, datos y opciones A-D de las dos versiones. Identidad de contenido; solo numeración y presentación distintas.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 112,
+      "page": 21,
+      "printed_page": 40,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 58,
+      "canonical_page": 19,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de enunciado, contexto, figuras, datos y opciones A-D de las dos versiones. Identidad de contenido; solo numeración y presentación distintas.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 113,
+      "page": 21,
+      "printed_page": 41,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 59,
+      "canonical_page": 20,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de enunciado, contexto, figuras, datos y opciones A-D de las dos versiones. Identidad de contenido; solo numeración y presentación distintas.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 114,
+      "page": 21,
+      "printed_page": 41,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 60,
+      "canonical_page": 20,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de enunciado, contexto, figuras, datos y opciones A-D de las dos versiones. Identidad de contenido; solo numeración y presentación distintas.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 115,
+      "page": 21,
+      "printed_page": 41,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 61,
+      "canonical_page": 20,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de enunciado, contexto, figuras, datos y opciones A-D de las dos versiones. Identidad de contenido; solo numeración y presentación distintas.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 116,
+      "page": 21,
+      "printed_page": 41,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 62,
+      "canonical_page": 20,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de enunciado, contexto, figuras, datos y opciones A-D de las dos versiones. Identidad de contenido; solo numeración y presentación distintas.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 117,
+      "page": 22,
+      "printed_page": 42,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 63,
+      "canonical_page": 21,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de enunciado, contexto, figuras, datos y opciones A-D de las dos versiones. Identidad de contenido; solo numeración y presentación distintas.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 118,
+      "page": 22,
+      "printed_page": 42,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 64,
+      "canonical_page": 21,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de enunciado, contexto, figuras, datos y opciones A-D de las dos versiones. Identidad de contenido; solo numeración y presentación distintas.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 119,
+      "page": 22,
+      "printed_page": 42,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 65,
+      "canonical_page": 21,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de enunciado, contexto, figuras, datos y opciones A-D de las dos versiones. Identidad de contenido; solo numeración y presentación distintas.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 120,
+      "page": 22,
+      "printed_page": 42,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 66,
+      "canonical_page": 21,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de enunciado, contexto, figuras, datos y opciones A-D de las dos versiones. Identidad de contenido; solo numeración y presentación distintas.",
+      "observed_annotation": "No se observa respuesta marcada."
+    }
+  ]
+}

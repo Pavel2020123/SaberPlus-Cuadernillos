@@ -1,0 +1,82 @@
+{
+  "file_id": "USB-e4489f150183",
+  "date": "2026-10-29",
+  "area": "Ciencias naturales",
+  "scope": "Preguntas45-50,paginas17-19 inspeccionadas visualmente:modelos,ondas,opciones y textos.Claves propuestas sin validacion docente.",
+  "competency_legend": {
+    "U": "Uso comprensivo del conocimiento cientifico",
+    "I": "Indagacion",
+    "E": "Explicacion de fenomenos"
+  },
+  "contexts": [
+    {
+      "id": "E4489-CN01",
+      "questions": [
+        45,
+        46,
+        47
+      ],
+      "pages": [
+        17,
+        18
+      ],
+      "topic": "Wifi comunitario y megazonas"
+    }
+  ],
+  "items": [
+    {
+      "question": 45,
+      "page": 17,
+      "context": "E4489-CN01",
+      "topic": "Conexiones alternativas a internet",
+      "competency_code": "E",
+      "answer_proposal": "C",
+      "reason": "El esquema integra fibra y enlace por ondas;fibra aporta segunda forma de conexion,no corriente electrica ni cable a cada antena.",
+      "alert": "La necesidad estricta no se demuestra al existir otra via;Cdescribe redundancia,que exige explicitar supuesto."
+    },
+    {
+      "question": 46,
+      "page": 18,
+      "context": "E4489-CN01",
+      "topic": "Relacion de frecuencias de ondas",
+      "competency_code": "U",
+      "answer_proposal": "D",
+      "reason": "En mismo intervalo grupo2debe mostrar aproximadamente cinco veces mas ciclos que grupo1;D,no cambio solo de amplitud."
+    },
+    {
+      "question": 47,
+      "page": 18,
+      "context": "E4489-CN01",
+      "topic": "Alcance comunicativo de esquema de red",
+      "competency_code": "I",
+      "answer_proposal": "D",
+      "reason": "Ddestaca conexiones entre poblaciones que representa el esquema;no revela frecuencias particulares.",
+      "alert": "Muy estable no se demuestra por topologia sola;conservar esa limitacion de alternativa prevista."
+    },
+    {
+      "question": 48,
+      "page": 19,
+      "topic": "Metamorfosis completa",
+      "competency_code": "U",
+      "answer_proposal": "B",
+      "reason": "Mariposa cambia larva,pupa,adulto:modelo2.Huevo no distingue ambos modelos."
+    },
+    {
+      "question": 49,
+      "page": 19,
+      "topic": "Generalizacion de cinetica quimica",
+      "competency_code": "I",
+      "answer_proposal": "D",
+      "reason": "Fruta de descomposicion lenta no demuestra que todas las reacciones tarden dias;velocidad depende de distintos factores."
+    },
+    {
+      "question": 50,
+      "page": 19,
+      "topic": "Mitosis y crecimiento de pelo",
+      "competency_code": "E",
+      "answer_proposal": "C",
+      "reason": "Aumenta numero de celulas de foliculo por division con misma dotacion cromosomica;no crea celulas desde queratina ni recombina."
+    }
+  ],
+  "next": "ContinuarCiencias51enpagina20."
+}

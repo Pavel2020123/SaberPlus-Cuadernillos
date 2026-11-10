@@ -1,0 +1,118 @@
+{
+  "file_id": "USB-a170782eadcb",
+  "date": "2026-10-30",
+  "area": "Cuestionario socioeconómico",
+  "scope": "Física 22, impresa 43 inspeccionada completa. Once autoinformes 121-131, explícitamente sin respuestas correctas.",
+  "items": [
+    {
+      "question": 121,
+      "page": 22,
+      "printed_page": 43,
+      "topic": "Nivel educativo del padre",
+      "competency_proposal": "No aplica: autoinforme socioeconómico",
+      "answer_proposal": null,
+      "reason": "Respuesta personal, no pregunta académica. Excluir de puntuación y análisis de competencias.",
+      "exclude_academic": true
+    },
+    {
+      "question": 122,
+      "page": 22,
+      "printed_page": 43,
+      "topic": "Nivel educativo de la madre",
+      "competency_proposal": "No aplica: autoinforme socioeconómico",
+      "answer_proposal": null,
+      "reason": "Respuesta personal, no pregunta académica. Excluir de puntuación y análisis de competencias.",
+      "exclude_academic": true
+    },
+    {
+      "question": 123,
+      "page": 22,
+      "printed_page": 43,
+      "topic": "Estrato socioeconómico",
+      "competency_proposal": "No aplica: autoinforme socioeconómico",
+      "answer_proposal": null,
+      "reason": "Respuesta personal, no pregunta académica. Excluir de puntuación y análisis de competencias.",
+      "exclude_academic": true
+    },
+    {
+      "question": 124,
+      "page": 22,
+      "printed_page": 43,
+      "topic": "Internet del hogar",
+      "competency_proposal": "No aplica: autoinforme socioeconómico",
+      "answer_proposal": null,
+      "reason": "Respuesta personal, no pregunta académica. Excluir de puntuación y análisis de competencias.",
+      "exclude_academic": true
+    },
+    {
+      "question": 125,
+      "page": 22,
+      "printed_page": 43,
+      "topic": "Televisión por suscripción",
+      "competency_proposal": "No aplica: autoinforme socioeconómico",
+      "answer_proposal": null,
+      "reason": "Respuesta personal, no pregunta académica. Excluir de puntuación y análisis de competencias.",
+      "exclude_academic": true
+    },
+    {
+      "question": 126,
+      "page": 22,
+      "printed_page": 43,
+      "topic": "Cantidad de libros del hogar",
+      "competency_proposal": "No aplica: autoinforme socioeconómico",
+      "answer_proposal": null,
+      "reason": "Respuesta personal, no pregunta académica. Excluir de puntuación y análisis de competencias.",
+      "exclude_academic": true
+    },
+    {
+      "question": 127,
+      "page": 22,
+      "printed_page": 43,
+      "topic": "Lectura recreativa",
+      "competency_proposal": "No aplica: autoinforme socioeconómico",
+      "answer_proposal": null,
+      "reason": "Respuesta personal, no pregunta académica. Excluir de puntuación y análisis de competencias.",
+      "exclude_academic": true
+    },
+    {
+      "question": 128,
+      "page": 22,
+      "printed_page": 43,
+      "topic": "Navegación no académica",
+      "competency_proposal": "No aplica: autoinforme socioeconómico",
+      "answer_proposal": null,
+      "reason": "Respuesta personal, no pregunta académica. Excluir de puntuación y análisis de competencias.",
+      "exclude_academic": true
+    },
+    {
+      "question": 129,
+      "page": 22,
+      "printed_page": 43,
+      "topic": "Consumo de lácteos",
+      "competency_proposal": "No aplica: autoinforme socioeconómico",
+      "answer_proposal": null,
+      "reason": "Respuesta personal, no pregunta académica. Excluir de puntuación y análisis de competencias.",
+      "exclude_academic": true
+    },
+    {
+      "question": 130,
+      "page": 22,
+      "printed_page": 43,
+      "topic": "Consumo de proteína animal",
+      "competency_proposal": "No aplica: autoinforme socioeconómico",
+      "answer_proposal": null,
+      "reason": "Respuesta personal, no pregunta académica. Excluir de puntuación y análisis de competencias.",
+      "exclude_academic": true
+    },
+    {
+      "question": 131,
+      "page": 22,
+      "printed_page": 43,
+      "topic": "Consumo de cereales y legumbres",
+      "competency_proposal": "No aplica: autoinforme socioeconómico",
+      "answer_proposal": null,
+      "reason": "Respuesta personal, no pregunta académica. Excluir de puntuación y análisis de competencias.",
+      "exclude_academic": true
+    }
+  ]
+}

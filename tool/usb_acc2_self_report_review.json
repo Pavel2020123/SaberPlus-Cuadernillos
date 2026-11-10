@@ -1,0 +1,163 @@
+{
+  "file_id": "USB-709bc037689b",
+  "date": "2026-10-29",
+  "area": "Autoinformes socioeconomico y clima escolar",
+  "scope": "Paginas42-43 inspeccionadas visualmente.Preguntas135-159 autoinformes,no puntuables.Sin registrar respuestas personales ni inferir diagnostico clinico.",
+  "items": [
+    {
+      "question": 135,
+      "page": 42,
+      "topic": "Ocupacion principal del padre",
+      "exclude_academic": true
+    },
+    {
+      "question": 136,
+      "page": 42,
+      "topic": "Ocupacion principal de la madre",
+      "exclude_academic": true
+    },
+    {
+      "question": 137,
+      "page": 42,
+      "topic": "Numero de integrantes del hogar",
+      "exclude_academic": true
+    },
+    {
+      "question": 138,
+      "page": 42,
+      "topic": "Cuartos usados para dormir en el hogar",
+      "exclude_academic": true
+    },
+    {
+      "question": 139,
+      "page": 42,
+      "topic": "Computador en el hogar",
+      "exclude_academic": true
+    },
+    {
+      "question": 140,
+      "page": 42,
+      "topic": "Lavadora en el hogar",
+      "exclude_academic": true
+    },
+    {
+      "question": 141,
+      "page": 42,
+      "topic": "Horno en el hogar",
+      "exclude_academic": true
+    },
+    {
+      "question": 142,
+      "page": 42,
+      "topic": "Automovil particular en el hogar",
+      "exclude_academic": true
+    },
+    {
+      "question": 143,
+      "page": 42,
+      "topic": "Moto en el hogar",
+      "exclude_academic": true
+    },
+    {
+      "question": 144,
+      "page": 42,
+      "topic": "Consola de videojuegos en el hogar",
+      "exclude_academic": true
+    },
+    {
+      "question": 145,
+      "page": 42,
+      "topic": "Horas de trabajo del estudiante en la semana anterior",
+      "exclude_academic": true
+    },
+    {
+      "question": 146,
+      "page": 42,
+      "topic": "Remuneracion por trabajo",
+      "exclude_academic": true
+    },
+    {
+      "question": 147,
+      "page": 42,
+      "topic": "Cambio percibido en situacion economica del hogar",
+      "exclude_academic": true
+    },
+    {
+      "question": 148,
+      "page": 43,
+      "topic": "Nervios al hablar en clase ante companeros",
+      "exclude_academic": true
+    },
+    {
+      "question": 149,
+      "page": 43,
+      "topic": "Nervios ante expectativas de madres,padres o cuidadores",
+      "exclude_academic": true
+    },
+    {
+      "question": 150,
+      "page": 43,
+      "topic": "Nervios ante dificultad imaginada de tarea o pregunta",
+      "exclude_academic": true
+    },
+    {
+      "question": 151,
+      "page": 43,
+      "topic": "Nervios en evaluacion del desempeno",
+      "exclude_academic": true
+    },
+    {
+      "question": 152,
+      "page": 43,
+      "topic": "Nervios ante consecuencias negativas de errores",
+      "exclude_academic": true
+    },
+    {
+      "question": 153,
+      "page": 43,
+      "topic": "Nervios ante comparacion con tareas que otros pueden hacer",
+      "exclude_academic": true
+    },
+    {
+      "question": 154,
+      "page": 43,
+      "topic": "Nervios ante calificaciones inferiores a expectativas",
+      "exclude_academic": true
+    },
+    {
+      "question": 155,
+      "page": 43,
+      "topic": "Nervios al asistir a clases dificiles",
+      "exclude_academic": true
+    },
+    {
+      "question": 156,
+      "page": 43,
+      "topic": "Nervios al realizar tareas dificiles",
+      "exclude_academic": true
+    },
+    {
+      "question": 157,
+      "page": 43,
+      "topic": "Malestar emocional durante el tiempo en colegio",
+      "exclude_academic": true
+    },
+    {
+      "question": 158,
+      "page": 43,
+      "topic": "Sensacion de enfermedad al entrar al colegio",
+      "exclude_academic": true
+    },
+    {
+      "question": 159,
+      "page": 43,
+      "topic": "Incomodidad con profesores y companeros",
+      "exclude_academic": true
+    }
+  ],
+  "response_scales": {
+    "148-156": "Cuatro categorias de nervios",
+    "157-159": "Cuatro categorias de acuerdo"
+  },
+  "next": "Primera lectura de los 159 items de este ejemplar documentada; quedan validacion docente, alertas y comparacion con otros archivos pendientes."
+}

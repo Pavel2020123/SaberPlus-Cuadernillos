@@ -1,0 +1,76 @@
+{
+  "file_id": "USB-75abccb84c15",
+  "date": "2026-10-30",
+  "area": "Sociales y ciudadanas",
+  "scope": "PAVEL reconectada enE,catálogo existente leído correctamente. Físicas8-9 inspeccionadas visualmente completas;18-23idénticas aAAO2 preguntas7-12 física3 tras cotejo directo decontextos y opciones. Seis referencias,no repetir fichas.",
+  "items": [],
+  "duplicate_occurrences": [
+    {
+      "question": 18,
+      "page": 8,
+      "printed_page": 8,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 7,
+      "canonical_page": 3,
+      "exact_content": true,
+      "verification": "Cotejo visual directo decasos completos,citas y opcionesA-D:participación electoral,exclusión religiosa,evidencia deintenciones,modelo económico,residuos yresistencia indígena. Igual contenido salvo numeración,maquetación,código ymarcas deagua. Mantener reservas canónicas.",
+      "observed_annotation": "Sin respuesta seleccionada inequívoca enAAR2."
+    },
+    {
+      "question": 19,
+      "page": 8,
+      "printed_page": 8,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 8,
+      "canonical_page": 3,
+      "exact_content": true,
+      "verification": "Cotejo visual directo decasos completos,citas y opcionesA-D:participación electoral,exclusión religiosa,evidencia deintenciones,modelo económico,residuos yresistencia indígena. Igual contenido salvo numeración,maquetación,código ymarcas deagua. Mantener reservas canónicas.",
+      "observed_annotation": "Sin respuesta seleccionada inequívoca enAAR2."
+    },
+    {
+      "question": 20,
+      "page": 8,
+      "printed_page": 8,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 9,
+      "canonical_page": 3,
+      "exact_content": true,
+      "verification": "Cotejo visual directo decasos completos,citas y opcionesA-D:participación electoral,exclusión religiosa,evidencia deintenciones,modelo económico,residuos yresistencia indígena. Igual contenido salvo numeración,maquetación,código ymarcas deagua. Mantener reservas canónicas.",
+      "observed_annotation": "Sin respuesta seleccionada inequívoca enAAR2."
+    },
+    {
+      "question": 21,
+      "page": 9,
+      "printed_page": 9,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 10,
+      "canonical_page": 3,
+      "exact_content": true,
+      "verification": "Cotejo visual directo decasos completos,citas y opcionesA-D:participación electoral,exclusión religiosa,evidencia deintenciones,modelo económico,residuos yresistencia indígena. Igual contenido salvo numeración,maquetación,código ymarcas deagua. Mantener reservas canónicas.",
+      "observed_annotation": "Sin respuesta seleccionada inequívoca enAAR2."
+    },
+    {
+      "question": 22,
+      "page": 9,
+      "printed_page": 9,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 11,
+      "canonical_page": 3,
+      "exact_content": true,
+      "verification": "Cotejo visual directo decasos completos,citas y opcionesA-D:participación electoral,exclusión religiosa,evidencia deintenciones,modelo económico,residuos yresistencia indígena. Igual contenido salvo numeración,maquetación,código ymarcas deagua. Mantener reservas canónicas.",
+      "observed_annotation": "Sin respuesta seleccionada inequívoca enAAR2."
+    },
+    {
+      "question": 23,
+      "page": 9,
+      "printed_page": 9,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 12,
+      "canonical_page": 3,
+      "exact_content": true,
+      "verification": "Cotejo visual directo decasos completos,citas y opcionesA-D:participación electoral,exclusión religiosa,evidencia deintenciones,modelo económico,residuos yresistencia indígena. Igual contenido salvo numeración,maquetación,código ymarcas deagua. Mantener reservas canónicas.",
+      "observed_annotation": "Sin respuesta seleccionada inequívoca enAAR2."
+    }
+  ],
+  "next": "Física10,verificar24en adelante."
+}

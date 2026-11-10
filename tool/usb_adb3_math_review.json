@@ -1,0 +1,161 @@
+{
+  "file_id": "USB-234fa4e3ddce",
+  "date": "2026-10-29",
+  "area": "Matematicas",
+  "scope": "Preguntas1-18 paginas2-7 inspeccionadas visualmente.En18termina Matematicas y pagina8 inicia Lectura.Propuestas no oficiales,revision docente pendiente.17cotejada ademas en ampliacion de vertices.",
+  "competency_legend": {
+    "IR": "Interpretacion y representacion",
+    "FE": "Formulacion y ejecucion",
+    "AR": "Argumentacion"
+  },
+  "items": [
+    {
+      "question": 1,
+      "page": 2,
+      "topic": "Conversion de unidades y tiempo de descarga",
+      "competency_code": "AR",
+      "answer_proposal": "B",
+      "reason": "El tiempo es12.6*1024/300; A,C,D son equivalentes. B calcula1024*300/12.6, que no corresponde."
+    },
+    {
+      "question": 2,
+      "page": 2,
+      "topic": "Representacion de datos por ternas",
+      "competency_code": "IR",
+      "answer_proposal": "B",
+      "reason": "B conserva simbolo,numero atomico y energia:H1,1312;Li3,520;Na11,496. A omite simbolos y C intercambia energias."
+    },
+    {
+      "question": 3,
+      "page": 2,
+      "topic": "Multiplicacion de montos y frecuencias",
+      "competency_code": "FE",
+      "answer_proposal": "B",
+      "reason": "Totales:5*10millones=50millones;25*5=125millones;100*1=100millones."
+    },
+    {
+      "question": 4,
+      "page": 3,
+      "topic": "Porcentajes con poblaciones de referencia distintas",
+      "competency_code": "AR",
+      "answer_proposal": "C",
+      "reason": "98% indica preferencia por jugar;83+12+3+2=100% distribuye frecuencias de quienes prefieren jugar. No deben sumarse como misma categoria."
+    },
+    {
+      "question": 5,
+      "page": 3,
+      "topic": "Comision porcentual sobre ventas",
+      "competency_code": "FE",
+      "answer_proposal": "D",
+      "reason": "La comision se calcula30000000*2/100=600000,sin incluir salario base ni dividir por10."
+    },
+    {
+      "question": 6,
+      "page": 3,
+      "topic": "Composicion de funciones de inversion",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "Primero g(10)=11; luego f(11)=22millones. No se suman rendimientos sobre capital inicial."
+    },
+    {
+      "question": 7,
+      "page": 4,
+      "topic": "Descomposicion de regiones de area",
+      "competency_code": "AR",
+      "answer_proposal": "C",
+      "reason": "La figura reparte cada franja entre blanco y sombreado en mitades; cada color cubre1800cm2 y la conclusion prevista es igualdad de areas.",
+      "alert": "El paso1 dice restar area de baldosa al area del circulo, orden literal que produce negativo. C solo es coherente si se interpreta la resta como baldosa menos circulo. Revision docente pendiente; no corregir silenciosamente el texto."
+    },
+    {
+      "question": 8,
+      "page": 4,
+      "topic": "Ahorro porcentual durante varios meses",
+      "competency_code": "FE",
+      "answer_proposal": "B",
+      "reason": "900000*0.03=27000mensuales;10meses dan270000."
+    },
+    {
+      "question": 9,
+      "page": 4,
+      "topic": "Ordenacion por suma de puntajes",
+      "competency_code": "IR",
+      "answer_proposal": "B",
+      "reason": "Andrea suma9,Mariana11,Catalina13. Orden descendente:Catalina,Mariana,Andrea."
+    },
+    {
+      "question": 10,
+      "page": 5,
+      "topic": "Revision de recorrido cartesiano",
+      "competency_code": "AR",
+      "answer_proposal": "B",
+      "reason": "Desde fabrica(2,0) se debe ir2km al norte para hospital(2,2),luego3este,1sur a policia(5,1) y4sur a escuela(5,-3)."
+    },
+    {
+      "question": 11,
+      "page": 5,
+      "topic": "Correlacion positiva en dispersion",
+      "competency_code": "IR",
+      "answer_proposal": "D",
+      "reason": "D muestra incremento de calorias con horas. A y C disminuyen; B dibuja tendencia horizontal."
+    },
+    {
+      "question": 12,
+      "page": 6,
+      "topic": "Casos posibles de seleccion de grupos",
+      "competency_code": "AR",
+      "answer_proposal": "D",
+      "reason": "Con solo2hombres no existe grupo de3hombres:X=0. Para al menos un hombre se suman Y y Z,excluyendo W."
+    },
+    {
+      "question": 13,
+      "page": 6,
+      "topic": "Pitagoras y area de cuadrado",
+      "competency_code": "FE",
+      "answer_proposal": "D",
+      "reason": "El procedimiento define h=sqrt(3^2+4^2)=5; el area sombreada es h*h=25cm2.",
+      "alert": "La figura exterior rotula7cm y no se debe usar49 como area interior; explicacion sigue el diagrama de calculo."
+    },
+    {
+      "question": 14,
+      "page": 6,
+      "topic": "Probabilidades por intervalos disjuntos",
+      "competency_code": "IR",
+      "answer_proposal": "C",
+      "reason": "C conserva masas0.27,0.46,0.27 en0-5,5-9,9-14. A acumula indebidamente y B,D cambian intervalos."
+    },
+    {
+      "question": 15,
+      "page": 7,
+      "topic": "Tendencia lineal en grafica temporal",
+      "competency_code": "IR",
+      "answer_proposal": "B",
+      "reason": "Monica presenta10,20,30,40,50,60 con incrementos iguales por5min; Julio sube y baja,no monotono."
+    },
+    {
+      "question": 16,
+      "page": 7,
+      "topic": "Porcentaje de masa reciclada",
+      "competency_code": "FE",
+      "answer_proposal": "A",
+      "reason": "40%de50toneladas=0.4*50=20toneladas."
+    },
+    {
+      "question": 17,
+      "page": 7,
+      "topic": "Rotacion de figuras en plano",
+      "competency_code": "AR",
+      "answer_proposal": "B",
+      "reason": "Ampliacion visual: el giro antihorario lleva los vertices (x,0) al eje y positivo y el vertice superior derecho (x,y) a (-y,x),lado izquierdo del eje y. Figura2 pone ese vertice a la derecha; B identifica el error de orientacion. La punta inferior por si sola es esperable.",
+      "alert": "Clave propuesta tras ampliacion detalle-017.png; sin validacion docente."
+    },
+    {
+      "question": 18,
+      "page": 7,
+      "topic": "Contraejemplo de divisibilidad",
+      "competency_code": "AR",
+      "answer_proposal": "B",
+      "reason": "El caso k=4 suma50,no divisible por4; basta para probar falsa para al menos un k. El caso k=3 no prueba todos los casos."
+    }
+  ],
+  "next": "Lectura critica desde19,pagina8;19-21 ya vistos pero pendientes de lote completo."
+}

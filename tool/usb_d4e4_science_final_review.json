@@ -1,0 +1,72 @@
+{
+  "file_id": "USB-d4e43db6988a",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Preguntas114-120en físicas41-43 inspeccionadas visualmente.Propuestas no oficiales,sin opciones marcadas observadas.",
+  "competency_legend": {
+    "U": "Uso comprensivo del conocimiento científico",
+    "E": "Explicación de fenómenos",
+    "I": "Indagación"
+  },
+  "items": [
+    {
+      "question": 114,
+      "page": 41,
+      "topic": "Evaluación simultánea de rangos de tolerancia",
+      "competency_code": "U",
+      "answer_proposal": "D",
+      "reason": "pH10,4supera8,8yamoniaco25,8supera23,7mg/L;temperatura22,4y nitritos0,9están dentro de rangos.",
+      "alert": "La predicción de supervivencia usa tolerancias del ejercicio,no evaluación real de acuario."
+    },
+    {
+      "question": 115,
+      "page": 41,
+      "topic": "Disminución de intensidad con distancia",
+      "competency_code": "U",
+      "answer_proposal": "C",
+      "reason": "El caso establecequea2mhayunacuartaparte:intensidadinversaacuadradodedistancia;5mimplicamenorintensidad.",
+      "alert": "Modelo ideal de dispersión uniforme;no universal para todo rociador real."
+    },
+    {
+      "question": 116,
+      "page": 41,
+      "topic": "Contrastación de hipótesis sobre miscibilidad",
+      "competency_code": "I",
+      "answer_proposal": "D",
+      "reason": "Dos capas tras reposo contradicen mezcla homogénea y respaldan mezcla heterogénea bajo condiciones observadas."
+    },
+    {
+      "question": 117,
+      "page": 42,
+      "topic": "Representación de fases de crecimiento bacteriano",
+      "competency_code": "I",
+      "answer_proposal": "C",
+      "reason": "Cincluyelatenciainicial,ascensoenescala logarítmica,meseta ydecliveen14h;Aomite latencia y tablasse etiquetan incorrectamente.",
+      "alert": "Eje indica logaritmo del número;valor0no significa necesariamente cero individuos."
+    },
+    {
+      "question": 118,
+      "page": 43,
+      "topic": "Identificación de heterocigosis",
+      "competency_code": "U",
+      "answer_proposal": "D",
+      "reason": "Ggcontiene dos alelos distintos del mismo gen,por lo que individuo es heterocigoto."
+    },
+    {
+      "question": 119,
+      "page": 43,
+      "topic": "Selección por combinación de propiedades",
+      "competency_code": "U",
+      "answer_proposal": "D",
+      "reason": "Sustancia4hiervea-34<130°C,essolubleynoconductora;las otras no satisfacen todos los criterios."
+    },
+    {
+      "question": 120,
+      "page": 43,
+      "topic": "Curva de calentamiento y cambios de fase",
+      "competency_code": "U",
+      "answer_proposal": "C",
+      "reason": "Cpresentamesetasenfusióncerca1535°Cyebullición2750°C,con aumento entre cambios;Dañademesetasincorrectas."
+    }
+  ]
+}

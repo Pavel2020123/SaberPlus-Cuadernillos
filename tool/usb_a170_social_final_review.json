@@ -1,0 +1,48 @@
+{
+  "file_id": "USB-a170782eadcb",
+  "date": "2026-10-30",
+  "area": "Sociales y ciudadanas",
+  "scope": "Física17izquierda(impresa32),88-91inspeccionadas;Sociales67-91cubierta inicialmente. Pregunta88distinta del caso de alcalde enACN1,no fusionar por tema.",
+  "items": [
+    {
+      "question": 88,
+      "page": 17,
+      "printed_page": 32,
+      "topic": "Mecanismo de participación para reforma",
+      "competency_proposal": "Pensamiento social",
+      "answer_proposal": "B",
+      "reason": "Referendo es la alternativa que permite someter reforma constitucional avotación;las otras mecanismos no modifican artículos constitucionales.",
+      "alert": "Identifica mecanismo formal,no demuestra viabilidad material de introducir pena de muerte nilímites del poder de reforma."
+    },
+    {
+      "question": 89,
+      "page": 17,
+      "printed_page": 32,
+      "topic": "Origen de conflicto de preservación cultural",
+      "competency_proposal": "Pensamiento reflexivo y sistémico",
+      "answer_proposal": "C",
+      "reason": "El desplazamiento forzado por violencia conduce acambio de entorno ydesacuerdo generacional sobre retorno ycostumbres.",
+      "alert": "No atribuir irrespeto alos jóvenes ni afirmar desaparición de todas las lenguas."
+    },
+    {
+      "question": 90,
+      "page": 17,
+      "printed_page": 32,
+      "topic": "Control recíproco entre poderes públicos",
+      "competency_proposal": "Pensamiento social",
+      "answer_proposal": "B",
+      "reason": "Revisión judicial de ley impulsada porejecutivo yCongreso corresponde apesos ycontrapesos,evitando concentración del poder.",
+      "alert": "La descripción no prueba motivaciones políticas particulares de jueces."
+    },
+    {
+      "question": 91,
+      "page": 17,
+      "printed_page": 32,
+      "topic": "Consecuencia económica negativa de regulación",
+      "competency_proposal": "Pensamiento reflexivo y sistémico",
+      "answer_proposal": "C",
+      "reason": "La menor demanda de combustibles fósiles puede afectar empresas yempleos del sector,efecto económico negativo entre opciones.",
+      "alert": "La magnitud de crisis ydespidos no se demuestra;se responde aescenario posible propuesto,no predicción comprobada."
+    }
+  ]
+}

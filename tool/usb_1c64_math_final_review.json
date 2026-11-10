@@ -1,0 +1,60 @@
+{
+  "file_id": "USB-1c6462bf5377",
+  "date": "2026-10-30",
+  "area": "Matemáticas",
+  "scope": "Físicas11-12 impresas9-10 inspeccionadas completas con imágenes reorientadas.21-24 cuatro fichas nuevas,25 referencia exacta tras cotejo visual con Tatacoa46 física12. Matemáticas1-25 inicialmente cubierta. Física13 inspeccionada:comienza Lectura crítica26-30,pendiente registrar.",
+  "items": [
+    {
+      "question": 21,
+      "page": 11,
+      "printed_page": 9,
+      "topic": "Representación de temperaturas positivas y negativas",
+      "competency_proposal": "Interpretación y representación",
+      "answer_proposal": "C",
+      "reason": "Las máximas son8,7,9,8,10 y las mínimas−2,−1,−3,−3,−2. SoloC conserva valores y signos con barras a ambos lados de cero;A vuelve positivas las mínimas."
+    },
+    {
+      "question": 22,
+      "page": 11,
+      "printed_page": 9,
+      "topic": "Identificación de variable promediada y media ponderada",
+      "competency_proposal": "Argumentación",
+      "answer_proposal": "D",
+      "reason": "(10+15+5)/3=10 promedia cantidades de obreros por día,no horas. La media por registro obrero-día sería(10×9+15×10+5×11)/30=295/30≈9,83horas.",
+      "alert": "No se identifica si son las mismas personas en días diferentes;9,83 es media de registros obrero-día,no promedio de horas acumuladas de personas únicas."
+    },
+    {
+      "question": 23,
+      "page": 12,
+      "printed_page": 10,
+      "topic": "Comparación de duraciones en tabla",
+      "competency_proposal": "Interpretación y representación",
+      "answer_proposal": "B",
+      "reason": "Entre23,6,8y9años,el mínimo es6,correspondiente aCatedral deSanBasilio.",
+      "alert": "Respuesta según datos del ejercicio;no certifica exactitud historiográfica de fechas o duración de construcciones."
+    },
+    {
+      "question": 24,
+      "page": 12,
+      "printed_page": 10,
+      "topic": "Datos insuficientes para calcular precio con impuesto",
+      "competency_proposal": "Argumentación",
+      "answer_proposal": "B",
+      "reason": "El subtotal es5×80000+2×150000=700000,pero el impuesto depende de una temporada no indicada. Puede dar784000 al12% o833000 al19%;no hay total único."
+    }
+  ],
+  "duplicate_occurrences": [
+    {
+      "question": 25,
+      "page": 12,
+      "printed_page": 10,
+      "canonical_file_id": "USB-1bc205e23b46",
+      "canonical_question": 46,
+      "canonical_page": 12,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de enunciado,tablas completas deÁlvaro(24,30,26,20,30)yJesús(20,24,26,24,30)y opcionesA-D:contenido idéntico,salvo numeración y maquetación.",
+      "observed_annotation": "Sin respuesta marcada observada enAAR1;no trasladar círculo rojoD deTatacoa."
+    }
+  ],
+  "next": "Lectura crítica26en adelante,física13."
+}

@@ -1,0 +1,48 @@
+{
+  "file_id": "USB-524d98b0a234",
+  "date": "2026-10-29",
+  "area": "Ciencias naturales",
+  "scope": "Preguntas76-79pagina31inspeccionada visualmente.TerminaCiencias79.Propuestas no oficiales.",
+  "competency_legend": {
+    "I": "Indagacion",
+    "U": "Uso comprensivo del conocimiento cientifico"
+  },
+  "items": [
+    {
+      "question": 76,
+      "page": 31,
+      "topic": "Instrumentos para masa y velocidad",
+      "competency_code": "I",
+      "answer_proposal": "A",
+      "observed_highlight": "A",
+      "reason": "Balanza mide masa y cronometro mide tiempo;distancia10m ya definida con cinta."
+    },
+    {
+      "question": 77,
+      "page": 31,
+      "topic": "Correspondencia entre objetivo y variables",
+      "competency_code": "I",
+      "answer_proposal": "C",
+      "reason": "Se comparan sustratos y se mide crecimiento;no temperatura,humedad o luz.",
+      "alert": "Opciones son objetivos,evaluaciones,no hipotesis predictivas formuladas;C es la pertinente al diseno."
+    },
+    {
+      "question": 78,
+      "page": 31,
+      "topic": "Osmosis y osmorregulacion en salmon",
+      "competency_code": "U",
+      "answer_proposal": "C",
+      "reason": "En mar debe evitar perdida de agua;en rio reducir entrada para evitar encogimiento o ruptura celular."
+    },
+    {
+      "question": 79,
+      "page": 31,
+      "topic": "Coherencia de hipotesis y prueba",
+      "competency_code": "I",
+      "answer_proposal": "C",
+      "observed_highlight": "C",
+      "reason": "Hipotesiscompara seco/mojado,pero procedimiento compara azucar solo/con ceniza;resultados no responden a humedad.",
+      "alert": "No ensayo seguro sugerido;solo evaluacion del diseno presentado."
+    }
+  ]
+}

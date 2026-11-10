@@ -1,0 +1,249 @@
+{
+  "file_id": "USB-234fa4e3ddce",
+  "date": "2026-10-29",
+  "area": "Lectura critica",
+  "competency_proposal": "Comprende como se articulan las partes de un texto para darle un sentido global (propuesta)",
+  "scope": "Preguntas28-46,paginas11-16 inspeccionadas visualmente,incluyendo textos,comic y alternativas.Termina Lectura en46;Sociales inicia47enpagina17.No validacion docente.",
+  "contexts": [
+    {
+      "id": "ADB3-LC03",
+      "questions": [
+        28,
+        29,
+        30,
+        31
+      ],
+      "pages": [
+        11,
+        12
+      ],
+      "title": "El general en su laberinto",
+      "source_as_printed": "Garcia Marquez,G.(2012).El general en su laberinto.Norma."
+    },
+    {
+      "id": "ADB3-LC04",
+      "questions": [
+        32,
+        33,
+        34,
+        35
+      ],
+      "pages": [
+        12,
+        13
+      ],
+      "title": "Los computadores hacen lo que se les manda",
+      "source_as_printed": "Dawkins,R.(2007).El espejismo de Dios,p.190.Espasa Calpe."
+    },
+    {
+      "id": "ADB3-LC05",
+      "questions": [
+        36,
+        37
+      ],
+      "pages": [
+        13
+      ],
+      "title": "Simulacion",
+      "source_as_printed": "Samper Pizano,D.(1994).Union por lo bajo,desunion por lo alto.El Tiempo."
+    },
+    {
+      "id": "ADB3-LC06",
+      "questions": [
+        38,
+        39
+      ],
+      "pages": [
+        14,
+        15
+      ],
+      "title": "El arabe del futuro4",
+      "source_as_printed": "Sattouf,R.(2019).El arabe del futuro4.Una juventud en Oriente Medio(1987-1992).Salamandra."
+    },
+    {
+      "id": "ADB3-LC07",
+      "questions": [
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "pages": [
+        15,
+        16
+      ],
+      "title": "La lactosa",
+      "source_as_printed": "Maloof,K.(s.f.).El Malpensante,edicion206."
+    },
+    {
+      "id": "ADB3-LC08",
+      "questions": [
+        45,
+        46
+      ],
+      "pages": [
+        16
+      ],
+      "title": "Elogio del arroz con huevo",
+      "source_as_printed": "Dominguez,O.(2015).Elogio del arroz con huevo.El Tiempo."
+    }
+  ],
+  "items": [
+    {
+      "question": 28,
+      "page": 11,
+      "context": "ADB3-LC03",
+      "topic": "El general en su laberinto",
+      "answer_proposal": "B",
+      "reason": "El mayordomo debe despertarlo antes de cinco para viajar con primeras luces y las cinco suenan al final; ocurre antes de5a.m."
+    },
+    {
+      "question": 29,
+      "page": 11,
+      "context": "ADB3-LC03",
+      "topic": "El general en su laberinto",
+      "answer_proposal": "B",
+      "reason": "El resumen convierte debilidad,vejez y deterioro en fuerza y victoria; contradice descripcion central."
+    },
+    {
+      "question": 30,
+      "page": 12,
+      "context": "ADB3-LC03",
+      "topic": "El general en su laberinto",
+      "answer_proposal": "C",
+      "reason": "El relato muestra fragilidad cotidiana de un general envejecido, humanizando su figura."
+    },
+    {
+      "question": 31,
+      "page": 12,
+      "context": "ADB3-LC03",
+      "topic": "El general en su laberinto",
+      "answer_proposal": "C",
+      "reason": "Los terminos de deterioro refuerzan debilidad y no juventud ni ocultamiento de enfermedad."
+    },
+    {
+      "question": 32,
+      "page": 12,
+      "context": "ADB3-LC04",
+      "topic": "Los computadores hacen lo que se les manda",
+      "answer_proposal": "C",
+      "reason": "La comparacion con soldados destaca obediencia sin cuestionamiento."
+    },
+    {
+      "question": 33,
+      "page": 12,
+      "context": "ADB3-LC04",
+      "topic": "Los computadores hacen lo que se les manda",
+      "answer_proposal": "B",
+      "reason": "La obediencia explica tanto utilidad como vulnerabilidad; no solo ventajas ni invulnerabilidad."
+    },
+    {
+      "question": 34,
+      "page": 13,
+      "context": "ADB3-LC04",
+      "topic": "Los computadores hacen lo que se les manda",
+      "answer_proposal": "B",
+      "reason": "El programa descrito ordena copiarse y enviarse a direcciones del disco duro, y seria obedecido."
+    },
+    {
+      "question": 35,
+      "page": 13,
+      "context": "ADB3-LC04",
+      "topic": "Los computadores hacen lo que se les manda",
+      "answer_proposal": "C",
+      "reason": "El ejemplo de propagacion ilustra y apoya que obediencia produce vulnerabilidad."
+    },
+    {
+      "question": 36,
+      "page": 13,
+      "context": "ADB3-LC05",
+      "topic": "Simulacion",
+      "answer_proposal": "C",
+      "reason": "La revelacion final de nacionalidad y habla implica que el supuesto tigre tambien es humano disfrazado."
+    },
+    {
+      "question": 37,
+      "page": 13,
+      "context": "ADB3-LC05",
+      "topic": "Simulacion",
+      "answer_proposal": "C",
+      "reason": "Bestial conserva sentido de ferocidad en el contexto, a diferencia de felino,heroico o sadico."
+    },
+    {
+      "question": 38,
+      "page": 15,
+      "context": "ADB3-LC06",
+      "topic": "El arabe del futuro4",
+      "answer_proposal": "D",
+      "reason": "Los recuadros narran en primera persona recuerdos del protagonista; D es unica opcion con esa funcion.",
+      "alert": "La opcion dice nina,pero fuente identifica protagonista Riad y usa obligado:discordancia de genero en alternativa.No cambiar original."
+    },
+    {
+      "question": 39,
+      "page": 15,
+      "context": "ADB3-LC06",
+      "topic": "El arabe del futuro4",
+      "answer_proposal": "C",
+      "reason": "Escucharla era agradable expresa gusto del protagonista por voz de maestra,mientras el globo transcribe a la mujer."
+    },
+    {
+      "question": 40,
+      "page": 15,
+      "context": "ADB3-LC07",
+      "topic": "La lactosa",
+      "answer_proposal": "C",
+      "reason": "La cita del cortesano usa imagen humoristica del queso para sostener rechazo cultural descrito.",
+      "alert": "Se describe estrategia del texto,no se valida cientificamente su tesis biologica o cultural."
+    },
+    {
+      "question": 41,
+      "page": 15,
+      "context": "ADB3-LC07",
+      "topic": "La lactosa",
+      "answer_proposal": "D",
+      "reason": "La vida lactea abarca leche,lactosa y costumbres alimentarias;los otros titulos son ajenos o demasiado generales."
+    },
+    {
+      "question": 42,
+      "page": 15,
+      "context": "ADB3-LC07",
+      "topic": "La lactosa",
+      "answer_proposal": "B",
+      "reason": "El Libano se menciona explicitamente como region donde leche es esencial desde milenios."
+    },
+    {
+      "question": 43,
+      "page": 16,
+      "context": "ADB3-LC07",
+      "topic": "La lactosa",
+      "answer_proposal": "D",
+      "reason": "El texto situa intolerancia comun en America,no en norte deEuropa,India o Mongolia."
+    },
+    {
+      "question": 44,
+      "page": 16,
+      "context": "ADB3-LC07",
+      "topic": "La lactosa",
+      "answer_proposal": "C",
+      "reason": "La expresion del queso se atribuye a un cortesano de dinastia Ming."
+    },
+    {
+      "question": 45,
+      "page": 16,
+      "context": "ADB3-LC08",
+      "topic": "Elogio del arroz con huevo",
+      "answer_proposal": "B",
+      "reason": "El ultimo parrafo resalta ligereza,no pesadez y dormir sin hambre:facilidad de digestion."
+    },
+    {
+      "question": 46,
+      "page": 16,
+      "context": "ADB3-LC08",
+      "topic": "Elogio del arroz con huevo",
+      "answer_proposal": "C",
+      "reason": "El elogio subjetivo coloquial y humoristico corresponde a opinion,no receta ni articulo cientifico."
+    }
+  ],
+  "next": "Sociales47enpagina17."
+}

@@ -1,0 +1,86 @@
+{
+  "file_id": "USB-1bc205e23b46",
+  "date": "2026-10-30",
+  "area": "Inglés",
+  "scope": "Parte 1, Object Uses, preguntas 80-84, página física 24; banco común A-G y ejemplo H. No asignación de MCER ni nivel de dificultad por formato.",
+  "contexts": [
+    {
+      "id": "object_uses",
+      "page": 24,
+      "title": "Object Uses",
+      "description": "Asociación con banco A boat; B camera; C draw; D movie; E guitar; F laptop; G music. Ejemplo H swim. Cinco ítems, dos distractores sobrantes."
+    }
+  ],
+  "items": [
+    {
+      "question": 80,
+      "page": 24,
+      "topic": "Vocabulario de instrumentos y uso",
+      "competency_proposal": "Competencia comunicativa: reconocimiento léxico y relación entre descripción y palabra",
+      "context": "object_uses",
+      "answer_proposal": "E",
+      "reason": "Guitar es el instrumento con el que se toca una canción.",
+      "observed_annotation": {
+        "value": "E",
+        "type": "letra añadida dentro de recuadro rojo",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 81,
+      "page": 24,
+      "topic": "Vocabulario de tecnología y uso",
+      "competency_proposal": "Competencia comunicativa: reconocimiento léxico y relación entre descripción y palabra",
+      "context": "object_uses",
+      "answer_proposal": "F",
+      "reason": "Laptop es el dispositivo del banco utilizable para acceder a Internet.",
+      "observed_annotation": {
+        "value": "F",
+        "type": "letra añadida dentro de recuadro rojo",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 82,
+      "page": 24,
+      "topic": "Vocabulario de fotografía",
+      "competency_proposal": "Competencia comunicativa: reconocimiento léxico y relación entre descripción y palabra",
+      "context": "object_uses",
+      "answer_proposal": "B",
+      "reason": "Camera es el objeto con el que se toman fotografías.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "letra añadida dentro de recuadro rojo",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 83,
+      "page": 24,
+      "topic": "Vocabulario de acciones artísticas",
+      "competency_proposal": "Competencia comunicativa: reconocimiento léxico y relación entre descripción y palabra",
+      "context": "object_uses",
+      "answer_proposal": "C",
+      "reason": "Draw es la acción que se realiza con lápices de colores, crayones y papel.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "letra añadida dentro de recuadro rojo",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 84,
+      "page": 24,
+      "topic": "Vocabulario de entretenimiento",
+      "competency_proposal": "Competencia comunicativa: reconocimiento léxico y relación entre descripción y palabra",
+      "context": "object_uses",
+      "answer_proposal": "D",
+      "reason": "Movie es lo que se puede ver comprando una entrada.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "letra añadida dentro de recuadro rojo",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    }
+  ]
+}

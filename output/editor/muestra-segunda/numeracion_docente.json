@@ -1,0 +1,382 @@
+[
+  {
+    "number": 1,
+    "id": "q-demo-3",
+    "answer": "A",
+    "assessment": {
+      "framework": "icfes-guia-2026-2",
+      "area": "social",
+      "status": "unclassified",
+      "competency": null,
+      "process": null,
+      "claim": null,
+      "evidence": null,
+      "component": null,
+      "part": null,
+      "rationale": "",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "number": 2,
+    "id": "q-demo-4",
+    "answer": "C",
+    "assessment": {
+      "framework": "icfes-guia-2026-2",
+      "area": "social",
+      "status": "unclassified",
+      "competency": null,
+      "process": null,
+      "claim": null,
+      "evidence": null,
+      "component": null,
+      "part": null,
+      "rationale": "",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "number": 3,
+    "id": "q-demo-5",
+    "answer": "B",
+    "assessment": {
+      "framework": "icfes-guia-2026-2",
+      "area": "mathematics",
+      "status": "unclassified",
+      "competency": null,
+      "process": null,
+      "claim": null,
+      "evidence": null,
+      "component": null,
+      "part": null,
+      "rationale": "",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "number": 4,
+    "id": "q-demo-6",
+    "answer": "D",
+    "assessment": {
+      "framework": "icfes-guia-2026-2",
+      "area": "mathematics",
+      "status": "proposed",
+      "competency": "execution",
+      "process": null,
+      "claim": "2",
+      "evidence": "2.2",
+      "component": null,
+      "part": null,
+      "rationale": "Aplica un procedimiento de descuento para obtener el precio final.",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "number": 5,
+    "id": "q-demo-7",
+    "answer": "A",
+    "assessment": {
+      "framework": "icfes-guia-2026-2",
+      "area": "mathematics",
+      "status": "unclassified",
+      "competency": null,
+      "process": null,
+      "claim": null,
+      "evidence": null,
+      "component": null,
+      "part": null,
+      "rationale": "",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "number": 6,
+    "id": "q-demo-8",
+    "answer": "C",
+    "assessment": {
+      "framework": "icfes-guia-2026-2",
+      "area": "science",
+      "status": "unclassified",
+      "competency": null,
+      "process": null,
+      "claim": null,
+      "evidence": null,
+      "component": null,
+      "part": null,
+      "rationale": "",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "number": 7,
+    "id": "q-demo-9",
+    "answer": "B",
+    "assessment": {
+      "framework": "icfes-guia-2026-2",
+      "area": "science",
+      "status": "unclassified",
+      "competency": null,
+      "process": null,
+      "claim": null,
+      "evidence": null,
+      "component": null,
+      "part": null,
+      "rationale": "",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "number": 8,
+    "id": "q-demo-10",
+    "answer": "D",
+    "assessment": {
+      "framework": "icfes-guia-2026-2",
+      "area": "science",
+      "status": "unclassified",
+      "competency": null,
+      "process": null,
+      "claim": null,
+      "evidence": null,
+      "component": null,
+      "part": null,
+      "rationale": "",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "number": 9,
+    "id": "q-demo-11",
+    "answer": "G",
+    "assessment": {
+      "framework": "icfes-guia-2026-2",
+      "area": "english",
+      "status": "proposed",
+      "competency": "communication",
+      "process": null,
+      "claim": null,
+      "evidence": null,
+      "component": null,
+      "part": 1,
+      "rationale": "Relaciona descripciones con un banco común de palabras.",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "number": 10,
+    "id": "q-demo-12",
+    "answer": "A",
+    "assessment": {
+      "framework": "icfes-guia-2026-2",
+      "area": "english",
+      "status": "proposed",
+      "competency": "communication",
+      "process": null,
+      "claim": null,
+      "evidence": null,
+      "component": null,
+      "part": 1,
+      "rationale": "Relaciona descripciones con un banco común de palabras.",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "number": 11,
+    "id": "q-demo-13",
+    "answer": "B",
+    "assessment": {
+      "framework": "icfes-guia-2026-2",
+      "area": "english",
+      "status": "proposed",
+      "competency": "communication",
+      "process": null,
+      "claim": null,
+      "evidence": null,
+      "component": null,
+      "part": 1,
+      "rationale": "Relaciona descripciones con un banco común de palabras.",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "number": 12,
+    "id": "q-demo-14",
+    "answer": "B",
+    "assessment": {
+      "framework": "icfes-guia-2026-2",
+      "area": "english",
+      "status": "proposed",
+      "competency": "communication",
+      "process": null,
+      "claim": null,
+      "evidence": null,
+      "component": null,
+      "part": 2,
+      "rationale": "Reconoce dónde sería pertinente el aviso.",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "number": 13,
+    "id": "q-demo-15",
+    "answer": "A",
+    "assessment": {
+      "framework": "icfes-guia-2026-2",
+      "area": "english",
+      "status": "proposed",
+      "competency": "communication",
+      "process": null,
+      "claim": null,
+      "evidence": null,
+      "component": null,
+      "part": 3,
+      "rationale": "Selecciona una intervención apropiada para una petición.",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "number": 14,
+    "id": "q-demo-16",
+    "answer": "B",
+    "assessment": {
+      "framework": "icfes-guia-2026-2",
+      "area": "english",
+      "status": "proposed",
+      "competency": "communication",
+      "process": null,
+      "claim": null,
+      "evidence": null,
+      "component": null,
+      "part": 4,
+      "rationale": "Selecciona formas gramaticales para completar un texto.",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "number": 15,
+    "id": "q-demo-17",
+    "answer": "C",
+    "assessment": {
+      "framework": "icfes-guia-2026-2",
+      "area": "english",
+      "status": "proposed",
+      "competency": "communication",
+      "process": null,
+      "claim": null,
+      "evidence": null,
+      "component": null,
+      "part": 4,
+      "rationale": "Selecciona formas gramaticales para completar un texto.",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "number": 16,
+    "id": "q-demo-18",
+    "answer": "A",
+    "assessment": {
+      "framework": "icfes-guia-2026-2",
+      "area": "english",
+      "status": "proposed",
+      "competency": "communication",
+      "process": null,
+      "claim": null,
+      "evidence": null,
+      "component": null,
+      "part": 5,
+      "rationale": "Recupera información explícita de la lectura.",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "number": 17,
+    "id": "q-demo-19",
+    "answer": "B",
+    "assessment": {
+      "framework": "icfes-guia-2026-2",
+      "area": "english",
+      "status": "proposed",
+      "competency": "communication",
+      "process": null,
+      "claim": null,
+      "evidence": null,
+      "component": null,
+      "part": 5,
+      "rationale": "Recupera información explícita de la lectura.",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "number": 18,
+    "id": "q-demo-20",
+    "answer": "D",
+    "assessment": {
+      "framework": "icfes-guia-2026-2",
+      "area": "english",
+      "status": "proposed",
+      "competency": "communication",
+      "process": null,
+      "claim": null,
+      "evidence": null,
+      "component": null,
+      "part": 6,
+      "rationale": "Infiere la idea general a partir de la situación narrada.",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "number": 19,
+    "id": "q-demo-21",
+    "answer": "C",
+    "assessment": {
+      "framework": "icfes-guia-2026-2",
+      "area": "english",
+      "status": "proposed",
+      "competency": "communication",
+      "process": null,
+      "claim": null,
+      "evidence": null,
+      "component": null,
+      "part": 7,
+      "rationale": "Selecciona palabras pertinentes para completar el contexto.",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "number": 20,
+    "id": "q-demo-22",
+    "answer": "A",
+    "assessment": {
+      "framework": "icfes-guia-2026-2",
+      "area": "english",
+      "status": "proposed",
+      "competency": "communication",
+      "process": null,
+      "claim": null,
+      "evidence": null,
+      "component": null,
+      "part": 7,
+      "rationale": "Selecciona palabras pertinentes para completar el contexto.",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  }
+]

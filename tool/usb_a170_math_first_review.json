@@ -1,0 +1,161 @@
+{
+  "file_id": "USB-a170782eadcb",
+  "date": "2026-10-30",
+  "area": "Matemáticas",
+  "scope": "Físicas1-3inspeccionadas visualmente. Física2incluye impresas2-3,preguntas1-6;física3incluye impresas4-5,preguntas7-14. Preguntas4-14cotejadas conABR1en las imágenes disponibles;1-3diferentes. Repeticiones exactas ahora son referencias a ficha canónica, sin duplicar explicación ni competencia.",
+  "competency_legend": {
+    "IR": "Interpretación y representación",
+    "FE": "Formulación y ejecución",
+    "AR": "Argumentación"
+  },
+  "metadata": {
+    "cover": "Estación Cisneros,2025-2,PrimeraSesión,AAA1,131preguntas,4h30min.",
+    "layout": "Páginas físicas con dos páginas impresas; conservar ambas referencias.",
+    "calendar": "No confirmado explícitamente",
+    "source_status": "Escaneo pálido;no autenticidad ni permiso comercial acreditados."
+  },
+  "items": [
+    {
+      "question": 1,
+      "page": 2,
+      "printed_page": 2,
+      "topic": "Función creciente e inversión de variables",
+      "competency_code": "AR",
+      "answer_proposal": "A",
+      "reason": "g(x)devuelve litros para distanciax; para hallar distancias asociadas a40y60litros deben resolverseg(x)=40yg(x)=60,no evaluarg(40),g(60).",
+      "alert": "Requiere que valores estén en imagen yfunción permita hallar extremos; ser creciente no autoriza intercambiar unidades."
+    },
+    {
+      "question": 2,
+      "page": 2,
+      "printed_page": 2,
+      "topic": "Alcance temporal de tendencia gráfica",
+      "competency_code": "AR",
+      "answer_proposal": "A",
+      "reason": "Después de60s las concentracionesP/Qse estabilizan; no aumentan/disminuyen en cualquier intervalo.",
+      "alert": "Se lee la meseta del gráfico; no se concluye que reacción se detenga completamente ni que desaparezcan procesos microscópicos."
+    },
+    {
+      "question": 3,
+      "page": 2,
+      "printed_page": 2,
+      "topic": "Redundancia en procedimiento de representación",
+      "competency_code": "AR",
+      "answer_proposal": "D",
+      "reason": "Marcar coordenadas de cada cliente en paso4ya está incluido en representar datos en gráfica del paso3.",
+      "alert": "Coeficiente cercano a1no garantiza causalidad ni que la estrategia comercial funcione; el ítem pregunta solo por redundancia."
+    }
+  ],
+  "duplicate_occurrences": [
+    {
+      "question": 4,
+      "page": 2,
+      "printed_page": 3,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 4,
+      "canonical_page": 3,
+      "exact_content": true,
+      "verification": "Enunciado, opciones, datos y figura cotejados visualmente; numeración/escaneo distintos. Sin marcas de respuesta nuevas documentadas."
+    },
+    {
+      "question": 5,
+      "page": 2,
+      "printed_page": 3,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 5,
+      "canonical_page": 3,
+      "exact_content": true,
+      "verification": "Enunciado, opciones, datos y figura cotejados visualmente; numeración/escaneo distintos. Sin marcas de respuesta nuevas documentadas."
+    },
+    {
+      "question": 6,
+      "page": 2,
+      "printed_page": 3,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 6,
+      "canonical_page": 3,
+      "exact_content": true,
+      "verification": "Enunciado, opciones, datos y figura cotejados visualmente; numeración/escaneo distintos. Sin marcas de respuesta nuevas documentadas."
+    },
+    {
+      "question": 7,
+      "page": 3,
+      "printed_page": 4,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 7,
+      "canonical_page": 4,
+      "exact_content": true,
+      "verification": "Enunciado, opciones, datos y figura cotejados visualmente; numeración/escaneo distintos. Sin marcas de respuesta nuevas documentadas."
+    },
+    {
+      "question": 8,
+      "page": 3,
+      "printed_page": 4,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 8,
+      "canonical_page": 4,
+      "exact_content": true,
+      "verification": "Enunciado, opciones, datos y figura cotejados visualmente; numeración/escaneo distintos. Sin marcas de respuesta nuevas documentadas."
+    },
+    {
+      "question": 9,
+      "page": 3,
+      "printed_page": 4,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 9,
+      "canonical_page": 4,
+      "exact_content": true,
+      "verification": "Enunciado, opciones, datos y figura cotejados visualmente; numeración/escaneo distintos. Sin marcas de respuesta nuevas documentadas."
+    },
+    {
+      "question": 10,
+      "page": 3,
+      "printed_page": 5,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 10,
+      "canonical_page": 5,
+      "exact_content": true,
+      "verification": "Enunciado, opciones, datos y figura cotejados visualmente; numeración/escaneo distintos. Sin marcas de respuesta nuevas documentadas."
+    },
+    {
+      "question": 11,
+      "page": 3,
+      "printed_page": 5,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 11,
+      "canonical_page": 5,
+      "exact_content": true,
+      "verification": "Enunciado, opciones, datos y figura cotejados visualmente; numeración/escaneo distintos. Sin marcas de respuesta nuevas documentadas."
+    },
+    {
+      "question": 12,
+      "page": 3,
+      "printed_page": 5,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 12,
+      "canonical_page": 5,
+      "exact_content": true,
+      "verification": "Enunciado, opciones, datos y figura cotejados visualmente; numeración/escaneo distintos. Sin marcas de respuesta nuevas documentadas."
+    },
+    {
+      "question": 13,
+      "page": 3,
+      "printed_page": 5,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 13,
+      "canonical_page": 5,
+      "exact_content": true,
+      "verification": "Enunciado, opciones, datos y figura cotejados visualmente; numeración/escaneo distintos. Sin marcas de respuesta nuevas documentadas."
+    },
+    {
+      "question": 14,
+      "page": 3,
+      "printed_page": 5,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 14,
+      "canonical_page": 5,
+      "exact_content": true,
+      "verification": "Enunciado, opciones, datos y figura cotejados visualmente; numeración/escaneo distintos. Sin marcas de respuesta nuevas documentadas."
+    }
+  ]
+}

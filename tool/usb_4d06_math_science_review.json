@@ -1,0 +1,95 @@
+{
+  "file_id": "USB-4d0661231ca3",
+  "date": "2026-10-30",
+  "area": "Matemáticas y Ciencias naturales",
+  "scope": "Físicas17-20completas.48-50y54-55cinco referencias;51-53tres fichas. Matemáticas26-50cubierta inicialmente.",
+  "items": [
+    {
+      "question": 51,
+      "page": 18,
+      "printed_page": 18,
+      "answer_proposal": "A",
+      "topic": "Temperatura,densidad y globo",
+      "competency_proposal": "Explicación de fenómenos",
+      "reason": "Disminuir temperatura interna aumenta densidad del aire a presión comparable y reduce sustentación;A.",
+      "alert": "Modelo simplificado:descenso depende de masa de globo,carga y empuje,no ley deCharles sola."
+    },
+    {
+      "question": 52,
+      "page": 18,
+      "printed_page": 18,
+      "answer_proposal": "B",
+      "topic": "Identificación de grupo carboxilo",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "reason": "CH3COOHyC6H5COOHcontienen grupo−COOH,ácido carboxílico,B.",
+      "alert": "Aplicaciones descritas no son recomendaciones de uso o consumo."
+    },
+    {
+      "question": 53,
+      "page": 19,
+      "printed_page": 19,
+      "answer_proposal": "D",
+      "topic": "Representación de concentraciones",
+      "competency_proposal": "Indagación",
+      "reason": "Dpreserva por muestra fósforo0.12/0.15/0.12/0.10/0.15y nitrógeno0.04/0.33/0.10/0.45/0.05. Bintercambia leyendas yCapila alturas alterando lectura directa.",
+      "alert": "La presencia de nutrientes sola no demuestra contaminación sin umbrales/contexto."
+    }
+  ],
+  "duplicate_occurrences": [
+    {
+      "question": 48,
+      "page": 17,
+      "printed_page": 17,
+      "canonical_file_id": "USB-1c6462bf5377",
+      "canonical_question": 23,
+      "canonical_page": 12,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de enunciados,tablas,figuras,gráficas y opciones con canónica indicada. Monumentos,tarifas/fruta o alvéolos/vacunas según bloque.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 49,
+      "page": 17,
+      "printed_page": 17,
+      "canonical_file_id": "USB-1c6462bf5377",
+      "canonical_question": 24,
+      "canonical_page": 12,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de enunciados,tablas,figuras,gráficas y opciones con canónica indicada. Monumentos,tarifas/fruta o alvéolos/vacunas según bloque.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 50,
+      "page": 17,
+      "printed_page": 17,
+      "canonical_file_id": "USB-1bc205e23b46",
+      "canonical_question": 46,
+      "canonical_page": 12,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de enunciados,tablas,figuras,gráficas y opciones con canónica indicada. Monumentos,tarifas/fruta o alvéolos/vacunas según bloque.",
+      "observed_annotation": "Fuente canónica conDmarcada;marca no se toma por validación oficial."
+    },
+    {
+      "question": 54,
+      "page": 20,
+      "printed_page": 20,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 54,
+      "canonical_page": 18,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de enunciados,tablas,figuras,gráficas y opciones con canónica indicada. Monumentos,tarifas/fruta o alvéolos/vacunas según bloque.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 55,
+      "page": 20,
+      "printed_page": 20,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 55,
+      "canonical_page": 18,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de enunciados,tablas,figuras,gráficas y opciones con canónica indicada. Monumentos,tarifas/fruta o alvéolos/vacunas según bloque.",
+      "observed_annotation": "Sin marca relevante."
+    }
+  ]
+}

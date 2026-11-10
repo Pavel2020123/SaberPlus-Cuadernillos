@@ -1,0 +1,305 @@
+{
+  "file_id": "USB-d4e43db6988a",
+  "date": "2026-10-30",
+  "area": "Matematicas",
+  "scope": "Preguntas1-22,físicas2-8,inspección visual de tablas,figuras,opciones y marcas. Portada2026-1,primera sesión131preguntas4h30,CóndorAndino;calendarioBno confirmado.No claves oficiales.",
+  "competency_legend": {
+    "IR": "Interpretación y representación",
+    "FE": "Formulación y ejecución",
+    "AR": "Argumentación"
+  },
+  "items": [
+    {
+      "question": 1,
+      "page": 2,
+      "topic": "Media aritmética de edades",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "Las edades21,26,20,21,22,28,30suman168;168/7=24.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "resaltado amarillo sobre opción",
+        "provenance": "Anotación presente en escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 2,
+      "page": 2,
+      "topic": "Datos insuficientes para calcular impuesto",
+      "competency_code": "AR",
+      "answer_proposal": "B",
+      "reason": "El impuesto depende de temporada del año y no del día semanal; sin temporada no se elige entre12%y19%.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "resaltado amarillo sobre opción",
+        "provenance": "Anotación presente en escaneo; autoría y carácter oficial no comprobados."
+      },
+      "alert": "Se pide valor exacto, no solo subtotal700000antes de impuesto."
+    },
+    {
+      "question": 3,
+      "page": 2,
+      "topic": "Lectura de intersecciones de conjuntos",
+      "competency_code": "IR",
+      "answer_proposal": "B",
+      "reason": "Cabeza10+8+6=24,náuseas15+6+1=22,mareo5+8+1=14;las frecuencias por síntoma coinciden.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "resaltado amarillo sobre opción",
+        "provenance": "Anotación presente en escaneo; autoría y carácter oficial no comprobados."
+      },
+      "alert": "Las frecuencias por síntoma no deben sumarse para contar personas únicas, pues existen intersecciones."
+    },
+    {
+      "question": 4,
+      "page": 3,
+      "topic": "Conteo de grupos con restricción",
+      "competency_code": "FE",
+      "answer_proposal": "D",
+      "reason": "No pueden escogerse tres hombres si solo haydos; los grupos con al menos uno son una mujer/dos hombres(Y)y dos mujeres/un hombre(Z).",
+      "observed_annotation": {
+        "value": "D",
+        "type": "resaltado amarillo sobre opción",
+        "provenance": "Anotación presente en escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 5,
+      "page": 3,
+      "topic": "Multiplicación de premios y montos",
+      "competency_code": "FE",
+      "answer_proposal": "B",
+      "reason": "Oro5×10millones=50millones,plata25×5millones=125millones,bronce100×1millón=100millones.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "resaltado amarillo sobre opción",
+        "provenance": "Anotación presente en escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 6,
+      "page": 3,
+      "topic": "Suma geométrica de ahorro duplicado",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "750000/50000=15=1+2+4+8;se requieren cuatro meses.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "resaltado amarillo sobre opción",
+        "provenance": "Anotación presente en escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 7,
+      "page": 3,
+      "topic": "Ahorro porcentual acumulado",
+      "competency_code": "FE",
+      "answer_proposal": "B",
+      "reason": "3%de900000=27000mensuales;diez meses=270000.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "resaltado amarillo sobre opción",
+        "provenance": "Anotación presente en escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 8,
+      "page": 4,
+      "topic": "Validación de gráfica contra tabla",
+      "competency_code": "IR",
+      "answer_proposal": "C",
+      "reason": "Antioquia2012/2013yBogotá2015difieren entre gráfica y tabla; la afirmaciónCdetecta esos cambios.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "resaltado amarillo sobre opción",
+        "provenance": "Anotación presente en escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 9,
+      "page": 4,
+      "topic": "Representación de frecuencias en diagrama circular",
+      "competency_code": "IR",
+      "answer_proposal": "A",
+      "reason": "700/2000=35%,500/2000=25%,800/2000=40%;Aconserva etiquetas y sectores.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "resaltado amarillo sobre opción",
+        "provenance": "Anotación presente en escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 10,
+      "page": 5,
+      "topic": "Representatividad de muestra geográfica",
+      "competency_code": "AR",
+      "answer_proposal": "C",
+      "reason": "Encuestar solo un municipio no asegura representar las preferencias del departamento completo.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "resaltado amarillo sobre opción",
+        "provenance": "Anotación presente en escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 11,
+      "page": 5,
+      "topic": "Área de región compuesta en rectángulo",
+      "competency_code": "FE",
+      "answer_proposal": "A",
+      "reason": "La porción1tiene área30×10menos15×5=225cm²;no se omite la franja superior.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "letra rodeada en azul",
+        "provenance": "Anotación presente en escaneo; autoría y carácter oficial no comprobados."
+      },
+      "alert": "Anotación azul rodeaAademás de delinear la región1; el cálculo independiente da225."
+    },
+    {
+      "question": 12,
+      "page": 5,
+      "topic": "Consistencia de unidades al sumar masa",
+      "competency_code": "AR",
+      "answer_proposal": "C",
+      "reason": "Se debe convertir1tonelada a1000kgantes de sumar:500+200+1000=1700kg.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "resaltado amarillo sobre opción",
+        "provenance": "Anotación presente en escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 13,
+      "page": 6,
+      "topic": "Detección de error en área triangular",
+      "competency_code": "AR",
+      "answer_proposal": "C",
+      "reason": "Región1triangular requiere4×3/2;el paso2omite división entre2.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "resaltado amarillo sobre opción",
+        "provenance": "Anotación presente en escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 14,
+      "page": 6,
+      "topic": "Información recuperable de gráfico circular",
+      "competency_code": "IR",
+      "answer_proposal": "C",
+      "reason": "Sin frecuencias o total,no se recuperan cantidades exactas de votos de la tabla solo del gráfico.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "resaltado amarillo sobre opción",
+        "provenance": "Anotación presente en escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 15,
+      "page": 7,
+      "topic": "Patrón de ahorro lineal",
+      "competency_code": "IR",
+      "answer_proposal": "B",
+      "reason": "Los saldos finales130000,160000,190000,220000aumentan30000por mes.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "resaltado amarillo sobre opción",
+        "provenance": "Anotación presente en escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 16,
+      "page": 7,
+      "topic": "Promedio de conteos",
+      "competency_code": "FE",
+      "answer_proposal": "B",
+      "reason": "(6+5+10)/3=7.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "resaltado amarillo sobre opción",
+        "provenance": "Anotación presente en escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 17,
+      "page": 7,
+      "topic": "Suma de regiones de un conjunto",
+      "competency_code": "IR",
+      "answer_proposal": "D",
+      "reason": "Bicicleta incluye50solo,20concarro,25contransporte y5conambos:se suman5,20,25,50.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "resaltado amarillo sobre opción",
+        "provenance": "Anotación presente en escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 18,
+      "page": 7,
+      "topic": "Crecimiento por duplicación periódica",
+      "competency_code": "FE",
+      "answer_proposal": "D",
+      "reason": "De2010a2016haytres periodos de2años:10000×2³=80000.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "resaltado amarillo sobre opción",
+        "provenance": "Anotación presente en escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 19,
+      "page": 7,
+      "topic": "Paso redundante de algoritmo de área",
+      "competency_code": "AR",
+      "answer_proposal": "A",
+      "reason": "Multiplicar por4enpaso3y sumar cuatro veces el resultado delpaso2enpaso4hacen la misma operación.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "resaltado amarillo sobre opción",
+        "provenance": "Anotación presente en escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 20,
+      "page": 8,
+      "topic": "Equivalencia algebraica y factorización de tiempo",
+      "competency_code": "AR",
+      "answer_proposal": "B",
+      "reason": "Sacar factortiempodel términoat²deja un factor adicionaltadentro;la expresión propuesta lo omite.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "resaltado amarillo sobre opción",
+        "provenance": "Anotación presente en escaneo; autoría y carácter oficial no comprobados."
+      },
+      "alert": "La fórmula impresa parece usar10m/s²en el término cuadrático mientras el enunciado dice3m/s²; no se corrige el PDF. En ambos casos la propuesta de factorización omite tiempo y es inválida dimensionalmente."
+    },
+    {
+      "question": 21,
+      "page": 8,
+      "topic": "Procedimiento incorrecto de tiempo de descarga",
+      "competency_code": "FE",
+      "answer_proposal": "B",
+      "reason": "El tiempo es12,6×1024/300; Bcalcula1024×300/12,6,no equivalente.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "resaltado amarillo sobre opción",
+        "provenance": "Anotación presente en escaneo; autoría y carácter oficial no comprobados."
+      },
+      "alert": "Se respeta conversión1024del enunciado; no confundir bytes con bits."
+    },
+    {
+      "question": 22,
+      "page": 8,
+      "topic": "Semejanza de triángulos en rampa",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "La base total4my distancia restante desde columna2mproducen razón2;h=3/2=1,5m.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "resaltado amarillo sobre opción",
+        "provenance": "Anotación presente en escaneo; autoría y carácter oficial no comprobados."
+      },
+      "alert": "Bafirma erróneamente4/2=0,5;Cconserva operación correcta."
+    }
+  ]
+}

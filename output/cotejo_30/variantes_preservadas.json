@@ -1,0 +1,79 @@
+[
+  {
+    "left": [
+      "USB-1bc205e23b46",
+      34
+    ],
+    "right": [
+      "USB-d4e43db6988a",
+      20
+    ],
+    "evidence": "Misma tarea y opciones pero cambia coeficiente impreso en fórmula:actual3frente a10en relacionado;es variante,conservar ambos."
+  },
+  {
+    "left": [
+      "USB-d4e43db6988a",
+      43
+    ],
+    "right": [
+      "USB-04dc5257ed8b",
+      26
+    ],
+    "evidence": "Contexto y tarea coinciden,pero opciónBactual dice que agua hierve de la misma manera que champaña; la relacionada dice que agua al hervir produce burbujas similares. Variante de distractor,no texto idéntico. Clave propuestaCse conserva."
+  },
+  {
+    "left": [
+      "USB-f00a52c8b6f2",
+      80
+    ],
+    "right": [
+      "USB-1bc205e23b46",
+      80
+    ],
+    "evidence": "Misma descripción cotejada visualmente; banco reordenado ymarcas del otro archivo distintas. ABR2:80D81E82B83C84F;Tatacoa:80E81F82B83C84D. No identidad de versión ni clave intercambiable."
+  },
+  {
+    "left": [
+      "USB-f00a52c8b6f2",
+      81
+    ],
+    "right": [
+      "USB-1bc205e23b46",
+      81
+    ],
+    "evidence": "Misma descripción cotejada visualmente; banco reordenado ymarcas del otro archivo distintas. ABR2:80D81E82B83C84F;Tatacoa:80E81F82B83C84D. No identidad de versión ni clave intercambiable."
+  },
+  {
+    "left": [
+      "USB-f00a52c8b6f2",
+      82
+    ],
+    "right": [
+      "USB-1bc205e23b46",
+      82
+    ],
+    "evidence": "Misma descripción cotejada visualmente; banco reordenado ymarcas del otro archivo distintas. ABR2:80D81E82B83C84F;Tatacoa:80E81F82B83C84D. No identidad de versión ni clave intercambiable."
+  },
+  {
+    "left": [
+      "USB-f00a52c8b6f2",
+      83
+    ],
+    "right": [
+      "USB-1bc205e23b46",
+      83
+    ],
+    "evidence": "Misma descripción cotejada visualmente; banco reordenado ymarcas del otro archivo distintas. ABR2:80D81E82B83C84F;Tatacoa:80E81F82B83C84D. No identidad de versión ni clave intercambiable."
+  },
+  {
+    "left": [
+      "USB-f00a52c8b6f2",
+      84
+    ],
+    "right": [
+      "USB-1bc205e23b46",
+      84
+    ],
+    "evidence": "Misma descripción cotejada visualmente; banco reordenado ymarcas del otro archivo distintas. ABR2:80D81E82B83C84F;Tatacoa:80E81F82B83C84D. No identidad de versión ni clave intercambiable."
+  }
+]

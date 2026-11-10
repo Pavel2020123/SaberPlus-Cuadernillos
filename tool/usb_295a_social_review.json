@@ -1,0 +1,304 @@
+{
+  "file_id": "USB-295a0508d0cf",
+  "date": "2026-10-30",
+  "area": "Sociales y ciudadanas",
+  "scope": "Todas las7páginas inspeccionadas visualmente;24preguntas impresas67-90. Portada de compilación Sociales/SamuelPalacios/GrupoICFES, sin año,sesión o calendario visibles.2026-2solo nombre de archivo. Propuestas no oficiales; anotaciones azules no atribuibles a clave oficial.",
+  "competency_legend": {
+    "PS": "Pensamiento social",
+    "IP": "Interpretación y análisis de perspectivas",
+    "RS": "Pensamiento reflexivo y sistémico"
+  },
+  "items": [
+    {
+      "question": 67,
+      "page": 2,
+      "topic": "Pertinencia de evidencia para hipótesis histórica",
+      "competency_code": "IP",
+      "answer_proposal": "B",
+      "reason": "La expansión por zonas estratégicas del narcotráfico respalda intereses ilícitos además de la contrainsurgencia.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "letra rodeada en azul con tachones de otras opciones",
+        "provenance": "Anotación de estudio visible, autoría y validación no comprobadas."
+      }
+    },
+    {
+      "question": 68,
+      "page": 2,
+      "topic": "Actores afectados por localización de relleno sanitario",
+      "competency_code": "IP",
+      "answer_proposal": "D",
+      "reason": "Habitantes de barrios periféricos pueden oponerse a empresa operadora por efectos de la proximidad del relleno.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "letra rodeada en azul con tachones de otras opciones",
+        "provenance": "Anotación de estudio visible, autoría y validación no comprobadas."
+      }
+    },
+    {
+      "question": 69,
+      "page": 2,
+      "topic": "Dimensión priorizada en política de cargador universal",
+      "competency_code": "RS",
+      "answer_proposal": "B",
+      "reason": "La norma busca sostenibilidad y reducir residuos electrónicos, además de ahorros económicos secundarios.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "letra rodeada en azul con tachones de otras opciones",
+        "provenance": "Anotación de estudio visible, autoría y validación no comprobadas."
+      },
+      "alert": "La descripción de una política no acredita que ya esté implementada ni verifica su estado actual."
+    },
+    {
+      "question": 70,
+      "page": 3,
+      "topic": "Intención de institución de control en fuente histórica",
+      "competency_code": "IP",
+      "answer_proposal": "C",
+      "reason": "El fragmento describe vigilancia, represión y control de ciudadanía para mantener el régimen.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "letra rodeada en azul con tachones de otras opciones",
+        "provenance": "Anotación de estudio visible, autoría y validación no comprobadas."
+      },
+      "context_pages": [
+        2,
+        3
+      ],
+      "alert": "Enunciado y comienzo de fuente en física2; pregunta y opciones en3. Se analizan intenciones atribuidas por la fuente."
+    },
+    {
+      "question": 71,
+      "page": 3,
+      "topic": "Supuesto de una concepción de democracia",
+      "competency_code": "IP",
+      "answer_proposal": "D",
+      "reason": "Los promotores vinculan democracia con propiedad obrera de medios de producción, más que con elecciones u oposición.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "letra rodeada en azul con tachones de otras opciones",
+        "provenance": "Anotación de estudio visible, autoría y validación no comprobadas."
+      }
+    },
+    {
+      "question": 72,
+      "page": 3,
+      "topic": "Secuencia histórica de derechos y leyes",
+      "competency_code": "PS",
+      "answer_proposal": "C",
+      "reason": "El fin legal de esclavitud es anterior al reconocimiento de propiedad colectiva de comunidades negras en el marco constitucional de1991.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "letra rodeada en azul con tachones de otras opciones",
+        "provenance": "Anotación de estudio visible, autoría y validación no comprobadas."
+      },
+      "alert": "Leyes divididas entre columnas de3; ley1es desarrollo legislativo posterior a1991,no la Constitución misma. Distinguir marco constitucional de fecha exacta de la ley. No se verifican aquí normas vigentes."
+    },
+    {
+      "question": 73,
+      "page": 3,
+      "topic": "Efectos ambientales no deseados de tecnología",
+      "competency_code": "RS",
+      "answer_proposal": "C",
+      "reason": "Fragmentarse en microplásticos no elimina material y puede contaminar agua y alimentos, comprometiendo ambiente sano.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "letra rodeada en azul con tachones de otras opciones",
+        "provenance": "Anotación de estudio visible, autoría y validación no comprobadas."
+      }
+    },
+    {
+      "question": 74,
+      "page": 4,
+      "topic": "Autonomía de responsabilidad disciplinaria",
+      "competency_code": "PS",
+      "answer_proposal": "B",
+      "reason": "Pagar daños no resuelve posibles faltas disciplinarias de responsables de inspección y vigilancia.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "letra rodeada en azul con tachones de otras opciones",
+        "provenance": "Anotación de estudio visible, autoría y validación no comprobadas."
+      },
+      "alert": "Caso pedagógico histórico, no determinación de responsabilidad jurídica real; no convertir Procuraduría en órgano judicial."
+    },
+    {
+      "question": 75,
+      "page": 4,
+      "topic": "Dimensión social omitida en conservación patrimonial",
+      "competency_code": "RS",
+      "answer_proposal": "B",
+      "reason": "Restringir reparaciones sin atender condiciones de vivienda deja necesidades de habitantes sin resolver.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "letra rodeada en azul con tachones de otras opciones",
+        "provenance": "Anotación de estudio visible, autoría y validación no comprobadas."
+      },
+      "alert": "La opciónDafirma imponer costos a residentes; el texto no establece explícitamente quién los asume."
+    },
+    {
+      "question": 76,
+      "page": 4,
+      "topic": "Identidad histórica en reivindicaciones territoriales",
+      "competency_code": "PS",
+      "answer_proposal": "B",
+      "reason": "Ambos fragmentos apelan a continuidad histórica y cultural con la tierra, no principalmente a productividad o población.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "letra rodeada en azul con tachones de otras opciones",
+        "provenance": "Anotación de estudio visible, autoría y validación no comprobadas."
+      },
+      "alert": "Se clasifican argumentos de las declaraciones, sin validar o invalidar reivindicaciones ni describir actualidad del conflicto."
+    },
+    {
+      "question": 77,
+      "page": 5,
+      "topic": "Participación ciudadana de jóvenes",
+      "competency_code": "PS",
+      "answer_proposal": "D",
+      "reason": "Participar permite influir en decisiones sobre vida común; no se reduce a iniciativas comerciales.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "letra rodeada en azul con tachones de otras opciones",
+        "provenance": "Anotación de estudio visible, autoría y validación no comprobadas."
+      }
+    },
+    {
+      "question": 78,
+      "page": 5,
+      "topic": "Mecanismo de reforma constitucional propuesto",
+      "competency_code": "PS",
+      "answer_proposal": "C",
+      "reason": "La recolección de firmas para proponer cambios constitucionales apunta al referendo entre las opciones ofrecidas.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "letra rodeada en azul con tachones de otras opciones",
+        "provenance": "Anotación de estudio visible, autoría y validación no comprobadas."
+      },
+      "alert": "Las firmas inician una iniciativa; no significan reforma aprobada ni sustituyen las etapas posteriores. No se verifica viabilidad jurídica actual de la propuesta."
+    },
+    {
+      "question": 79,
+      "page": 5,
+      "topic": "Posible efecto no deseado de asistencia humanitaria",
+      "competency_code": "RS",
+      "answer_proposal": "C",
+      "reason": "Una mayor percepción de seguridad podría incentivar más cruces; se plantea posibilidad, no efecto demostrado.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "letra rodeada en azul con tachones de otras opciones",
+        "provenance": "Anotación de estudio visible, autoría y validación no comprobadas."
+      },
+      "alert": "No atribuir a asistencia aumento real sin evidencia; el caso pregunta hipótesis de efecto indirecto."
+    },
+    {
+      "question": 80,
+      "page": 5,
+      "topic": "Dimensiones de conflicto por pesca de arrastre",
+      "competency_code": "RS",
+      "answer_proposal": "A",
+      "reason": "Se contrapone competencia e ingresos de pescadores con deterioro de especies y captura incidental.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "letra rodeada en azul con tachones de otras opciones",
+        "provenance": "Anotación de estudio visible, autoría y validación no comprobadas."
+      }
+    },
+    {
+      "question": 81,
+      "page": 5,
+      "topic": "Geografía y calidad de producción cafetera",
+      "competency_code": "PS",
+      "answer_proposal": "B",
+      "reason": "El texto vincula clima y suelos con sabor y aroma que apoyan posicionamiento internacional.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "letra rodeada en azul con tachones de otras opciones",
+        "provenance": "Anotación de estudio visible, autoría y validación no comprobadas."
+      },
+      "alert": "Datos de liderazgo productor se tratan como contexto del material, no información actual verificada."
+    },
+    {
+      "question": 82,
+      "page": 6,
+      "topic": "Adecuación de acuerdo a intereses de pareja",
+      "competency_code": "IP",
+      "answer_proposal": "C",
+      "reason": "Esteban conserva cuidado y custodia del perro y procura terminar amistosamente la separación, según solución descrita.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "letra rodeada en azul con tachones de otras opciones",
+        "provenance": "Anotación de estudio visible, autoría y validación no comprobadas."
+      },
+      "alert": "B también menciona cuidado y amistad de Esteban;Cusa custodia. Alternativas parcialmente solapadas. Condicionar visitas a evitar discusiones puede afectar intereses de María; propuesta requiere revisión docente."
+    },
+    {
+      "question": 83,
+      "page": 6,
+      "topic": "Resolución de conflicto mediante normas conocidas",
+      "competency_code": "RS",
+      "answer_proposal": "A",
+      "reason": "Consultar manual permite establecer sanciones previstas y contrastar si expulsión corresponde a la falta, sin asumir que necesariamente se debió a enemistad.",
+      "alert": "No prueba imparcialidad de decisión concreta ni que modificar reglas después resuelva el caso; se identifica vía de consulta normativa."
+    },
+    {
+      "question": 84,
+      "page": 6,
+      "topic": "Afinidad de perspectivas sobre cambio climático",
+      "competency_code": "IP",
+      "answer_proposal": "D",
+      "reason": "Reducir emisiones industriales presupone influencia humana, coincidiendo con científicos del enunciado.",
+      "alert": "Contexto del ítem en columna izquierda inferior y pregunta/opciones en superior derecha de6."
+    },
+    {
+      "question": 85,
+      "page": 6,
+      "topic": "Suficiencia de ficha técnica para evaluar sesgo",
+      "competency_code": "IP",
+      "answer_proposal": null,
+      "reason": "Financiación, costo, difusión o visitar todos los barrios no prueban por sí solos neutralidad ni preferencias electorales; todas las alternativas extraen conclusiones excesivas.",
+      "alert": "Apuede ser intención por conflicto de financiación, pero no demuestra falta de independencia para favorecer al financiador. Tampoco que encuesta más cara sea verdadera. Conservar sin clave para revisión docente."
+    },
+    {
+      "question": 86,
+      "page": 7,
+      "topic": "Dimensiones de trabajo infantil y exposición a riesgos",
+      "competency_code": "RS",
+      "answer_proposal": "B",
+      "reason": "El caso combina trabajo informal, falta de actividades fuera de clase y riesgos de consumo: dimensiones laboral, educativa y de salud."
+    },
+    {
+      "question": 87,
+      "page": 7,
+      "topic": "Límite de generalización sobre corrupción",
+      "competency_code": "IP",
+      "answer_proposal": "C",
+      "reason": "Muchos políticos implicados no implica que todos sean corruptos o que corrupción sea condición para ejercer política."
+    },
+    {
+      "question": 88,
+      "page": 7,
+      "topic": "Pertinencia de informe para argumento de regulación",
+      "competency_code": "IP",
+      "answer_proposal": "B",
+      "reason": "El fragmento menciona efectos nocivos de anuncios de alimentos sobre salud infantil, contenido relevante para respaldar regulación.",
+      "alert": "No basta autoridad de fuente por sí sola; el ítem evalúa relación del contenido citado con propuesta, no prueba clínica detallada."
+    },
+    {
+      "question": 89,
+      "page": 7,
+      "topic": "Supuesto normativo de crítica a discriminación",
+      "competency_code": "IP",
+      "answer_proposal": "B",
+      "reason": "La crítica presupone trato digno de todo ser humano independientemente de color de piel; no exige igualdad absoluta de riqueza."
+    },
+    {
+      "question": 90,
+      "page": 7,
+      "topic": "Identificación de orientación económica de discurso",
+      "competency_code": "PS",
+      "answer_proposal": "A",
+      "reason": "Promover empresa privada, reducir papel estatal y abrir economía se asocia al neoliberalismo en las alternativas.",
+      "alert": "Exportar más e importar más no constituye por sí solo toda definición; la identificación se apoya en conjunto del discurso."
+    }
+  ]
+}

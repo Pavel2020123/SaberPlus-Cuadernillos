@@ -1,0 +1,51 @@
+{
+  "file_id": "USB-e4489f150183",
+  "date": "2026-10-29",
+  "scope": "Todas las34paginas inspeccionadas visualmente y115enunciados presentes documentados.Primera lectura no validacion docente ni comparacion exhaustiva.",
+  "items": [],
+  "metadata": {
+    "session": "Segunda sesion segun encabezados",
+    "year": "No confirmado;2026-1solo nombre original",
+    "version": "No confirmada",
+    "cover": "Ausente",
+    "pages": 34,
+    "academic": 115,
+    "self_report": 0,
+    "ranges": [
+      [
+        "Sociales",
+        1,
+        22,
+        1,
+        8
+      ],
+      [
+        "Matematicas",
+        23,
+        44,
+        9,
+        16
+      ],
+      [
+        "Ciencias",
+        45,
+        70,
+        17,
+        27
+      ],
+      [
+        "Ingles",
+        71,
+        115,
+        28,
+        34
+      ]
+    ],
+    "notes": [
+      "Paginas impresas2-35 corresponden a fisicas1-34.",
+      "Fin del archivo enInglesparte7,pregunta115.No inventar autoinformes ausentes.",
+      "Ninguna eliminacion autorizada por semejanza semantica.",
+      "Claves y competencias propuestas,sin permiso de uso comercial inferido."
+    ]
+  }
+}

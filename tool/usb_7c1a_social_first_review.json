@@ -1,0 +1,108 @@
+{
+  "file_id": "USB-7c1a96cf7ade",
+  "date": "2026-10-30",
+  "area": "Sociales y ciudadanas",
+  "scope": "Físicas1-4completas,impresas2-5,1-10diez fichas iniciales. Sin portada:2025-2solo por nombre/cabeceras,no calendario,código ni cantidad declarada verificados.",
+  "items": [
+    {
+      "question": 1,
+      "page": 1,
+      "printed_page": 2,
+      "answer_proposal": "C",
+      "topic": "Orden cronológico de sucesos colombianos",
+      "competency_proposal": "Pensamiento social",
+      "reason": "Bogotazo1948(3),PactoBenidorm1956(2),EstatutoSeguridadgobiernoTurbay1978(1):3-2-1.",
+      "alert": "Fechas se usan para contextualización histórica,no validar todas las descripciones simplificadas."
+    },
+    {
+      "question": 2,
+      "page": 1,
+      "printed_page": 2,
+      "answer_proposal": "C",
+      "topic": "Límites de inferencia de fuente política",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "reason": "Caricatura muestra rechazo al gaitanismo,no prueba afiliación conservadora:otros partidos también podían oponerse.",
+      "alert": "Distinguir posición representada de militancia;no inferir pertenencia solo por insultos."
+    },
+    {
+      "question": 3,
+      "page": 1,
+      "printed_page": 2,
+      "answer_proposal": "A",
+      "topic": "Condiciones económicas de política hídrica",
+      "competency_proposal": "Pensamiento reflexivo y sistémico",
+      "reason": "Convocatoria sin límite presupuestal y con planes prolongados requiere capacidad de financiar proyectos de alto costo.",
+      "alert": "No implica presupuesto literalmente infinito ni éxito asegurado por riqueza."
+    },
+    {
+      "question": 4,
+      "page": 2,
+      "printed_page": 3,
+      "answer_proposal": "B",
+      "topic": "Evidencia frente a idealización ambiental",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "reason": "20%intervención y habitantes/cultivos muestran que algunos páramos tienen actividad humana,contradiciendo aislamiento total.",
+      "alert": "No probar que todos están intervenidos ni validar cifras como actuales."
+    },
+    {
+      "question": 5,
+      "page": 3,
+      "printed_page": 4,
+      "answer_proposal": "B",
+      "topic": "Consecuencias de discurso discriminatorio",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "reason": "Descalificación de mujeres puede desviar o retrasar debate de brecha salarial,B.",
+      "alert": "Efecto posible;identifica daño,no respalda prejuicio."
+    },
+    {
+      "question": 6,
+      "page": 3,
+      "printed_page": 4,
+      "answer_proposal": "C",
+      "topic": "Cambio histórico de ciudadanía",
+      "competency_proposal": "Pensamiento social",
+      "reason": "FragmentoAhabla de varones con requisitos económicos yocupacionales,Bdecolombianos sin esas restricciones:amplía reconocimiento de mujeres.",
+      "alert": "Ambosdicenmayores21;por eso edad no distingue. No confundir texto histórico con ciudadanía actual."
+    },
+    {
+      "question": 7,
+      "page": 3,
+      "printed_page": 4,
+      "answer_proposal": "B",
+      "topic": "Desigualdad en acceso al agua",
+      "competency_proposal": "Pensamiento social",
+      "reason": "Ambosperiodistas contrastan consumo y capacidad de acceso de ricos ypobres:desigualdad social.",
+      "alert": "No se acredita monopolio ni urbanismo segregado como política descrita."
+    },
+    {
+      "question": 8,
+      "page": 4,
+      "printed_page": 5,
+      "answer_proposal": "C",
+      "topic": "Reconocimiento de multiculturalidad",
+      "competency_proposal": "Pensamiento social",
+      "reason": "Respeto implica reconocer grupos y tradiciones propias,protección especial frente a exclusión,C.",
+      "alert": "No limitar diversidad a interconocimiento entre grupos o solo zonas urbanas."
+    },
+    {
+      "question": 9,
+      "page": 4,
+      "printed_page": 5,
+      "answer_proposal": "C",
+      "topic": "Confiabilidad de evidencia en denuncia",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "reason": "Líderaporta videos ypruebas contrastables,más apoyo que acusaciones interesadas o prestigio del medio.",
+      "alert": "Evidencia debe autenticarse;no equivale a condena automática."
+    },
+    {
+      "question": 10,
+      "page": 4,
+      "printed_page": 5,
+      "answer_proposal": "C",
+      "topic": "Fiabilidad de fuente estadística",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "reason": "DANEofrece investigación cuantitativa conalcance yperiodo definidos,frente a opiniones normativas sin evidencia comparable.",
+      "alert": "Confiabilidad no garantiza ausencia de sesgo;comprobar metodología antes de uso real."
+    }
+  ]
+}

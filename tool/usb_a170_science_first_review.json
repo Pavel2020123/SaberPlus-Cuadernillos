@@ -1,0 +1,38 @@
+{
+  "file_id": "USB-a170782eadcb",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Física17derecha(impresa33),92-94inspeccionadas con figuras;sin identidad exacta verificada con fichas previas.",
+  "items": [
+    {
+      "question": 92,
+      "page": 17,
+      "printed_page": 33,
+      "topic": "Título según variable experimental",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "C",
+      "reason": "Se compara aplicación deagua frente asinaagua manteniendo10semillas yrecipientes idénticos;se evalúa germinación.",
+      "alert": "Un ensayo no demuestra necesidad universal ni especifica todos los controles;9/10y0/10son resultados del modelo."
+    },
+    {
+      "question": 93,
+      "page": 17,
+      "printed_page": 33,
+      "topic": "Unidad adecuada de volumen desplazado",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "D",
+      "reason": "Mililitros expresan volumen;Nfuerza,cmlongitud ykgmasa.",
+      "alert": "La pregunta solicita volumen,no empuje;este último tendría unidad de fuerza."
+    },
+    {
+      "question": 94,
+      "page": 17,
+      "printed_page": 33,
+      "topic": "Compresión de gas en recipiente cerrado",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "B",
+      "reason": "Al empujar émbolo con punta tapada,disminuye volumen ocupado por misma cantidad deaire.",
+      "alert": "Temperatura ambiente no garantiza temperatura de gas instantáneamente constante;el cambio visible inequívoco esvolumen."
+    }
+  ]
+}

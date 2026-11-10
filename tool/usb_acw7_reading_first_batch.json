@@ -1,0 +1,18 @@
+{
+ "file_id":"USB-eee9960ca52a","date":"2026-10-29","area":"Lectura critica","competency_proposal":"Competencia lectora",
+ "scope":"Preguntas 23-28: lectura completa y cotejo visual de paginas fisicas 8-9. Procesos del marco 2026 como propuestas editoriales; no clasificadores oficiales de este PDF.",
+ "process_legend":{"L":"Identificar y ubicar informacion local","R":"Relacionar e interpretar informacion","E":"Evaluar y reflexionar sobre la forma y el contenido"},
+ "contexts":[
+  {"id":"ACW-LC01","questions":[23,24,25],"pages":[8],"title":"Razonamiento critico","type":"Argumentacion filosofica","source_as_printed":"Talbot, M., 2015, Critical Reasoning, Philosophy Now, 106"},
+  {"id":"ACW-LC02","questions":[26,27,28],"pages":[9],"title":"Fragmento sobre arte paleolitico (sin titulo propio)","type":"Exposicion argumentada","source_as_printed":"Leroi-Gourhan, A., fecha impresa 1947, Le geste et la parole, Ed. A. Michel","alert":"Fecha transcrita segun recorte visible; referencia bibliografica no verificada."}
+ ],
+ "items":[
+  {"question":23,"page":8,"context":"ACW-LC01","process":"R","topic":"Relacion explicativa entre enunciados","answer_proposal":"A","reason":"No actuar por razones explica por que el objeto se denomina no-racional."},
+  {"question":24,"page":8,"context":"ACW-LC01","process":"E","topic":"Identificacion de estrategia argumentativa","answer_proposal":"C","reason":"La atribucion de creencias y deseos a una taza se usa para mostrar el absurdo de la alternativa y sostener la distincion racional/no-racional."},
+  {"question":25,"page":8,"context":"ACW-LC01","process":"R","topic":"Parafrasis de una distincion conceptual","answer_proposal":"A","reason":"Conserva la posibilidad de razones humanas y la improcedencia de atribuirlas a un objeto inanimado."},
+  {"question":26,"page":9,"context":"ACW-LC02","process":"R","topic":"Conclusion de un texto argumentado","answer_proposal":"B","reason":"La regularidad de disposicion sostiene que las figuras no son representaciones accidentales."},
+  {"question":27,"page":9,"context":"ACW-LC02","process":"R","topic":"Razon que explica la valoracion de un hallazgo","answer_proposal":"D","reason":"Reune las dos propiedades destacadas: pocas especies y distribucion constante."},
+  {"question":28,"page":9,"context":"ACW-LC02","process":"R","topic":"Funcion de ejemplos en apoyo de una afirmacion","answer_proposal":"A","reason":"La enumeracion de especies y posiciones ejemplifica la organizacion mencionada.","alert":"La enumeracion tambien sirve de apoyo argumentativo; la distincion ejemplo/argumento de A y C amerita criterio docente antes de cerrar clave."}
+ ],
+ "next":"Pregunta 29, pagina fisica 10."
+}

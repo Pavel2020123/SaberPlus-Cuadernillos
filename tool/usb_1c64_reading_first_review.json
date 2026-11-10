@@ -1,0 +1,127 @@
+{
+  "file_id": "USB-1c6462bf5377",
+  "date": "2026-10-30",
+  "area": "Lectura crítica",
+  "scope": "Físicas13-16,impresas11-14 inspeccionadas completas y reorientadas para lectura.26-30 cinco fichas nuevas;31-35 cinco referencias exactas haciaABR1 físicas11-12 tras cotejo visual de textos íntegros y opciones. No implica unicidad global ni validación docente.",
+  "contexts": [
+    {
+      "id": "polvora",
+      "title": "Dile no a la pólvora",
+      "pages": [
+        13,
+        14
+      ],
+      "description": "Texto argumentativo sobre efectos de fuegos artificiales en animales domésticos y silvestres,con exhortación final. Fuente impresa:Yepes2020,CorporaciónRaya. Auditoría de comprensión textual,no validación independiente de estudios o consecuencias clínicas."
+    }
+  ],
+  "items": [
+    {
+      "question": 26,
+      "page": 13,
+      "printed_page": 11,
+      "context": "polvora",
+      "topic": "Intención exhortativa de un enunciado",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "B",
+      "reason": "El llamado invita a considerar el sufrimiento animal y no usar pólvora; no exige expresamente una prohibición legal ni desarrolla alternativas de celebración."
+    },
+    {
+      "question": 27,
+      "page": 13,
+      "printed_page": 11,
+      "context": "polvora",
+      "topic": "Función de investigaciones como evidencia argumentativa",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "A",
+      "reason": "Los resultados sobre comportamiento y signos físicos respaldan la tesis del perjuicio al bienestar animal. No se atribuye una posición moral a todos los científicos."
+    },
+    {
+      "question": 28,
+      "page": 14,
+      "printed_page": 12,
+      "context": "polvora",
+      "topic": "Alcance contextual de una noción ética",
+      "competency_proposal": "Identifica y entiende los contenidos locales que conforman un texto",
+      "answer_proposal": "B",
+      "reason": "Celebrar con respeto incluye evitar sufrimiento a los demás,incluidos los animales. No se limita a cuidar mascotas o considerar sus propietarios."
+    },
+    {
+      "question": 29,
+      "page": 14,
+      "printed_page": 12,
+      "context": "polvora",
+      "topic": "Síntesis de consecuencias enumeradas",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "C",
+      "reason": "La síntesis conserva daño ambiental,sufrimiento animal y posibles quemaduras sin afirmar igual gravedad ni atribuir todos los daños exclusivamente al ruido."
+    },
+    {
+      "question": 30,
+      "page": 14,
+      "printed_page": 12,
+      "context": "polvora",
+      "topic": "Relación entre afirmación general y ejemplos",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "B",
+      "reason": "La enumeración de reacciones concreta los comportamientos identificados por investigaciones mencionadas enA; no es una conclusión independiente."
+    }
+  ],
+  "duplicate_occurrences": [
+    {
+      "question": 31,
+      "page": 15,
+      "printed_page": 13,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 31,
+      "canonical_page": 11,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de lectura completa,enunciado y opcionesA-D conABR1.31-34 comparten textoBogotazo;35comparte texto íntegro deCassany. Mismo contenido salvo código,marcas de agua,maquetación y página.",
+      "observed_annotation": "Sin respuesta seleccionada observada enAAR1;se conservan reservas de ficha canónica."
+    },
+    {
+      "question": 32,
+      "page": 15,
+      "printed_page": 13,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 32,
+      "canonical_page": 11,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de lectura completa,enunciado y opcionesA-D conABR1.31-34 comparten textoBogotazo;35comparte texto íntegro deCassany. Mismo contenido salvo código,marcas de agua,maquetación y página.",
+      "observed_annotation": "Sin respuesta seleccionada observada enAAR1;se conservan reservas de ficha canónica."
+    },
+    {
+      "question": 33,
+      "page": 15,
+      "printed_page": 13,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 33,
+      "canonical_page": 11,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de lectura completa,enunciado y opcionesA-D conABR1.31-34 comparten textoBogotazo;35comparte texto íntegro deCassany. Mismo contenido salvo código,marcas de agua,maquetación y página.",
+      "observed_annotation": "Sin respuesta seleccionada observada enAAR1;se conservan reservas de ficha canónica."
+    },
+    {
+      "question": 34,
+      "page": 16,
+      "printed_page": 14,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 34,
+      "canonical_page": 12,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de lectura completa,enunciado y opcionesA-D conABR1.31-34 comparten textoBogotazo;35comparte texto íntegro deCassany. Mismo contenido salvo código,marcas de agua,maquetación y página.",
+      "observed_annotation": "Sin respuesta seleccionada observada enAAR1;se conservan reservas de ficha canónica."
+    },
+    {
+      "question": 35,
+      "page": 16,
+      "printed_page": 14,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 35,
+      "canonical_page": 12,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de lectura completa,enunciado y opcionesA-D conABR1.31-34 comparten textoBogotazo;35comparte texto íntegro deCassany. Mismo contenido salvo código,marcas de agua,maquetación y página.",
+      "observed_annotation": "Sin respuesta seleccionada observada enAAR1;se conservan reservas de ficha canónica."
+    }
+  ],
+  "next": "Física17,verificar36en adelante."
+}

@@ -1,0 +1,103 @@
+{
+  "schema": 1,
+  "revision": 1,
+  "code": "SP-001",
+  "session": "first",
+  "time": "",
+  "targets": {
+    "mathematics": null,
+    "reading": null,
+    "social": null,
+    "science": null,
+    "english": null
+  },
+  "contexts": [],
+  "questions": [
+    {
+      "id": "q-ced49341-ed6d-4139-bc8c-456fcafae71a",
+      "area": "mathematics",
+      "part": 0,
+      "order": 1,
+      "topic": "",
+      "subtopic": "",
+      "stem": "",
+      "options": [
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        }
+      ],
+      "correct": "",
+      "explanation": "",
+      "layout": "columns",
+      "included": true,
+      "context": null,
+      "slot": "",
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "mathematics",
+        "status": "unclassified",
+        "competency": null,
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-af7b9bda-5f91-47de-8301-7e020bf9da0e",
+      "area": "mathematics",
+      "part": 0,
+      "order": 2,
+      "topic": "",
+      "subtopic": "",
+      "stem": "",
+      "options": [
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        }
+      ],
+      "correct": "",
+      "explanation": "",
+      "layout": "columns",
+      "included": true,
+      "context": null,
+      "slot": "",
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "mathematics",
+        "status": "unclassified",
+        "competency": null,
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    }
+  ]
+}

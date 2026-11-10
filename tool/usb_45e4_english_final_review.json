@@ -1,0 +1,191 @@
+{
+  "file_id": "USB-45e476387c60",
+  "date": "2026-10-30",
+  "area": "Inglés",
+  "scope": "Físicas 37-38, impresas35-36, inspeccionadas completas. Parte6 120-124 comprensión; Parte7 125-134 espacios A-D. El PDF termina en134, no contiene135-147 declaradas implícitamente por portada147.",
+  "contexts": [
+    {
+      "id": "gymnastics",
+      "page": 37,
+      "title": "Gymnastics: relato de practicante y propietaria de gimnasio",
+      "description": "Relato sobre práctica desde infancia, metas por escrito, fuerza, apoyo a otros deportes y perseverancia. Se usa para preguntas120-124; ejemplo excluido."
+    },
+    {
+      "id": "biographies",
+      "page": 38,
+      "title": "Biographies",
+      "description": "Definición y contenido de biografía, investigación, entrevistas a persona y allegados, y logros. Diez espacios125-134; ejemplo alive excluido.",
+      "alert": "Revisión ampliada y orientada de física38: espacio133 sí incluye D end; lectura provisional de opciones corregida."
+    }
+  ],
+  "items": [
+    {
+      "question": 120,
+      "page": 37,
+      "printed_page": 35,
+      "topic": "Comprensión de propósito, inferencias y aplicación de lectura",
+      "competency_proposal": "Competencia comunicativa: comprensión lectora inferencial",
+      "answer_proposal": "C",
+      "selected_option": "encourage students to try gymnastics as an exciting sport",
+      "reason": "Corrección visual 2026-10-30: expone beneficios para animar a probar gimnasia,C; B dice complain y no corresponde al propósito.",
+      "context": "gymnastics"
+    },
+    {
+      "question": 121,
+      "page": 37,
+      "printed_page": 35,
+      "topic": "Comprensión de propósito, inferencias y aplicación de lectura",
+      "competency_proposal": "Competencia comunicativa: comprensión lectora inferencial",
+      "answer_proposal": "B",
+      "selected_option": "Goals in life need to be clearly established",
+      "reason": "Corrección visual 2026-10-30: coaches taught the value of setting goals respalda B,establecer claramente metas.",
+      "context": "gymnastics",
+      "alert": "Inferencia integradora: la formulación de opción simplifica el relato."
+    },
+    {
+      "question": 122,
+      "page": 37,
+      "printed_page": 35,
+      "topic": "Comprensión de propósito, inferencias y aplicación de lectura",
+      "competency_proposal": "Competencia comunicativa: comprensión lectora inferencial",
+      "answer_proposal": "A",
+      "selected_option": "efficient to deal with daily activities",
+      "reason": "Corrección visual 2026-10-30: everyday challenges respalda afrontar actividades diarias,A; B careless about your body no está sustentada.",
+      "context": "gymnastics",
+      "alert": "La lectura anterior de careless como beneficio era incorrecta; no justificar el distractor mediante reinterpretación."
+    },
+    {
+      "question": 123,
+      "page": 37,
+      "printed_page": 35,
+      "topic": "Comprensión de propósito, inferencias y aplicación de lectura",
+      "competency_proposal": "Competencia comunicativa: comprensión lectora inferencial",
+      "answer_proposal": "A",
+      "selected_option": "achieve the goals you previously plan",
+      "reason": "I can do it significa perseverar y alcanzar metas antes planteadas, no garantizar profesión.",
+      "context": "gymnastics"
+    },
+    {
+      "question": 124,
+      "page": 37,
+      "printed_page": 35,
+      "topic": "Comprensión de propósito, inferencias y aplicación de lectura",
+      "competency_proposal": "Competencia comunicativa: comprensión lectora inferencial",
+      "answer_proposal": "C",
+      "selected_option": "set aims and check the progress of your goals, and set a record of your achievements",
+      "reason": "Es la sugerencia que reproduce fijar metas por escrito y trabajar hacia ellas, según primer párrafo.",
+      "context": "gymnastics"
+    },
+    {
+      "question": 125,
+      "page": 38,
+      "printed_page": 36,
+      "topic": "Selección léxica y cohesión en texto con espacios",
+      "competency_proposal": "Competencia comunicativa: conocimiento léxico y textual",
+      "answer_proposal": "D",
+      "selected_option": "unknown",
+      "reason": "An unknown hero forgotten by history contrapone persona famosa y héroe desconocido.",
+      "context": "biographies"
+    },
+    {
+      "question": 126,
+      "page": 38,
+      "printed_page": 36,
+      "topic": "Selección léxica y cohesión en texto con espacios",
+      "competency_proposal": "Competencia comunicativa: conocimiento léxico y textual",
+      "answer_proposal": "D",
+      "selected_option": "particular",
+      "reason": "A particular group of people define un grupo específico.",
+      "context": "biographies"
+    },
+    {
+      "question": 127,
+      "page": 38,
+      "printed_page": 36,
+      "topic": "Selección léxica y cohesión en texto con espacios",
+      "competency_proposal": "Competencia comunicativa: conocimiento léxico y textual",
+      "answer_proposal": "D",
+      "selected_option": "essential",
+      "reason": "Essential moments designa acontecimientos relevantes de la vida.",
+      "context": "biographies"
+    },
+    {
+      "question": 128,
+      "page": 38,
+      "printed_page": 36,
+      "topic": "Selección léxica y cohesión en texto con espacios",
+      "competency_proposal": "Competencia comunicativa: conocimiento léxico y textual",
+      "answer_proposal": "A",
+      "selected_option": "order",
+      "reason": "In order to provide expresa finalidad.",
+      "context": "biographies"
+    },
+    {
+      "question": 129,
+      "page": 38,
+      "printed_page": 36,
+      "topic": "Selección léxica y cohesión en texto con espacios",
+      "competency_proposal": "Competencia comunicativa: conocimiento léxico y textual",
+      "answer_proposal": "B",
+      "selected_option": "research",
+      "reason": "Biographies require a lot of research; otras opciones no designan investigación necesaria.",
+      "context": "biographies"
+    },
+    {
+      "question": 130,
+      "page": 38,
+      "printed_page": 36,
+      "topic": "Selección léxica y cohesión en texto con espacios",
+      "competency_proposal": "Competencia comunicativa: conocimiento léxico y textual",
+      "answer_proposal": "B",
+      "selected_option": "collected",
+      "reason": "Information collected funciona como participio que modifica información.",
+      "context": "biographies"
+    },
+    {
+      "question": 131,
+      "page": 38,
+      "printed_page": 36,
+      "topic": "Selección léxica y cohesión en texto con espacios",
+      "competency_proposal": "Competencia comunicativa: conocimiento léxico y textual",
+      "answer_proposal": "C",
+      "selected_option": "access",
+      "reason": "Have access to the information es la colocación correcta.",
+      "context": "biographies"
+    },
+    {
+      "question": 132,
+      "page": 38,
+      "printed_page": 36,
+      "topic": "Selección léxica y cohesión en texto con espacios",
+      "competency_proposal": "Competencia comunicativa: conocimiento léxico y textual",
+      "answer_proposal": "B",
+      "selected_option": "either",
+      "reason": "Either friends or family coordina dos alternativas.",
+      "context": "biographies"
+    },
+    {
+      "question": 133,
+      "page": 38,
+      "printed_page": 36,
+      "topic": "Selección léxica y cohesión en texto con espacios",
+      "competency_proposal": "Competencia comunicativa: conocimiento léxico y textual",
+      "answer_proposal": "D",
+      "selected_option": "end",
+      "reason": "In the end introduce conclusión o síntesis del propósito de una biografía.",
+      "context": "biographies",
+      "alert": "Verificada D end en imagen orientada a mayor resolución; no hay defecto de impresión demostrado. Opciones A point, B limit, C top, D end."
+    },
+    {
+      "question": 134,
+      "page": 38,
+      "printed_page": 36,
+      "topic": "Selección léxica y cohesión en texto con espacios",
+      "competency_proposal": "Competencia comunicativa: conocimiento léxico y textual",
+      "answer_proposal": "A",
+      "selected_option": "achievements",
+      "reason": "Earned their achievements corresponde a logros alcanzados según sentido del párrafo.",
+      "context": "biographies"
+    }
+  ]
+}

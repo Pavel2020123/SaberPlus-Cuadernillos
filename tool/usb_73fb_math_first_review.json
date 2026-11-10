@@ -1,0 +1,88 @@
+{
+  "file_id": "USB-73fbd3be4b98",
+  "date": "2026-10-30",
+  "area": "Matemáticas",
+  "scope": "Portada y físicas2-4 inspeccionadas completas,8fichas iniciales. PortadaAAZ1EstaciónCisneros2025-2primera sesión131preguntas4h30;calendario y autenticidad sin verificar.",
+  "items": [
+    {
+      "question": 1,
+      "page": 2,
+      "printed_page": 2,
+      "answer_proposal": "C",
+      "topic": "Modelación de tarifa lineal",
+      "competency_proposal": "Formulación y ejecución",
+      "reason": "Costo=60m+200; multiplicar minutos por60 y sumar cuota fija200.",
+      "alert": "Propuesta inicial,sin validación docente;comparación global de variantes pendiente."
+    },
+    {
+      "question": 2,
+      "page": 2,
+      "printed_page": 2,
+      "answer_proposal": "B",
+      "topic": "Validación de producto algebraico",
+      "competency_proposal": "Argumentación",
+      "reason": "Error paso2:2x·2x=4x²,no2x²; suma correcta6x+4x².",
+      "alert": "Propuesta inicial,sin validación docente;comparación global de variantes pendiente."
+    },
+    {
+      "question": 3,
+      "page": 2,
+      "printed_page": 2,
+      "answer_proposal": "B",
+      "topic": "Mediana en datos no ordenados",
+      "competency_proposal": "Interpretación y representación",
+      "reason": "Ingresos ordenados11.5,12,12.5,13.5,14,15,15millones:mediana13.5,viernes.",
+      "alert": "Propuesta inicial,sin validación docente;comparación global de variantes pendiente."
+    },
+    {
+      "question": 4,
+      "page": 3,
+      "printed_page": 3,
+      "answer_proposal": "B",
+      "topic": "Selección de información para consumo",
+      "competency_proposal": "Interpretación y representación",
+      "reason": "Con peso2.5kg ya conocido se necesitan25gporración,3veces/día y750gporbolsa;Bmarca estos tres datos.",
+      "alert": "Propuesta inicial,sin validación docente;comparación global de variantes pendiente."
+    },
+    {
+      "question": 5,
+      "page": 3,
+      "printed_page": 3,
+      "answer_proposal": "B",
+      "topic": "Conversión de unidades y composición",
+      "competency_proposal": "Formulación y ejecución",
+      "reason": "2.5L=2500mL=2bolsas1000+1bolsa500.",
+      "alert": "Propuesta inicial,sin validación docente;comparación global de variantes pendiente."
+    },
+    {
+      "question": 6,
+      "page": 4,
+      "printed_page": 4,
+      "answer_proposal": "C",
+      "topic": "Conversión de esquema a tabla",
+      "competency_proposal": "Interpretación y representación",
+      "reason": "Pares(t,v):(0,0),(1,3),(2,6),(3,9),tablaC.",
+      "alert": "Propuesta inicial,sin validación docente;comparación global de variantes pendiente."
+    },
+    {
+      "question": 7,
+      "page": 4,
+      "printed_page": 4,
+      "answer_proposal": "D",
+      "topic": "Verificación de regla de sucesión",
+      "competency_proposal": "Argumentación",
+      "reason": "2,4,6,8,10 suma2,no duplica cada término;6≠2·4.",
+      "alert": "Propuesta inicial,sin validación docente;comparación global de variantes pendiente."
+    },
+    {
+      "question": 8,
+      "page": 4,
+      "printed_page": 4,
+      "answer_proposal": "D",
+      "topic": "Distribución geométrica de ruedas",
+      "competency_proposal": "Formulación y ejecución",
+      "reason": "Longitud13r,extremos a r del borde y centros a2r del borde:separación9r entre centros existentes. Dos ruedas adicionales permiten tres separaciones de3r(2rdiámetro+rgap).",
+      "alert": "Modelo geométrico ideal;no demuestra estabilidad mecánica real."
+    }
+  ]
+}

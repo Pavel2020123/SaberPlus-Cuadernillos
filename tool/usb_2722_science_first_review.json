@@ -1,0 +1,189 @@
+{
+  "file_id": "USB-2722e7c48dfd",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Preguntas45-57 inspeccionadas visualmente en físicas17-20. Propuestas no oficiales con supuestos registrados; no recomendaciones médicas.",
+  "competency_legend": {
+    "U": "Uso comprensivo del conocimiento científico",
+    "E": "Explicación de fenómenos",
+    "I": "Indagación"
+  },
+  "items": [
+    {
+      "question": 45,
+      "page": 17,
+      "topic": "Tendencia en producción de desalinizador",
+      "competency_code": "I",
+      "answer_proposal": "D",
+      "reason": "Las pruebas de nueve horas producen7,0;7,5;8,0;8,5litros, el grupo con valores mayores de la tabla.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "círculo naranja sobre opción",
+        "provenance": "Marca observada en escaneo, autoría y carácter oficial no comprobados."
+      },
+      "alert": "No aísla efecto del tiempo: cambian volúmenes iniciales y posiblemente condiciones solares. Describe patrón de los datos, no causalidad garantizada."
+    },
+    {
+      "question": 46,
+      "page": 17,
+      "topic": "Temperatura y evaporación",
+      "competency_code": "E",
+      "answer_proposal": "B",
+      "reason": "A presión comparable, mayor temperatura favorece evaporación y la producción de agua condensada en el prototipo.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo naranja sobre opción",
+        "provenance": "Marca observada en escaneo, autoría y carácter oficial no comprobados."
+      },
+      "alert": "Supone que la superficie mantiene capacidad de condensar y no cambian otros factores limitantes."
+    },
+    {
+      "question": 47,
+      "page": 17,
+      "topic": "Correspondencia entre descripción y modelo",
+      "competency_code": "U",
+      "answer_proposal": "C",
+      "reason": "C sitúa recubrimiento transparente arriba de fibra negra, entrada superior y recolección inferior del condensado.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo naranja sobre opción",
+        "provenance": "Marca observada en escaneo, autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 48,
+      "page": 18,
+      "topic": "Amortiguamiento y disipación de energía",
+      "competency_code": "E",
+      "answer_proposal": "B",
+      "reason": "Oscilaciones amortiguadas modelan disipación gradual que reduce amplitud de vibraciones transmitidas.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo naranja sobre opción",
+        "provenance": "Marca observada en escaneo, autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 49,
+      "page": 18,
+      "topic": "Clasificación de producto de reacción química",
+      "competency_code": "U",
+      "answer_proposal": "A",
+      "reason": "Fe2O3 combina hierro y oxígeno en sustancia química compuesta, no una mezcla o elemento.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "círculo naranja sobre opción",
+        "provenance": "Marca observada en escaneo, autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 50,
+      "page": 18,
+      "topic": "Diferencia entre evidencia y conclusión",
+      "competency_code": "I",
+      "answer_proposal": "C",
+      "reason": "La afirmación resume tendencia de temperaturas de ebullición decrecientes con altitud, por lo que es conclusión a partir de mediciones.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo naranja sobre opción",
+        "provenance": "Marca observada en escaneo, autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 51,
+      "page": 19,
+      "topic": "Entradas y productos de fotosíntesis",
+      "competency_code": "U",
+      "answer_proposal": "C",
+      "reason": "El modeloC muestra agua,CO2y luz como entradas, y compuestos orgánicos yO2como salidas.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo naranja sobre opción",
+        "provenance": "Marca observada en escaneo, autoría y carácter oficial no comprobados."
+      },
+      "alert": "La descripción no cubre todos los autótrofos: se refiere a fotosíntesis oxigénica, no a quimioautótrofos."
+    },
+    {
+      "question": 52,
+      "page": 19,
+      "topic": "Suma de potencias y umbral de circuito",
+      "competency_code": "U",
+      "answer_proposal": "A",
+      "reason": "Microondas1000Wmás aire3000Wsuman4000W, por encima de3500W; las otras parejas no superan el límite.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "círculo naranja sobre opción",
+        "provenance": "Marca observada en escaneo, autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 53,
+      "page": 19,
+      "topic": "Par de acción y reacción magnética",
+      "competency_code": "U",
+      "answer_proposal": "C",
+      "reason": "El imán atrae al alfiler hacia abajo e izquierda; el alfiler ejerce sobre el imán fuerza opuesta, hacia arriba y derecha.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo naranja sobre opción",
+        "provenance": "Marca observada en escaneo, autoría y carácter oficial no comprobados."
+      },
+      "alert": "El par actúa sobre cuerpos diferentes; no confundirlo con fuerzas que equilibran al alfiler."
+    },
+    {
+      "question": 54,
+      "page": 20,
+      "topic": "Límite de generalización de muestra geográfica",
+      "competency_code": "I",
+      "answer_proposal": "D",
+      "reason": "Contaminación en la mitad de municipios evaluados no permite afirmar que todo el cacao nacional la tenga; procedencia importa para investigar su condición.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "círculo naranja sobre opción",
+        "provenance": "Marca observada en escaneo, autoría y carácter oficial no comprobados."
+      },
+      "alert": "Procedencia por sí sola no prueba concentración de un grano individual; requiere mediciones representativas y control de variación local."
+    },
+    {
+      "question": 55,
+      "page": 20,
+      "topic": "Carga de ion a partir de protones y electrones",
+      "competency_code": "U",
+      "answer_proposal": "D",
+      "reason": "78protones y76electrones producen carga neta+2, por lo que es ion positivo.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "círculo naranja sobre opción",
+        "provenance": "Marca observada en escaneo, autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 56,
+      "page": 20,
+      "topic": "Efecto de mayor hormona de crecimiento",
+      "competency_code": "E",
+      "answer_proposal": "C",
+      "reason": "En el contexto de infancia y adolescencia descrito, mayor estímulo de cartílago favorece crecimiento exagerado.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo naranja sobre opción",
+        "provenance": "Marca observada en escaneo, autoría y carácter oficial no comprobados."
+      },
+      "alert": "En adultos con placas cerradas la manifestación no es el mismo aumento de estatura. Caso hipotético, no diagnóstico médico."
+    },
+    {
+      "question": 57,
+      "page": 20,
+      "topic": "Diseño experimental sobre transpiración vegetal",
+      "competency_code": "I",
+      "answer_proposal": "C",
+      "reason": "Cubrir partes verdes con plástico transparente y permitir luz ofrece el montaje propuesto para observar gotas asociadas a pérdida de agua.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo naranja sobre opción",
+        "provenance": "Marca observada en escaneo, autoría y carácter oficial no comprobados."
+      },
+      "alert": "Hace falta control sin planta o con suelo aislado para distinguir condensación de evaporación del sustrato; no demuestra que la transpiración solo ocurra durante fotosíntesis."
+    }
+  ]
+}

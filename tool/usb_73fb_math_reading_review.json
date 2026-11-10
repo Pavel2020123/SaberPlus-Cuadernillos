@@ -1,0 +1,98 @@
+{
+  "file_id": "USB-73fbd3be4b98",
+  "date": "2026-10-30",
+  "area": "Matemáticas y Lectura crítica",
+  "scope": "Físicas9-11 completas,22-30fichas iniciales. Física12lecturaHoroscopeando inspeccionada,pregunta31pendiente de cotejo canónico;32continúa.",
+  "items": [
+    {
+      "question": 22,
+      "page": 9,
+      "printed_page": 9,
+      "answer_proposal": "A",
+      "topic": "Condición lógica disyuntiva para impuesto",
+      "competency_proposal": "Argumentación",
+      "reason": "Luisa patrimonio400000>350000;Ernesta40%400000=160000>20000;Paolo40%45000=18000y patrimonio300000 no cumplen. Unión:Luisa yErnesta.",
+      "alert": "Impuesto hipotético del ejercicio,no asesoría tributaria."
+    },
+    {
+      "question": 23,
+      "page": 9,
+      "printed_page": 9,
+      "answer_proposal": "D",
+      "topic": "Ordenamiento por número de lados",
+      "competency_proposal": "Interpretación y representación",
+      "reason": "Mantel2triángulo3lados;1cuadrado4;3hexágono6:2-1-3.",
+      "alert": "No ordenar por área ni tamaño de dibujo."
+    },
+    {
+      "question": 24,
+      "page": 9,
+      "printed_page": 9,
+      "answer_proposal": "B",
+      "topic": "Información necesaria para combinaciones",
+      "competency_proposal": "Formulación y ejecución",
+      "reason": "Conocer total de estudiantes disponibles n y tamaño del grupo k permite calcular combinaciones n sobre k.",
+      "alert": "Supone estudiantes elegibles sin restricciones y grupos sin importar orden."
+    },
+    {
+      "question": 25,
+      "page": 10,
+      "printed_page": 10,
+      "answer_proposal": "C",
+      "topic": "Lectura de diagrama de cajas",
+      "competency_proposal": "Interpretación y representación",
+      "reason": "Mínimo155,Q1=162,mediana165,Q3=170,máximo172:gráficaC.",
+      "alert": "Usar convención de cuartiles explicitada por tabla."
+    },
+    {
+      "question": 26,
+      "page": 11,
+      "printed_page": 11,
+      "answer_proposal": "D",
+      "topic": "Motivación de personaje",
+      "competency_proposal": "Comprender cómo se articulan las partes para dar sentido global",
+      "reason": "Recuperar prestigio se vincula a vengar afrenta y restaurar honor,coherente con negar disculpas.",
+      "alert": "No legitimar guerra ni violencia como reparación."
+    },
+    {
+      "question": 27,
+      "page": 11,
+      "printed_page": 11,
+      "answer_proposal": "D",
+      "topic": "Reconocimiento de prejuicio de género",
+      "competency_proposal": "Reflexionar y evaluar el contenido",
+      "reason": "Mujer bella y sensual pero complicada y casquivana se aproxima al estereotipo de mujeres que enredan hombres,D.",
+      "alert": "Se identifica prejuicio del personaje,no se respalda."
+    },
+    {
+      "question": 28,
+      "page": 11,
+      "printed_page": 11,
+      "answer_proposal": "B",
+      "topic": "Información explícita",
+      "competency_proposal": "Identificar y entender contenidos locales",
+      "reason": "Posdata dice escribas coordinados por el ciego que tú conoces,B.",
+      "alert": "No requiere atribuir identidad histórica al ciego."
+    },
+    {
+      "question": 29,
+      "page": 11,
+      "printed_page": 11,
+      "answer_proposal": "B",
+      "topic": "Participación de voz narrativa",
+      "competency_proposal": "Comprender cómo se articulan las partes para dar sentido global",
+      "reason": "Menelao habla como participante:su afrenta,negativa al pedido y preparación de guerra.",
+      "alert": "Carta ficcional,no testimonio histórico validado."
+    },
+    {
+      "question": 30,
+      "page": 11,
+      "printed_page": 11,
+      "answer_proposal": "C",
+      "topic": "Relación de antecedentes intertextuales",
+      "competency_proposal": "Comprender cómo se articulan las partes para dar sentido global",
+      "reason": "Cnarra hospitalidad aParis,salida deMenelao y relación conHelena,antecedentes de la carta;otras presentan episodios posteriores o alternativas.",
+      "alert": "No confundir versión alternativa del fantasma con antecedente del relato leído."
+    }
+  ]
+}

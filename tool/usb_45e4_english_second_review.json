@@ -1,0 +1,248 @@
+{
+  "file_id": "USB-45e476387c60",
+  "date": "2026-10-30",
+  "area": "Inglés",
+  "scope": "Físicas 31-33, impresas 30-32, completas inspeccionadas. Parte 2: siete avisos 85-91; Parte 3: cinco conversaciones 92-96; Parte 4.A: ocho espacios 97-104. Ejemplos excluidos. No MCER ni dificultad certificados.",
+  "contexts": [
+    {
+      "id": "einstein",
+      "page": 33,
+      "title": "Einstein",
+      "format": "Texto con espacios A-C",
+      "description": "Relato de nacimiento el 14 de marzo de 1879, supuesto retraso al hablar, estudios y aprendizaje de matemáticas/violín, seguido de afirmaciones sobre uso de hemisferios cerebrales. Se conserva página de fuente como evidencia; no se valida el relato histórico ni la simplificación neurológica.",
+      "alert": "El texto atribuye inicio del habla a ocho años y capacidades a uso simultáneo de hemisferios; son afirmaciones problemáticas, no hechos verificados por resolver espacios."
+    }
+  ],
+  "items": [
+    {
+      "question": 85,
+      "page": 31,
+      "printed_page": 30,
+      "topic": "Interpretación de avisos y localización",
+      "competency_proposal": "Competencia comunicativa: comprensión pragmática de avisos breves",
+      "answer_proposal": "C",
+      "description": "Please put your bags here.",
+      "selected_option": "in a bookshop",
+      "reason": "La instrucción se asocia a guardar bolsas al ingresar a librería entre los lugares ofrecidos.",
+      "alert": "El aviso por sí solo podría existir en otros lugares; la asociación depende de opciones park/street/bookshop."
+    },
+    {
+      "question": 86,
+      "page": 31,
+      "printed_page": 30,
+      "topic": "Interpretación de avisos y localización",
+      "competency_proposal": "Competencia comunicativa: comprensión pragmática de avisos breves",
+      "answer_proposal": "B",
+      "description": "Ask for our new meatballs.",
+      "selected_option": "at a restaurant",
+      "reason": "Meatballs es comida ofrecida en restaurante."
+    },
+    {
+      "question": 87,
+      "page": 31,
+      "printed_page": 30,
+      "topic": "Interpretación de avisos y localización",
+      "competency_proposal": "Competencia comunicativa: comprensión pragmática de avisos breves",
+      "answer_proposal": "A",
+      "description": "Find Lucy's stories here. 2x1 today!",
+      "selected_option": "in a bookstore",
+      "reason": "Stories y promoción 2x1 aluden a venta de libros."
+    },
+    {
+      "question": 88,
+      "page": 31,
+      "printed_page": 30,
+      "topic": "Interpretación de avisos y localización",
+      "competency_proposal": "Competencia comunicativa: comprensión pragmática de avisos breves",
+      "answer_proposal": "C",
+      "description": "NO CAMERAS / NO PHOTOS / Do not take pictures of the tigers",
+      "selected_option": "at the zoo",
+      "reason": "Tigers identifica animales de zoológico entre beach/petshop/zoo."
+    },
+    {
+      "question": 89,
+      "page": 31,
+      "printed_page": 30,
+      "topic": "Interpretación de avisos y localización",
+      "competency_proposal": "Competencia comunicativa: comprensión pragmática de avisos breves",
+      "answer_proposal": "A",
+      "description": "TODAY Piano lessons with Mrs. Wilson Room 11 - 2:00 p.m.",
+      "selected_option": "at a school",
+      "reason": "Lessons y room con horario corresponden a escuela."
+    },
+    {
+      "question": 90,
+      "page": 31,
+      "printed_page": 30,
+      "topic": "Interpretación de avisos y localización",
+      "competency_proposal": "Competencia comunicativa: comprensión pragmática de avisos breves",
+      "answer_proposal": "A",
+      "description": "Happy birthday, Anna! We love you.",
+      "selected_option": "on a cake",
+      "reason": "Mensaje personalizado de cumpleaños encaja en pastel."
+    },
+    {
+      "question": 91,
+      "page": 31,
+      "printed_page": 30,
+      "topic": "Interpretación de avisos y localización",
+      "competency_proposal": "Competencia comunicativa: comprensión pragmática de avisos breves",
+      "answer_proposal": "A",
+      "description": "Big bedrooms with TVs (Breakfast at 8:30 a.m.)",
+      "selected_option": "in a hotel",
+      "reason": "Habitaciones con TV y desayuno anuncian alojamiento."
+    },
+    {
+      "question": 92,
+      "page": 32,
+      "printed_page": 31,
+      "topic": "Respuesta apropiada en conversación cotidiana",
+      "competency_proposal": "Competencia comunicativa: adecuación pragmática de intercambios breves",
+      "answer_proposal": "B",
+      "description": "I can go to the restaurant and get some food.",
+      "selected_option": "That's really nice!",
+      "reason": "Agradece o valora una oferta de traer comida."
+    },
+    {
+      "question": 93,
+      "page": 32,
+      "printed_page": 31,
+      "topic": "Respuesta apropiada en conversación cotidiana",
+      "competency_proposal": "Competencia comunicativa: adecuación pragmática de intercambios breves",
+      "answer_proposal": "A",
+      "description": "Would you like to watch TV with me?",
+      "selected_option": "Cool!",
+      "reason": "Acepta positivamente la invitación."
+    },
+    {
+      "question": 94,
+      "page": 32,
+      "printed_page": 31,
+      "topic": "Respuesta apropiada en conversación cotidiana",
+      "competency_proposal": "Competencia comunicativa: adecuación pragmática de intercambios breves",
+      "answer_proposal": "B",
+      "description": "Is Charlie good at dancing?",
+      "selected_option": "The best!",
+      "reason": "The best! valora positivamente la habilidad de Charlie para bailar y responde directamente a la pregunta en tercera persona.",
+      "alert": "Revisión interna: no elegir I need practice!, que cambia injustificadamente a primera persona."
+    },
+    {
+      "question": 95,
+      "page": 32,
+      "printed_page": 31,
+      "topic": "Respuesta apropiada en conversación cotidiana",
+      "competency_proposal": "Competencia comunicativa: adecuación pragmática de intercambios breves",
+      "answer_proposal": "C",
+      "description": "I have lots of toys here!",
+      "selected_option": "Can I play with you?",
+      "reason": "Pide jugar ante disponibilidad de juguetes."
+    },
+    {
+      "question": 96,
+      "page": 32,
+      "printed_page": 31,
+      "topic": "Respuesta apropiada en conversación cotidiana",
+      "competency_proposal": "Competencia comunicativa: adecuación pragmática de intercambios breves",
+      "answer_proposal": "A",
+      "description": "Will you pick me up later, if possible?",
+      "selected_option": "Sure!",
+      "reason": "Acepta solicitud de recoger a alguien."
+    },
+    {
+      "question": 97,
+      "page": 33,
+      "printed_page": 32,
+      "topic": "Selección gramatical y cohesión en texto con espacios",
+      "competency_proposal": "Competencia comunicativa: conocimiento gramatical y textual",
+      "answer_proposal": "A",
+      "selected_option": "on",
+      "reason": "Preposición on para fecha completa: March 14th, 1879.",
+      "context": "einstein",
+      "alert": "La clave es una propuesta lingüística; no valida afirmaciones históricas o neurocientíficas del pasaje."
+    },
+    {
+      "question": 98,
+      "page": 33,
+      "printed_page": 32,
+      "topic": "Selección gramatical y cohesión en texto con espacios",
+      "competency_proposal": "Competencia comunicativa: conocimiento gramatical y textual",
+      "answer_proposal": "B",
+      "selected_option": "until",
+      "reason": "Didn't speak until he was eight years old expresa límite temporal del relato.",
+      "context": "einstein",
+      "alert": "La clave es una propuesta lingüística; no valida afirmaciones históricas o neurocientíficas del pasaje."
+    },
+    {
+      "question": 99,
+      "page": 33,
+      "printed_page": 32,
+      "topic": "Selección gramatical y cohesión en texto con espacios",
+      "competency_proposal": "Competencia comunicativa: conocimiento gramatical y textual",
+      "answer_proposal": "C",
+      "selected_option": "described",
+      "reason": "Pasiva wasn't described requiere participio pasado.",
+      "context": "einstein",
+      "alert": "La clave es una propuesta lingüística; no valida afirmaciones históricas o neurocientíficas del pasaje."
+    },
+    {
+      "question": 100,
+      "page": 33,
+      "printed_page": 32,
+      "topic": "Selección gramatical y cohesión en texto con espacios",
+      "competency_proposal": "Competencia comunicativa: conocimiento gramatical y textual",
+      "answer_proposal": "B",
+      "selected_option": "when",
+      "reason": "When introduce el momento de terminar escuela y el contraste posterior.",
+      "context": "einstein",
+      "alert": "La clave es una propuesta lingüística; no valida afirmaciones históricas o neurocientíficas del pasaje."
+    },
+    {
+      "question": 101,
+      "page": 33,
+      "printed_page": 32,
+      "topic": "Selección gramatical y cohesión en texto con espacios",
+      "competency_proposal": "Competencia comunicativa: conocimiento gramatical y textual",
+      "answer_proposal": "C",
+      "selected_option": "himself",
+      "reason": "Taught himself expresa aprendizaje autodidacta; Albert es tercera persona singular.",
+      "context": "einstein",
+      "alert": "La clave es una propuesta lingüística; no valida afirmaciones históricas o neurocientíficas del pasaje."
+    },
+    {
+      "question": 102,
+      "page": 33,
+      "printed_page": 32,
+      "topic": "Selección gramatical y cohesión en texto con espacios",
+      "competency_proposal": "Competencia comunicativa: conocimiento gramatical y textual",
+      "answer_proposal": "A",
+      "selected_option": "also",
+      "reason": "Also añade que, además de matemáticas, se volvió bueno en música.",
+      "context": "einstein",
+      "alert": "La clave es una propuesta lingüística; no valida afirmaciones históricas o neurocientíficas del pasaje."
+    },
+    {
+      "question": 103,
+      "page": 33,
+      "printed_page": 32,
+      "topic": "Selección gramatical y cohesión en texto con espacios",
+      "competency_proposal": "Competencia comunicativa: conocimiento gramatical y textual",
+      "answer_proposal": "B",
+      "selected_option": "playing",
+      "reason": "Loved playing the violin es construcción con gerundio compatible con loved.",
+      "context": "einstein",
+      "alert": "La clave es una propuesta lingüística; no valida afirmaciones históricas o neurocientíficas del pasaje."
+    },
+    {
+      "question": 104,
+      "page": 33,
+      "printed_page": 32,
+      "topic": "Selección gramatical y cohesión en texto con espacios",
+      "competency_proposal": "Competencia comunicativa: conocimiento gramatical y textual",
+      "answer_proposal": "B",
+      "selected_option": "most",
+      "reason": "Most scientists agree: cuantificador plural sin of en esta estructura.",
+      "context": "einstein",
+      "alert": "La clave es una propuesta lingüística; no valida afirmaciones históricas o neurocientíficas del pasaje."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "file_id": "USB-524d98b0a234",
+  "date": "2026-10-29",
+  "scope": "Todas39paginas y134enunciados presentes inspeccionados visualmente.Primera lectura,no validacion docente ni comparacion exhaustiva.",
+  "items": [],
+  "metadata": {
+    "session": "Segunda sesion en encabezados",
+    "period": "2026-2visible en bandas de apertura de areas;no confirma calendario o autenticidad",
+    "version": "ABJ2solo en nombre,no portada",
+    "cover": "Ausente",
+    "pages": 39,
+    "academic": 134,
+    "self_report": 0,
+    "ranges": [
+      [
+        "Sociales",
+        1,
+        25,
+        1,
+        9
+      ],
+      [
+        "Matematicas",
+        26,
+        50,
+        10,
+        18
+      ],
+      [
+        "Ciencias",
+        51,
+        79,
+        19,
+        31
+      ],
+      [
+        "Ingles",
+        80,
+        134,
+        32,
+        39
+      ]
+    ],
+    "notes": [
+      "Paginaimpresa=fisica+1enarchivo.",
+      "No autoinformes finales;no inventarlos desdeotros ejemplares.",
+      "Marcas verdes de origen desconocido:Matematicas27DvspropuestaC,Ingles123BvspropuestaC.",
+      "Ingles80-84tiene letras verdes agregadas,no resaltado de opcion;distinguir tipo de marca.",
+      "Fin enparte7.B134,sin portada ni permisos de uso inferidos."
+    ]
+  }
+}

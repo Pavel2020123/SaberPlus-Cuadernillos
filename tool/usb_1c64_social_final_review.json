@@ -1,0 +1,98 @@
+{
+  "file_id": "USB-1c6462bf5377",
+  "date": "2026-10-30",
+  "area": "Sociales y ciudadanas",
+  "scope": "Físicas33-34 impresas31-32 inspeccionadas completas en orientación legible. Ocho referencias84-91 tras cotejo visual directo conABR1 preguntas73-80 físicas25-26,contextos y opciones íntegros. Sociales67-91 cubierta inicialmente,no validación docente ni unicidad global.",
+  "items": [],
+  "duplicate_occurrences": [
+    {
+      "question": 84,
+      "page": 33,
+      "printed_page": 31,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 73,
+      "canonical_page": 25,
+      "exact_content": true,
+      "verification": "Cotejo visual directo decontextos íntegros y opcionesA-D conABR1:fauna ytemporalidad normativa,pluralismo,educación indígena,formación musical,fuente sobrecorrupción,participación yminorías,modelo económico,inflación. Igual contenido salvo numeración,código,maquetación ymarcas deagua. Reservas canónicas conservadas.",
+      "observed_annotation": "Sin opción seleccionada inequívoca enAAR1;marcas marginales no son claves."
+    },
+    {
+      "question": 85,
+      "page": 33,
+      "printed_page": 31,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 74,
+      "canonical_page": 25,
+      "exact_content": true,
+      "verification": "Cotejo visual directo decontextos íntegros y opcionesA-D conABR1:fauna ytemporalidad normativa,pluralismo,educación indígena,formación musical,fuente sobrecorrupción,participación yminorías,modelo económico,inflación. Igual contenido salvo numeración,código,maquetación ymarcas deagua. Reservas canónicas conservadas.",
+      "observed_annotation": "Sin opción seleccionada inequívoca enAAR1;marcas marginales no son claves."
+    },
+    {
+      "question": 86,
+      "page": 33,
+      "printed_page": 31,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 75,
+      "canonical_page": 25,
+      "exact_content": true,
+      "verification": "Cotejo visual directo decontextos íntegros y opcionesA-D conABR1:fauna ytemporalidad normativa,pluralismo,educación indígena,formación musical,fuente sobrecorrupción,participación yminorías,modelo económico,inflación. Igual contenido salvo numeración,código,maquetación ymarcas deagua. Reservas canónicas conservadas.",
+      "observed_annotation": "Sin opción seleccionada inequívoca enAAR1;marcas marginales no son claves."
+    },
+    {
+      "question": 87,
+      "page": 33,
+      "printed_page": 31,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 76,
+      "canonical_page": 25,
+      "exact_content": true,
+      "verification": "Cotejo visual directo decontextos íntegros y opcionesA-D conABR1:fauna ytemporalidad normativa,pluralismo,educación indígena,formación musical,fuente sobrecorrupción,participación yminorías,modelo económico,inflación. Igual contenido salvo numeración,código,maquetación ymarcas deagua. Reservas canónicas conservadas.",
+      "observed_annotation": "Sin opción seleccionada inequívoca enAAR1;marcas marginales no son claves."
+    },
+    {
+      "question": 88,
+      "page": 34,
+      "printed_page": 32,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 77,
+      "canonical_page": 26,
+      "exact_content": true,
+      "verification": "Cotejo visual directo decontextos íntegros y opcionesA-D conABR1:fauna ytemporalidad normativa,pluralismo,educación indígena,formación musical,fuente sobrecorrupción,participación yminorías,modelo económico,inflación. Igual contenido salvo numeración,código,maquetación ymarcas deagua. Reservas canónicas conservadas.",
+      "observed_annotation": "Sin opción seleccionada inequívoca enAAR1;marcas marginales no son claves."
+    },
+    {
+      "question": 89,
+      "page": 34,
+      "printed_page": 32,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 78,
+      "canonical_page": 26,
+      "exact_content": true,
+      "verification": "Cotejo visual directo decontextos íntegros y opcionesA-D conABR1:fauna ytemporalidad normativa,pluralismo,educación indígena,formación musical,fuente sobrecorrupción,participación yminorías,modelo económico,inflación. Igual contenido salvo numeración,código,maquetación ymarcas deagua. Reservas canónicas conservadas.",
+      "observed_annotation": "Sin opción seleccionada inequívoca enAAR1;marcas marginales no son claves."
+    },
+    {
+      "question": 90,
+      "page": 34,
+      "printed_page": 32,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 79,
+      "canonical_page": 26,
+      "exact_content": true,
+      "verification": "Cotejo visual directo decontextos íntegros y opcionesA-D conABR1:fauna ytemporalidad normativa,pluralismo,educación indígena,formación musical,fuente sobrecorrupción,participación yminorías,modelo económico,inflación. Igual contenido salvo numeración,código,maquetación ymarcas deagua. Reservas canónicas conservadas.",
+      "observed_annotation": "Sin opción seleccionada inequívoca enAAR1;marcas marginales no son claves."
+    },
+    {
+      "question": 91,
+      "page": 34,
+      "printed_page": 32,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 80,
+      "canonical_page": 26,
+      "exact_content": true,
+      "verification": "Cotejo visual directo decontextos íntegros y opcionesA-D conABR1:fauna ytemporalidad normativa,pluralismo,educación indígena,formación musical,fuente sobrecorrupción,participación yminorías,modelo económico,inflación. Igual contenido salvo numeración,código,maquetación ymarcas deagua. Reservas canónicas conservadas.",
+      "observed_annotation": "Sin opción seleccionada inequívoca enAAR1;marcas marginales no son claves."
+    }
+  ],
+  "next": "Física35,verificarCiencias92en adelante."
+}

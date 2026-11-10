@@ -1,0 +1,172 @@
+{
+  "file_id": "USB-7c1a96cf7ade",
+  "date": "2026-10-31",
+  "area": "Ciencias naturales e Inglés",
+  "scope": "Físicas29-32completas.78-79referenciasABA2;80-84referenciasAAK2;85-87tres fichas nuevas;88-92referenciasLasLajas90-94.",
+  "items": [
+    {
+      "question": 85,
+      "page": 31,
+      "printed_page": 32,
+      "answer_proposal": "A",
+      "topic": "Interpretación pragmática de avisos",
+      "competency_proposal": "Competencia comunicativa: pragmática",
+      "reason": "This water is forRoom308 remite a habitación dehotel,entre opciones hotel/beach/busstation.",
+      "alert": "Localización condicionada a opciones;no nivelMCERni dificultad certificados."
+    },
+    {
+      "question": 86,
+      "page": 31,
+      "printed_page": 32,
+      "answer_proposal": "C",
+      "topic": "Interpretación pragmática de avisos",
+      "competency_proposal": "Competencia comunicativa: pragmática",
+      "reason": "Watch the new BabyPanda movie today anuncia proyección cinematográfica,cinema.",
+      "alert": "Localización condicionada a opciones;no nivelMCERni dificultad certificados."
+    },
+    {
+      "question": 87,
+      "page": 31,
+      "printed_page": 32,
+      "answer_proposal": "C",
+      "topic": "Interpretación pragmática de avisos",
+      "competency_proposal": "Competencia comunicativa: pragmática",
+      "reason": "Permiso de entrar con perros ypetfriendly se ajusta a cafetería entrezoo/hospital/cafeteria.",
+      "alert": "Localización condicionada a opciones;no nivelMCERni dificultad certificados."
+    }
+  ],
+  "duplicate_occurrences": [
+    {
+      "question": 78,
+      "page": 29,
+      "printed_page": 30,
+      "canonical_file_id": "USB-4d0661231ca3",
+      "canonical_question": 78,
+      "canonical_page": 28,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de contextos,figuras,bancoProfessions,avisos y opciones con fuente canónica indicada.79hereda reserva sobre sobresaturación,no clave automática.",
+      "observed_annotation": "Ejemplos excluidos."
+    },
+    {
+      "question": 79,
+      "page": 29,
+      "printed_page": 30,
+      "canonical_file_id": "USB-4d0661231ca3",
+      "canonical_question": 79,
+      "canonical_page": 28,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de contextos,figuras,bancoProfessions,avisos y opciones con fuente canónica indicada.79hereda reserva sobre sobresaturación,no clave automática.",
+      "observed_annotation": "Ejemplos excluidos."
+    },
+    {
+      "question": 80,
+      "page": 30,
+      "printed_page": 31,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 80,
+      "canonical_page": 30,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de contextos,figuras,bancoProfessions,avisos y opciones con fuente canónica indicada.79hereda reserva sobre sobresaturación,no clave automática.",
+      "observed_annotation": "Ejemplos excluidos."
+    },
+    {
+      "question": 81,
+      "page": 30,
+      "printed_page": 31,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 81,
+      "canonical_page": 30,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de contextos,figuras,bancoProfessions,avisos y opciones con fuente canónica indicada.79hereda reserva sobre sobresaturación,no clave automática.",
+      "observed_annotation": "Ejemplos excluidos."
+    },
+    {
+      "question": 82,
+      "page": 30,
+      "printed_page": 31,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 82,
+      "canonical_page": 30,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de contextos,figuras,bancoProfessions,avisos y opciones con fuente canónica indicada.79hereda reserva sobre sobresaturación,no clave automática.",
+      "observed_annotation": "Ejemplos excluidos."
+    },
+    {
+      "question": 83,
+      "page": 30,
+      "printed_page": 31,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 83,
+      "canonical_page": 30,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de contextos,figuras,bancoProfessions,avisos y opciones con fuente canónica indicada.79hereda reserva sobre sobresaturación,no clave automática.",
+      "observed_annotation": "Ejemplos excluidos."
+    },
+    {
+      "question": 84,
+      "page": 30,
+      "printed_page": 31,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 84,
+      "canonical_page": 30,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de contextos,figuras,bancoProfessions,avisos y opciones con fuente canónica indicada.79hereda reserva sobre sobresaturación,no clave automática.",
+      "observed_annotation": "Ejemplos excluidos."
+    },
+    {
+      "question": 88,
+      "page": 31,
+      "printed_page": 32,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 90,
+      "canonical_page": 29,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de contextos,figuras,bancoProfessions,avisos y opciones con fuente canónica indicada.79hereda reserva sobre sobresaturación,no clave automática.",
+      "observed_annotation": "Ejemplos excluidos."
+    },
+    {
+      "question": 89,
+      "page": 32,
+      "printed_page": 33,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 91,
+      "canonical_page": 29,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de contextos,figuras,bancoProfessions,avisos y opciones con fuente canónica indicada.79hereda reserva sobre sobresaturación,no clave automática.",
+      "observed_annotation": "Ejemplos excluidos."
+    },
+    {
+      "question": 90,
+      "page": 32,
+      "printed_page": 33,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 92,
+      "canonical_page": 29,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de contextos,figuras,bancoProfessions,avisos y opciones con fuente canónica indicada.79hereda reserva sobre sobresaturación,no clave automática.",
+      "observed_annotation": "Ejemplos excluidos."
+    },
+    {
+      "question": 91,
+      "page": 32,
+      "printed_page": 33,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 93,
+      "canonical_page": 29,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de contextos,figuras,bancoProfessions,avisos y opciones con fuente canónica indicada.79hereda reserva sobre sobresaturación,no clave automática.",
+      "observed_annotation": "Ejemplos excluidos."
+    },
+    {
+      "question": 92,
+      "page": 32,
+      "printed_page": 33,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 94,
+      "canonical_page": 29,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de contextos,figuras,bancoProfessions,avisos y opciones con fuente canónica indicada.79hereda reserva sobre sobresaturación,no clave automática.",
+      "observed_annotation": "Ejemplos excluidos."
+    }
+  ]
+}

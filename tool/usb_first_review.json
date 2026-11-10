@@ -1,0 +1,31 @@
+[
+  {
+    "id":"USB-7b48857ae6bc",
+    "status":"revision_parcial",
+    "rename":"Referencia_Sesion-1_Ano-por-confirmar_Sin-portada_USB-7b48857ae6bc.pdf",
+    "date":"2026-10-29",
+    "identification":{"year":null,"calendar":null,"session":"Primera sesion, explicita en encabezados internos","original_year_claim":"2026-1 solo en el nombre original; no confirmado en el documento","editorial":"No autenticada; marcas ERASO visibles","cover":"Ausente: la primera pagina fisica corresponde a una pagina interna con preguntas de Matematicas","pages":44},
+    "review_scope":"Se inspeccionaron las miniaturas de las 44 paginas, la primera y la ultima pagina y los enunciados iniciales. Se genero OCR local de todas las paginas, pero no se ha validado semanticamente ni resuelto cada una de las 131 preguntas. Esta ficha NO es una revision completa de contenidos o claves.",
+    "structure":[
+      {"area":"Matematicas","questions":"1-25","pdf_pages":"1-8","count":25},
+      {"area":"Lectura critica","questions":"26-66","pdf_pages":"9-21","count":41},
+      {"area":"Sociales y ciudadanas","questions":"67-91","pdf_pages":"22-30","count":25},
+      {"area":"Ciencias naturales","questions":"92-120","pdf_pages":"31-43","count":29},
+      {"area":"Cuestionario socioeconomico","questions":"121-131","pdf_pages":"44","count":11,"use":"No incluir estas preguntas como evaluacion academica del simulacro"}
+    ],
+    "preliminary_question_map":[
+      {"question":1,"page":1,"topic":"Promedio y afirmaciones sobre los individuos de una poblacion","competency_proposal":"Argumentacion"},
+      {"question":2,"page":1,"topic":"Crecimiento lineal en una grafica temperatura-tiempo","competency_proposal":"Interpretacion y representacion"},
+      {"question":3,"page":1,"topic":"Capacidad de un recipiente cilindrico","competency_proposal":"Formulacion y ejecucion"},
+      {"question":4,"page":2,"topic":"Porcentajes de subconjuntos y frecuencias de una encuesta","competency_proposal":"Argumentacion"},
+      {"question":5,"page":2,"topic":"Comparacion de probabilidades al lanzar dos dados","competency_proposal":"Argumentacion"},
+      {"question":6,"page":2,"topic":"Composicion de funciones en modalidades de inversion","competency_proposal":"Formulacion y ejecucion"},
+      {"question":7,"page":3,"topic":"Relacion entre una tabla y una representacion grafica","competency_proposal":"Interpretacion y representacion"}
+    ],
+    "topic_notes":{"math":"Datos, estadistica, probabilidad, proporcionalidad, funciones, geometria y validacion de procedimientos.","reading":"Textos narrativos, instrucciones de una receta, textos argumentativos, dialogos y fragmentos literarios; clasificacion por pregunta pendiente.","social":"Perspectivas de actores, derechos, democracia, conflictos, politicas publicas y consecuencias; clasificacion por pregunta pendiente.","science":"Biologia, quimica y fisica: sintesis de proteinas, adaptaciones, respiracion, glifosato, fuerzas, solubilidad, gases, ecologia y electricidad; clasificacion por pregunta pendiente."},
+    "ocr_alerts":["La pagina PDF 41 devolvio texto vacio inicialmente, aunque contiene la pregunta 116. Una segunda lectura a mayor resolucion recupero el texto; aun requiere cotejar sus graficas.","El OCR mezcla lineas de las dos columnas y puede confundir numeros romanos, I/1, nombres y formulas. No usar igualdad de texto OCR para borrar versiones."],
+    "answers":"No se verificaron claves. No asignar automaticamente respuestas ni considerar correctas posibles marcas ajenas.",
+    "levels":"Sin nivel de dificultad calibrado ni nivel de desempeno asignado. Competencias anteriores son propuestas para revision, no clasificacion oficial.",
+    "comparison":"Pendiente cotejo con las demas versiones 2026-1. El numero de paginas o una pregunta coincidente no permite declararlas identicas."
+  }
+]

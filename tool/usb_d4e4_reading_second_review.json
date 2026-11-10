@@ -1,0 +1,263 @@
+{
+  "file_id": "USB-d4e43db6988a",
+  "date": "2026-10-30",
+  "area": "Lectura critica",
+  "scope": "Preguntas34-48en físicas13-16 inspeccionadas visualmente,con textos y opciones.Quince correspondencias cotejadas conUSB-04dc5257ed8b;se conserva variante de alternativa en43.Propuestas no oficiales,marcas amarillas de autoría desconocida.",
+  "competency_legend": {
+    "L": "Identificar y entender los contenidos locales que conforman un texto",
+    "G": "Comprender cómo se articulan las partes de un texto para darle un sentido global",
+    "R": "Reflexionar a partir de un texto y evaluar su contenido"
+  },
+  "contexts": [
+    {
+      "id": "etica",
+      "title": "Ética para Amador",
+      "pages": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "musica",
+      "title": "Nuestro cerebro,¿hecho para la música?",
+      "pages": [
+        13
+      ]
+    },
+    {
+      "id": "solitaria",
+      "title": "Parábola de la solitaria",
+      "pages": [
+        14
+      ]
+    },
+    {
+      "id": "petricor",
+      "title": "Petricor:el olor de la lluvia",
+      "pages": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "infancia",
+      "title": "La verdad en la infancia",
+      "pages": [
+        16
+      ]
+    }
+  ],
+  "items": [
+    {
+      "question": 34,
+      "page": 13,
+      "topic": "Función introductoria de fragmento",
+      "competency_code": "G",
+      "answer_proposal": "B",
+      "reason": "El pasaje introduce el tema de buena vida humana que después se desarrolla mediante relaciones con otras personas.",
+      "context": "etica",
+      "observed_highlight": "B",
+      "related_file_id": "USB-04dc5257ed8b",
+      "related_question": 44,
+      "related_page": 16,
+      "variant_comparison": "Contexto,enunciado y alternativas cotejados visualmente;distinta numeración,escaneo y marcas.Conservar documentos."
+    },
+    {
+      "question": 35,
+      "page": 13,
+      "topic": "Estrategia argumentativa de preguntas y ejemplos",
+      "competency_code": "R",
+      "answer_proposal": "C",
+      "reason": "Preguntas retóricas sobre posesiones y soledad más ejemplos conducen a conclusión sobre vida humana compartida.",
+      "context": "etica",
+      "observed_highlight": "C",
+      "related_file_id": "USB-04dc5257ed8b",
+      "related_question": 45,
+      "related_page": 16,
+      "variant_comparison": "Contexto,enunciado y alternativas cotejados visualmente;distinta numeración,escaneo y marcas.Conservar documentos."
+    },
+    {
+      "question": 36,
+      "page": 13,
+      "topic": "Relación inferencial entre ideas",
+      "competency_code": "G",
+      "answer_proposal": "B",
+      "reason": "La presencia de música en casi todas las sociedades se presenta como indicio de apreciación innata.",
+      "context": "musica",
+      "observed_highlight": "B",
+      "related_file_id": "USB-04dc5257ed8b",
+      "related_question": 46,
+      "related_page": 16,
+      "variant_comparison": "Contexto,enunciado y alternativas cotejados visualmente;distinta numeración,escaneo y marcas.Conservar documentos.",
+      "alert": "Bllama causalidad a relación de indicio e inferencia;no demuestra origen innato de capacidad musical."
+    },
+    {
+      "question": 37,
+      "page": 13,
+      "topic": "Orden temporal explícito",
+      "competency_code": "L",
+      "answer_proposal": "C",
+      "reason": "El texto sitúa percusión entre instrumentos iniciales y metal posteriormente.",
+      "context": "musica",
+      "observed_highlight": "C",
+      "related_file_id": "USB-04dc5257ed8b",
+      "related_question": 47,
+      "related_page": 16,
+      "variant_comparison": "Contexto,enunciado y alternativas cotejados visualmente;distinta numeración,escaneo y marcas.Conservar documentos."
+    },
+    {
+      "question": 38,
+      "page": 13,
+      "topic": "Vocabulario contextual",
+      "competency_code": "L",
+      "answer_proposal": "D",
+      "reason": "Disonantes se contrapone a agradables y corresponde a desagradables en el contexto.",
+      "context": "musica",
+      "observed_highlight": "D",
+      "related_file_id": "USB-04dc5257ed8b",
+      "related_question": 48,
+      "related_page": 16,
+      "variant_comparison": "Contexto,enunciado y alternativas cotejados visualmente;distinta numeración,escaneo y marcas.Conservar documentos."
+    },
+    {
+      "question": 39,
+      "page": 13,
+      "topic": "Función del comienzo de un texto",
+      "competency_code": "G",
+      "answer_proposal": "B",
+      "reason": "La referencia a más de40000años introduce relación humana con música antes de exponer hipótesis sobre su utilidad.",
+      "context": "musica",
+      "observed_highlight": "B",
+      "related_file_id": "USB-04dc5257ed8b",
+      "related_question": 49,
+      "related_page": 16,
+      "variant_comparison": "Contexto,enunciado y alternativas cotejados visualmente;distinta numeración,escaneo y marcas.Conservar documentos."
+    },
+    {
+      "question": 40,
+      "page": 14,
+      "topic": "Comparación como estrategia retórica",
+      "competency_code": "R",
+      "answer_proposal": "C",
+      "reason": "La subordinación del escritor se compara con servidumbre deJoséMaríaal parásito.",
+      "context": "solitaria",
+      "observed_highlight": "C",
+      "related_file_id": "USB-04dc5257ed8b",
+      "related_question": 23,
+      "related_page": 8,
+      "variant_comparison": "Contexto,enunciado y alternativas cotejados visualmente;distinta numeración,escaneo y marcas.Conservar documentos."
+    },
+    {
+      "question": 41,
+      "page": 14,
+      "topic": "Localización de información explícita",
+      "competency_code": "L",
+      "answer_proposal": "B",
+      "reason": "Bdescribe que la solitaria se alimenta del huésped,crece y se fortalece a sus expensas.",
+      "context": "solitaria",
+      "observed_highlight": "B",
+      "related_file_id": "USB-04dc5257ed8b",
+      "related_question": 24,
+      "related_page": 8,
+      "variant_comparison": "Contexto,enunciado y alternativas cotejados visualmente;distinta numeración,escaneo y marcas.Conservar documentos."
+    },
+    {
+      "question": 42,
+      "page": 14,
+      "topic": "Caracterización de estado de personaje",
+      "competency_code": "G",
+      "answer_proposal": "B",
+      "reason": "La confesión de vivir para la solitaria y ser su sirviente caracteriza esclavitud,no libertad.",
+      "context": "solitaria",
+      "observed_highlight": "B",
+      "related_file_id": "USB-04dc5257ed8b",
+      "related_question": 25,
+      "related_page": 8,
+      "variant_comparison": "Contexto,enunciado y alternativas cotejados visualmente;distinta numeración,escaneo y marcas.Conservar documentos."
+    },
+    {
+      "question": 43,
+      "page": 15,
+      "topic": "Sentido de comparación figurada",
+      "competency_code": "L",
+      "answer_proposal": "C",
+      "reason": "La semejanza con champaña se refiere a salida del gas de las burbujas,no al alcohol o color.",
+      "context": "petricor",
+      "observed_highlight": "C",
+      "related_file_id": "USB-04dc5257ed8b",
+      "related_question": 26,
+      "related_page": 9,
+      "variant_comparison": "Contexto y tarea coinciden,pero opciónBactual dice que agua hierve de la misma manera que champaña; la relacionada dice que agua al hervir produce burbujas similares. Variante de distractor,no texto idéntico. Clave propuestaCse conserva."
+    },
+    {
+      "question": 44,
+      "page": 15,
+      "topic": "Función de cierre de infografía",
+      "competency_code": "G",
+      "answer_proposal": "D",
+      "reason": "El último cuadro concluye el proceso e identifica el olor resultante como petricor/tierra mojada.",
+      "context": "petricor",
+      "observed_highlight": "D",
+      "related_file_id": "USB-04dc5257ed8b",
+      "related_question": 27,
+      "related_page": 9,
+      "variant_comparison": "Contexto,enunciado y alternativas cotejados visualmente;distinta numeración,escaneo y marcas.Conservar documentos."
+    },
+    {
+      "question": 45,
+      "page": 16,
+      "topic": "Valor de conector disyuntivo",
+      "competency_code": "L",
+      "answer_proposal": "C",
+      "reason": "Ointroduce otra denominación del mismo olor,alternativa a petricor.",
+      "context": "petricor",
+      "observed_highlight": "C",
+      "related_file_id": "USB-04dc5257ed8b",
+      "related_question": 28,
+      "related_page": 10,
+      "variant_comparison": "Contexto,enunciado y alternativas cotejados visualmente;distinta numeración,escaneo y marcas.Conservar documentos."
+    },
+    {
+      "question": 46,
+      "page": 16,
+      "topic": "Organización explicativa secuencial",
+      "competency_code": "R",
+      "answer_proposal": "D",
+      "reason": "La infografía explica etapas de formación,captura y dispersión de partículas que producen olor.",
+      "context": "petricor",
+      "observed_highlight": "D",
+      "related_file_id": "USB-04dc5257ed8b",
+      "related_question": 29,
+      "related_page": 10,
+      "variant_comparison": "Contexto,enunciado y alternativas cotejados visualmente;distinta numeración,escaneo y marcas.Conservar documentos."
+    },
+    {
+      "question": 47,
+      "page": 16,
+      "topic": "Tesis global sobre sinceridad infantil",
+      "competency_code": "G",
+      "answer_proposal": "D",
+      "reason": "El texto defiende sinceridad de infancia frente a disimulo aprendido al madurar.",
+      "context": "infancia",
+      "observed_highlight": "D",
+      "related_file_id": "USB-04dc5257ed8b",
+      "related_question": 30,
+      "related_page": 10,
+      "variant_comparison": "Contexto,enunciado y alternativas cotejados visualmente;distinta numeración,escaneo y marcas.Conservar documentos."
+    },
+    {
+      "question": 48,
+      "page": 16,
+      "topic": "Sustentación de tesis por ejemplos",
+      "competency_code": "R",
+      "answer_proposal": "B",
+      "reason": "Se enumeran ejemplos de amor y expresiones francas infantiles para respaldar sinceridad.",
+      "context": "infancia",
+      "observed_highlight": "B",
+      "related_file_id": "USB-04dc5257ed8b",
+      "related_question": 31,
+      "related_page": 10,
+      "variant_comparison": "Contexto,enunciado y alternativas cotejados visualmente;distinta numeración,escaneo y marcas.Conservar documentos."
+    }
+  ]
+}

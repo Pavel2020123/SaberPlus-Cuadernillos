@@ -1,0 +1,137 @@
+{
+  "file_id": "USB-77cc8ac26d2c",
+  "date": "2026-10-29",
+  "area": "Lectura critica",
+  "scope": "Preguntas23-31paginasfisicas10-12 inspeccionadas visualmente incluyendo texto,comic y alternativas.Ordenfisico27-28antes23-26;29-31despues.Sin validacion docente.",
+  "competency_legend": {
+    "L": "Identifica y entiende los contenidos locales que conforman un texto",
+    "G": "Comprende como se articulan las partes de un texto para darle un sentido global",
+    "R": "Reflexiona a partir de un texto y evalua su contenido"
+  },
+  "contexts": [
+    {
+      "id": "ACN1-LC01",
+      "questions": [
+        23,
+        24,
+        25,
+        26
+      ],
+      "pages": [
+        11
+      ],
+      "title": "Consciencia y alma en los animales",
+      "source_as_printed": "Regan,T.(2016).En defensa de los derechos de los animales.Fondo de Cultura Economica."
+    },
+    {
+      "id": "ACN1-LC02",
+      "questions": [
+        27,
+        28,
+        29
+      ],
+      "pages": [
+        10,
+        12
+      ],
+      "title": "Sapiens.Una historia grafica",
+      "source_as_printed": "Harari,Y.N.,Vandermeulen,D.yCasanave,D.(2020).Sapiens.Una historia grafica.El nacimiento de la humanidad.Debate."
+    },
+    {
+      "id": "ACN1-LC03",
+      "questions": [
+        30,
+        31
+      ],
+      "pages": [
+        12
+      ],
+      "title": "Como identificar peces bajo el agua",
+      "source_as_printed": "Professional Association of Diving Instructors.(2022).Manual Advanced Open Water Diver.https://www.padi.com"
+    }
+  ],
+  "items": [
+    {
+      "question": 23,
+      "page": 11,
+      "topic": "Pregunta central sobre conciencia e inmortalidad",
+      "competency_code": "G",
+      "answer_proposal": "C",
+      "reason": "El texto discute si conciencia requiere alma inmortal,y rechaza esa necesidad;no solo resume opinion deDescartes.",
+      "context": "ACN1-LC01"
+    },
+    {
+      "question": 24,
+      "page": 11,
+      "topic": "Implicacion de argumento citado",
+      "competency_code": "L",
+      "answer_proposal": "B",
+      "reason": "En argumento deDescartes,ostras y esponjas no tendrian alma inmortal;se interpreta su posicion,no la del autor.",
+      "context": "ACN1-LC01"
+    },
+    {
+      "question": 25,
+      "page": 11,
+      "topic": "Funcion de cita en refutacion",
+      "competency_code": "R",
+      "answer_proposal": "C",
+      "reason": "Autor cita conexion cartesiana entre conciencia e inmortalidad para cuestionarla;no afirma necesariamente origen religioso como hecho.",
+      "context": "ACN1-LC01"
+    },
+    {
+      "question": 26,
+      "page": 11,
+      "topic": "Conclusion sobre conciencia y alma",
+      "competency_code": "G",
+      "answer_proposal": "C",
+      "reason": "Se puede atribuir conciencia sin atribuir alma inmortal;debe decidirse segun caso,independiente de inmortalidad.",
+      "context": "ACN1-LC01"
+    },
+    {
+      "question": 27,
+      "page": 10,
+      "topic": "Correspondencia entre disciplinas y objetos",
+      "competency_code": "G",
+      "answer_proposal": "D",
+      "reason": "Materia,energia,tiempo,espacio son objeto de fisica;atomos,moleculas e interacciones,de quimica en historieta.",
+      "context": "ACN1-LC02"
+    },
+    {
+      "question": 28,
+      "page": 10,
+      "topic": "Relacion imagen y texto sobre cultura",
+      "competency_code": "G",
+      "answer_proposal": "B",
+      "reason": "Dibujos ilustran desarrollo de culturashumanas,no solo escena de caza ni escritura formal.",
+      "context": "ACN1-LC02"
+    },
+    {
+      "question": 29,
+      "page": 12,
+      "topic": "Intencion de enunciado declarativo",
+      "competency_code": "G",
+      "answer_proposal": "C",
+      "reason": "La frase afirma origen de materia,tiempoyespacioenbigbang;no pregunta ni valora importancia.",
+      "context": "ACN1-LC02"
+    },
+    {
+      "question": 30,
+      "page": 12,
+      "topic": "Funcion de recomendacion en instructivo",
+      "competency_code": "G",
+      "answer_proposal": "C",
+      "reason": "Dibujar y anotar peces desconocidos para consultar despues sugiere tecnica de identificacion.",
+      "context": "ACN1-LC03"
+    },
+    {
+      "question": 31,
+      "page": 12,
+      "topic": "Localizacion de instruccion temporal",
+      "competency_code": "L",
+      "answer_proposal": "C",
+      "reason": "Anotar y dibujar cuando encuentra pez que no reconoce,antes de buscarlo en enciclopedia.",
+      "context": "ACN1-LC03"
+    }
+  ],
+  "next": "LocalizarLectura32enrestodearchivo.Fisica13contieneCiencias81-83,fisica1496-97yf15 104-106;vistos pero no documentados hasta completarcontextos."
+}

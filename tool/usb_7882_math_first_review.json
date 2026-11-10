@@ -1,0 +1,131 @@
+{
+  "file_id": "USB-7882c8f9ae2f",
+  "date": "2026-10-30",
+  "area": "Matematicas",
+  "scope": "Preguntas26-39en físicas9-12 inspeccionadas visualmente, incluyendo figuras y opciones. Propuestas no oficiales; sin marcas de letras observadas.",
+  "competency_legend": {
+    "IR": "Interpretación y representación",
+    "FE": "Formulación y ejecución",
+    "AR": "Argumentación"
+  },
+  "items": [
+    {
+      "question": 26,
+      "page": 9,
+      "topic": "Equivalencia de fracciones y decimales",
+      "competency_code": "AR",
+      "answer_proposal": "B",
+      "reason": "1/4+2/4=3/4=0,75; participante2también calcula correctamente0,25+0,5."
+    },
+    {
+      "question": 27,
+      "page": 9,
+      "topic": "Factorización de trinomio cuadrado perfecto",
+      "competency_code": "AR",
+      "answer_proposal": "D",
+      "reason": "x²+8x+16=(x+4)²; Elsa acierta y el polinomio es trinomio cuadrado perfecto, no diferencia de cuadrados.",
+      "alert": "El enunciado llama x al lado pero el área dada es(x+4)²: descripción de variable inconsistente con fórmula. La pregunta evalúa factorización de la expresión impresa."
+    },
+    {
+      "question": 28,
+      "page": 9,
+      "topic": "Variables cuantitativas y varianza",
+      "competency_code": "IR",
+      "answer_proposal": "B",
+      "reason": "Longitud y grosor son medidas numéricas; color y persona son categorías y no admiten la varianza numérica descrita."
+    },
+    {
+      "question": 29,
+      "page": 10,
+      "topic": "Clasificación de polígonos por número de lados",
+      "competency_code": "IR",
+      "answer_proposal": "C",
+      "reason": "El grupoXcontiene polígonos de5,6y7lados; Ccorresponde al cóncavo de5lados, el menor deX.",
+      "alert": "Contar lados del polígono cóncavo y no usar figura triangular o rombo del grupoZ."
+    },
+    {
+      "question": 30,
+      "page": 10,
+      "topic": "Comparación de precios en tabla",
+      "competency_code": "IR",
+      "answer_proposal": "C",
+      "reason": "El precio mínimo1200000corresponde al modeloEnos,de marcaSoiBeep."
+    },
+    {
+      "question": 31,
+      "page": 10,
+      "topic": "Conteo con repetición y suma de casos",
+      "competency_code": "FE",
+      "answer_proposal": "D",
+      "reason": "Tipo1admite26³×10³; tipo2fijaTpor lo que tiene1×10⁴; se suman tipos disjuntos."
+    },
+    {
+      "question": 32,
+      "page": 10,
+      "topic": "Comparación de promociones y cocientes enteros",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "Según procedimiento de supermercado1:floor5000/1000=5yfloor5/4=1gratis,total6; supermercado2floor5000/850=5.",
+      "alert": "Se utiliza promoción explícita y procedimiento impreso, no se supone que todo paquete adicional deba comprarse por separado."
+    },
+    {
+      "question": 33,
+      "page": 11,
+      "topic": "Proporcionalidad directa de distancia y tiempo",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "Se recorren3km/min:al minuto4corresponden12km; la razón distancia/tiempo es constante."
+    },
+    {
+      "question": 34,
+      "page": 11,
+      "topic": "Refutación de modelo algebraico",
+      "competency_code": "AR",
+      "answer_proposal": "C",
+      "reason": "Para edad1,67-6=61,no73; la tabla corresponde a67+6×edad.",
+      "alert": "Los valores de estatura son poco plausibles para edades1-4meses; analizar tabla hipotética, no referencia clínica."
+    },
+    {
+      "question": 35,
+      "page": 11,
+      "topic": "Espacio muestral de selección simultánea",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "Los casos posibles son combinaciones de3bolas entre9; la extracción simultánea no distingue orden.",
+      "alert": "FavorablesC(4,2)C(5,1)+C(4,3)=34; posiblesC(9,3)=84. No se requiere calcular probabilidad para elegirC."
+    },
+    {
+      "question": 36,
+      "page": 12,
+      "topic": "Área de rectángulo",
+      "competency_code": "FE",
+      "answer_proposal": "A",
+      "reason": "5km×7km=35km²."
+    },
+    {
+      "question": 37,
+      "page": 12,
+      "topic": "Validación de proporcionalidad",
+      "competency_code": "AR",
+      "answer_proposal": "B",
+      "reason": "Pasar10a15km aumenta50%; con velocidad constante2a3min también aumenta50%."
+    },
+    {
+      "question": 38,
+      "page": 12,
+      "topic": "Contraejemplo a desigualdad universal",
+      "competency_code": "AR",
+      "answer_proposal": "B",
+      "reason": "Conx=1,se obtiene1²=1<2×1=2; basta un contraejemplo para refutar siempre."
+    },
+    {
+      "question": 39,
+      "page": 12,
+      "topic": "Triángulo de perímetro y dos lados conocidos",
+      "competency_code": "FE",
+      "answer_proposal": "A",
+      "reason": "Cuerda cerrada de12mcon lados desde primer punto de3y5 deja tercer lado4;3²+4²=5².",
+      "alert": "Interpretación de tres puntos de cuerda tensa como triángulo simple; sin esa disposición geométrica, pasos verbales aislados serían insuficientes."
+    }
+  ]
+}

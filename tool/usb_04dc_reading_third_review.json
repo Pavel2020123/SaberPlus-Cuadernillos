@@ -1,0 +1,207 @@
+{
+  "file_id": "USB-04dc5257ed8b",
+  "date": "2026-10-30",
+  "area": "Lectura critica",
+  "scope": "Preguntas38-51, páginas físicas14-17 inspeccionadas visualmente. Claves y competencias propuestas, no oficiales.51sin clave por inferencia insuficientemente sustentada.",
+  "competency_legend": {
+    "L": "Identificar y entender los contenidos locales que conforman un texto",
+    "G": "Comprender cómo se articulan las partes de un texto para darle un sentido global",
+    "R": "Reflexionar a partir de un texto y evaluar su contenido"
+  },
+  "contexts": [
+    {
+      "id": "efectos",
+      "title": "Efectos secundarios",
+      "pages": [
+        13,
+        14
+      ],
+      "description": "Continúa infografía sobre investigación médica con escasa representación de mujeres."
+    },
+    {
+      "id": "huerto",
+      "title": "Pequeña guía para crear tu propio huerto en casa",
+      "pages": [
+        14
+      ],
+      "description": "Infografía de cultivos, sustrato, siembra, separación, luz y riego."
+    },
+    {
+      "id": "sofistas",
+      "title": "Texto sobre los sofistas",
+      "pages": [
+        15
+      ],
+      "description": "Fragmento atribuido a Dal Maschio: educación remunerada, persuasión y relativismo."
+    },
+    {
+      "id": "etica",
+      "title": "Ética para Amador (fragmento)",
+      "pages": [
+        15,
+        16
+      ],
+      "description": "Fragmento atribuido a Savater: buena vida humana, posesiones y relaciones."
+    },
+    {
+      "id": "musica",
+      "title": "Nuestro cerebro, ¿hecho para la música?",
+      "pages": [
+        16
+      ],
+      "description": "Fragmento sobre historia de instrumentos e hipótesis acerca de la apreciación musical."
+    },
+    {
+      "id": "exobiologia",
+      "title": "Exobiología",
+      "pages": [
+        17
+      ],
+      "description": "Posibilidades de vida extraterrestre, misiones Viking, extremófilos y nuevos avances. La auditoría analiza el texto histórico, no verifica como actuales sus afirmaciones científicas."
+    }
+  ],
+  "items": [
+    {
+      "question": 38,
+      "page": 14,
+      "topic": "Referentes comunes en infografía",
+      "competency_code": "L",
+      "answer_proposal": "A",
+      "reason": "Las tres expresiones corresponden a material o cuerpos masculinos en las etapas de investigación.",
+      "context": "efectos",
+      "observed_highlight": "A"
+    },
+    {
+      "question": 39,
+      "page": 14,
+      "topic": "Interpretación de representación temporal",
+      "competency_code": "L",
+      "answer_proposal": "B",
+      "reason": "El reloj ilustra aproximadamente las cuatro horas mínimas de luz solar al día, no una hora exacta de exposición.",
+      "context": "huerto",
+      "observed_highlight": "B"
+    },
+    {
+      "question": 40,
+      "page": 14,
+      "topic": "Localización de instrucción específica",
+      "competency_code": "L",
+      "answer_proposal": "B",
+      "reason": "La guía especifica quince centímetros de separación para tubérculos; distingue esa distancia de los veinte centímetros para hojas.",
+      "context": "huerto",
+      "observed_highlight": "B"
+    },
+    {
+      "question": 41,
+      "page": 15,
+      "topic": "Supuesto de una contraposición conceptual",
+      "competency_code": "R",
+      "answer_proposal": "A",
+      "reason": "El párrafo contrapone alcanzar la verdad, objetivo teórico, a adquirir técnicas útiles para persuadir: presupone que buscar la verdad no es un fin práctico.",
+      "context": "sofistas",
+      "observed_highlight": "A"
+    },
+    {
+      "question": 42,
+      "page": 15,
+      "topic": "Evaluación de inferencia filosófica",
+      "competency_code": "R",
+      "answer_proposal": "B",
+      "reason": "Que las afirmaciones dependan del punto de vista y la cultura no prueba que no exista nada; relativismo y negación de existencia no son equivalentes.",
+      "context": "sofistas",
+      "observed_highlight": "B"
+    },
+    {
+      "question": 43,
+      "page": 15,
+      "topic": "Significado contextual de vocablo",
+      "competency_code": "L",
+      "answer_proposal": "B",
+      "reason": "Deslumbrar mediante riquezas equivale en este contexto a impresionar a otras personas, no a producir literalmente luz.",
+      "context": "etica",
+      "observed_highlight": "B"
+    },
+    {
+      "question": 44,
+      "page": 16,
+      "topic": "Función introductoria de fragmento",
+      "competency_code": "G",
+      "answer_proposal": "B",
+      "reason": "El fragmento plantea el tema de una buena vida propiamente humana que luego se desarrolla con la necesidad de relaciones personales.",
+      "context": "etica",
+      "observed_highlight": "B"
+    },
+    {
+      "question": 45,
+      "page": 16,
+      "topic": "Estructura de argumentación",
+      "competency_code": "R",
+      "answer_proposal": "C",
+      "reason": "El autor plantea tema y tesis, usa preguntas retóricas y ejemplos sobre riqueza y soledad y concluye que una vida humana requiere seres humanos.",
+      "context": "etica",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 46,
+      "page": 16,
+      "topic": "Relación inferencial entre ideas",
+      "competency_code": "G",
+      "answer_proposal": "B",
+      "reason": "La presencia de música en casi todas las sociedades se ofrece como indicio que conduce a la hipótesis de apreciación innata.",
+      "context": "musica",
+      "observed_highlight": "B",
+      "alert": "La opciónB denomina causalidad a una relación de indicio e inferencia; no es demostración causal de una capacidad innata."
+    },
+    {
+      "question": 47,
+      "page": 16,
+      "topic": "Orden temporal de información",
+      "competency_code": "L",
+      "answer_proposal": "C",
+      "reason": "La percusión aparece entre los primeros instrumentos mencionados; los instrumentos metálicos se presentan posteriormente.",
+      "context": "musica",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 48,
+      "page": 16,
+      "topic": "Vocabulario contextual",
+      "competency_code": "L",
+      "answer_proposal": "D",
+      "reason": "El pasaje contrapone sonidos agradables a disonantes, interpretados como desagradables en ese contexto.",
+      "context": "musica",
+      "observed_highlight": "D"
+    },
+    {
+      "question": 49,
+      "page": 16,
+      "topic": "Función de apertura de texto",
+      "competency_code": "G",
+      "answer_proposal": "B",
+      "reason": "La referencia a más de40000 años de relación humana con la música introduce el tema antes de explorar las hipótesis sobre su función.",
+      "context": "musica",
+      "observed_highlight": "B"
+    },
+    {
+      "question": 50,
+      "page": 17,
+      "topic": "Correspondencia entre contenido y subtítulo",
+      "competency_code": "G",
+      "answer_proposal": "C",
+      "reason": "La misión Curiosity presentada como investigación reciente encaja con Nuevos avances, no con el balance pesimista de las Viking.",
+      "context": "exobiologia",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 51,
+      "page": 17,
+      "topic": "Límites de inferencia sobre creencias del autor",
+      "competency_code": "R",
+      "answer_proposal": null,
+      "reason": "El texto describe evidencias y posibilidades de vida extraterrestre, pero no expresa una posición sobre el origen divino de la vida. La ausencia de esa explicación no demuestra que el autor la rechace.",
+      "context": "exobiologia",
+      "observed_highlight": "B",
+      "alert": "Marca visibleB, pero el rechazo del creacionismo no se deriva necesariamente del texto. Requiere revisión docente; no convertir marca en clave."
+    }
+  ]
+}

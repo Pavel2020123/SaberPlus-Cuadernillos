@@ -1,0 +1,697 @@
+{
+  "file_id": "USB-524d98b0a234",
+  "date": "2026-10-29",
+  "area": "Ingles",
+  "competency_proposal": "Competencia comunicativa en lengua inglesa (propuesta general)",
+  "scope": "Preguntas80-134paginas32-39 inspeccionadas visualmente,textos,bancos,avisos y alternativas.55items,partes1-6y7.A/7.B.Sin MCERni dificultad asignados.Claves propuestas independientes de marcas,no oficiales.",
+  "contexts": [
+    {
+      "id": "ABJ2-EN1",
+      "questions": [
+        80,
+        81,
+        82,
+        83,
+        84
+      ],
+      "pages": [
+        32
+      ],
+      "part": "1",
+      "title": "Places",
+      "format": "Asociacion de vocabulario",
+      "answer_letters": "A-G",
+      "example_answer": "H",
+      "bank": {
+        "A": "beach",
+        "B": "forest",
+        "C": "garden",
+        "D": "lake",
+        "E": "mountain",
+        "F": "park",
+        "G": "street",
+        "H": "village (ejemplo)"
+      }
+    },
+    {
+      "id": "ABJ2-EN2",
+      "questions": [
+        85,
+        86,
+        87,
+        88,
+        89
+      ],
+      "pages": [
+        33
+      ],
+      "part": "2",
+      "title": "Avisos",
+      "format": "Avisos y senales",
+      "answer_letters": "A-C",
+      "example_answer": "A"
+    },
+    {
+      "id": "ABJ2-EN3",
+      "questions": [
+        90,
+        91,
+        92,
+        93,
+        94
+      ],
+      "pages": [
+        34
+      ],
+      "part": "3",
+      "title": "Conversaciones",
+      "format": "Completar conversacion",
+      "answer_letters": "A-C",
+      "example_answer": "A"
+    },
+    {
+      "id": "ABJ2-EN4",
+      "questions": [
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102
+      ],
+      "pages": [
+        35
+      ],
+      "part": "4",
+      "title": "Repair Cafes",
+      "format": "Texto con espacios",
+      "answer_letters": "A-C",
+      "example_answer": "A"
+    },
+    {
+      "id": "ABJ2-EN5",
+      "questions": [
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109
+      ],
+      "pages": [
+        36
+      ],
+      "part": "5",
+      "title": "The British Museum",
+      "format": "Comprension literal",
+      "answer_letters": "A-C",
+      "example_answer": "A"
+    },
+    {
+      "id": "ABJ2-EN6",
+      "questions": [
+        110,
+        111,
+        112,
+        113,
+        114
+      ],
+      "pages": [
+        37
+      ],
+      "part": "6",
+      "title": "Foreign exchange program",
+      "format": "Comprension inferencial",
+      "answer_letters": "A-D",
+      "example_answer": null
+    },
+    {
+      "id": "ABJ2-EN7",
+      "questions": [
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124
+      ],
+      "pages": [
+        38
+      ],
+      "part": "7.A",
+      "title": "Changing your eating habits",
+      "format": "Texto con espacios",
+      "answer_letters": "A-D",
+      "example_answer": "A"
+    },
+    {
+      "id": "ABJ2-EN8",
+      "questions": [
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134
+      ],
+      "pages": [
+        39
+      ],
+      "part": "7.B",
+      "title": "A SPIDER-WEDDING",
+      "format": "Texto con espacios",
+      "answer_letters": "A-D",
+      "example_answer": "A"
+    }
+  ],
+  "items": [
+    {
+      "question": 80,
+      "page": 32,
+      "context": "ABJ2-EN1",
+      "topic": "Asociacion de vocabulario",
+      "answer_proposal": "C",
+      "reason": "Garden: lugar privado con cesped y flores junto a casa.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "Letra verde agregada junto a descripcion",
+        "provenance": "Origen desconocido en PDF;no clave oficial"
+      }
+    },
+    {
+      "question": 81,
+      "page": 32,
+      "context": "ABJ2-EN1",
+      "topic": "Asociacion de vocabulario",
+      "answer_proposal": "F",
+      "reason": "Park: lugar para deportes con amigos.",
+      "observed_annotation": {
+        "value": "F",
+        "type": "Letra verde agregada junto a descripcion",
+        "provenance": "Origen desconocido en PDF;no clave oficial"
+      }
+    },
+    {
+      "question": 82,
+      "page": 32,
+      "context": "ABJ2-EN1",
+      "topic": "Asociacion de vocabulario",
+      "answer_proposal": "A",
+      "reason": "Beach: arena y mar.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "Letra verde agregada junto a descripcion",
+        "provenance": "Origen desconocido en PDF;no clave oficial"
+      }
+    },
+    {
+      "question": 83,
+      "page": 32,
+      "context": "ABJ2-EN1",
+      "topic": "Asociacion de vocabulario",
+      "answer_proposal": "B",
+      "reason": "Forest: gran area con arboles.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "Letra verde agregada junto a descripcion",
+        "provenance": "Origen desconocido en PDF;no clave oficial"
+      }
+    },
+    {
+      "question": 84,
+      "page": 32,
+      "context": "ABJ2-EN1",
+      "topic": "Asociacion de vocabulario",
+      "answer_proposal": "D",
+      "reason": "Lake: lugar tranquilo para pescar y nadar.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "Letra verde agregada junto a descripcion",
+        "provenance": "Origen desconocido en PDF;no clave oficial"
+      }
+    },
+    {
+      "question": 85,
+      "page": 33,
+      "context": "ABJ2-EN2",
+      "topic": "Avisos y senales",
+      "answer_proposal": "C",
+      "reason": "Cereal se come con leche y fruta al desayuno.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 86,
+      "page": 33,
+      "context": "ABJ2-EN2",
+      "topic": "Avisos y senales",
+      "answer_proposal": "B",
+      "reason": "Prohibicion de telefono corresponde a classroom entre opciones.",
+      "observed_highlight": "B"
+    },
+    {
+      "question": 87,
+      "page": 33,
+      "context": "ABJ2-EN2",
+      "topic": "Avisos y senales",
+      "answer_proposal": "B",
+      "reason": "Horario de tienda se anuncia en puerta.",
+      "observed_highlight": "B"
+    },
+    {
+      "question": 88,
+      "page": 33,
+      "context": "ABJ2-EN2",
+      "topic": "Avisos y senales",
+      "answer_proposal": "A",
+      "reason": "Inicio de curso y recogida de materiales se anuncia en board.",
+      "observed_highlight": "A"
+    },
+    {
+      "question": 89,
+      "page": 33,
+      "context": "ABJ2-EN2",
+      "topic": "Avisos y senales",
+      "answer_proposal": "A",
+      "reason": "Juego de mesa se vende en toy store.",
+      "observed_highlight": "A"
+    },
+    {
+      "question": 90,
+      "page": 34,
+      "context": "ABJ2-EN3",
+      "topic": "Completar conversacion",
+      "answer_proposal": "B",
+      "reason": "That's sad expresa pesar por partida.",
+      "observed_highlight": "B"
+    },
+    {
+      "question": 91,
+      "page": 34,
+      "context": "ABJ2-EN3",
+      "topic": "Completar conversacion",
+      "answer_proposal": "C",
+      "reason": "I suppose so responde confirmacion.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 92,
+      "page": 34,
+      "context": "ABJ2-EN3",
+      "topic": "Completar conversacion",
+      "answer_proposal": "B",
+      "reason": "How long is it? pregunta duracion de competencia anunciada.",
+      "observed_highlight": "B"
+    },
+    {
+      "question": 93,
+      "page": 34,
+      "context": "ABJ2-EN3",
+      "topic": "Completar conversacion",
+      "answer_proposal": "C",
+      "reason": "Yes,I'm new confirma asistencia a clase.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 94,
+      "page": 34,
+      "context": "ABJ2-EN3",
+      "topic": "Completar conversacion",
+      "answer_proposal": "B",
+      "reason": "Let me help you ofrece ayuda ante olvido de uso del telefono.",
+      "observed_highlight": "B"
+    },
+    {
+      "question": 95,
+      "page": 35,
+      "context": "ABJ2-EN4",
+      "topic": "Texto con espacios",
+      "answer_proposal": "C",
+      "reason": "around the world es expresion global.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 96,
+      "page": 35,
+      "context": "ABJ2-EN4",
+      "topic": "Texto con espacios",
+      "answer_proposal": "A",
+      "reason": "several acompana plural fields.",
+      "observed_highlight": "A"
+    },
+    {
+      "question": 97,
+      "page": 35,
+      "context": "ABJ2-EN4",
+      "topic": "Texto con espacios",
+      "answer_proposal": "A",
+      "reason": "anything refiere objeto que reparar.",
+      "observed_highlight": "A"
+    },
+    {
+      "question": 98,
+      "page": 35,
+      "context": "ABJ2-EN4",
+      "topic": "Texto con espacios",
+      "answer_proposal": "B",
+      "reason": "someone else significa otra persona.",
+      "observed_highlight": "B"
+    },
+    {
+      "question": 99,
+      "page": 35,
+      "context": "ABJ2-EN4",
+      "topic": "Texto con espacios",
+      "answer_proposal": "A",
+      "reason": "began es pasado simple.",
+      "observed_highlight": "A"
+    },
+    {
+      "question": 100,
+      "page": 35,
+      "context": "ABJ2-EN4",
+      "topic": "Texto con espacios",
+      "answer_proposal": "B",
+      "reason": "While introduce simultaneidad con was working.",
+      "observed_highlight": "B"
+    },
+    {
+      "question": 101,
+      "page": 35,
+      "context": "ABJ2-EN4",
+      "topic": "Texto con espacios",
+      "answer_proposal": "A",
+      "reason": "since2011indica inicio de periodo que continua.",
+      "observed_highlight": "A"
+    },
+    {
+      "question": 102,
+      "page": 35,
+      "context": "ABJ2-EN4",
+      "topic": "Texto con espacios",
+      "answer_proposal": "C",
+      "reason": "the luckiest person requiere superlativo.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 103,
+      "page": 36,
+      "context": "ABJ2-EN5",
+      "topic": "Comprension literal",
+      "answer_proposal": "B",
+      "reason": "Objetos provienen de personas de todo el mundo y distintas culturas.",
+      "observed_highlight": "B"
+    },
+    {
+      "question": 104,
+      "page": 36,
+      "context": "ABJ2-EN5",
+      "topic": "Comprension literal",
+      "answer_proposal": "A",
+      "reason": "Primera exposicion comenzo tras viaje por WestIndies.",
+      "observed_highlight": "A"
+    },
+    {
+      "question": 105,
+      "page": 36,
+      "context": "ABJ2-EN5",
+      "topic": "Comprension literal",
+      "answer_proposal": "C",
+      "reason": "Gasto dinero en viajes lejanos y aventuras para coleccionar.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 106,
+      "page": 36,
+      "context": "ABJ2-EN5",
+      "topic": "Comprension literal",
+      "answer_proposal": "C",
+      "reason": "Consideraba coleccion maravillosa:actually awesome.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 107,
+      "page": 36,
+      "context": "ABJ2-EN5",
+      "topic": "Comprension literal",
+      "answer_proposal": "B",
+      "reason": "Visitantes buscan explicaciones culturales actualizadas.",
+      "observed_highlight": "B"
+    },
+    {
+      "question": 108,
+      "page": 36,
+      "context": "ABJ2-EN5",
+      "topic": "Comprension literal",
+      "answer_proposal": "C",
+      "reason": "Exposiciones,cursos y biblioteca promueven educacion cultural.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 109,
+      "page": 36,
+      "context": "ABJ2-EN5",
+      "topic": "Comprension literal",
+      "answer_proposal": "A",
+      "reason": "Texto presenta historia y objetivos del museo,no opiniones de visitantes.",
+      "observed_highlight": "A"
+    },
+    {
+      "question": 110,
+      "page": 37,
+      "context": "ABJ2-EN6",
+      "topic": "Comprension inferencial",
+      "answer_proposal": "C",
+      "reason": "Autor comparte aprendizajes del intercambio.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 111,
+      "page": 37,
+      "context": "ABJ2-EN6",
+      "topic": "Comprension inferencial",
+      "answer_proposal": "B",
+      "reason": "No conocia varios aspectos de vida francesa antes de llegar.",
+      "observed_highlight": "B"
+    },
+    {
+      "question": 112,
+      "page": 37,
+      "context": "ABJ2-EN6",
+      "topic": "Comprension inferencial",
+      "answer_proposal": "C",
+      "reason": "Dice que muchos extranjeros hablan ingles;familiar a varias nacionalidades.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 113,
+      "page": 37,
+      "context": "ABJ2-EN6",
+      "topic": "Comprension inferencial",
+      "answer_proposal": "C",
+      "reason": "Pequenos cambios de habitos distinguen vida en familia anfitriona.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 114,
+      "page": 37,
+      "context": "ABJ2-EN6",
+      "topic": "Comprension inferencial",
+      "answer_proposal": "D",
+      "reason": "Titulo sobre lo que nadie conto de intercambio abarca relato.",
+      "observed_highlight": "D"
+    },
+    {
+      "question": 115,
+      "page": 38,
+      "context": "ABJ2-EN7",
+      "topic": "Texto con espacios",
+      "answer_proposal": "C",
+      "reason": "routine changes es colocacion disponible sobre cambios cotidianos.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 116,
+      "page": 38,
+      "context": "ABJ2-EN7",
+      "topic": "Texto con espacios",
+      "answer_proposal": "B",
+      "reason": "succeed in requiere succeed.",
+      "observed_highlight": "B"
+    },
+    {
+      "question": 117,
+      "page": 38,
+      "context": "ABJ2-EN7",
+      "topic": "Texto con espacios",
+      "answer_proposal": "A",
+      "reason": "Consider consulting permite gerundio y recomendacion.",
+      "observed_highlight": "A"
+    },
+    {
+      "question": 118,
+      "page": 38,
+      "context": "ABJ2-EN7",
+      "topic": "Texto con espacios",
+      "answer_proposal": "D",
+      "reason": "professional refiere profesional de nutricion.",
+      "observed_highlight": "D"
+    },
+    {
+      "question": 119,
+      "page": 38,
+      "context": "ABJ2-EN7",
+      "topic": "Texto con espacios",
+      "answer_proposal": "C",
+      "reason": "identify the right diet es identificar adecuada.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 120,
+      "page": 38,
+      "context": "ABJ2-EN7",
+      "topic": "Texto con espacios",
+      "answer_proposal": "B",
+      "reason": "enjoyable califica experiencia de dieta.",
+      "observed_highlight": "B"
+    },
+    {
+      "question": 121,
+      "page": 38,
+      "context": "ABJ2-EN7",
+      "topic": "Texto con espacios",
+      "answer_proposal": "D",
+      "reason": "Surround yourself with es expresion reflexiva.",
+      "observed_highlight": "D"
+    },
+    {
+      "question": 122,
+      "page": 38,
+      "context": "ABJ2-EN7",
+      "topic": "Texto con espacios",
+      "answer_proposal": "A",
+      "reason": "Avoid an all-or-nothing approach recomienda evitarlo.",
+      "observed_highlight": "A"
+    },
+    {
+      "question": 123,
+      "page": 38,
+      "context": "ABJ2-EN7",
+      "topic": "Texto con espacios",
+      "answer_proposal": "C",
+      "reason": "put off meals significa posponer comidas;put away no expresa esa recomendacion.",
+      "observed_highlight": "B",
+      "alert": "ResaltadoB=awaydiscrepa deC=offpropuesta;no sustituir razonamiento por marca."
+    },
+    {
+      "question": 124,
+      "page": 38,
+      "context": "ABJ2-EN7",
+      "topic": "Texto con espacios",
+      "answer_proposal": "A",
+      "reason": "turn into indica convertirse en.",
+      "observed_highlight": "A"
+    },
+    {
+      "question": 125,
+      "page": 39,
+      "context": "ABJ2-EN8",
+      "topic": "Texto con espacios",
+      "answer_proposal": "D",
+      "reason": "took place significa ocurrio.",
+      "observed_highlight": "D"
+    },
+    {
+      "question": 126,
+      "page": 39,
+      "context": "ABJ2-EN8",
+      "topic": "Texto con espacios",
+      "answer_proposal": "A",
+      "reason": "wedding was held es celebracion realizada.",
+      "observed_highlight": "A"
+    },
+    {
+      "question": 127,
+      "page": 39,
+      "context": "ABJ2-EN8",
+      "topic": "Texto con espacios",
+      "answer_proposal": "D",
+      "reason": "experienced a ceremony expresa vivir experiencia.",
+      "observed_highlight": "D"
+    },
+    {
+      "question": 128,
+      "page": 39,
+      "context": "ABJ2-EN8",
+      "topic": "Texto con espacios",
+      "answer_proposal": "B",
+      "reason": "in fact agrega informacion confirmatoria.",
+      "observed_highlight": "B"
+    },
+    {
+      "question": 129,
+      "page": 39,
+      "context": "ABJ2-EN8",
+      "topic": "Texto con espacios",
+      "answer_proposal": "D",
+      "reason": "limited number indica tirada limitada.",
+      "observed_highlight": "D"
+    },
+    {
+      "question": 130,
+      "page": 39,
+      "context": "ABJ2-EN8",
+      "topic": "Texto con espacios",
+      "answer_proposal": "A",
+      "reason": "indeed enfatiza conveniencia del creador.",
+      "observed_highlight": "A"
+    },
+    {
+      "question": 131,
+      "page": 39,
+      "context": "ABJ2-EN8",
+      "topic": "Texto con espacios",
+      "answer_proposal": "C",
+      "reason": "took advantage of this occasion es colocacion.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 132,
+      "page": 39,
+      "context": "ABJ2-EN8",
+      "topic": "Texto con espacios",
+      "answer_proposal": "B",
+      "reason": "groom es novio en ceremonia.",
+      "observed_highlight": "B"
+    },
+    {
+      "question": 133,
+      "page": 39,
+      "context": "ABJ2-EN8",
+      "topic": "Texto con espacios",
+      "answer_proposal": "D",
+      "reason": "promise to never leave es promesa matrimonial.",
+      "observed_highlight": "D"
+    },
+    {
+      "question": 134,
+      "page": 39,
+      "context": "ABJ2-EN8",
+      "topic": "Texto con espacios",
+      "answer_proposal": "A",
+      "reason": "reply fueYes:respuesta.",
+      "observed_highlight": "A"
+    }
+  ],
+  "next": "Finarchivoen134,no autoinformes presentes."
+}

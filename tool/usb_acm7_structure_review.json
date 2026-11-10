@@ -1,0 +1,16 @@
+{
+ "file_id":"USB-eee9960ca52a","date":"2026-10-29","scope":"Cotejo visual de todas las 41 paginas del PDF y primera lectura analitica de sus 106 items academicos mediante lotes. No equivale a validacion docente, autenticacion, comparacion con toda la coleccion ni cierre de alertas.",
+ "items":[],
+ "identity":{"declared_period":"2026-1","session":"Primera sesion","version":"ACM7","version_evidence":"Portada y campo de cuadernillo en la hoja final","calendar":"Pendiente: el periodo no acredita por si solo A/B","authenticity":"No verificada","original_path":"2026-1 (2).pdf","proposed_name":"Referencia_2026-1_Sesion-1_ACM7_USB-eee9960ca52a.pdf","rename_status":"Pendiente hasta que no interfiera con cola OCR"},
+ "structure":[
+  {"role":"Portada","physical_pages":[1]},
+  {"area":"Matematicas","questions":"1-22","count":22,"physical_pages":"2-7"},
+  {"area":"Lectura critica","questions":"23-58","count":36,"physical_pages":"8-20"},
+  {"area":"Sociales y ciudadanas","questions":"59-80","count":22,"physical_pages":"21-28"},
+  {"area":"Ciencias naturales","questions":"81-106","count":26,"physical_pages":"29-40","order_alert":"81-83 en pagina fisica 30 (impresa 29); 84-85 en fisica 29 (impresa 30). Resto 86-106 en fisicas 31-40."},
+  {"role":"Hoja de respuestas","physical_pages":[41],"academic_response_numbers":"1-106","self_report_response_numbers":"107-117","privacy":"Contiene campos identificativos preimpresos; no transcribir nombres ni registros al indice de preguntas."}
+ ],
+ "completeness":{"cover_total":117,"academic_questions_visible_and_reviewed":106,"self_report_prompts_visible":0,"self_report_bubbles_visible":11,"explanation":"La portada cuenta 117 y la hoja final reserva 107-117 al cuestionario socioeconomico. Sus enunciados no aparecen en las paginas revisadas. No generar once fichas ficticias ni completar esos enunciados desde otro PDF sin cotejo."},
+ "comparison":{"related_file":"USB-7b48857ae6bc","visually_matched_item_pairs":31,"math_pairs":"1-11 frente a 15-25","reading_pairs":"41-49 frente a 58-66","social_pairs":"70-80 frente a 70-80","finding":"Ambos comparten un subconjunto de preguntas, con distinta estructura y otros items diferentes. Mantener ambos; no son duplicados binarios ni se ha demostrado igualdad de contenido total."},
+ "next":"Revisar siguiente PDF prioritario USB-578d9b20297e, original 2026-1 (3).pdf. Las alertas siguen abiertas en los lotes correspondientes."
+}

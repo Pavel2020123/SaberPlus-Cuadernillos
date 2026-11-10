@@ -1,0 +1,82 @@
+{
+  "file_id": "USB-8e6cf8399239",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Preguntas104-110, físicas35-37 inspeccionadas visualmente, incluidos modelos y tabla completa.",
+  "contexts": [
+    {
+      "id": "desalinizador",
+      "page": 37,
+      "title": "Prototipo desalinizador solar",
+      "description": "Marco de aluminio, fibra negra, cubierta PVC transparente; evaporación y condensación;10ensayos de tiempo, agua inicial y producción. Preguntas108-110."
+    }
+  ],
+  "items": [
+    {
+      "question": 104,
+      "page": 35,
+      "topic": "Asignación de ejes según variables experimentales",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "C",
+      "reason": "Se modifica tiempo de exposición a llama (eje horizontal, minutos) y se mide altura de pesa (vertical, centímetros).",
+      "alert": "La gráfica informa altura, no longitud directa del cable. La asociación es compatible con dilatación, pero no cuantifica longitud sin geometría."
+    },
+    {
+      "question": 105,
+      "page": 35,
+      "topic": "Transformación de energía durante ascenso",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "A",
+      "reason": "En ascenso de caída libre ideal, energía cinética disminuye, potencial aumenta y mecánica total no cambia.",
+      "alert": "Se supone solo gravedad y ausencia de resistencia del aire. Caída libre no exige velocidad inicial hacia abajo."
+    },
+    {
+      "question": 106,
+      "page": 36,
+      "topic": "Conclusión consistente con tratamientos de iluminación",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "D",
+      "reason": "Entre10,16y21horas,16combina altura110cm y verde oscuro;21produce mayor altura135cm pero hojas amarillas, incumpliendo el criterio conjunto.",
+      "alert": "El ensayo varía luz, no cantidades de nutrientes. No permite concluir necesidad de grandes cantidades de nitrógeno/calcio ni un óptimo universal fuera de los tres tratamientos."
+    },
+    {
+      "question": 107,
+      "page": 36,
+      "topic": "Coevolución de polinizadores y flores",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "A",
+      "reason": "La diversificación de flores favorece adaptación de poblaciones de polinizadores a nuevas variedades; A evita atribuir cambios voluntarios al momento de alimentarse.",
+      "alert": "Adaptación se entiende a escala poblacional/generacional, no modificación dirigida individual por necesidad."
+    },
+    {
+      "question": 108,
+      "page": 37,
+      "topic": "Tendencia de producción en tabla de desalinizador",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "D",
+      "reason": "Los mayores volúmenes (8,5;8,0;7,5;7,0L) están en ensayos de9horas; las otras opciones contradicen tiempos y valores.",
+      "alert": "Duración no es único factor controlado: cambia agua inicial y pueden cambiar condiciones solares. Se describe patrón, no causalidad aislada.",
+      "context": "desalinizador"
+    },
+    {
+      "question": 109,
+      "page": 37,
+      "topic": "Efecto de temperatura sobre evaporación",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "B",
+      "reason": "Mayor temperatura a presión constante favorece evaporación y, si el sistema condensa y recoge el vapor adecuadamente, mayor producción de agua dulce.",
+      "alert": "La producción real depende también de condensación, radiación y pérdidas; predicción bajo supuestos del prototipo.",
+      "context": "desalinizador"
+    },
+    {
+      "question": 110,
+      "page": 37,
+      "topic": "Correspondencia de modelo y funcionamiento",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "C",
+      "reason": "C muestra entrada superior, salida inferior, cubierta transparente por encima de fibra negra y colector de condensado en la parte baja.",
+      "alert": "Identifica estructura descrita; el dibujo no verifica rendimiento ni potabilidad del condensado.",
+      "context": "desalinizador"
+    }
+  ]
+}

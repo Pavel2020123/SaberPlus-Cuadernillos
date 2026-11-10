@@ -1,0 +1,60 @@
+{
+  "file_id": "USB-04dc5257ed8b",
+  "date": "2026-10-30",
+  "area": "Sociales y ciudadanas",
+  "scope": "Inspección visual de enunciados, opciones y contextos en páginas físicas18-21. Propuestas no oficiales, marcas de autoría desconocida.",
+  "competency_legend": {
+    "PS": "Pensamiento social",
+    "IP": "Interpretación y análisis de perspectivas",
+    "RS": "Pensamiento reflexivo y sistémico"
+  },
+  "contexts": [],
+  "items": [
+    {
+      "question": 59,
+      "page": 20,
+      "topic": "Efecto no previsto de incentivo salarial",
+      "competency_code": "RS",
+      "answer_proposal": "C",
+      "reason": "Permitir salarios inferiores para trabajadores inmigrantes puede incentivar su contratación también en otros sectores, no solo los inicialmente interesados.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 60,
+      "page": 20,
+      "topic": "Conflicto entre política alimentaria e intereses empresariales",
+      "competency_code": "IP",
+      "answer_proposal": "C",
+      "reason": "Prohibir venta y distribución escolar de productos empacados altos en grasa y sodio reduce directamente el mercado que los empresarios desean conservar.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 61,
+      "page": 20,
+      "topic": "Aplicación de definición de refugiado",
+      "competency_code": "PS",
+      "answer_proposal": "C",
+      "reason": "La opción de negar asilo y obligar a regresar al país de origen es la que aborda protección transfronteriza; las otras tratan desplazamiento interno, prisión o migración económica.",
+      "observed_highlight": "C",
+      "alert": "La opciónC es la más pertinente a la definición, pero ser víctima de conflicto armado no basta por sí solo para probar todos los requisitos de persecución indicados en el fragmento. Propuesta condicionada al contexto del ítem."
+    },
+    {
+      "question": 62,
+      "page": 21,
+      "topic": "Conflicto entre reactivación económica y salud",
+      "competency_code": "IP",
+      "answer_proposal": "D",
+      "reason": "Los comerciantes favorecen reapertura y los profesionales de salud se oponen por contagios; son los intereses explícitamente contrapuestos.",
+      "observed_highlight": "D"
+    },
+    {
+      "question": 63,
+      "page": 21,
+      "topic": "Pertinencia de testimonio para objetivo investigativo",
+      "competency_code": "IP",
+      "answer_proposal": "B",
+      "reason": "La comparación de venta difícil de productos legales con compra rápida y rentable de coca sirve al objetivo1 sobre situación económica e ingresos campesinos.",
+      "observed_highlight": "B"
+    }
+  ]
+}

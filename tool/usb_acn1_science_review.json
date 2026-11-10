@@ -1,0 +1,260 @@
+{
+  "file_id": "USB-77cc8ac26d2c",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Preguntas81-106enpaginasfisicasdispersas inspeccionadas visualmente en turnos previos y cotejadas porcontexto.Propuestas no oficiales,sinrevisiondocente.PDFconescaneop alido.",
+  "competency_legend": {
+    "U": "Uso comprensivo del conocimiento cientifico",
+    "I": "Indagacion",
+    "E": "Explicacion de fenomenos"
+  },
+  "contexts": [
+    {
+      "id": "ACN1-CN01",
+      "questions": [
+        81,
+        82,
+        83
+      ],
+      "pages": [
+        13
+      ],
+      "topic": "Deforestacion2022"
+    },
+    {
+      "id": "ACN1-CN02",
+      "questions": [
+        94,
+        95,
+        96
+      ],
+      "pages": [
+        19,
+        14
+      ],
+      "topic": "Telescopio JamesWebb"
+    }
+  ],
+  "items": [
+    {
+      "question": 81,
+      "page": 13,
+      "topic": "Comparacion de reducciones de deforestacion",
+      "competency_code": "I",
+      "answer_proposal": "C",
+      "reason": "Ganaderia/agricultura tiene mayores magnitudes de reduccion15,13,14enlos tres departamentos.",
+      "context": "ACN1-CN01"
+    },
+    {
+      "question": 82,
+      "page": 13,
+      "topic": "Titulo de grafica ambiental",
+      "competency_code": "I",
+      "answer_proposal": "C",
+      "reason": "Reduccion de deforestacion representa tendencia de tresdepartamentos ytexto.",
+      "alert": "Putumayo aumenta26%;titulo simplifica excepcion.",
+      "context": "ACN1-CN01"
+    },
+    {
+      "question": 83,
+      "page": 13,
+      "topic": "Evidencia para conclusion",
+      "competency_code": "I",
+      "answer_proposal": "D",
+      "reason": "Infraestructura presenta menores reducciones4,2,3enGuaviare,Caqueta,Meta.",
+      "context": "ACN1-CN01"
+    },
+    {
+      "question": 84,
+      "page": 33,
+      "topic": "Mutualismo pez-anemona",
+      "competency_code": "E",
+      "answer_proposal": "C",
+      "reason": "Ambos reciben proteccion frente a depredadores."
+    },
+    {
+      "question": 85,
+      "page": 33,
+      "topic": "Secuencia de tsunami",
+      "competency_code": "U",
+      "answer_proposal": "C",
+      "reason": "Sismo,propagacionyolasgrandesencosta,eneseorden."
+    },
+    {
+      "question": 86,
+      "page": 32,
+      "topic": "Extrapolacion bacteriana",
+      "competency_code": "I",
+      "answer_proposal": "B",
+      "reason": "234millones a10h y crecimientoaproxfactor2.2predicen cerca520millones a11h."
+    },
+    {
+      "question": 87,
+      "page": 32,
+      "topic": "Refutacion de hipotesis exclusiva",
+      "competency_code": "I",
+      "answer_proposal": "A",
+      "reason": "Detergente enzimatico permite limpieza sin condiciones exclusivas deaguahirviendo."
+    },
+    {
+      "question": 88,
+      "page": 32,
+      "topic": "Estequiometria",
+      "competency_code": "U",
+      "answer_proposal": "D",
+      "reason": "15molNO2*(2molHNO3/3molNO2)=10molHNO3."
+    },
+    {
+      "question": 89,
+      "page": 31,
+      "topic": "Prediccion de germinacion",
+      "competency_code": "I",
+      "answer_proposal": "C",
+      "reason": "Ccarbonalcanza100%ensemana6frente9sin,disminuyetressemanas."
+    },
+    {
+      "question": 90,
+      "page": 36,
+      "topic": "Patrones de calibracion",
+      "competency_code": "I",
+      "answer_proposal": "D",
+      "reason": "Masa0.5kg,temperatura40/130C,densidad0.1g/mLsegununidades.",
+      "alert": "Patronllamadocontrapesodedensidadesimpreciso;no validar idoneidad material."
+    },
+    {
+      "question": 91,
+      "page": 36,
+      "topic": "Haplodiploidia",
+      "competency_code": "U",
+      "answer_proposal": "C",
+      "reason": "Hembrasfecundadastienenmadreypadre;machosdeovulonofecundadosolomadre."
+    },
+    {
+      "question": 92,
+      "page": 23,
+      "topic": "Fuerza electrica neta",
+      "competency_code": "U",
+      "answer_proposal": "C",
+      "reason": "600Nizquierda y300Nderechadan300Nizquierda."
+    },
+    {
+      "question": 93,
+      "page": 23,
+      "topic": "Pares libres y angulo molecular",
+      "competency_code": "E",
+      "answer_proposal": "A",
+      "reason": "Dospareselectronicoslibrescomprimenanguloenaguaamenos107grados."
+    },
+    {
+      "question": 94,
+      "page": 19,
+      "topic": "Proteccion termica de telescopio",
+      "competency_code": "E",
+      "answer_proposal": "A",
+      "reason": "Parasolprotegeladodeespejoydetectores;exposicionaaltatemperaturapondriaenriesgosufuncionamiento.",
+      "alert": "Destruccion especifica no cuantificada;Aesalternativaprevista.",
+      "context": "ACN1-CN02"
+    },
+    {
+      "question": 95,
+      "page": 19,
+      "topic": "Comparacion de vectores gravitacionales",
+      "competency_code": "U",
+      "answer_proposal": "A",
+      "reason": "FlechaTierraesmayorquelaLunaymenorqueSol.",
+      "context": "ACN1-CN02"
+    },
+    {
+      "question": 96,
+      "page": 14,
+      "topic": "Representacion de temperaturas por categoria",
+      "competency_code": "I",
+      "answer_proposal": "D",
+      "reason": "BarrasDconservanpanel323K,computador286K,detectores37K,espejo42K;linealBnoordenacorrectamentefinal.",
+      "alert": "Temperaturasporcomponente,categoriasnointervaloscontinuos.",
+      "context": "ACN1-CN02"
+    },
+    {
+      "question": 97,
+      "page": 14,
+      "topic": "Fotosintesis y almidon",
+      "competency_code": "U",
+      "answer_proposal": "B",
+      "reason": "Fotosintesisproducesustratoglucosaqueseusaenalmidondetuberculos."
+    },
+    {
+      "question": 98,
+      "page": 24,
+      "topic": "Caracteristica compartida de oviparos",
+      "competency_code": "U",
+      "answer_proposal": "B",
+      "reason": "Cocodrilo,ornitorrinco,pinguino,serpienteyavestruznacendehuevos,no todosendotermos."
+    },
+    {
+      "question": 99,
+      "page": 24,
+      "topic": "Transporte celular activo",
+      "competency_code": "U",
+      "answer_proposal": "A",
+      "reason": "PasoamenoramayorconcentracionconATPidentificaactivo."
+    },
+    {
+      "question": 100,
+      "page": 24,
+      "topic": "Titulo de grafica Haber-Bosch",
+      "competency_code": "I",
+      "answer_proposal": "A",
+      "reason": "Grafica relacionapresionconproducciondeamoniacoa450Cconstantes,no variaciondetemperatura."
+    },
+    {
+      "question": 101,
+      "page": 35,
+      "topic": "Hipotesis de crecimiento con calcio",
+      "competency_code": "I",
+      "answer_proposal": "D",
+      "reason": "Drepresentamayoralturaconcalcio,menorconsodioycontrolintermedio."
+    },
+    {
+      "question": 102,
+      "page": 37,
+      "topic": "Propiedad para identificar liquidos",
+      "competency_code": "I",
+      "answer_proposal": "D",
+      "reason": "Temperaturasdeebullicionsimilaresapoyanparecido;volumenytiemponosoncaracteristicasidentificadoras.",
+      "alert": "Similituddeebullicionnopru ebaidentidadabsoluta;condicionesdepresionrequeridas."
+    },
+    {
+      "question": 103,
+      "page": 37,
+      "topic": "Masa molar y concentraciones",
+      "competency_code": "U",
+      "answer_proposal": "B",
+      "reason": "Mismamasa400gyvolumen1Ldan40%p/v;masasmolares200y100dan2My4M."
+    },
+    {
+      "question": 104,
+      "page": 15,
+      "topic": "Ley combinada de gases",
+      "competency_code": "U",
+      "answer_proposal": "A",
+      "reason": "V2=4*40*400/(300*3)=71.11L,mayorque40L.",
+      "alert": "Datoscon1molno coincidencongasidealPV=nRT,perorelaciondadaexpresaexpansion."
+    },
+    {
+      "question": 105,
+      "page": 15,
+      "topic": "Equilibrio y fuerza normal",
+      "competency_code": "E",
+      "answer_proposal": "B",
+      "reason": "Quitarlibroreducepeso y normalenigualmagnitud,mantieneequilibrioestatico."
+    },
+    {
+      "question": 106,
+      "page": 15,
+      "topic": "Comparacion de ondas",
+      "competency_code": "U",
+      "answer_proposal": "C",
+      "reason": "Mismalongituddeondayseparaciondecrestas,distintaaltura:amplitud."
+    }
+  ]
+}

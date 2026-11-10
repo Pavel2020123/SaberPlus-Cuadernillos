@@ -1,0 +1,174 @@
+{
+  "file_id": "USB-73fbd3be4b98",
+  "date": "2026-10-30",
+  "area": "Lectura crítica",
+  "scope": "Físicas12-16 completas.31-39referenciasAAR1y40-45referenciasAAA1;fichas propias provisionales40-45consolidadas tras cotejo visual completo,sin perder trazabilidad.",
+  "items": [],
+  "duplicate_occurrences": [
+    {
+      "question": 31,
+      "page": 12,
+      "printed_page": 12,
+      "canonical_file_id": "USB-1c6462bf5377",
+      "canonical_question": 49,
+      "canonical_page": 21,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de contextos Horoscopeando,Qué es un insecto yEpicureísmo, enunciados y cuatro opciones con AAR1físicas21-23. Numeración y distribución diferentes.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 32,
+      "page": 13,
+      "printed_page": 13,
+      "canonical_file_id": "USB-1c6462bf5377",
+      "canonical_question": 50,
+      "canonical_page": 22,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de contextos Horoscopeando,Qué es un insecto yEpicureísmo, enunciados y cuatro opciones con AAR1físicas21-23. Numeración y distribución diferentes.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 33,
+      "page": 13,
+      "printed_page": 13,
+      "canonical_file_id": "USB-1c6462bf5377",
+      "canonical_question": 51,
+      "canonical_page": 22,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de contextos Horoscopeando,Qué es un insecto yEpicureísmo, enunciados y cuatro opciones con AAR1físicas21-23. Numeración y distribución diferentes.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 34,
+      "page": 13,
+      "printed_page": 13,
+      "canonical_file_id": "USB-1c6462bf5377",
+      "canonical_question": 52,
+      "canonical_page": 22,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de contextos Horoscopeando,Qué es un insecto yEpicureísmo, enunciados y cuatro opciones con AAR1físicas21-23. Numeración y distribución diferentes.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 35,
+      "page": 13,
+      "printed_page": 13,
+      "canonical_file_id": "USB-1c6462bf5377",
+      "canonical_question": 53,
+      "canonical_page": 22,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de contextos Horoscopeando,Qué es un insecto yEpicureísmo, enunciados y cuatro opciones con AAR1físicas21-23. Numeración y distribución diferentes.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 36,
+      "page": 14,
+      "printed_page": 14,
+      "canonical_file_id": "USB-1c6462bf5377",
+      "canonical_question": 54,
+      "canonical_page": 23,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de contextos Horoscopeando,Qué es un insecto yEpicureísmo, enunciados y cuatro opciones con AAR1físicas21-23. Numeración y distribución diferentes.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 37,
+      "page": 14,
+      "printed_page": 14,
+      "canonical_file_id": "USB-1c6462bf5377",
+      "canonical_question": 55,
+      "canonical_page": 23,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de contextos Horoscopeando,Qué es un insecto yEpicureísmo, enunciados y cuatro opciones con AAR1físicas21-23. Numeración y distribución diferentes.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 38,
+      "page": 14,
+      "printed_page": 14,
+      "canonical_file_id": "USB-1c6462bf5377",
+      "canonical_question": 56,
+      "canonical_page": 23,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de contextos Horoscopeando,Qué es un insecto yEpicureísmo, enunciados y cuatro opciones con AAR1físicas21-23. Numeración y distribución diferentes.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 39,
+      "page": 14,
+      "printed_page": 14,
+      "canonical_file_id": "USB-1c6462bf5377",
+      "canonical_question": 57,
+      "canonical_page": 23,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de contextos Horoscopeando,Qué es un insecto yEpicureísmo, enunciados y cuatro opciones con AAR1físicas21-23. Numeración y distribución diferentes.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 40,
+      "page": 15,
+      "printed_page": 15,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 58,
+      "canonical_page": 11,
+      "exact_content": true,
+      "verification": "Contextos Pensar el Islam yNubiaMuñoz, enunciados y opciones íntegros cotejados conAAA1físicas11-12.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 41,
+      "page": 15,
+      "printed_page": 15,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 59,
+      "canonical_page": 11,
+      "exact_content": true,
+      "verification": "Contextos Pensar el Islam yNubiaMuñoz, enunciados y opciones íntegros cotejados conAAA1físicas11-12.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 42,
+      "page": 16,
+      "printed_page": 16,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 60,
+      "canonical_page": 12,
+      "exact_content": true,
+      "verification": "Contextos Pensar el Islam yNubiaMuñoz, enunciados y opciones íntegros cotejados conAAA1físicas11-12.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 43,
+      "page": 16,
+      "printed_page": 16,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 61,
+      "canonical_page": 12,
+      "exact_content": true,
+      "verification": "Contextos Pensar el Islam yNubiaMuñoz, enunciados y opciones íntegros cotejados conAAA1físicas11-12.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 44,
+      "page": 16,
+      "printed_page": 16,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 62,
+      "canonical_page": 12,
+      "exact_content": true,
+      "verification": "Contextos Pensar el Islam yNubiaMuñoz, enunciados y opciones íntegros cotejados conAAA1físicas11-12.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 45,
+      "page": 16,
+      "printed_page": 16,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 63,
+      "canonical_page": 12,
+      "exact_content": true,
+      "verification": "Contextos Pensar el Islam yNubiaMuñoz, enunciados y opciones íntegros cotejados conAAA1físicas11-12.",
+      "observed_annotation": "Sin marca relevante."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "file_id": "USB-45e476387c60",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Físicas 28-29, impresas 27-28, inspección visual completa de gráficas, esquemas, imágenes, tabla y opciones. Cierre inicial de Ciencias 51-79, propuestas no oficiales.",
+  "items": [
+    {
+      "question": 75,
+      "page": 28,
+      "printed_page": 27,
+      "topic": "Evaluación de conclusión frente a control experimental",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "A",
+      "reason": "Corrección por cotejo visual ampliado 2026-10-30: tratamiento con bacteria8t/ha,control sin bacteria6t/ha, diferencia2t/ha;Arespaldada por los datos mostrados. La lectura anterior de control10era incorrecta.",
+      "alert": "No confundir rendimiento con tamaño de plantas, no medido. Sin réplicas o dispersión no inferir significación estadística ni universalizar perjuicio de toda bacteria."
+    },
+    {
+      "question": 76,
+      "page": 28,
+      "printed_page": 27,
+      "topic": "Iones disueltos y conductividad eléctrica",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "D",
+      "reason": "Al disolver NaCl en agua potable aumenta concentración de iones móviles y se espera mayor conductividad según modelo mostrado.",
+      "alert": "Predicción cualitativa en condiciones comparables; no ley de aumento ilimitado a cualquier concentración ni protocolo de manipulación eléctrica."
+    },
+    {
+      "question": 77,
+      "page": 29,
+      "printed_page": 28,
+      "topic": "Transformación energética en soldadura por fricción",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "B",
+      "reason": "El movimiento y empuje mecánicos generan calentamiento por fricción en contacto; la transformación principal es de energía mecánica a térmica.",
+      "alert": "No se requiere corriente eléctrica entre varillas; proceso industrial simplificado, no instrucciones de ejecución."
+    },
+    {
+      "question": 78,
+      "page": 29,
+      "printed_page": 28,
+      "topic": "Características comunes de organismos animales y vegetales",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "B",
+      "reason": "Todos los organismos representados poseen células, intercambian materia/energía como sistemas abiertos, se reproducen y responden a estímulos.",
+      "alert": "No todos poseen pared celular ni realizan fotosíntesis; son eucariotas. Reproducción es característica biológica general y no implica que cada individuo deba reproducirse."
+    },
+    {
+      "question": 79,
+      "page": 29,
+      "printed_page": 28,
+      "topic": "Unidad de rapidez de producción de sustancia",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "A",
+      "reason": "Se mide cantidad de CO₂ en moles producida por unidad de tiempo en horas: mol/h.",
+      "alert": "La rapidez se calcula como Δn/Δt; la tabla acumulada no implica velocidad constante. La introducción menciona variación de masa pero el registro pertinente aquí está en moles."
+    }
+  ]
+}

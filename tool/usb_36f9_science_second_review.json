@@ -1,0 +1,196 @@
+{
+  "file_id": "USB-36f91aeae115",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Físicas13-15,impresas24-29 inspeccionadas completas. Dieciséis coincidencias exactas y variante75 por cambio de barras. Pregunta67canónica corregida aBtras ampliación. Corrección2026-10-31:75consolidada como referenciaAAK2,concontrol6confirmado,no10.",
+  "items": [],
+  "duplicate_occurrences": [
+    {
+      "question": 60,
+      "page": 13,
+      "printed_page": 24,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 101,
+      "canonical_page": 19,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contextos, enunciados, figuras, tablas y opciones A-D con las páginas canónicas. Solo cambian numeración o maquetación. Se excluye expresamente75por gráfica diferente.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 61,
+      "page": 13,
+      "printed_page": 24,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 102,
+      "canonical_page": 19,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contextos, enunciados, figuras, tablas y opciones A-D con las páginas canónicas. Solo cambian numeración o maquetación. Se excluye expresamente75por gráfica diferente.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 62,
+      "page": 13,
+      "printed_page": 24,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 103,
+      "canonical_page": 19,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contextos, enunciados, figuras, tablas y opciones A-D con las páginas canónicas. Solo cambian numeración o maquetación. Se excluye expresamente75por gráfica diferente.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 63,
+      "page": 13,
+      "printed_page": 24,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 104,
+      "canonical_page": 19,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contextos, enunciados, figuras, tablas y opciones A-D con las páginas canónicas. Solo cambian numeración o maquetación. Se excluye expresamente75por gráfica diferente.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 64,
+      "page": 13,
+      "printed_page": 25,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 105,
+      "canonical_page": 20,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contextos, enunciados, figuras, tablas y opciones A-D con las páginas canónicas. Solo cambian numeración o maquetación. Se excluye expresamente75por gráfica diferente.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 65,
+      "page": 13,
+      "printed_page": 25,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 106,
+      "canonical_page": 20,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contextos, enunciados, figuras, tablas y opciones A-D con las páginas canónicas. Solo cambian numeración o maquetación. Se excluye expresamente75por gráfica diferente.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 66,
+      "page": 13,
+      "printed_page": 25,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 107,
+      "canonical_page": 20,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contextos, enunciados, figuras, tablas y opciones A-D con las páginas canónicas. Solo cambian numeración o maquetación. Se excluye expresamente75por gráfica diferente.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 67,
+      "page": 14,
+      "printed_page": 26,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 67,
+      "canonical_page": 25,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contextos, enunciados, figuras, tablas y opciones A-D con las páginas canónicas. Solo cambian numeración o maquetación. Se excluye expresamente75por gráfica diferente.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 68,
+      "page": 14,
+      "printed_page": 26,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 68,
+      "canonical_page": 25,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contextos, enunciados, figuras, tablas y opciones A-D con las páginas canónicas. Solo cambian numeración o maquetación. Se excluye expresamente75por gráfica diferente.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 69,
+      "page": 14,
+      "printed_page": 26,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 69,
+      "canonical_page": 25,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contextos, enunciados, figuras, tablas y opciones A-D con las páginas canónicas. Solo cambian numeración o maquetación. Se excluye expresamente75por gráfica diferente.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 70,
+      "page": 14,
+      "printed_page": 27,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 70,
+      "canonical_page": 26,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contextos, enunciados, figuras, tablas y opciones A-D con las páginas canónicas. Solo cambian numeración o maquetación. Se excluye expresamente75por gráfica diferente.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 71,
+      "page": 14,
+      "printed_page": 27,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 71,
+      "canonical_page": 26,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contextos, enunciados, figuras, tablas y opciones A-D con las páginas canónicas. Solo cambian numeración o maquetación. Se excluye expresamente75por gráfica diferente.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 72,
+      "page": 14,
+      "printed_page": 27,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 72,
+      "canonical_page": 26,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contextos, enunciados, figuras, tablas y opciones A-D con las páginas canónicas. Solo cambian numeración o maquetación. Se excluye expresamente75por gráfica diferente.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 73,
+      "page": 15,
+      "printed_page": 28,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 73,
+      "canonical_page": 27,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contextos, enunciados, figuras, tablas y opciones A-D con las páginas canónicas. Solo cambian numeración o maquetación. Se excluye expresamente75por gráfica diferente.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 74,
+      "page": 15,
+      "printed_page": 28,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 74,
+      "canonical_page": 27,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contextos, enunciados, figuras, tablas y opciones A-D con las páginas canónicas. Solo cambian numeración o maquetación. Se excluye expresamente75por gráfica diferente.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 76,
+      "page": 15,
+      "printed_page": 29,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 76,
+      "canonical_page": 28,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contextos, enunciados, figuras, tablas y opciones A-D con las páginas canónicas. Solo cambian numeración o maquetación. Se excluye expresamente75por gráfica diferente.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 75,
+      "page": 15,
+      "printed_page": 29,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 75,
+      "canonical_page": 28,
+      "exact_content": true,
+      "verification": "Relectura visual ampliada completa deAAK2física28yAAO2física15:ambasbarras8conbacteriay6control,contextoyopcionesidénticos. Se corrige clasificación anterior de falsa variante.",
+      "observed_annotation": "Sin marca relevante."
+    }
+  ]
+}

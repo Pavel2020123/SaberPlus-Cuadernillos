@@ -1,0 +1,158 @@
+{
+  "schema": 1,
+  "revision": 3,
+  "code": "SP-001",
+  "session": "first",
+  "time": "",
+  "targets": {
+    "mathematics": null,
+    "reading": null,
+    "social": null,
+    "science": null,
+    "english": null
+  },
+  "contexts": [
+    {
+      "id": "ctx-muestra-reciclaje-001",
+      "area": "mathematics",
+      "part": 0,
+      "title": "Jornada de reciclaje escolar",
+      "range_heading": "RESPONDA LA PREGUNTA {{desde}} DE ACUERDO CON LA SIGUIENTE TABLA",
+      "instructions": "La tabla muestra las botellas recolectadas por un grupo durante cuatro días.",
+      "text": "",
+      "table": "Día;Lunes;Martes;Miércoles;Jueves\nBotellas;12;18;10;20",
+      "source": "Elaboración propia SaberPlus. Ejemplo pendiente de revisión docente."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q-ced49341-ed6d-4139-bc8c-456fcafae71a",
+      "area": "mathematics",
+      "part": 0,
+      "order": 1,
+      "topic": "",
+      "subtopic": "",
+      "stem": "",
+      "options": [
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        }
+      ],
+      "correct": "",
+      "explanation": "",
+      "layout": "columns",
+      "included": true,
+      "context": null,
+      "slot": "",
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "mathematics",
+        "status": "unclassified",
+        "competency": null,
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-af7b9bda-5f91-47de-8301-7e020bf9da0e",
+      "area": "mathematics",
+      "part": 0,
+      "order": 2,
+      "topic": "",
+      "subtopic": "",
+      "stem": "",
+      "options": [
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        }
+      ],
+      "correct": "",
+      "explanation": "",
+      "layout": "columns",
+      "included": true,
+      "context": null,
+      "slot": "",
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "mathematics",
+        "status": "unclassified",
+        "competency": null,
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-muestra-reciclaje-001",
+      "area": "mathematics",
+      "part": 0,
+      "order": 0,
+      "topic": "Muestra: interpretación de tablas",
+      "subtopic": "Porcentajes a partir de una tabla",
+      "stem": "¿Qué porcentaje del total de botellas recolectadas durante los cuatro días corresponde al martes?",
+      "options": [
+        {
+          "text": "18 %"
+        },
+        {
+          "text": "30 %"
+        },
+        {
+          "text": "40 %"
+        },
+        {
+          "text": "60 %"
+        }
+      ],
+      "correct": "B",
+      "explanation": "En total se recolectaron 12 + 18 + 10 + 20 = 60 botellas. El martes se recolectaron 18; por tanto, (18 / 60) x 100 = 30 %.",
+      "layout": "boxed",
+      "included": true,
+      "context": "ctx-muestra-reciclaje-001",
+      "slot": "",
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "mathematics",
+        "status": "unclassified",
+        "competency": null,
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    }
+  ]
+}

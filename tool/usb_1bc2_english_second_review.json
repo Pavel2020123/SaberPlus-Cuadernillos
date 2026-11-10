@@ -1,0 +1,414 @@
+{
+  "file_id": "USB-1bc205e23b46",
+  "date": "2026-10-30",
+  "area": "Inglés",
+  "scope": "Inspección visual de páginas físicas 25-28: partes 2, 3, 4.A y 5. Preguntas 85-104 y 113-119. Salto 105-112 pendiente de comprobar al revisar resto del documento. No se infiere MCER ni clave oficial.",
+  "contexts": [
+    {
+      "id": "avisos",
+      "page": 25,
+      "title": "Parte 2: avisos",
+      "description": "Cinco avisos con opciones A-C de ubicación o soporte."
+    },
+    {
+      "id": "conversaciones",
+      "page": 26,
+      "title": "Parte 3: siete conversaciones",
+      "description": "El encabezado y los siete ítems abarcan 90-96; conservar siete, no reducir automáticamente a cinco."
+    },
+    {
+      "id": "puzzle",
+      "page": 27,
+      "title": "A puzzle legend",
+      "description": "Biografía de Ivan Moscovich, ocho espacios 97-104 con opciones A-C; ejemplo on para fecha."
+    },
+    {
+      "id": "museum",
+      "page": 28,
+      "title": "The British Museum",
+      "description": "Historia de la colección de Sloane, visitantes y objetivos educativos; siete preguntas 113-119."
+    }
+  ],
+  "items": [
+    {
+      "question": 85,
+      "page": 25,
+      "context": "avisos",
+      "topic": "Ubicación de horarios de comidas",
+      "competency_proposal": "Competencia comunicativa: interpretación pragmática de avisos",
+      "answer_proposal": "B",
+      "reason": "Los horarios de almuerzo y cena son compatibles con un hotel, entre las tres opciones.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 86,
+      "page": 25,
+      "context": "avisos",
+      "topic": "Ubicación de norma de silencio",
+      "competency_proposal": "Competencia comunicativa: interpretación pragmática de avisos",
+      "answer_proposal": "A",
+      "reason": "Una biblioteca es el lugar más adecuado para solicitar silencio entre las opciones.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 87,
+      "page": 25,
+      "context": "avisos",
+      "topic": "Soporte de anuncio de espectáculo",
+      "competency_proposal": "Competencia comunicativa: interpretación pragmática de avisos",
+      "answer_proposal": "A",
+      "reason": "Título, horarios y precio de entradas corresponden a un cartel publicitario.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 88,
+      "page": 25,
+      "context": "avisos",
+      "topic": "Ubicación de identificación de cargo",
+      "competency_proposal": "Competencia comunicativa: interpretación pragmática de avisos",
+      "answer_proposal": "C",
+      "reason": "El nombre de la directora escolar identifica la puerta de una oficina.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 89,
+      "page": 25,
+      "context": "avisos",
+      "topic": "Ubicación de advertencia sobre animales",
+      "competency_proposal": "Competencia comunicativa: interpretación pragmática de avisos",
+      "answer_proposal": "C",
+      "reason": "La prohibición de alimentar monos se sitúa en un zoológico entre las alternativas.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 90,
+      "page": 26,
+      "context": "conversaciones",
+      "topic": "Respuesta a pregunta de confirmación",
+      "competency_proposal": "Competencia comunicativa: adecuación pragmática de respuestas",
+      "answer_proposal": "C",
+      "reason": "Yes, I'm new responde afirmativamente a si está allí para la clase de música; See you es una despedida.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      },
+      "alert": "La marca observada no coincide con la respuesta propuesta razonada."
+    },
+    {
+      "question": 91,
+      "page": 26,
+      "context": "conversaciones",
+      "topic": "Aceptación de una propuesta",
+      "competency_proposal": "Competencia comunicativa: adecuación pragmática de respuestas",
+      "answer_proposal": "C",
+      "reason": "It's the best idea acepta con entusiasmo la invitación a salir a pasear.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 92,
+      "page": 26,
+      "context": "conversaciones",
+      "topic": "Explicación de una decisión pasada",
+      "competency_proposal": "Competencia comunicativa: adecuación pragmática de respuestas",
+      "answer_proposal": "C",
+      "reason": "It was too warm explica por qué no se puso el abrigo ayer.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 93,
+      "page": 26,
+      "context": "conversaciones",
+      "topic": "Continuación pertinente sobre una película",
+      "competency_proposal": "Competencia comunicativa: adecuación pragmática de respuestas",
+      "answer_proposal": "A",
+      "reason": "Is it good? pregunta por la película mencionada; las otras réplicas no siguen adecuadamente el tema.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 94,
+      "page": 26,
+      "context": "conversaciones",
+      "topic": "Expresión de desconocimiento",
+      "competency_proposal": "Competencia comunicativa: adecuación pragmática de respuestas",
+      "answer_proposal": "B",
+      "reason": "I've got no idea responde que desconoce la razón por la que se esconden.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 95,
+      "page": 26,
+      "context": "conversaciones",
+      "topic": "Pregunta pertinente sobre un concierto",
+      "competency_proposal": "Competencia comunicativa: adecuación pragmática de respuestas",
+      "answer_proposal": "A",
+      "reason": "Is it on Saturday? continúa la conversación preguntando la fecha del concierto.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 96,
+      "page": 26,
+      "context": "conversaciones",
+      "topic": "Felicitación por un nombramiento",
+      "competency_proposal": "Competencia comunicativa: adecuación pragmática de respuestas",
+      "answer_proposal": "C",
+      "reason": "Congratulations es la reacción pertinente ante la noticia de un nuevo cargo.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 97,
+      "page": 27,
+      "context": "puzzle",
+      "topic": "Pronombre relativo para persona",
+      "competency_proposal": "Competencia comunicativa: uso gramatical y cohesión en contexto",
+      "answer_proposal": "A",
+      "reason": "Who introduce la relativa referida a Ivan, persona que murió a los 96 años.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 98,
+      "page": 27,
+      "context": "puzzle",
+      "topic": "Comparación de cantidad",
+      "competency_proposal": "Competencia comunicativa: uso gramatical y cohesión en contexto",
+      "answer_proposal": "C",
+      "reason": "More than 100 expresa más de cien; much y must no completan la estructura.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 99,
+      "page": 27,
+      "context": "puzzle",
+      "topic": "Pasado simple en biografía",
+      "competency_proposal": "Competencia comunicativa: uso gramatical y cohesión en contexto",
+      "answer_proposal": "B",
+      "reason": "El premio se obtuvo en 2020: he won, pasado de win.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 100,
+      "page": 27,
+      "context": "puzzle",
+      "topic": "Continuidad de una acción",
+      "competency_proposal": "Competencia comunicativa: uso gramatical y cohesión en contexto",
+      "answer_proposal": "C",
+      "reason": "Was still preparing expresa que seguía creando productos incluso en sus noventa.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 101,
+      "page": 27,
+      "context": "puzzle",
+      "topic": "Superlativo después de artículo",
+      "competency_proposal": "Competencia comunicativa: uso gramatical y cohesión en contexto",
+      "answer_proposal": "C",
+      "reason": "The best completa el superlativo del museo; good y better no forman esa construcción.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 102,
+      "page": 27,
+      "context": "puzzle",
+      "topic": "Participio en voz pasiva",
+      "competency_proposal": "Competencia comunicativa: uso gramatical y cohesión en contexto",
+      "answer_proposal": "C",
+      "reason": "Were designed by him requiere el participio designed.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 103,
+      "page": 27,
+      "context": "puzzle",
+      "topic": "Aproximación de una cantidad",
+      "competency_proposal": "Competencia comunicativa: uso gramatical y cohesión en contexto",
+      "answer_proposal": "A",
+      "reason": "Around half a million expresa aproximadamente medio millón de copias.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 104,
+      "page": 27,
+      "context": "puzzle",
+      "topic": "Modal de posibilidad",
+      "competency_proposal": "Competencia comunicativa: uso gramatical y cohesión en contexto",
+      "answer_proposal": "B",
+      "reason": "Might not be famous plantea posibilidad de que el nombre no sea famoso hoy.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 113,
+      "page": 28,
+      "context": "museum",
+      "topic": "Procedencia de objetos en una lectura",
+      "competency_proposal": "Competencia comunicativa: comprensión de información explícita y sentido global",
+      "answer_proposal": "B",
+      "reason": "El texto afirma objetos de todo el mundo creados por diferentes pueblos y culturas.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 114,
+      "page": 28,
+      "context": "museum",
+      "topic": "Secuencia de hechos en una biografía",
+      "competency_proposal": "Competencia comunicativa: comprensión de información explícita y sentido global",
+      "answer_proposal": "A",
+      "reason": "El primer párrafo relaciona el inicio de su interés con el tiempo pasado en las West Indies; made a journey es la opción apoyada.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      },
+      "alert": "La marca observada no coincide con la respuesta propuesta razonada."
+    },
+    {
+      "question": 115,
+      "page": 28,
+      "context": "museum",
+      "topic": "Destino del dinero de un personaje",
+      "competency_proposal": "Competencia comunicativa: comprensión de información explícita y sentido global",
+      "answer_proposal": "C",
+      "reason": "Gastó gran parte de su dinero en viajes lejanos para conseguir objetos; exciting adventures es la paráfrasis ofrecida.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 116,
+      "page": 28,
+      "context": "museum",
+      "topic": "Valoración personal de una colección",
+      "competency_proposal": "Competencia comunicativa: comprensión de información explícita y sentido global",
+      "answer_proposal": "C",
+      "reason": "Consideraba lo adquirido las cosas más maravillosas; actually awesome expresa esa valoración.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 117,
+      "page": 28,
+      "context": "museum",
+      "topic": "Intereses de visitantes",
+      "competency_proposal": "Competencia comunicativa: comprensión de información explícita y sentido global",
+      "answer_proposal": "B",
+      "reason": "Los visitantes buscan explicaciones e información reciente sobre los grupos culturales.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 118,
+      "page": 28,
+      "context": "museum",
+      "topic": "Propósito educativo de una institución",
+      "competency_proposal": "Competencia comunicativa: comprensión de información explícita y sentido global",
+      "answer_proposal": "C",
+      "reason": "El museo busca enseñar culturas mediante exposiciones y cursos; C recoge los programas educativos.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 119,
+      "page": 28,
+      "context": "museum",
+      "topic": "Tema global de un texto",
+      "competency_proposal": "Competencia comunicativa: comprensión de información explícita y sentido global",
+      "answer_proposal": "A",
+      "reason": "La lectura resume origen, colección, evolución y objetivos del museo: hechos de su historia.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    }
+  ]
+}

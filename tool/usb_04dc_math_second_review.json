@@ -1,0 +1,40 @@
+{
+  "file_id": "USB-04dc5257ed8b",
+  "date": "2026-10-30",
+  "area": "Matematicas",
+  "scope": "Preguntas20-22, página física7, inspección visual; propuestas no oficiales.",
+  "competency_legend": {
+    "AR": "Argumentación",
+    "FE": "Formulación y ejecución"
+  },
+  "items": [
+    {
+      "question": 20,
+      "page": 7,
+      "topic": "Permutaciones con restricción de adyacencia",
+      "competency_code": "AR",
+      "answer_proposal": "C",
+      "reason": "También es válida Golosinas–Congelados–Aseo: intercambiar los extremos mantiene separados aseo y golosinas.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 21,
+      "page": 7,
+      "topic": "Ejecución de algoritmo aritmético",
+      "competency_code": "FE",
+      "answer_proposal": "A",
+      "reason": "El algoritmo calcula(-1+5)²+1=17, no el producto habitual.",
+      "observed_highlight": "A"
+    },
+    {
+      "question": 22,
+      "page": 7,
+      "topic": "Información requerida para comparar áreas",
+      "competency_code": "AR",
+      "answer_proposal": "C",
+      "reason": "El rectángulo presenta un lado de2 cm y diagonal3 cm; falta calcular el otro lado. El triángulo presenta base3 cm e hipotenusa5 cm; falta calcular su altura para hallar su área.",
+      "observed_highlight": "C",
+      "alert": "No tomar las diagonales o hipotenusas como alturas. Marcas de opción del escaneo de autoría desconocida."
+    }
+  ]
+}

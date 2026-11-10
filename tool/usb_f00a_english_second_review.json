@@ -1,0 +1,237 @@
+{
+  "file_id": "USB-f00a52c8b6f2",
+  "date": "2026-10-30",
+  "area": "Inglés",
+  "scope": "Preguntas97-119,físicas31-33inspeccionadas visualmente con textos completos yopciones. No asignación deMCERpor formato ni claves oficiales.",
+  "contexts": [
+    {
+      "id": "austen",
+      "page": 31,
+      "title": "Jane Austen",
+      "description": "Parte4.A,97-104,ocho espacios conA-C;comparación,sintaxis temporal ypreposiciones."
+    },
+    {
+      "id": "carter",
+      "page": 32,
+      "title": "Lynda Carter",
+      "description": "Parte4.B,105-112,ocho espacios conA-C;biografía desde escuela hastaWonderWoman."
+    },
+    {
+      "id": "golf",
+      "page": 33,
+      "title": "Golf",
+      "description": "Parte5,113-119,siete preguntas sobre historia,equipos yreglas según texto."
+    }
+  ],
+  "items": [
+    {
+      "question": 97,
+      "page": 31,
+      "context": "austen",
+      "topic": "Comparación de igualdad",
+      "competency_proposal": "Competencia comunicativa: uso gramatical y cohesión en contexto",
+      "answer_proposal": "A",
+      "reason": "As clever as requiere adjetivo base."
+    },
+    {
+      "question": 98,
+      "page": 31,
+      "context": "austen",
+      "topic": "Pasado simple de let",
+      "competency_proposal": "Competencia comunicativa: uso gramatical y cohesión en contexto",
+      "answer_proposal": "B",
+      "reason": "El relato pasado exige let;su forma coincide con infinitivo."
+    },
+    {
+      "question": 99,
+      "page": 31,
+      "context": "austen",
+      "topic": "Adverbio aditivo",
+      "competency_proposal": "Competencia comunicativa: uso gramatical y cohesión en contexto",
+      "answer_proposal": "A",
+      "reason": "Also añade que el padre sugirió escribir."
+    },
+    {
+      "question": 100,
+      "page": 31,
+      "context": "austen",
+      "topic": "Simultaneidad temporal",
+      "competency_proposal": "Competencia comunicativa: uso gramatical y cohesión en contexto",
+      "answer_proposal": "C",
+      "reason": "While conecta descubrimiento de talento yactuación en obras."
+    },
+    {
+      "question": 101,
+      "page": 31,
+      "context": "austen",
+      "topic": "Pasado simple en relativa",
+      "competency_proposal": "Competencia comunicativa: uso gramatical y cohesión en contexto",
+      "answer_proposal": "B",
+      "reason": "Las obras que representaban:they performed."
+    },
+    {
+      "question": 102,
+      "page": 31,
+      "context": "austen",
+      "topic": "Modal de capacidad pasada",
+      "competency_proposal": "Competencia comunicativa: uso gramatical y cohesión en contexto",
+      "answer_proposal": "A",
+      "reason": "Could explore expresa posibilidad/capacidad en contexto pasado."
+    },
+    {
+      "question": 103,
+      "page": 31,
+      "context": "austen",
+      "topic": "Preposición de duración",
+      "competency_proposal": "Competencia comunicativa: uso gramatical y cohesión en contexto",
+      "answer_proposal": "B",
+      "reason": "For six years expresa duración."
+    },
+    {
+      "question": 104,
+      "page": 31,
+      "context": "austen",
+      "topic": "Expresión de alcance geográfico",
+      "competency_proposal": "Competencia comunicativa: uso gramatical y cohesión en contexto",
+      "answer_proposal": "C",
+      "reason": "Around the world significa por todo el mundo."
+    },
+    {
+      "question": 105,
+      "page": 32,
+      "context": "carter",
+      "topic": "Adverbio enfático",
+      "competency_proposal": "Competencia comunicativa: uso gramatical y cohesión en contexto",
+      "answer_proposal": "C",
+      "reason": "Even called Olive enfatiza que incluso le dieron ese apodo."
+    },
+    {
+      "question": 106,
+      "page": 32,
+      "context": "carter",
+      "topic": "Conector de consecuencia",
+      "competency_proposal": "Competencia comunicativa: uso gramatical y cohesión en contexto",
+      "answer_proposal": "A",
+      "reason": "So conecta deseo de ser cantante ycambio de nombre."
+    },
+    {
+      "question": 107,
+      "page": 32,
+      "context": "carter",
+      "topic": "Pronombre reflexivo femenino",
+      "competency_proposal": "Competencia comunicativa: uso gramatical y cohesión en contexto",
+      "answer_proposal": "B",
+      "reason": "Thought to herself concuerda conLynda."
+    },
+    {
+      "question": 108,
+      "page": 32,
+      "context": "carter",
+      "topic": "Expresión de distribución geográfica",
+      "competency_proposal": "Competencia comunicativa: uso gramatical y cohesión en contexto",
+      "answer_proposal": "B",
+      "reason": "All over the country indica por todo el país."
+    },
+    {
+      "question": 109,
+      "page": 32,
+      "context": "carter",
+      "topic": "Pasado irregular de begin",
+      "competency_proposal": "Competencia comunicativa: uso gramatical y cohesión en contexto",
+      "answer_proposal": "C",
+      "reason": "Went and began mantiene secuencia de acciones pasadas."
+    },
+    {
+      "question": 110,
+      "page": 32,
+      "context": "carter",
+      "topic": "Adverbio aditivo",
+      "competency_proposal": "Competencia comunicativa: uso gramatical y cohesión en contexto",
+      "answer_proposal": "A",
+      "reason": "Also añade continuidad de conciertos a la actuación."
+    },
+    {
+      "question": 111,
+      "page": 32,
+      "context": "carter",
+      "topic": "Participio en voz pasiva",
+      "competency_proposal": "Competencia comunicativa: uso gramatical y cohesión en contexto",
+      "answer_proposal": "C",
+      "reason": "Was invited to act exige invited."
+    },
+    {
+      "question": 112,
+      "page": 32,
+      "context": "carter",
+      "topic": "Pronombre indefinido de persona",
+      "competency_proposal": "Competencia comunicativa: uso gramatical y cohesión en contexto",
+      "answer_proposal": "A",
+      "reason": "Everyone loved se refiere a personas que querían el programa."
+    },
+    {
+      "question": 113,
+      "page": 33,
+      "context": "golf",
+      "topic": "Significado explícito de stroke",
+      "competency_proposal": "Competencia comunicativa: comprensión de información explícita y paráfrasis",
+      "answer_proposal": "C",
+      "reason": "El texto define stroke como golpear la pelota."
+    },
+    {
+      "question": 114,
+      "page": 33,
+      "context": "golf",
+      "topic": "Origen mencionado de práctica deportiva",
+      "competency_proposal": "Competencia comunicativa: comprensión de información explícita y paráfrasis",
+      "answer_proposal": "A",
+      "reason": "El texto sitúa primeras formas enPaísesBajos ydespuésEscocia.",
+      "alert": "Respuesta conforme al relato, no verificación historiográfica independiente."
+    },
+    {
+      "question": 115,
+      "page": 33,
+      "context": "golf",
+      "topic": "Información explícita sobre mantenimiento",
+      "competency_proposal": "Competencia comunicativa: comprensión de información explícita y paráfrasis",
+      "answer_proposal": "C",
+      "reason": "Las ovejas comían hierba yla mantenían corta."
+    },
+    {
+      "question": 116,
+      "page": 33,
+      "context": "golf",
+      "topic": "Identificación de personaje yépoca",
+      "competency_proposal": "Competencia comunicativa: comprensión de información explícita y paráfrasis",
+      "answer_proposal": "A",
+      "reason": "JohnTaylor aparece como jugador británico destacado en1800s.",
+      "alert": "Respuesta conforme al relato, no verificación historiográfica independiente."
+    },
+    {
+      "question": 117,
+      "page": 33,
+      "context": "golf",
+      "topic": "Elección de implemento según distancia",
+      "competency_proposal": "Competencia comunicativa: comprensión de información explícita y paráfrasis",
+      "answer_proposal": "B",
+      "reason": "Los jugadores eligen diferentes clubes según distancia deseada."
+    },
+    {
+      "question": 118,
+      "page": 33,
+      "context": "golf",
+      "topic": "Paráfrasis de efecto tecnológico",
+      "competency_proposal": "Competencia comunicativa: comprensión de información explícita y paráfrasis",
+      "answer_proposal": "A",
+      "reason": "El diseño moderno de pelotas ha mejorado el juego;no se afirma específicamente mayor distancia."
+    },
+    {
+      "question": 119,
+      "page": 33,
+      "context": "golf",
+      "topic": "Criterio de victoria",
+      "competency_proposal": "Competencia comunicativa: comprensión de información explícita y paráfrasis",
+      "answer_proposal": "B",
+      "reason": "Gana quien hace menor número de golpes para todos los hoyos."
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "file_id": "USB-7882c8f9ae2f",
+  "date": "2026-10-30",
+  "area": "Ingles",
+  "competency_proposal": "Competencia comunicativa en lengua inglesa (propuesta general)",
+  "scope": "Preguntas115-134,físicas33-35,textos y alternativas inspeccionados visualmente. Física36enblanco. Partes6.Ay6.Bseparadas y7conservadas. SinMCERni dificultad asignados. Propuestas no oficiales,sin opciones marcadas observadas.",
+  "contexts": [
+    {
+      "id": "idle",
+      "title": "Texto sobre doing nothing y periodos de ocio",
+      "part": "6.A",
+      "pages": [
+        33
+      ],
+      "format": "Comprensión lectora",
+      "answer_letters": "A-D"
+    },
+    {
+      "id": "gym",
+      "title": "Texto sobre beneficios de gimnasia",
+      "part": "6.B",
+      "pages": [
+        34
+      ],
+      "format": "Comprensión lectora",
+      "answer_letters": "A-D"
+    },
+    {
+      "id": "jamaica",
+      "title": "Jamaica Kincaid",
+      "part": "7",
+      "pages": [
+        35
+      ],
+      "format": "Texto con espacios",
+      "answer_letters": "A-D",
+      "description": "Datos biográficos tratados como contexto de lectura, no comprobados como biografía autorizada."
+    }
+  ],
+  "items": [
+    {
+      "question": 115,
+      "page": 33,
+      "topic": "Propósito global de reflexión sobre ocio",
+      "answer_proposal": "D",
+      "reason": "El autor anima a valorar periodos aparentemente inactivos por sus beneficios mentales.",
+      "context": "idle"
+    },
+    {
+      "question": 116,
+      "page": 33,
+      "topic": "Beneficios de actividades cotidianas",
+      "answer_proposal": "D",
+      "reason": "El artículo muestra beneficios que se pueden obtener de momentos rutinarios como esperar o acompañar a hijos.",
+      "context": "idle"
+    },
+    {
+      "question": 117,
+      "page": 33,
+      "topic": "Interpretación contextual de periodos inactivos",
+      "answer_proposal": "C",
+      "reason": "Las experiencias ordinarias generan relajación y sensaciones valiosas, no solo pérdida de recursos.",
+      "context": "idle"
+    },
+    {
+      "question": 118,
+      "page": 33,
+      "topic": "Título coherente con experiencia relatada",
+      "answer_proposal": "A",
+      "reason": "Prestar atención a sucesos normales resume el descubrimiento positivo descrito; las otras opciones lo presentan negativamente o exageran.",
+      "context": "idle"
+    },
+    {
+      "question": 119,
+      "page": 33,
+      "topic": "Consejo coherente con tesis",
+      "answer_proposal": "C",
+      "reason": "Consider simple daily routines y desarrollar capacidades de pensamiento coincide con la valoración del texto.",
+      "context": "idle"
+    },
+    {
+      "question": 120,
+      "page": 34,
+      "topic": "Propósito de texto sobre gimnasia",
+      "answer_proposal": "C",
+      "reason": "La autora anima a practicar gimnasia destacando desafíos y beneficios, no técnicas detalladas ni superioridad frente a todo deporte.",
+      "context": "gym"
+    },
+    {
+      "question": 121,
+      "page": 34,
+      "topic": "Aprendizaje explícito de práctica deportiva",
+      "answer_proposal": "B",
+      "reason": "Los entrenadores enseñaron a establecer metas por escrito y enfocarse en realizarlas.",
+      "context": "gym"
+    },
+    {
+      "question": 122,
+      "page": 34,
+      "topic": "Beneficios para vida cotidiana",
+      "answer_proposal": "A",
+      "reason": "El texto vincula fortaleza y capacidad de afrontar actividades y retos diarios.",
+      "context": "gym"
+    },
+    {
+      "question": 123,
+      "page": 34,
+      "topic": "Sentido de expresión de confianza",
+      "answer_proposal": "A",
+      "reason": "I can do it implica confianza para alcanzar objetivos con trabajo y persistencia.",
+      "context": "gym"
+    },
+    {
+      "question": 124,
+      "page": 34,
+      "topic": "Recomendación inferida de entrenamiento y metas",
+      "answer_proposal": "C",
+      "reason": "Entrenar con constancia y registrar progreso y logros combina esfuerzo, tiempo dedicado y metas del texto.",
+      "context": "gym",
+      "alert": "Entrenamiento diario es formulación más específica que dedicar tiempo con constancia; C es mejor correspondencia entre opciones, no prescripción deportiva individual."
+    },
+    {
+      "question": 125,
+      "page": 35,
+      "topic": "Verbo frasal de crianza",
+      "answer_proposal": "B",
+      "reason": "Was brought up significa fue criada; las otras opciones no forman esa expresión.",
+      "context": "jamaica"
+    },
+    {
+      "question": 126,
+      "page": 35,
+      "topic": "Verbo frasal de trayectoria posterior",
+      "answer_proposal": "B",
+      "reason": "Went on to become expresa que después llegó a ser escritora reconocida.",
+      "context": "jamaica"
+    },
+    {
+      "question": 127,
+      "page": 35,
+      "topic": "Adverbio de grado",
+      "answer_proposal": "A",
+      "reason": "Slightly depressed es combinación natural para indicar grado de estado emocional.",
+      "context": "jamaica"
+    },
+    {
+      "question": 128,
+      "page": 35,
+      "topic": "Pasado perfecto en narración",
+      "answer_proposal": "D",
+      "reason": "By then she had begun requierehad+participio.",
+      "context": "jamaica"
+    },
+    {
+      "question": 129,
+      "page": 35,
+      "topic": "Vocabulario de aspiración",
+      "answer_proposal": "B",
+      "reason": "Ambition to be published expresa objetivo que ella dice no tener.",
+      "context": "jamaica"
+    },
+    {
+      "question": 130,
+      "page": 35,
+      "topic": "Conector concesivo",
+      "answer_proposal": "C",
+      "reason": "Although contrapone ausencia de objetivo y reconocimiento que ocurrió después.",
+      "context": "jamaica"
+    },
+    {
+      "question": 131,
+      "page": 35,
+      "topic": "Vocabulario de modo de escribir",
+      "answer_proposal": "D",
+      "reason": "Honest style of her writing se refiere al estilo de escritura.",
+      "context": "jamaica"
+    },
+    {
+      "question": 132,
+      "page": 35,
+      "topic": "Participio para relaciones que se forman",
+      "answer_proposal": "A",
+      "reason": "Relationships that are developed between mothers and daughters encaja con desarrollo de relaciones.",
+      "context": "jamaica"
+    },
+    {
+      "question": 133,
+      "page": 35,
+      "topic": "Nombre colectivo de ensayos",
+      "answer_proposal": "B",
+      "reason": "Collection of essays es la expresión apropiada para una recopilación.",
+      "context": "jamaica"
+    },
+    {
+      "question": 134,
+      "page": 35,
+      "topic": "Referencia temporal a obras anteriores",
+      "answer_proposal": "D",
+      "reason": "Previous works contrasta obras previas con publicación reciente;elderlyse aplica a personas.",
+      "context": "jamaica"
+    }
+  ]
+}

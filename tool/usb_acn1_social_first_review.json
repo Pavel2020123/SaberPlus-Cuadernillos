@@ -1,0 +1,105 @@
+{
+  "file_id": "USB-77cc8ac26d2c",
+  "date": "2026-10-29",
+  "area": "Sociales y ciudadanas",
+  "scope": "Preguntas59-64y68-72,paginasfisicas22,25-27 inspeccionadas visualmente.No inferir65-67aunno localizadas.Claves y competencias propuestas,no oficiales.",
+  "competency_legend": {
+    "P": "Pensamiento social",
+    "I": "Interpretacion y analisis de perspectivas",
+    "S": "Pensamiento reflexivo y sistemico"
+  },
+  "items": [
+    {
+      "question": 59,
+      "page": 27,
+      "topic": "Argumento a favor de voto obligatorio",
+      "competency_code": "I",
+      "answer_proposal": "B",
+      "reason": "Bapoya participacion y cultura politica;Adefiendeabstencion yCobjeta imposicion.",
+      "alert": "Dato60%esdelpasaje,no cifra electoral vigente."
+    },
+    {
+      "question": 60,
+      "page": 27,
+      "topic": "Concepto de desplazamiento forzado",
+      "competency_code": "P",
+      "answer_proposal": "D",
+      "reason": "Violencia y despojo obligan a abandonar territorio;desplazamiento forzado es concepto especifico."
+    },
+    {
+      "question": 61,
+      "page": 27,
+      "topic": "Referencia historica a toma de Palacio",
+      "competency_code": "P",
+      "answer_proposal": "D",
+      "reason": "Magistrados rehenes yPalaciodeJusticia remiten a1985,no embajada o espada."
+    },
+    {
+      "question": 62,
+      "page": 22,
+      "topic": "Culpabilizacion por condicion corporal",
+      "competency_code": "I",
+      "answer_proposal": "D",
+      "reason": "Declaracion reduce sobrepeso a conducta individual y puede promover culpa social.",
+      "alert": "No asumir que peso se explica solo por alimentacion o ejercicio."
+    },
+    {
+      "question": 63,
+      "page": 22,
+      "topic": "Microplasticos y ambiente sano",
+      "competency_code": "S",
+      "answer_proposal": "C",
+      "reason": "Fragmentacion que deja particulas contaminantes no resuelve riesgo para agua y alimentos."
+    },
+    {
+      "question": 64,
+      "page": 22,
+      "topic": "Supuesto de discurso antidiscriminacion",
+      "competency_code": "I",
+      "answer_proposal": "B",
+      "reason": "Critica a discriminacion racial presupone dignidad igual independientemente de color de piel."
+    },
+    {
+      "question": 68,
+      "page": 25,
+      "topic": "Ciudadania y organizacion territorial",
+      "competency_code": "S",
+      "answer_proposal": "B",
+      "reason": "Administracion transitoria internacional impediria constituir naciones independientes en alternativa propuesta.",
+      "alert": "Es valoracion dentro de modelo hipotetico,no prediccion ni respaldo de solucion actual al conflicto."
+    },
+    {
+      "question": 69,
+      "page": 25,
+      "topic": "Condiciones para replicar recuperacion de humedal",
+      "competency_code": "S",
+      "answer_proposal": "C",
+      "reason": "Acuerdo depende cooperacion comunitaria,Estado y organizaciones ambientales,no solo desalojo."
+    },
+    {
+      "question": 70,
+      "page": 26,
+      "topic": "Democracia y libertades publicas",
+      "competency_code": "P",
+      "answer_proposal": "B",
+      "reason": "Censura y restriccion de oposicion contradicen condiciones de gobierno democratico."
+    },
+    {
+      "question": 71,
+      "page": 26,
+      "topic": "Generalizacion desde casos de corrupcion",
+      "competency_code": "I",
+      "answer_proposal": "C",
+      "reason": "Muchos casos en varios paises no demuestran que todo politico deba ser corrupto."
+    },
+    {
+      "question": 72,
+      "page": 26,
+      "topic": "Perspectiva sobre subsidios",
+      "competency_code": "I",
+      "answer_proposal": "C",
+      "reason": "Politicos contrarios a subsidios verian menor autonomia y persistencia de pobreza;debe identificarse su perspectiva,no adoptarla."
+    }
+  ],
+  "next": "Localizar65-67y73enfisicas28-41.RestodeLectura yCienciasdisperso;no inferir faltantes."
+}

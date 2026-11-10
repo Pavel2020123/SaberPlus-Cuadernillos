@@ -1,0 +1,104 @@
+{
+  "file_id": "USB-77cc8ac26d2c",
+  "date": "2026-10-29",
+  "area": "Sociales y ciudadanas",
+  "scope": "Preguntas65-67y73-80enfisicas40,34,38,29 inspeccionadas visualmente.Propuestas no oficiales;66letras recortadas.",
+  "competency_legend": {
+    "P": "Pensamiento social",
+    "I": "Interpretacion y analisis de perspectivas",
+    "S": "Pensamiento reflexivo y sistemico"
+  },
+  "items": [
+    {
+      "question": 65,
+      "page": 40,
+      "topic": "Supremacia constitucional y laicidad",
+      "competency_code": "P",
+      "answer_proposal": "B",
+      "reason": "Una ley no puede contrariar Constitucion que exige Estado sin religion oficial segun pasaje."
+    },
+    {
+      "question": 66,
+      "page": 40,
+      "topic": "Afinidad entre propuestas educativas",
+      "competency_code": "I",
+      "answer_proposal": "A",
+      "reason": "Profesores y rectores proponen optimizar recursos para materiales:destinar multas y compra colectiva.",
+      "alert": "Letras de opciones recortadas;Acorresponde a primera alternativa visible.No se demuestra que toda compra colectiva use fondos publicos."
+    },
+    {
+      "question": 67,
+      "page": 40,
+      "topic": "Identificacion de rol de liderazgo",
+      "competency_code": "I",
+      "answer_proposal": "C",
+      "reason": "Codigos nucleares,fuerzas armadas y servicio publico describen presidencia."
+    },
+    {
+      "question": 73,
+      "page": 34,
+      "topic": "Limite constitucional a pena de muerte",
+      "competency_code": "P",
+      "answer_proposal": "C",
+      "reason": "La Constitucion prohibe pena de muerte en supuesto del ejercicio;alcalde no puede volverla ley por utilidad."
+    },
+    {
+      "question": 74,
+      "page": 34,
+      "topic": "Condicion para replicar programa rural",
+      "competency_code": "S",
+      "answer_proposal": "B",
+      "reason": "Transporte de docentes y estudiantes requiere carreteras veredales e intermunicipales en buen estado."
+    },
+    {
+      "question": 75,
+      "page": 34,
+      "topic": "Diversidad etnica y cultural",
+      "competency_code": "P",
+      "answer_proposal": "A",
+      "reason": "Imponer corte que niega cabello afro desconoce identidad cultural,no autonomia ilimitada de colegio."
+    },
+    {
+      "question": 76,
+      "page": 38,
+      "topic": "Alcance de fuente sobre huelga bananera",
+      "competency_code": "I",
+      "answer_proposal": "A",
+      "reason": "El fragmento es interpretacion de observador,no testimonio directo de objetivos de obreros;no permite atribuirles instaurar socialismo."
+    },
+    {
+      "question": 77,
+      "page": 38,
+      "topic": "Dimensiones de conflicto pesquero",
+      "competency_code": "S",
+      "answer_proposal": "A",
+      "reason": "Perdidas y competencia son economia;descarte de especies y extincion,ambiente."
+    },
+    {
+      "question": 78,
+      "page": 38,
+      "topic": "Concepto de descenso poblacional",
+      "competency_code": "P",
+      "answer_proposal": "B",
+      "reason": "Menorfertilidad,casasvacias yescasez de alumnos indican descenso demografico."
+    },
+    {
+      "question": 79,
+      "page": 29,
+      "topic": "Perspectivas sobre patente animal",
+      "competency_code": "I",
+      "answer_proposal": "B",
+      "reason": "Personas con cancer y presidenta universitaria ven beneficio de investigacion;defensores yestudiantes objetan."
+    },
+    {
+      "question": 80,
+      "page": 29,
+      "topic": "Consecuencias de transicion energetica",
+      "competency_code": "S",
+      "answer_proposal": "C",
+      "reason": "Industrias fosiles tendrian que adaptarse ante expansion solar para reducir perdidas.",
+      "alert": "Es consecuencia probable del escenario,no garantia economica ni noticia vigente."
+    }
+  ],
+  "next": "Sociales59-80documentada;restaCiencias81-106ylotes de cotejo."
+}

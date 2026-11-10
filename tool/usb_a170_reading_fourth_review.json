@@ -1,0 +1,95 @@
+{
+  "file_id": "USB-a170782eadcb",
+  "date": "2026-10-30",
+  "area": "Lectura crítica",
+  "scope": "Física10(impresas18-19)inspeccionada visualmente,contextos completos ypreguntas49-55. No coincidencias exactas verificadas en fichas previas.",
+  "contexts": [
+    {
+      "id": "heidegger",
+      "page": 10,
+      "title": "Heidegger tiene la culpa",
+      "description": "Columna de opinión atribuida aWasserman2019sobre claridad,responsabilidad del filósofo yconducta;impresa18."
+    },
+    {
+      "id": "escritores",
+      "page": 10,
+      "title": "Cuando los escritores hablan",
+      "description": "Krystal2009,Nabokov,preparación de respuestas ypensamiento creado al escribir;impresas18-19."
+    }
+  ],
+  "items": [
+    {
+      "question": 49,
+      "page": 10,
+      "printed_page": 18,
+      "context": "heidegger",
+      "topic": "Función de transición argumentativa",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "D",
+      "reason": "La frase anuncia otro rasgo que el autor usará para apoyar su crítica deHeidegger:conducta frente aHusserlyrelación con nazismo.",
+      "alert": "Se analiza función en columna de opinión,no se valida sin contraste cada afirmación histórica."
+    },
+    {
+      "question": 50,
+      "page": 10,
+      "printed_page": 18,
+      "context": "heidegger",
+      "topic": "Ejemplo de una generalización",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "D",
+      "reason": "QueRussellni lo mencione ejemplifica poca estima de filósofos seriosdel sigloXX;2apoya1."
+    },
+    {
+      "question": 51,
+      "page": 10,
+      "printed_page": 19,
+      "context": "escritores",
+      "topic": "Referencia de cuantificador en contexto",
+      "competency_proposal": "Identifica y entiende los contenidos locales que conforman un texto",
+      "answer_proposal": "C",
+      "reason": "El autor se incluye al decir parezco;mayoría alude a muchos escritores,incluyéndolo.",
+      "alert": "Mayoría significa más de la mitad,no simplementemuchos;C es la alternativa compatible con inclusión."
+    },
+    {
+      "question": 52,
+      "page": 10,
+      "printed_page": 19,
+      "context": "escritores",
+      "topic": "Síntesis de párrafo",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "B",
+      "reason": "El párrafo afirma que escribir produce ideas inteligentes que no habrían surgido ni sido pronunciadas en conversación.",
+      "alert": "No se infiere que absolutamente todas las ideas inteligentes del autor solo surjan escribiendo."
+    },
+    {
+      "question": 53,
+      "page": 10,
+      "printed_page": 19,
+      "context": "escritores",
+      "topic": "Distinción entre autor yobra",
+      "competency_proposal": "Identifica y entiende los contenidos locales que conforman un texto",
+      "answer_proposal": "C",
+      "reason": "Lolita es título de obra;Hazlitt,Poe yMontaigne son autores mencionados."
+    },
+    {
+      "question": 54,
+      "page": 10,
+      "printed_page": 19,
+      "context": "escritores",
+      "topic": "Estrategia de introducción yrevisión de impresión",
+      "competency_proposal": "Reflexiona a partir de un texto y evalúa su contenido",
+      "answer_proposal": "C",
+      "reason": "Empieza con aparente decepción porNabokovleyendo respuestas,yluego explica por qué no se exige brillante conversación al escritor."
+    },
+    {
+      "question": 55,
+      "page": 10,
+      "printed_page": 19,
+      "context": "escritores",
+      "topic": "Contexto de circulación pertinente",
+      "competency_proposal": "Reflexiona a partir de un texto y evalúa su contenido",
+      "answer_proposal": "D",
+      "reason": "El ensayo reflexiona sobre escritura,pensamiento yconversación para lectores interesados en literatura;no estudio académico limitado aNabokov."
+    }
+  ]
+}

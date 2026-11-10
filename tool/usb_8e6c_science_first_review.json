@@ -1,0 +1,34 @@
+{
+  "file_id": "USB-8e6cf8399239",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Preguntas92-94 en físicas30-31 inspeccionadas visualmente, incluidos modelos y gráficas.",
+  "items": [
+    {
+      "question": 92,
+      "page": 30,
+      "topic": "Orientación del agua en hidratación iónica",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "B",
+      "reason": "El oxígeno de carga parcial negativa se orienta hacia K+; los hidrógenos de carga parcial positiva hacia Cl-."
+    },
+    {
+      "question": 93,
+      "page": 30,
+      "topic": "Uso de aminoácidos en síntesis proteica",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "D",
+      "reason": "Los aminoácidos se incorporan a cadenas polipeptídicas en traducción, no al ADN ni al procesamiento/transcripción de ARN.",
+      "alert": "La tripsina es una endopeptidasa: el texto simplifica al atribuirle directamente producción de aminoácidos; en digestión completa participan otras peptidasas."
+    },
+    {
+      "question": 94,
+      "page": 31,
+      "topic": "Patrón gráfico que apoya hipótesis experimental",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "D",
+      "reason": "D muestra la curva de calcio (cuadrados) más alta que control y sodio, acorde con la hipótesis de mayor crecimiento.",
+      "alert": "La altura apoya el patrón comparativo; no prueba por sí sola mecanismo de paredes celulares ni permite establecer significancia sin replicación/variabilidad."
+    }
+  ]
+}

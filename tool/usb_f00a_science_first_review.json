@@ -1,0 +1,72 @@
+{
+  "file_id": "USB-f00a52c8b6f2",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Preguntas51-56,físicas17-18inspeccionadas visualmente, modelos y contexto completo de fracking.",
+  "contexts": [
+    {
+      "id": "fracking",
+      "page": 18,
+      "title": "Fracking y extracción",
+      "description": "Perforación y fisuras,porcentaje de producción2000-2016y posibles impactos ambientales; preguntas54-56."
+    }
+  ],
+  "items": [
+    {
+      "question": 51,
+      "page": 17,
+      "topic": "Ósmosis y regulación en peces",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "C",
+      "reason": "En mar el gradiente favorece salida de agua celular, en río entrada; el pez debe limitar ambos efectos para evitar deshidratación o exceso.",
+      "alert": "Modelo celular simplificado; regulación del pez completo incluye branquias,riñones y equilibrio de sales."
+    },
+    {
+      "question": 52,
+      "page": 17,
+      "topic": "Transporte contra gradiente con ATP",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "A",
+      "reason": "El esquema muestraATPconvertido enADPal transportar hacia lado de mayor concentración:transporte activo."
+    },
+    {
+      "question": 53,
+      "page": 17,
+      "topic": "Entrada de energía en red trófica",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "B",
+      "reason": "Los productores transforman energía solar en energía química de biomasa disponible para consumidores.",
+      "alert": "Materia puede reciclarse; energía no aumenta ni circula íntegramente por todos los niveles. El dibujo no cuantifica eficiencias."
+    },
+    {
+      "question": 54,
+      "page": 18,
+      "topic": "Explicación posible de contaminación de lago",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "D",
+      "reason": "Filtración de petróleo por presión y conexión al lago es mecanismo compatible; las otras opciones proponen convertir agua en petróleo.",
+      "context": "fracking",
+      "alert": "Hipótesis causal posible, no demostración de origen de contaminación sin mediciones y trazabilidad."
+    },
+    {
+      "question": 55,
+      "page": 18,
+      "topic": "Interpretación de cambio en fuentes de extracción",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "B",
+      "reason": "La proporción de fracking crece y la de otras técnicas baja; agotamiento de reservas accesibles por otras vías es explicación posible entre opciones.",
+      "context": "fracking",
+      "alert": "Gráfico de porcentajes no demuestra agotamiento ni volumen absoluto extraído. Bno es causalidad probada por la serie."
+    },
+    {
+      "question": 56,
+      "page": 18,
+      "topic": "Caída libre y tiempo de aceleración",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "A",
+      "reason": "Mayor profundidad permite mayor tiempo de aceleración gravitacional en el modelo de caída libre; la velocidad aumenta.",
+      "context": "fracking",
+      "alert": "Supone caída sin rozamiento significativo y velocidad inicial comparable. No es porque la gravedad aumente apreciablemente con profundidad; longitud por velocidad requiere modelo cinemático."
+    }
+  ]
+}

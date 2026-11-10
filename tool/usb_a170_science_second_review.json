@@ -1,0 +1,69 @@
+{
+  "file_id": "USB-a170782eadcb",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Física18(impresas34-35)inspeccionada visualmente,preguntas95-99. Sin coincidencias exactas verificadas en registros previos.",
+  "contexts": [
+    {
+      "id": "vacuna",
+      "page": 18,
+      "title": "Estudios de una vacuna",
+      "description": "Tablas estabilizantes/tensioactivos yvoluntarios/concentración;95-97. Física18incluye ambas páginas."
+    }
+  ],
+  "items": [
+    {
+      "question": 95,
+      "page": 18,
+      "printed_page": 34,
+      "topic": "Correspondencia entre tabla ygráfico de doble eje",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "B",
+      "reason": "Brepresenta voluntarios15,200,1800en barras yconcentración0,3;0,1;0,1en línea con ejes correctos.",
+      "alert": "No usar tamaño del número en un eje para interpretar otra variable.",
+      "context": "vacuna"
+    },
+    {
+      "question": 96,
+      "page": 18,
+      "printed_page": 35,
+      "topic": "Prevención poblacional de contagio",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "C",
+      "reason": "Entre opciones,vacunar amayor parte de población reduce susceptibles yriesgo de transmisión según modelo del ejercicio.",
+      "alert": "Supone vacuna adecuada para enfermedad yefecto preventivo;no cualquier vacuna evita todo contagio ni sustituye valoración sanitaria.",
+      "context": "vacuna"
+    },
+    {
+      "question": 97,
+      "page": 18,
+      "printed_page": 35,
+      "topic": "Separación de líquidos inmiscibles",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "C",
+      "reason": "La sustancia3no tiene tensioactivos yel dibujo muestra fases separadas;decantación aprovecha diferencia de densidades de líquidos inmiscibles.",
+      "alert": "Ausencia de tensioactivo no siempre garantiza separación visible;se combina con observación del modelo.",
+      "context": "vacuna"
+    },
+    {
+      "question": 98,
+      "page": 18,
+      "printed_page": 35,
+      "topic": "Predicción en modelo de estimulación neural",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "B",
+      "reason": "El texto plantea que compuesto estimula receptores simulando serotonina;sumado aniveles normales,el modelo predice alteración de conducta.",
+      "alert": "Modelo simplificado eimpreciso de serotonina/psilocibina,no predicción clínica válida ni indicación deconsumo. Resultados abaja concentración no demuestran efecto en personas conniveles normales."
+    },
+    {
+      "question": 99,
+      "page": 18,
+      "printed_page": 35,
+      "topic": "Estado de oxidación en modelo atómico",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "A",
+      "reason": "Elberilio aislado tiene4electrones ymodelo enlazado2;perder2corresponde a2+.",
+      "alert": "Representación iónica simplificada;estado de oxidación no equivale siempre acarga real en enlace covalente."
+    }
+  ]
+}

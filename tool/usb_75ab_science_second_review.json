@@ -1,0 +1,95 @@
+{
+  "file_id": "USB-75abccb84c15",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Físicas20-21inspeccionadas completas ycomparadas conAAK2físicas20-21.54-56contexto gráfico variante conservado;57-59referencias exactas. No clave oficial.",
+  "contexts": [
+    {
+      "id": "eolica",
+      "page": 20,
+      "title": "Radiación,viento ypotencia eólica",
+      "description": "AAR2CaboVela≈3000máximo,Valledupar≈500mínimo;AAK2CaboVela≈300mínimo ySanAndrésmáximo. No consolidar bloque por compartir texto.",
+      "alert": "Eje potencia porárea rotulado kW/m² ytextoenergía anual presentan problemas deunidades yenergía/potencia;no validar cifras físicas ni ubicación costera deValledupar."
+    }
+  ],
+  "items": [
+    {
+      "question": 54,
+      "page": 20,
+      "printed_page": 20,
+      "context": "eolica",
+      "topic": "Variables complementarias para estimación depotencia yenergía",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "A",
+      "reason": "Área devientos permite pasar dedensidad depotencia apotencia total entrelas opciones.",
+      "alert": "Paraenergía también serequiere duración;gráfica depotencia no esenergía anual por sísola. Variante decontexto gráfico respectoAAK2.",
+      "related_file_id": "USB-45e476387c60",
+      "related_question": 54,
+      "related_page": 20
+    },
+    {
+      "question": 55,
+      "page": 20,
+      "printed_page": 20,
+      "context": "eolica",
+      "topic": "Comparación deextremos engráfica",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "B",
+      "reason": "Cabo delaVela tiene labarra mayor yValledupar lamenor;lasotras regiones quedan entreellas.",
+      "alert": "EnAAK2lagráfica invierte elpapel deCaboVela ysu clave esBconotra redacción;no heredar razonamiento ni gráfica.",
+      "related_file_id": "USB-45e476387c60",
+      "related_question": 55,
+      "related_page": 20
+    },
+    {
+      "question": 56,
+      "page": 20,
+      "printed_page": 20,
+      "context": "eolica",
+      "topic": "Origen térmico ybarométrico delviento",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "C",
+      "reason": "Calentamiento desigual porradiación solar genera diferencias detemperatura ypresión que impulsan movimiento atmosférico.",
+      "alert": "Texto y opciones relacionados conAAK2pero se conserva contexto gráfico variante,no duplicado exacto delbloque.",
+      "related_file_id": "USB-45e476387c60",
+      "related_question": 56,
+      "related_page": 20
+    }
+  ],
+  "duplicate_occurrences": [
+    {
+      "question": 57,
+      "page": 21,
+      "printed_page": 21,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 57,
+      "canonical_page": 21,
+      "exact_content": true,
+      "verification": "Cotejo visual directo detabla0,4/42;0,7/72;1,4/88;3/60,cuatro gráficas,caso decompetencia yconfiguración electrónica,fósforo,y opciones. Igualcontenido salvo orientación,maquetación ycódigo.",
+      "observed_annotation": "Sin opción seleccionada inequívoca."
+    },
+    {
+      "question": 58,
+      "page": 21,
+      "printed_page": 21,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 58,
+      "canonical_page": 21,
+      "exact_content": true,
+      "verification": "Cotejo visual directo detabla0,4/42;0,7/72;1,4/88;3/60,cuatro gráficas,caso decompetencia yconfiguración electrónica,fósforo,y opciones. Igualcontenido salvo orientación,maquetación ycódigo.",
+      "observed_annotation": "Sin opción seleccionada inequívoca."
+    },
+    {
+      "question": 59,
+      "page": 21,
+      "printed_page": 21,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 59,
+      "canonical_page": 21,
+      "exact_content": true,
+      "verification": "Cotejo visual directo detabla0,4/42;0,7/72;1,4/88;3/60,cuatro gráficas,caso decompetencia yconfiguración electrónica,fósforo,y opciones. Igualcontenido salvo orientación,maquetación ycódigo.",
+      "observed_annotation": "Sin opción seleccionada inequívoca."
+    }
+  ],
+  "next": "Física22,60en adelante."
+}

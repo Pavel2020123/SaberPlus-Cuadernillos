@@ -1,0 +1,132 @@
+{
+  "file_id": "USB-d4e43db6988a",
+  "date": "2026-10-30",
+  "area": "Lectura critica",
+  "scope": "Preguntas26-33,físicas10-12,lecturas y opciones inspeccionadas visualmente.Marcasamarillas de origen desconocido.Propuestas no oficiales.",
+  "competency_legend": {
+    "L": "Identificar y entender los contenidos locales que conforman un texto",
+    "G": "Comprender cómo se articulan las partes de un texto para darle un sentido global",
+    "R": "Reflexionar a partir de un texto y evaluar su contenido"
+  },
+  "contexts": [
+    {
+      "id": "epicuro",
+      "title": "El placer y el dolor en el epicureísmo",
+      "pages": [
+        10,
+        11
+      ],
+      "description": "Fragmento atribuido a Cifuentes,2021;sensaciones y criterios de buena vida."
+    },
+    {
+      "id": "sofistas",
+      "title": "Texto sobre los sofistas",
+      "pages": [
+        12
+      ],
+      "description": "Fragmento atribuido a DalMaschio;persuasión y verdad."
+    },
+    {
+      "id": "etica",
+      "title": "Ética para Amador (fragmento)",
+      "pages": [
+        12
+      ],
+      "description": "Fragmento atribuido a Savater;vida humana y relaciones."
+    }
+  ],
+  "items": [
+    {
+      "question": 26,
+      "page": 10,
+      "topic": "Paráfrasis de dos razones complementarias",
+      "competency_code": "G",
+      "answer_proposal": "D",
+      "reason": "El párrafo presenta búsqueda instintiva de placer/rechazo de dolor y sentimientos como criterios de decisión.",
+      "context": "epicuro",
+      "observed_highlight": "D"
+    },
+    {
+      "question": 27,
+      "page": 10,
+      "topic": "Relación entre enunciado y desarrollo",
+      "competency_code": "G",
+      "answer_proposal": "D",
+      "reason": "El segundo precisa en qué consiste la buena vida e introduce placer/dolor,ampliando finalidad ética del primero.",
+      "context": "epicuro",
+      "observed_highlight": "D"
+    },
+    {
+      "question": 28,
+      "page": 11,
+      "topic": "Sustento de tesis ética",
+      "competency_code": "R",
+      "answer_proposal": "A",
+      "reason": "El fragmento fundamenta realidad del placer y dolor como criterios efectivos de nuestras decisiones,que respalda su papel en orientar acción.",
+      "context": "epicuro",
+      "observed_highlight": "A"
+    },
+    {
+      "question": 29,
+      "page": 11,
+      "topic": "Comparación de perspectivas",
+      "competency_code": "R",
+      "answer_proposal": "A",
+      "reason": "La referencia a experiencias agradables/desagradables que moldean comportamiento es la más afín al papel orientador del placer/dolor.",
+      "context": "epicuro",
+      "observed_highlight": "A"
+    },
+    {
+      "question": 30,
+      "page": 11,
+      "topic": "Intención de pregunta retórica",
+      "competency_code": "G",
+      "answer_proposal": "C",
+      "reason": "La pregunta sobre dolor de un golpe refuerza que no se puede dudar de la sensación descrita.",
+      "context": "epicuro",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 31,
+      "page": 12,
+      "topic": "Supuesto de oposición entre teoría y práctica",
+      "competency_code": "R",
+      "answer_proposal": "A",
+      "reason": "Contraponer descubrir verdad a aprender técnicas útiles para persuadir presupone que buscar verdad no es fin práctico.",
+      "context": "sofistas",
+      "observed_highlight": "A",
+      "related_file_id": "USB-04dc5257ed8b",
+      "related_question": 41,
+      "related_page": 15,
+      "variant_comparison": "Contexto,enunciado y opciones cotejados visualmente;diferente numeración,escaneo y marcas.Se conservan ambos."
+    },
+    {
+      "question": 32,
+      "page": 12,
+      "topic": "Evaluación de inferencia entre tesis filosóficas",
+      "competency_code": "R",
+      "answer_proposal": "B",
+      "reason": "Que una valoración dependa de perspectiva/cultura no prueba inexistencia de todo;relativismo no implica nihilismo ontológico.",
+      "context": "sofistas",
+      "observed_highlight": "B",
+      "related_file_id": "USB-04dc5257ed8b",
+      "related_question": 42,
+      "related_page": 15,
+      "variant_comparison": "Contexto,enunciado y opciones cotejados visualmente;diferente numeración,escaneo y marcas.Se conservan ambos."
+    },
+    {
+      "question": 33,
+      "page": 12,
+      "topic": "Significado contextual",
+      "competency_code": "L",
+      "answer_proposal": "B",
+      "reason": "Deslumbrar mediante dinero y posesiones significa impresionar a otros en el fragmento.",
+      "context": "etica",
+      "observed_highlight": "B",
+      "related_file_id": "USB-04dc5257ed8b",
+      "related_question": 43,
+      "related_page": 15,
+      "variant_comparison": "Contexto,enunciado y opciones cotejados visualmente;diferente numeración,escaneo y marcas.Se conservan ambos."
+    }
+  ]
+}

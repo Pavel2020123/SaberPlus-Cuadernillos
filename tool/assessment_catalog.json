@@ -1,0 +1,79 @@
+{
+  "id": "icfes-guia-2026-2",
+  "source": "17-marzo-guia-de-orientacion-saber-11-2026-2.pdf",
+  "scope": "Catálogo inicial. Evidencias parciales: solo las transcritas y vinculadas aquí. No contiene rangos de niveles ni conversiones de puntajes.",
+  "areas": {
+    "mathematics": {
+      "label": "Matemáticas", "pages": "30-38",
+      "competencies": {
+        "interpretation": {"label": "Interpretación y representación", "claims": ["1"]},
+        "execution": {"label": "Formulación y ejecución", "claims": ["2"]},
+        "argumentation": {"label": "Argumentación", "claims": ["3"]}
+      },
+      "claims": {
+        "1": {"label": "Comprende y transforma información cuantitativa y esquemática", "evidence": ["1.1", "1.2"]},
+        "2": {"label": "Plantea e implementa estrategias de solución", "evidence": ["2.1", "2.2", "2.3"]},
+        "3": {"label": "Valida procedimientos y estrategias matemáticas", "evidence": ["3.1", "3.2", "3.3"]}
+      }
+    },
+    "reading": {
+      "label": "Lectura crítica", "pages": "39-45",
+      "competencies": {"reading": {"label": "Competencia lectora", "claims": ["1", "2", "3"]}},
+      "processes": {
+        "local": {"label": "Identificar y ubicar información local", "claim": "1"},
+        "relational": {"label": "Relacionar e interpretar información", "claim": "2"},
+        "critical": {"label": "Evaluar y reflexionar sobre la forma y el contenido de los textos", "claim": "3"}
+      },
+      "claims": {
+        "1": {"label": "Identifica y entiende los contenidos locales de un texto", "evidence": ["1.1", "1.2"]},
+        "2": {"label": "Comprende la articulación global de un texto", "evidence": ["2.1", "2.2", "2.3", "2.4", "2.5"]},
+        "3": {"label": "Reflexiona a partir de un texto y evalúa su contenido", "evidence": ["3.1", "3.2", "3.3", "3.4", "3.5"]}
+      }
+    },
+    "social": {
+      "label": "Sociales y ciudadanas", "pages": "46-53",
+      "competencies": {
+        "social_thinking": {"label": "Pensamiento social", "claims": ["1", "2"]},
+        "perspectives": {"label": "Interpretación y análisis de perspectivas", "claims": ["3", "4"]},
+        "systems": {"label": "Pensamiento reflexivo y sistémico", "claims": ["5", "6"]}
+      },
+      "claims": {
+        "1": {"label": "Comprende modelos conceptuales y contextos de aplicación", "evidence": ["1.1", "1.2", "1.3", "1.4"]},
+        "2": {"label": "Comprende dimensiones espaciales y temporales", "evidence": ["2.1", "2.2", "2.3"]},
+        "3": {"label": "Contextualiza y evalúa fuentes y argumentos", "evidence": ["3.1", "3.2", "3.3"]},
+        "4": {"label": "Comprende perspectivas de actores y grupos", "evidence": ["4.1", "4.2", "4.3"]},
+        "5": {"label": "Evalúa usos sociales de las ciencias sociales", "evidence": ["5.1"]},
+        "6": {"label": "Comprende dimensiones de problemas y soluciones", "evidence": ["6.1", "6.2"]}
+      }
+    },
+    "science": {
+      "label": "Ciencias naturales", "pages": "54-62",
+      "competencies": {
+        "explanation": {"label": "Explicación de fenómenos", "claims": ["1", "2", "3"]},
+        "knowledge": {"label": "Uso comprensivo del conocimiento científico", "claims": ["4", "5"]},
+        "inquiry": {"label": "Indagación", "claims": ["6", "7", "8", "9"]}
+      },
+      "components": {"biological": "Biológico", "physical": "Físico", "chemical": "Químico", "cts": "CTS"},
+      "claims": {
+        "1": {"label": "Analiza usos de recursos y tecnologías y sus efectos", "evidence": []},
+        "2": {"label": "Explica fenómenos de la naturaleza", "evidence": []},
+        "3": {"label": "Modela fenómenos de la naturaleza", "evidence": []},
+        "4": {"label": "Asocia fenómenos con conceptos científicos", "evidence": []},
+        "5": {"label": "Identifica características de fenómenos naturales", "evidence": []},
+        "6": {"label": "Comprende la construcción de explicaciones mediante investigación", "evidence": ["6.1", "6.2"]},
+        "7": {"label": "Deriva conclusiones sustentadas en conocimiento y evidencia", "evidence": ["7.1", "7.2", "7.3", "7.4"]},
+        "8": {"label": "Observa y relaciona patrones en los datos", "evidence": ["8.1", "8.2"]},
+        "9": {"label": "Usa habilidades para evaluar predicciones", "evidence": ["9.1", "9.2", "9.3", "9.4", "9.5"]}
+      }
+    },
+    "english": {
+      "label": "Inglés", "pages": "63-65",
+      "competencies": {"communication": {"label": "Competencia para comunicarse efectivamente en inglés", "claims": []}},
+      "claims": {},
+      "parts": {
+        "1": "Conocimiento lexical", "2": "Conocimiento pragmático", "3": "Conocimiento comunicativo",
+        "4": "Conocimiento gramatical", "5": "Comprensión de lectura literal", "6": "Lectura inferencial", "7": "Conocimiento gramatical y lexical"
+      }
+    }
+  }
+}

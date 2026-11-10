@@ -1,0 +1,134 @@
+{
+  "file_id": "USB-1c6462bf5377",
+  "date": "2026-10-30",
+  "area": "Lectura crítica",
+  "scope": "Físicas21-23 impresas19-21,textos íntegros y opciones49-57inspeccionados visualmente en orientación legible. Nueve fichas propias. Contexto horóscopos relacionado conCóndorAndino pero preguntas distintas:no consolidar por texto compartido. No certifica unicidad global ni validación docente.",
+  "contexts": [
+    {
+      "id": "horoscopo",
+      "title": "Horoscopeando",
+      "pages": [
+        21,
+        22
+      ],
+      "description": "Columna crítica atribuida aWasserman2016. Comparte contexto conUSB-d4e43db6988a preguntas52-53,pero aquí49-50preguntan ironía yfunción deForer;no son los mismos ítems.",
+      "alert": "Las afirmaciones sobre signos ypredicciones son las del autor,no validación independiente del auditor."
+    },
+    {
+      "id": "insectos",
+      "title": "¿Qué es un insecto?",
+      "page": 22,
+      "description": "Definición,adaptación,artrópodos ymetamorfosis. Fuente impresaEnciclopediaVisualSeresVivos1995.",
+      "alert": "El juicio criaturas más logradas es una valoración divulgativa,no jerarquía científica demostrada. Seis patas refiere plan corporal de insectos,no necesariamente todas las fases larvarias descritas."
+    },
+    {
+      "id": "epicuro",
+      "title": "El placer y el dolor en el epicureísmo",
+      "page": 23,
+      "description": "Argumento sobre buena vida,placer/dolor,instinto y sentimientos como criterios. Fuente impresaCifuentes2021.",
+      "alert": "Análisis de comprensión según fragmento,no equivalencia doctrinal integral entreEpicuro ySkinner."
+    }
+  ],
+  "items": [
+    {
+      "question": 49,
+      "page": 21,
+      "printed_page": 19,
+      "context": "horoscopo",
+      "topic": "Voz del autor e ironía",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "A",
+      "reason": "La exclamación pertenece al autor,quien ironiza sobre el descrédito que supondría para astrólogos cambiar signos y predicciones;no es voz citada de astrólogos ni detractores.",
+      "related_file_id": "USB-d4e43db6988a",
+      "related_question": 52,
+      "related_page": 19,
+      "alert": "Solo contexto relacionado;enunciados y opciones diferentes. Conservar como pregunta nueva."
+    },
+    {
+      "question": 50,
+      "page": 22,
+      "printed_page": 20,
+      "context": "horoscopo",
+      "topic": "Función argumentativa de ejemplo experimental",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "A",
+      "reason": "El experimento deForer ilustra la aceptación de descripciones generales como personales y permite explicar cómo persuaden los horóscopos. No critica el rigor de toda psicología.",
+      "related_file_id": "USB-d4e43db6988a",
+      "related_question": 53,
+      "related_page": 19,
+      "alert": "Solo contexto relacionado;enunciados y opciones diferentes. Conservar como pregunta nueva."
+    },
+    {
+      "question": 51,
+      "page": 22,
+      "printed_page": 20,
+      "context": "insectos",
+      "topic": "Definición explícita de invertebrado",
+      "competency_proposal": "Identifica y entiende los contenidos locales que conforman un texto",
+      "answer_proposal": "C",
+      "reason": "El texto explica invertebrados como animales sin espina dorsal;las patas articuladas o exoesqueleto caracterizan al grupo más específico de artrópodos."
+    },
+    {
+      "question": 52,
+      "page": 22,
+      "printed_page": 20,
+      "context": "insectos",
+      "topic": "Sentido contextual de valoración comparativa",
+      "competency_proposal": "Identifica y entiende los contenidos locales que conforman un texto",
+      "answer_proposal": "C",
+      "reason": "Más logradas se desarrolla mediante adaptación y supervivencia en numerosos ambientes,no por tamaño,número de patas o mera presencia dequitina."
+    },
+    {
+      "question": 53,
+      "page": 22,
+      "printed_page": 20,
+      "context": "insectos",
+      "topic": "Inferencia de diferencia entre grupos",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "B",
+      "reason": "Si seis patas distinguen insectos de otros artrópodos,se infiere que existen artrópodos con otra cantidad. No se infiere que todos sean insectos ni que insectos tengan más de seis patas."
+    },
+    {
+      "question": 54,
+      "page": 23,
+      "printed_page": 21,
+      "context": "epicuro",
+      "topic": "Paráfrasis de razones complementarias",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "D",
+      "reason": "D conserva tanto la búsqueda instintiva de placer y rechazo del dolor como el papel de esos sentimientos en la decisión;las otras opciones separan formas devida o niegan placer/dolor."
+    },
+    {
+      "question": 55,
+      "page": 23,
+      "printed_page": 21,
+      "context": "epicuro",
+      "topic": "Función de pregunta retórica",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "C",
+      "reason": "La pregunta retórica sostiene que la sensación efectivamente experimentada no puede negarse como sensación. No ordena escapar ni afirma dolores inventados."
+    },
+    {
+      "question": 56,
+      "page": 23,
+      "printed_page": 21,
+      "context": "epicuro",
+      "topic": "Relación entre planteamiento general y especificación",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "D",
+      "reason": "El segundo enunciado concreta qué entiende el epicureísmo por buena vida y su finalidad;amplía el primero,no lo refuta ni lo sintetiza."
+    },
+    {
+      "question": 57,
+      "page": 23,
+      "printed_page": 21,
+      "context": "epicuro",
+      "topic": "Comparación de perspectiva sobre decisiones",
+      "competency_proposal": "Reflexiona a partir de un texto y evalúa su contenido",
+      "answer_proposal": "A",
+      "reason": "La formulación deSkinner vincula conducta con consecuencias agradables y desagradables,como el fragmento vincula elección con placer y evitación del dolor. Bsolo compara capacidad de sentir entre especies;Kant plantea otra fundamentación.",
+      "alert": "Aes semejanza funcional más pertinente entre opciones,no identidad entre ética epicúrea yteoría conductual."
+    }
+  ],
+  "next": "Física24renderizada pero aún no inspeccionada visualmente;verificar58en adelante."
+}

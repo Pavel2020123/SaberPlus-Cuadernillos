@@ -1,0 +1,39 @@
+{
+  "file_id": "USB-f00a52c8b6f2",
+  "date": "2026-10-30",
+  "area": "Estructura documental",
+  "scope": "36páginas inspeccionadas visualmente. Todos147enunciados presentes documentados inicialmente;no validación docente ni cotejo exhaustivo.",
+  "items": [],
+  "metadata": {
+    "cover": "Puente de Boyacá,2025-1,SegundaSesión,ABR2,147preguntas,4h30min.",
+    "calendar": "No confirmado explícitamente",
+    "present_questions": 147,
+    "academic_questions": 134,
+    "excluded_self_reports": 13,
+    "missing_numbers": [],
+    "page_map": {
+      "1": "portada",
+      "36": "Autoinformes135-147yFIN",
+      "2-8": "Sociales1-25",
+      "9-16": "Matemáticas26-50",
+      "17-27": "Ciencias51-79",
+      "28-35": "Inglés80-134"
+    },
+    "unresolved_questions": [
+      10
+    ],
+    "conditional_alerts": [
+      28,
+      45,
+      57,
+      58,
+      61,
+      64,
+      74,
+      76,
+      79
+    ],
+    "comparison": "Cinco pares80-84conTatacoa:misma descripción,opcionesD/E/Freordenadas. No eliminar diferencias.",
+    "collection_complete": false
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "file_id": "USB-45e476387c60",
+  "date": "2026-10-30",
+  "area": "Inglés",
+  "scope": "Físicas 34-36 inspeccionadas completas. Físicas 34 y 35 contienen repetida la impresa33, preguntas105-112, sin diferencia de contenido; se registra una sola ficha por pregunta. Física36 impresa34: lectura113-119. No validar datos históricos/turísticos como información actual.",
+  "contexts": [
+    {
+      "id": "picasso",
+      "pages": [
+        34,
+        35
+      ],
+      "title": "A Picasso Painting",
+      "format": "Texto con espacios A-C",
+      "description": "Pintura de grupo de ballet realizada en 1919, venta con cargo adicional del 21 % y hallazgo en armario durante cincuenta años. Ejemplo spent excluido. La página está duplicada físicamente."
+    },
+    {
+      "id": "istanbul",
+      "page": 36,
+      "title": "Istanbul",
+      "format": "Comprensión lectora A-C",
+      "description": "Descripción turística: colinas, tamaño poblacional, nombres Byzantium/Constantinople/Nova Roma, clima, Grand Bazaar y lugares de interés. Datos afirmados por fuente, no verificados como actuales.",
+      "alert": "Cifras de población, clasificación mundial y estadísticas climáticas dependen de fecha; no reutilizar como guía turística vigente sin verificar."
+    }
+  ],
+  "items": [
+    {
+      "question": 105,
+      "page": 34,
+      "printed_page": 33,
+      "additional_physical_pages": [
+        35
+      ],
+      "topic": "Gramática y cohesión en texto con espacios",
+      "competency_proposal": "Competencia comunicativa: conocimiento gramatical y textual",
+      "answer_proposal": "C",
+      "selected_option": "during",
+      "reason": "During the 1910s sitúa el grupo en una década.",
+      "context": "picasso",
+      "alert": "Física35 repite idéntica esta pregunta. Una sola ficha con ambas ubicaciones."
+    },
+    {
+      "question": 106,
+      "page": 34,
+      "printed_page": 33,
+      "additional_physical_pages": [
+        35
+      ],
+      "topic": "Gramática y cohesión en texto con espacios",
+      "competency_proposal": "Competencia comunicativa: conocimiento gramatical y textual",
+      "answer_proposal": "B",
+      "selected_option": "seen",
+      "reason": "Was seen es pasiva en pasado.",
+      "context": "picasso",
+      "alert": "Física35 repite idéntica esta pregunta. Una sola ficha con ambas ubicaciones."
+    },
+    {
+      "question": 107,
+      "page": 34,
+      "printed_page": 33,
+      "additional_physical_pages": [
+        35
+      ],
+      "topic": "Gramática y cohesión en texto con espacios",
+      "competency_proposal": "Competencia comunicativa: conocimiento gramatical y textual",
+      "answer_proposal": "C",
+      "selected_option": "plus",
+      "reason": "Plus añade el 21 % al precio.",
+      "context": "picasso",
+      "alert": "Física35 repite idéntica esta pregunta. Una sola ficha con ambas ubicaciones."
+    },
+    {
+      "question": 108,
+      "page": 34,
+      "printed_page": 33,
+      "additional_physical_pages": [
+        35
+      ],
+      "topic": "Gramática y cohesión en texto con espacios",
+      "competency_proposal": "Competencia comunicativa: conocimiento gramatical y textual",
+      "answer_proposal": "A",
+      "selected_option": "highest",
+      "reason": "The highest price requiere superlativo.",
+      "context": "picasso",
+      "alert": "Física35 repite idéntica esta pregunta. Una sola ficha con ambas ubicaciones."
+    },
+    {
+      "question": 109,
+      "page": 34,
+      "printed_page": 33,
+      "additional_physical_pages": [
+        35
+      ],
+      "topic": "Gramática y cohesión en texto con espacios",
+      "competency_proposal": "Competencia comunicativa: conocimiento gramatical y textual",
+      "answer_proposal": "B",
+      "selected_option": "because",
+      "reason": "Because introduce la razón de hallarse la pintura.",
+      "context": "picasso",
+      "alert": "Física35 repite idéntica esta pregunta. Una sola ficha con ambas ubicaciones."
+    },
+    {
+      "question": 110,
+      "page": 34,
+      "printed_page": 33,
+      "additional_physical_pages": [
+        35
+      ],
+      "topic": "Gramática y cohesión en texto con espacios",
+      "competency_proposal": "Competencia comunicativa: conocimiento gramatical y textual",
+      "answer_proposal": "A",
+      "selected_option": "who",
+      "reason": "Who introduce relativa sobre una mujer.",
+      "context": "picasso",
+      "alert": "Física35 repite idéntica esta pregunta. Una sola ficha con ambas ubicaciones."
+    },
+    {
+      "question": 111,
+      "page": 34,
+      "printed_page": 33,
+      "additional_physical_pages": [
+        35
+      ],
+      "topic": "Gramática y cohesión en texto con espacios",
+      "competency_proposal": "Competencia comunicativa: conocimiento gramatical y textual",
+      "answer_proposal": "B",
+      "selected_option": "other",
+      "reason": "Other beautiful paintings: determinante plural sin restricción de dos.",
+      "context": "picasso",
+      "alert": "Física35 repite idéntica esta pregunta. Una sola ficha con ambas ubicaciones."
+    },
+    {
+      "question": 112,
+      "page": 34,
+      "printed_page": 33,
+      "additional_physical_pages": [
+        35
+      ],
+      "topic": "Gramática y cohesión en texto con espacios",
+      "competency_proposal": "Competencia comunicativa: conocimiento gramatical y textual",
+      "answer_proposal": "B",
+      "selected_option": "ago",
+      "reason": "50 years ago expresa tiempo anterior al momento de referencia.",
+      "context": "picasso",
+      "alert": "Física35 repite idéntica esta pregunta. Una sola ficha con ambas ubicaciones."
+    },
+    {
+      "question": 113,
+      "page": 36,
+      "printed_page": 34,
+      "topic": "Comprensión e integración de información en texto turístico",
+      "competency_proposal": "Competencia comunicativa: comprensión lectora",
+      "answer_proposal": "C",
+      "selected_option": "ancient",
+      "reason": "Corrección visual 2026-10-30: historia antigua y nombres anteriores sustentan ancient,C; tamaño y población no prueban riqueza.",
+      "context": "istanbul",
+      "alert": "No reinterpretar rich para justificar el distractor; se corrige propuesta anterior."
+    },
+    {
+      "question": 114,
+      "page": 36,
+      "printed_page": 34,
+      "topic": "Comprensión e integración de información en texto turístico",
+      "competency_proposal": "Competencia comunicativa: comprensión lectora",
+      "answer_proposal": "C",
+      "selected_option": "Cappadocia",
+      "reason": "El texto identifica Cappadocia como lugar de vistas famosas para fotografías.",
+      "context": "istanbul"
+    },
+    {
+      "question": 115,
+      "page": 36,
+      "printed_page": 34,
+      "topic": "Comprensión e integración de información en texto turístico",
+      "competency_proposal": "Competencia comunicativa: comprensión lectora",
+      "answer_proposal": "B",
+      "selected_option": "Byzantium",
+      "reason": "Primero Byzantium, luego Constantinople y Nova Roma, según el relato.",
+      "context": "istanbul"
+    },
+    {
+      "question": 116,
+      "page": 36,
+      "printed_page": 34,
+      "topic": "Comprensión e integración de información en texto turístico",
+      "competency_proposal": "Competencia comunicativa: comprensión lectora",
+      "answer_proposal": "B",
+      "selected_option": "August",
+      "reason": "Se menciona temperatura máxima en August.",
+      "context": "istanbul"
+    },
+    {
+      "question": 117,
+      "page": 36,
+      "printed_page": 34,
+      "topic": "Comprensión e integración de información en texto turístico",
+      "competency_proposal": "Competencia comunicativa: comprensión lectora",
+      "answer_proposal": "B",
+      "selected_option": "7",
+      "reason": "Una semana total de nieve por invierno equivale a siete días.",
+      "context": "istanbul"
+    },
+    {
+      "question": 118,
+      "page": 36,
+      "printed_page": 34,
+      "topic": "Comprensión e integración de información en texto turístico",
+      "competency_proposal": "Competencia comunicativa: comprensión lectora",
+      "answer_proposal": "B",
+      "selected_option": "local furniture",
+      "reason": "Corrección visual 2026-10-30: carpets,chairs ydrawers son mobiliario local,B; la opciónC real dice international presents y no traditional presents.",
+      "context": "istanbul"
+    },
+    {
+      "question": 119,
+      "page": 36,
+      "printed_page": 34,
+      "topic": "Comprensión e integración de información en texto turístico",
+      "competency_proposal": "Competencia comunicativa: comprensión lectora",
+      "answer_proposal": "C",
+      "selected_option": "Istanbul's History and Life",
+      "reason": "El texto integra historia, clima, lugares y comercio de Istanbul; el título C cubre el conjunto.",
+      "context": "istanbul"
+    }
+  ]
+}

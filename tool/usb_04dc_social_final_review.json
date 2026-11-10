@@ -1,0 +1,41 @@
+{
+  "file_id": "USB-04dc5257ed8b",
+  "date": "2026-10-30",
+  "area": "Sociales y ciudadanas",
+  "scope": "Enunciados, opciones, tablas y diagramas inspeccionados visualmente en páginas físicas26-29. Propuestas no oficiales. Alertas de alcance de inferencias conservadas.",
+  "competency_legend": {
+    "PS": "Pensamiento social",
+    "IP": "Interpretación y análisis de perspectivas",
+    "RS": "Pensamiento reflexivo y sistémico"
+  },
+  "items": [
+    {
+      "question": 78,
+      "page": 26,
+      "topic": "Contraste de propuestas ante hacinamiento",
+      "competency_code": "IP",
+      "answer_proposal": "C",
+      "reason": "Excarcelar por delitos menores y endurecer penas son las propuestas más opuestas; sanciones alternativas y excarcelación pueden coincidir en reducir prisión.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 79,
+      "page": 26,
+      "topic": "Evaluación de afirmación sobre memoria y valores",
+      "competency_code": "IP",
+      "answer_proposal": "B",
+      "reason": "Que desaparezca una estatua no implica que desaparezcan los valores que representa; coincide con que derribar monumentos no cambia necesariamente el pasado.",
+      "observed_highlight": "B"
+    },
+    {
+      "question": 80,
+      "page": 26,
+      "topic": "Religión y fundamento normativo en dos textos",
+      "competency_code": "PS",
+      "answer_proposal": "D",
+      "reason": "Ambos fragmentos otorgan preeminencia a referencias religiosas; esa semejanza es la planteada porD.",
+      "observed_highlight": "D",
+      "alert": "La frase por encima de las terrenales es más fuerte que lo explicitado en el fragmento marroquí. Propuesta contextual, no descripción exhaustiva ni actual de ambos ordenamientos."
+    }
+  ]
+}

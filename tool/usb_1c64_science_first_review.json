@@ -1,0 +1,96 @@
+{
+  "file_id": "USB-1c6462bf5377",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Físicas35-37 impresas33-35 inspeccionadas completas yreorientadas. Tres fichas92-94 ycinco referencias95-99haciaAAA1 mismos números,física18,tras cotejo visual completo detablas,gráficas,modelos y opciones. Sin clave oficial ni validación docente.",
+  "items": [
+    {
+      "question": 92,
+      "page": 35,
+      "printed_page": 33,
+      "topic": "Selección de adaptaciones vegetales según condiciones ambientales",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "B",
+      "reason": "Las especies1y4 tienen raíces profundas yrasgos protectores dehojas otallo compatibles con adaptación descrita:hojas cerosas,tallo corto/grueso o pelos.2y3no reúnen esos rasgos.",
+      "alert": "Compatibilidad de rasgos no demuestra por sí sola que una introducción no afecte elecosistema. Reforestación real requiere procedencia nativa,interacciones ecológicas yevaluación local;respuesta limitada almodelo del ejercicio."
+    },
+    {
+      "question": 93,
+      "page": 35,
+      "printed_page": 33,
+      "topic": "Efecto de temperatura elevada sobre proteínas yproductividad vegetal",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "A",
+      "reason": "Temperaturas suficientemente altas pueden desnaturalizar proteínas yenzimas,afectando procesos metabólicos ycrecimiento. Bafirma erróneamente menor movimiento molecular por calor;Cpredice mayor crecimiento yDreduce productividad solo arespiración.",
+      "alert": "No cualquier aumento térmico desnaturaliza proteínas;umbrales dependen deespecie,duración ycondiciones. El enunciado simplifica otras causas deestrés ymenor productividad."
+    },
+    {
+      "question": 94,
+      "page": 35,
+      "printed_page": 33,
+      "topic": "Nutrientes,luz yfotosíntesis enecosistema acuático",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "C",
+      "reason": "Las capas densas dealgas superficiales bloquean luz para plantas sumergidas,limitando su fotosíntesis ysu aporte deoxígeno alagua,según mecanismo descrito.",
+      "alert": "Elbalance real también incluye respiración,descomposición e intercambio gaseoso;la opciónCexplica el mecanismo parcial del texto,no todas las causas dehipoxia."
+    }
+  ],
+  "duplicate_occurrences": [
+    {
+      "question": 95,
+      "page": 36,
+      "printed_page": 34,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 95,
+      "canonical_page": 18,
+      "exact_content": true,
+      "verification": "Cotejo visual directo decontextos completos y opciones:tablas vacuna15/200/1800y0,3/0,1/0,1,gráficas,evidencia demezcla,tensioactivos,serotonina ymodelo deberilio. Igual contenido salvo maquetación,código y marcas deagua. Reservas canónicas conservadas.",
+      "observed_annotation": "Sin respuesta seleccionada inequívoca;marcas marginales no son claves."
+    },
+    {
+      "question": 96,
+      "page": 37,
+      "printed_page": 35,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 96,
+      "canonical_page": 18,
+      "exact_content": true,
+      "verification": "Cotejo visual directo decontextos completos y opciones:tablas vacuna15/200/1800y0,3/0,1/0,1,gráficas,evidencia demezcla,tensioactivos,serotonina ymodelo deberilio. Igual contenido salvo maquetación,código y marcas deagua. Reservas canónicas conservadas.",
+      "observed_annotation": "Sin respuesta seleccionada inequívoca;marcas marginales no son claves."
+    },
+    {
+      "question": 97,
+      "page": 37,
+      "printed_page": 35,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 97,
+      "canonical_page": 18,
+      "exact_content": true,
+      "verification": "Cotejo visual directo decontextos completos y opciones:tablas vacuna15/200/1800y0,3/0,1/0,1,gráficas,evidencia demezcla,tensioactivos,serotonina ymodelo deberilio. Igual contenido salvo maquetación,código y marcas deagua. Reservas canónicas conservadas.",
+      "observed_annotation": "Sin respuesta seleccionada inequívoca;marcas marginales no son claves."
+    },
+    {
+      "question": 98,
+      "page": 37,
+      "printed_page": 35,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 98,
+      "canonical_page": 18,
+      "exact_content": true,
+      "verification": "Cotejo visual directo decontextos completos y opciones:tablas vacuna15/200/1800y0,3/0,1/0,1,gráficas,evidencia demezcla,tensioactivos,serotonina ymodelo deberilio. Igual contenido salvo maquetación,código y marcas deagua. Reservas canónicas conservadas.",
+      "observed_annotation": "Sin respuesta seleccionada inequívoca;marcas marginales no son claves."
+    },
+    {
+      "question": 99,
+      "page": 37,
+      "printed_page": 35,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 99,
+      "canonical_page": 18,
+      "exact_content": true,
+      "verification": "Cotejo visual directo decontextos completos y opciones:tablas vacuna15/200/1800y0,3/0,1/0,1,gráficas,evidencia demezcla,tensioactivos,serotonina ymodelo deberilio. Igual contenido salvo maquetación,código y marcas deagua. Reservas canónicas conservadas.",
+      "observed_annotation": "Sin respuesta seleccionada inequívoca;marcas marginales no son claves."
+    }
+  ],
+  "next": "Física38,verificar100en adelante."
+}

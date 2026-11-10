@@ -1,0 +1,88 @@
+{
+  "file_id": "USB-45e476387c60",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Físicas 25-27, impresas 24-26, inspeccionadas completas con contexto hormonal 67-69, figuras y opciones. Sin identidad exacta verificada con registros consultados. Propuestas no oficiales.",
+  "items": [
+    {
+      "question": 67,
+      "page": 25,
+      "printed_page": 24,
+      "topic": "Identificación de grupos funcionales en estructuras dibujadas",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "B",
+      "reason": "Según el dibujo, la primera estructura presenta C=O y la segunda un hidroxilo adicional y enlace C≡CH; B expresa carbonilo frente a hidroxilo y etino. Verificación ampliada corrigió la letra provisional D, que dice eteno.",
+      "alert": "Inconsistencia de fuente: estructura rotulada estradiol muestra carbonilo en posición donde el estradiol tiene hidroxilo; parece estructura de estrona. Responder al dibujo no validar identidad química. Etino designa molécula; el grupo dibujado es etinilo/alquino terminal."
+    },
+    {
+      "question": 68,
+      "page": 25,
+      "printed_page": 24,
+      "topic": "Finalidad de hipótesis para diseño de compuestos",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "D",
+      "reason": "La hipótesis plantea parecido estructural para mantener función hormonal y reducir efectos secundarios, justo el objetivo de D.",
+      "alert": "Es motivación de investigación, no resultado demostrado. Parecido estructural no garantiza seguridad, eficacia ni alteraciones menores."
+    },
+    {
+      "question": 69,
+      "page": 25,
+      "printed_page": 24,
+      "topic": "Evaluación preliminar de hipótesis sobre compuestos",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "D",
+      "reason": "Entre opciones, sintetizar el compuesto y comparar experimentalmente propiedades con la referencia produce evidencia nueva; comparar dibujos solamente no verifica comportamiento.",
+      "alert": "Propuesta condicionada: propiedades químicas por sí solas NO verifican efectos secundarios ni eficacia anticonceptiva en organismos. Harían falta pruebas biológicas y evaluación ética; el ejercicio no constituye protocolo ni consejo médico."
+    },
+    {
+      "question": 70,
+      "page": 26,
+      "printed_page": 25,
+      "topic": "Pérdida de zona de alimentación",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "C",
+      "reason": "Los vientos derribaron manglares donde los mapaches buscan alimento; C identifica pérdida de esa zona de alimentación, no de sus refugios alejados de la costa.",
+      "alert": "A atribuye destrucción de todos los refugios, no indicada; B introduce migración anual y D una barrera por árboles caídos no demostrada. Menor observación no distingue por sí sola muerte de desplazamiento."
+    },
+    {
+      "question": 71,
+      "page": 26,
+      "printed_page": 25,
+      "topic": "Condiciones iniciales en calentamiento de agua",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "D",
+      "reason": "Con igual volumen y condiciones de calentamiento, pasar de 4 a 80 °C requiere mayor incremento térmico que de 15 a 80 °C.",
+      "alert": "Supone igual potencia y pérdidas comparables; no significa que la olla cambie propiedades por uso previo."
+    },
+    {
+      "question": 72,
+      "page": 26,
+      "printed_page": 25,
+      "topic": "Eutrofización y alteración de biodiversidad",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "B",
+      "reason": "El aporte de alimento y nutrientes cambia composición del ecosistema; organismos antes adaptados pueden dejar de estarlo ante nuevas condiciones.",
+      "alert": "El aumento inicial de patos no prueba por sí solo caída de biodiversidad; se responde al escenario de desequilibrio dado, sin mecanismo explícito de oxígeno en opciones."
+    },
+    {
+      "question": 73,
+      "page": 27,
+      "printed_page": 26,
+      "topic": "Direcciones de velocidad y fuerza centrípeta",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "C",
+      "reason": "La fuerza gravitacional apunta desde Tierra hacia Sol, radialmente al centro, mientras la velocidad es tangencial a la órbita.",
+      "alert": "Modelo orbital circular simplificado; la figura no determina sentido horario o antihorario por sí sola, pero C es la única opción con fuerza radial y velocidad tangente."
+    },
+    {
+      "question": 74,
+      "page": 27,
+      "printed_page": 26,
+      "topic": "Representación gráfica de proporcionalidad directa",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "A",
+      "reason": "Si por cada palma hay diez loros, L=10P; A representa aumento lineal de 10 a 100 loros para 1 a 10 palmas.",
+      "alert": "Supuesto idealizado del ejercicio; dependencia ecológica real no establece proporción fija ni efecto inmediato de reforestación."
+    }
+  ]
+}

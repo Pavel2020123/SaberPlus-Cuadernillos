@@ -1,0 +1,119 @@
+{
+  "file_id": "USB-7c1a96cf7ade",
+  "date": "2026-10-30",
+  "area": "Matemáticas",
+  "scope": "Físicas13-16completas;35-44diez referencias.35coincide gráficoDconABA2,no conAAR1.",
+  "items": [],
+  "duplicate_occurrences": [
+    {
+      "question": 35,
+      "page": 13,
+      "printed_page": 14,
+      "canonical_file_id": "USB-4d0661231ca3",
+      "canonical_question": 46,
+      "canonical_page": 16,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro concanónica indicada:tablas,gráficosdistractores,bolsa750g,esquemaautomóvil,sucesión ytren13r;enunciados y opciones idénticos.",
+      "observed_annotation": "No convertir marcas manuscritas en clave oficial."
+    },
+    {
+      "question": 36,
+      "page": 13,
+      "printed_page": 14,
+      "canonical_file_id": "USB-1c6462bf5377",
+      "canonical_question": 22,
+      "canonical_page": 11,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro concanónica indicada:tablas,gráficosdistractores,bolsa750g,esquemaautomóvil,sucesión ytren13r;enunciados y opciones idénticos.",
+      "observed_annotation": "No convertir marcas manuscritas en clave oficial."
+    },
+    {
+      "question": 37,
+      "page": 14,
+      "printed_page": 15,
+      "canonical_file_id": "USB-1c6462bf5377",
+      "canonical_question": 23,
+      "canonical_page": 12,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro concanónica indicada:tablas,gráficosdistractores,bolsa750g,esquemaautomóvil,sucesión ytren13r;enunciados y opciones idénticos.",
+      "observed_annotation": "No convertir marcas manuscritas en clave oficial."
+    },
+    {
+      "question": 38,
+      "page": 14,
+      "printed_page": 15,
+      "canonical_file_id": "USB-1c6462bf5377",
+      "canonical_question": 24,
+      "canonical_page": 12,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro concanónica indicada:tablas,gráficosdistractores,bolsa750g,esquemaautomóvil,sucesión ytren13r;enunciados y opciones idénticos.",
+      "observed_annotation": "No convertir marcas manuscritas en clave oficial."
+    },
+    {
+      "question": 39,
+      "page": 14,
+      "printed_page": 15,
+      "canonical_file_id": "USB-1bc205e23b46",
+      "canonical_question": 46,
+      "canonical_page": 12,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro concanónica indicada:tablas,gráficosdistractores,bolsa750g,esquemaautomóvil,sucesión ytren13r;enunciados y opciones idénticos.",
+      "observed_annotation": "No convertir marcas manuscritas en clave oficial."
+    },
+    {
+      "question": 40,
+      "page": 15,
+      "printed_page": 16,
+      "canonical_file_id": "USB-73fbd3be4b98",
+      "canonical_question": 4,
+      "canonical_page": 3,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro concanónica indicada:tablas,gráficosdistractores,bolsa750g,esquemaautomóvil,sucesión ytren13r;enunciados y opciones idénticos.",
+      "observed_annotation": "No convertir marcas manuscritas en clave oficial."
+    },
+    {
+      "question": 41,
+      "page": 15,
+      "printed_page": 16,
+      "canonical_file_id": "USB-73fbd3be4b98",
+      "canonical_question": 5,
+      "canonical_page": 3,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro concanónica indicada:tablas,gráficosdistractores,bolsa750g,esquemaautomóvil,sucesión ytren13r;enunciados y opciones idénticos.",
+      "observed_annotation": "No convertir marcas manuscritas en clave oficial."
+    },
+    {
+      "question": 42,
+      "page": 16,
+      "printed_page": 17,
+      "canonical_file_id": "USB-73fbd3be4b98",
+      "canonical_question": 6,
+      "canonical_page": 4,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro concanónica indicada:tablas,gráficosdistractores,bolsa750g,esquemaautomóvil,sucesión ytren13r;enunciados y opciones idénticos.",
+      "observed_annotation": "No convertir marcas manuscritas en clave oficial."
+    },
+    {
+      "question": 43,
+      "page": 16,
+      "printed_page": 17,
+      "canonical_file_id": "USB-73fbd3be4b98",
+      "canonical_question": 7,
+      "canonical_page": 4,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro concanónica indicada:tablas,gráficosdistractores,bolsa750g,esquemaautomóvil,sucesión ytren13r;enunciados y opciones idénticos.",
+      "observed_annotation": "No convertir marcas manuscritas en clave oficial."
+    },
+    {
+      "question": 44,
+      "page": 16,
+      "printed_page": 17,
+      "canonical_file_id": "USB-73fbd3be4b98",
+      "canonical_question": 8,
+      "canonical_page": 4,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro concanónica indicada:tablas,gráficosdistractores,bolsa750g,esquemaautomóvil,sucesión ytren13r;enunciados y opciones idénticos.",
+      "observed_annotation": "No convertir marcas manuscritas en clave oficial."
+    }
+  ]
+}

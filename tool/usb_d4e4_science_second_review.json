@@ -1,0 +1,74 @@
+{
+  "file_id": "USB-d4e43db6988a",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Preguntas94-100,físicas33-36 inspeccionadas visualmente con tablas,gráficas y esquemas.Propuestas no oficiales,sin letras marcadas observadas.",
+  "competency_legend": {
+    "U": "Uso comprensivo del conocimiento científico",
+    "E": "Explicación de fenómenos",
+    "I": "Indagación"
+  },
+  "items": [
+    {
+      "question": 94,
+      "page": 33,
+      "topic": "Correspondencia de tabla ecológica y gráfica",
+      "competency_code": "U",
+      "answer_proposal": "D",
+      "reason": "Drepresenta años y ambas series:riqueza68,62,45,22,12eindividuos1563,1621,803,456,102.",
+      "alert": "No sumar riqueza y abundancia como si fueran misma magnitud;gráficaBtrata año como variable numérica de barras."
+    },
+    {
+      "question": 95,
+      "page": 34,
+      "topic": "Interpretación de vías de conexión en esquema",
+      "competency_code": "U",
+      "answer_proposal": "C",
+      "reason": "El esquema muestra conexión por ondas y también fibra óptica,por lo que cable aporta una segunda vía de conexión aInternet.",
+      "alert": "El dibujo sugiere vía alternativa,pero no demuestra necesidad física o única forma de conexión;Cmejor opción contextual."
+    },
+    {
+      "question": 96,
+      "page": 35,
+      "topic": "Comparación de frecuencias de ondas",
+      "competency_code": "U",
+      "answer_proposal": "D",
+      "reason": "Dmuestra unas2oscilaciones enGrupo1yunas10enGrupo2en mismo intervalo:frecuencia aproximadamente cinco veces mayor.",
+      "alert": "Se comparan ciclos por tiempo,no amplitudes;no asignar escala cuantitativa absoluta donde no hay etiquetas."
+    },
+    {
+      "question": 97,
+      "page": 35,
+      "topic": "Función comunicativa de modelo de red",
+      "competency_code": "I",
+      "answer_proposal": "D",
+      "reason": "Mostrar conexiones explica cómo integrar varias poblaciones y posibles rutas entre nodos.",
+      "alert": "La topología por sí sola no demuestra estabilidad real de señal sin datos de cobertura,interferencia y enlaces;Dexpresa intención del modelo."
+    },
+    {
+      "question": 98,
+      "page": 36,
+      "topic": "Límite de generalización de experimento",
+      "competency_code": "I",
+      "answer_proposal": "D",
+      "reason": "Una fruta que tarda días no demuestra duración de todos los cambios químicos;los factores citados modifican velocidad."
+    },
+    {
+      "question": 99,
+      "page": 36,
+      "topic": "Modelo de especiación por aislamiento geográfico",
+      "competency_code": "E",
+      "answer_proposal": "A",
+      "reason": "Arepresenta población inicial,río como barrera,divergencia con aislamiento y finalmente dos especies.",
+      "alert": "La aparición de río no basta por sí sola para demostrar especies distintas;se acepta aislamiento reproductivo declarado en caso."
+    },
+    {
+      "question": 100,
+      "page": 36,
+      "topic": "Representación de fuerza variable con posición",
+      "competency_code": "U",
+      "answer_proposal": "C",
+      "reason": "Ccrece hasta4myluego permanece constante hasta6m,como describe enunciado."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+ "file_id":"USB-578d9b20297e","date":"2026-10-29","items":[],
+ "scope":"Todas las 41 paginas fisicas inspeccionadas visualmente; primera lectura analitica de 134 items academicos y catalogacion separada de 25 autoinformes. No autentica el documento ni las marcas, no valida claves o dificultad, no completa cotejo de toda la coleccion.",
+ "identity":{"original_path":"2026-1 (3).pdf","session":"Segunda sesion, explicita en encabezados internos","year":null,"calendar":null,"cover":"Ausente: comienza en pagina interna impresa 2","internal_code":"00077322","version":"No inferida: el numero interno no sustituye version de portada","proposed_name":"Referencia_Sesion-2_Ano-por-confirmar_Sin-portada_77322_USB-578d9b20297e.pdf","authenticity":"No verificada","markings":"Resaltados amarillos y algunos trazos azules; procedencia desconocida"},
+ "structure":[
+  {"area":"Sociales y ciudadanas","questions":"1-25","count":25,"physical_pages":"1-9"},
+  {"area":"Matematicas","questions":"26-50","count":25,"physical_pages":"10-18"},
+  {"area":"Ciencias naturales","questions":"51-79","count":29,"physical_pages":"19-31"},
+  {"area":"Ingles","questions":"80-134","count":55,"physical_pages":"32-39","parts":"1,2,3,4,5,6,7.A,7.B; ejemplos no puntuables"},
+  {"area":"Cuestionario socioeconomico","questions":"135-147","count":13,"physical_pages":"40","exclude_academic":true},
+  {"area":"Clima escolar","questions":"148-159","count":12,"physical_pages":"41","exclude_academic":true}
+ ],
+ "comparison":{"related_file":"USB-eee9960ca52a","item_pairs":35,"social":"4-14 frente a 70-80 y 15-25 frente a 59-69: 22 pares","science":"54-66 frente a 81-93: 13 pares","scope":"Textos, opciones y figuras de esos pares cotejados; coincidencia sustantiva en alcance revisado, no identidad de PDF. Difieren sesion, numeracion, otros contenidos y anotaciones.","keep_both":true},
+ "critical_notes":["Cinco resaltados de Sociales (6,7,13,19,21) discrepan de las propuestas razonadas; no aceptar marcas como solucionario oficial.","Matematicas 41 resalta A pero el subconjunto calculado corresponde a B; 35 mantiene duda sobre datos minimos; algunas marcas son amplias y tocan varias opciones.","La pagina fisica 32 de vocabulario ubica camara en 81 y mapa en 84: el OCR mezcla esos enunciados.","La distribucion de este ejemplar no establece por si sola la distribucion oficial de todos los anos o calendarios."],
+ "next":"Continuar con el siguiente PDF por prioridad de inventario que carezca de analisis manual. Mantener pendientes separados de extraccion OCR."
+}

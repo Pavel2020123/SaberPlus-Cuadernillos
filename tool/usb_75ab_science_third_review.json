@@ -1,0 +1,16 @@
+{
+  "file_id": "USB-75abccb84c15",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Físicas 22-24 inspeccionadas completas y cotejadas visualmente con AAK2 físicas 22-24. Tablas, estructuras, figuras y opciones idénticas. Corrección de la canónica 60: C, no A; X insoluble en ambos disolventes.",
+  "items": [],
+  "duplicate_occurrences": [
+    {"question":60,"page":22,"printed_page":22,"canonical_file_id":"USB-45e476387c60","canonical_question":60,"canonical_page":22,"exact_content":true,"verification":"Cotejo visual completo: tabla X no/no y Z sí/no, tamaños 1 mm, no magnetismo y cuatro opciones idénticas. Canónica corregida a C.","observed_annotation":"Sin respuesta marcada utilizada como clave."},
+    {"question":61,"page":22,"printed_page":22,"canonical_file_id":"USB-45e476387c60","canonical_question":61,"canonical_page":22,"exact_content":true,"verification":"Cotejo completo de enunciado, reacción, tiempos 5/2/4 h, 80 °C y opciones.","observed_annotation":"Sin marca relevante."},
+    {"question":62,"page":23,"printed_page":23,"canonical_file_id":"USB-45e476387c60","canonical_question":62,"canonical_page":23,"exact_content":true,"verification":"Texto, tabla 2/3/4 y 2.5/2.5/4 y opciones cotejados íntegramente.","observed_annotation":"Sin marca relevante."},
+    {"question":63,"page":23,"printed_page":23,"canonical_file_id":"USB-45e476387c60","canonical_question":63,"canonical_page":23,"exact_content":true,"verification":"Caso de Cushing, recomendaciones y cuatro opciones idénticos.","observed_annotation":"Sin marca relevante."},
+    {"question":64,"page":23,"printed_page":23,"canonical_file_id":"USB-45e476387c60","canonical_question":64,"canonical_page":23,"exact_content":true,"verification":"Imanes, cantidad relativa de clips y flechas A-D cotejados directamente.","observed_annotation":"Sin marca relevante."},
+    {"question":65,"page":24,"printed_page":24,"canonical_file_id":"USB-45e476387c60","canonical_question":65,"canonical_page":24,"exact_content":true,"verification":"Tabla de grupos funcionales, cuatro estructuras y opciones cotejadas visualmente.","observed_annotation":"Sin marca relevante."},
+    {"question":66,"page":24,"printed_page":24,"canonical_file_id":"USB-45e476387c60","canonical_question":66,"canonical_page":24,"exact_content":true,"verification":"Experimento UV-B, cinco grupos, tres días y tablas de opciones A-D idénticos.","observed_annotation":"Sin marca relevante."}
+  ]
+}

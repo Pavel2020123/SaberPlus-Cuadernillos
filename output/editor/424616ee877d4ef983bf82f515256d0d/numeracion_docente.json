@@ -1,0 +1,40 @@
+[
+  {
+    "number": 1,
+    "id": "q-ced49341-ed6d-4139-bc8c-456fcafae71a",
+    "answer": "D",
+    "assessment": {
+      "framework": "icfes-guia-2026-2",
+      "area": "mathematics",
+      "status": "unclassified",
+      "competency": null,
+      "process": null,
+      "claim": null,
+      "evidence": null,
+      "component": null,
+      "part": null,
+      "rationale": "",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  },
+  {
+    "number": 2,
+    "id": "q-af7b9bda-5f91-47de-8301-7e020bf9da0e",
+    "answer": "C",
+    "assessment": {
+      "framework": "icfes-guia-2026-2",
+      "area": "mathematics",
+      "status": "unclassified",
+      "competency": null,
+      "process": null,
+      "claim": null,
+      "evidence": null,
+      "component": null,
+      "part": null,
+      "rationale": "",
+      "reviewer": null,
+      "reviewed_at": null
+    }
+  }
+]

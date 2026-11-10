@@ -1,0 +1,90 @@
+{
+  "file_id": "USB-f00a52c8b6f2",
+  "date": "2026-10-30",
+  "area": "Matemáticas",
+  "scope": "Preguntas40-48,físicas13-15inspeccionadas visualmente, leyendas y tablas comprobadas. Propuestas no oficiales.",
+  "competency_legend": {
+    "IR": "Interpretación y representación",
+    "FE": "Formulación y ejecución",
+    "AR": "Argumentación"
+  },
+  "items": [
+    {
+      "question": 40,
+      "page": 13,
+      "topic": "Expresión de costo con cargo fijo",
+      "competency_code": "FE",
+      "answer_proposal": "B",
+      "reason": "El precio es3000del vaso más1000por cada acompañamiento:3000+1000n."
+    },
+    {
+      "question": 41,
+      "page": 13,
+      "topic": "Suficiencia de datos para promedio de torneo",
+      "competency_code": "AR",
+      "answer_proposal": "B",
+      "reason": "La tabla solo informa último partido; faltan puntos de los nueve anteriores de cada jugador para sumar y dividir entre10."
+    },
+    {
+      "question": 42,
+      "page": 13,
+      "topic": "Definición de moda",
+      "competency_code": "IR",
+      "answer_proposal": "A",
+      "reason": "La moda es el número de kilómetros con mayor frecuencia en30días, no máximo,fecha o mínimo de repeticiones."
+    },
+    {
+      "question": 43,
+      "page": 13,
+      "topic": "Mediana y selección de frecuencias superiores",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "Ordenando100,225,275,300, la mediana es250. Superan250automóvil300y metro275.",
+      "alert": "Aunque total900coincide con tabla, mediana solicitada es de cuatro frecuencias,no de usuarios individuales."
+    },
+    {
+      "question": 44,
+      "page": 14,
+      "topic": "Permutaciones sin repetición",
+      "competency_code": "FE",
+      "answer_proposal": "D",
+      "reason": "Las placas de3cifras con4dígitos disponibles se cuentan4×3×2=24; el orden distingue códigos."
+    },
+    {
+      "question": 45,
+      "page": 14,
+      "topic": "Comparación de coeficientes de variación",
+      "competency_code": "AR",
+      "answer_proposal": "C",
+      "reason": "P:3/3,5≈0,857;Q:1/4=0,25. Qpresenta menor variación relativa, contrario al gerente.",
+      "alert": "Aesotra razón compatible con no elegirP, por su desviación absoluta mayor, pero no desarrolla el cociente que el enunciado solicita. Posible solapamiento de alternativasA/Cpara revisión docente."
+    },
+    {
+      "question": 46,
+      "page": 14,
+      "topic": "Ejecución de algoritmo de bonificación",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "Promedio=(4+4+5+3+4+2)/6=22/6. Marcela tiene4, diferencia1/3entre0,1y0,5,bonificación0,5.",
+      "alert": "No confundir bonificación0,5con nota final4,5."
+    },
+    {
+      "question": 47,
+      "page": 15,
+      "topic": "Filtrado y correspondencia de gráfico",
+      "competency_code": "IR",
+      "answer_proposal": "C",
+      "reason": "Con140cmpuede ingresar aP,Q,T,cuyos tiempos son10,11,9min;Ccoloca esos tres valores correctamente.",
+      "alert": "R160yS150no cumplen la estatura mínima."
+    },
+    {
+      "question": 48,
+      "page": 15,
+      "topic": "Distribución porcentual desde frecuencias",
+      "competency_code": "IR",
+      "answer_proposal": "B",
+      "reason": "De80personas:56=70%,4=5%,20=25%. Bmuestra esas tres proporciones.",
+      "alert": "No interpretar las barras con frecuencias sin convertir como porcentajes; categorías adicionales no corresponden a datos."
+    }
+  ]
+}

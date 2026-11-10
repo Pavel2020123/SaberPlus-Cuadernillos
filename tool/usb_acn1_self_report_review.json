@@ -1,0 +1,74 @@
+{
+  "file_id": "USB-77cc8ac26d2c",
+  "date": "2026-10-29",
+  "area": "Autoinforme socioeconomico",
+  "scope": "Preguntas107-117paginafisica18,impresa41,inspeccionadas visualmente.Sin respuestas correctas ni competencia academica.No registrar respuestas personales.",
+  "items": [
+    {
+      "question": 107,
+      "page": 18,
+      "topic": "Educacion del padre",
+      "exclude_academic": true
+    },
+    {
+      "question": 108,
+      "page": 18,
+      "topic": "Educacion de madre",
+      "exclude_academic": true
+    },
+    {
+      "question": 109,
+      "page": 18,
+      "topic": "Estrato de vivienda",
+      "exclude_academic": true
+    },
+    {
+      "question": 110,
+      "page": 18,
+      "topic": "Conexion a internet",
+      "exclude_academic": true
+    },
+    {
+      "question": 111,
+      "page": 18,
+      "topic": "Libros disponibles en hogar",
+      "exclude_academic": true
+    },
+    {
+      "question": 112,
+      "page": 18,
+      "topic": "Tiempo de lectura por entretenimiento",
+      "exclude_academic": true
+    },
+    {
+      "question": 113,
+      "page": 18,
+      "topic": "Tiempo de internet no academico",
+      "exclude_academic": true
+    },
+    {
+      "question": 114,
+      "page": 18,
+      "topic": "Frecuencia de carne,pescado,huevos",
+      "exclude_academic": true
+    },
+    {
+      "question": 115,
+      "page": 18,
+      "topic": "Frecuencia de cereales,frutos secos,legumbres",
+      "exclude_academic": true
+    },
+    {
+      "question": 116,
+      "page": 18,
+      "topic": "Integrantes del hogar",
+      "exclude_academic": true
+    },
+    {
+      "question": 117,
+      "page": 18,
+      "topic": "Cuartos para dormir",
+      "exclude_academic": true
+    }
+  ]
+}

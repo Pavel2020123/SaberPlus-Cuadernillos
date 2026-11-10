@@ -1,0 +1,170 @@
+{
+  "file_id": "USB-e58ef5771b78",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Físicas10-12impresas18-23inspeccionadas completas. Ocho fichas52,53,57,62-66;57variante de cifra en tabla. Siete referencias exactas54-56y58-61haciaLasLajas67-69y71-74,cotejo visual directo.",
+  "items": [
+    {
+      "question": 52,
+      "page": 10,
+      "printed_page": 18,
+      "topic": "Identificación de isótopos mediante modelos atómicos",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "D",
+      "reason": "Los modelos1y3tienen igual número de protones ydifieren en neutrones;cumplen definición de isótopos.",
+      "alert": "No basta igual número de neutrones,masa oelectrones. Propuesta por conteo visual del modelo;no identificación de elemento por nombre."
+    },
+    {
+      "question": 53,
+      "page": 10,
+      "printed_page": 18,
+      "topic": "Disolución yclasificación de mezcla homogénea",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "D",
+      "reason": "El relato define distribución uniforme deKIenagua yuna sola fase líquida;corresponde amezcla homogénea.",
+      "alert": "El color amarillo atribuido aKIenagua no es típico deKIpuro;no usar esa coloración como prueba de reacción nicomo propiedad validada."
+    },
+    {
+      "question": 57,
+      "page": 11,
+      "printed_page": 20,
+      "topic": "Tabla de bases nitrogenadas con cifra variante",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "C",
+      "reason": "Cconserva patrónA≈5600-5800,C≈4100-4500,G≈2100-2400,T≈3900-4300con grupos yespecies en orden.",
+      "alert": "Variante de tabla:AAQ2muestra CdeH.diversicolor4268;LasLajas muestra4258en imagen consultada. Diferencia pequeña que no cambia opción,pero no fusionar exactamente. Datos deuna hebra,no imponerA=TniC=G.",
+      "related_file_id": "USB-7882c8f9ae2f",
+      "related_question": 70,
+      "related_page": 23
+    },
+    {
+      "question": 62,
+      "page": 12,
+      "printed_page": 22,
+      "topic": "Conservación de cantidad de movimiento en choque inelástico",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "B",
+      "reason": "Un carro demasa mcon velocidadvse une ados iguales en reposo:mv=3mV,por tantoV=v/3.",
+      "alert": "Supone sistema aproximadamente aislado,masas iguales ymasa deplastilina despreciable. No conserva energía cinética."
+    },
+    {
+      "question": 63,
+      "page": 12,
+      "printed_page": 22,
+      "topic": "Selección demetales por restricciones simultáneas",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "C",
+      "reason": "Cromo7,2yescandio3,0g/mLson maleables,sin corrosión según tabla ydensidad≤7,5;otros incumplen condición.",
+      "alert": "La resistencia acorrosión depende del medio ypasivación;se responde atabla,no propiedad universal ni recomendación industrial."
+    },
+    {
+      "question": 64,
+      "page": 12,
+      "printed_page": 23,
+      "topic": "Curvas de calentamiento yebullición adistinta altitud",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "D",
+      "reason": "Con misma temperatura inicial,curvas ascienden hasta mesetas;1500mtiene meseta menor que500m,por menor presión atmosférica.",
+      "alert": "Cofrece mesetas ordenadas pero temperaturas iniciales distintas;Drespeta ambas condiciones. Se presupone presión constante de cada ciudad."
+    },
+    {
+      "question": 65,
+      "page": 12,
+      "printed_page": 23,
+      "topic": "Cambio develocidad del sonido entre medios",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "A",
+      "reason": "Al pasar aire-agua cambia velocidad depropagación,lo que permite refracción.",
+      "alert": "No cambia la fuente por propagarse ni la densidad del sonido como propiedad independiente. Frecuencia se conserva en interfaz estacionaria."
+    },
+    {
+      "question": 66,
+      "page": 12,
+      "printed_page": 23,
+      "topic": "Cambio devolumen durante sublimación",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "C",
+      "reason": "CO2gaseoso ocupa volumen del recipiente,distinto del sólido inicial.",
+      "alert": "Masa ymoléculas no se hacen menores por cambio defase;densidad también cambia,pero justificación deAatribuye erróneamente cambio demasa molecular."
+    }
+  ],
+  "duplicate_occurrences": [
+    {
+      "question": 54,
+      "page": 10,
+      "printed_page": 19,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 67,
+      "canonical_page": 22,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de enunciado,contexto,figura y opciones;coincidencia exacta. Excluida57por cifra distinta de tabla.",
+      "observed_annotation": "No se observa opción marcada."
+    },
+    {
+      "question": 55,
+      "page": 10,
+      "printed_page": 19,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 68,
+      "canonical_page": 22,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de enunciado,contexto,figura y opciones;coincidencia exacta. Excluida57por cifra distinta de tabla.",
+      "observed_annotation": "No se observa opción marcada."
+    },
+    {
+      "question": 56,
+      "page": 11,
+      "printed_page": 20,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 69,
+      "canonical_page": 23,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de enunciado,contexto,figura y opciones;coincidencia exacta. Excluida57por cifra distinta de tabla.",
+      "observed_annotation": "No se observa opción marcada."
+    },
+    {
+      "question": 58,
+      "page": 11,
+      "printed_page": 21,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 71,
+      "canonical_page": 24,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de enunciado,contexto,figura y opciones;coincidencia exacta. Excluida57por cifra distinta de tabla.",
+      "observed_annotation": "No se observa opción marcada."
+    },
+    {
+      "question": 59,
+      "page": 11,
+      "printed_page": 21,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 72,
+      "canonical_page": 24,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de enunciado,contexto,figura y opciones;coincidencia exacta. Excluida57por cifra distinta de tabla.",
+      "observed_annotation": "No se observa opción marcada."
+    },
+    {
+      "question": 60,
+      "page": 11,
+      "printed_page": 21,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 73,
+      "canonical_page": 24,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de enunciado,contexto,figura y opciones;coincidencia exacta. Excluida57por cifra distinta de tabla.",
+      "observed_annotation": "No se observa opción marcada."
+    },
+    {
+      "question": 61,
+      "page": 11,
+      "printed_page": 21,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 74,
+      "canonical_page": 24,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de enunciado,contexto,figura y opciones;coincidencia exacta. Excluida57por cifra distinta de tabla.",
+      "observed_annotation": "No se observa opción marcada."
+    }
+  ]
+}

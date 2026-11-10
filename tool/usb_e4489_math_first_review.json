@@ -1,0 +1,145 @@
+{
+  "file_id": "USB-e4489f150183",
+  "date": "2026-10-29",
+  "area": "Matematicas",
+  "scope": "Preguntas23-38 paginas9-14 inspeccionadas visualmente,incluyendo graficas y regiones.Claves y competencias propuestas,no oficiales ni validadas docente.",
+  "competency_legend": {
+    "IR": "Interpretacion y representacion",
+    "FE": "Formulacion y ejecucion",
+    "AR": "Argumentacion"
+  },
+  "items": [
+    {
+      "question": 23,
+      "page": 9,
+      "topic": "Porcentajes con distintas bases",
+      "competency_code": "AR",
+      "answer_proposal": "C",
+      "reason": "98%es preferencia;83+12+3+2=100%es distribucion de frecuencias entre quienes juegan.No deben sumarse como misma categoria."
+    },
+    {
+      "question": 24,
+      "page": 9,
+      "topic": "Probabilidad de suma11 y par de dados",
+      "competency_code": "AR",
+      "answer_proposal": "D",
+      "reason": "Suma11ocurre con(5,6),(6,5):2casos.Par incluye(1,1)hasta(6,6):6casos.2/36<6/36."
+    },
+    {
+      "question": 25,
+      "page": 9,
+      "topic": "Composicion de funciones",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "g(10)=11y f(11)=22millones."
+    },
+    {
+      "question": 26,
+      "page": 10,
+      "topic": "Integracion de tabla y grafica",
+      "competency_code": "IR",
+      "answer_proposal": "C",
+      "reason": "C representa sexto5ganados7perdidos y septimo8ganados4perdidos conservando leyenda."
+    },
+    {
+      "question": 27,
+      "page": 11,
+      "topic": "Error de sumar diferentes unidades",
+      "competency_code": "AR",
+      "answer_proposal": "C",
+      "reason": "500kg+200kg+1ton requiere conversion:1700kg o1.7ton,no701ton."
+    },
+    {
+      "question": 28,
+      "page": 11,
+      "topic": "Proporcion de poblacion proyectada",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "Total100,200,400y siguiente800;con280machos quedan520hembras.520/800=0.65."
+    },
+    {
+      "question": 29,
+      "page": 11,
+      "topic": "Ahorro mensual porcentual",
+      "competency_code": "FE",
+      "answer_proposal": "B",
+      "reason": "900000*3/100*10=270000."
+    },
+    {
+      "question": 30,
+      "page": 11,
+      "topic": "Conteo de codigos con repeticion",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "Cinco digitos disponibles en cuatro posiciones:5^4=625codigos."
+    },
+    {
+      "question": 31,
+      "page": 12,
+      "topic": "Correlacion positiva",
+      "competency_code": "IR",
+      "answer_proposal": "D",
+      "reason": "Tendencia creciente de horas y calorias corresponde aD,no curvas decrecientes o promedio horizontal."
+    },
+    {
+      "question": 32,
+      "page": 12,
+      "topic": "Area de region en L",
+      "competency_code": "FE",
+      "answer_proposal": "A",
+      "reason": "Cuarto de torta30*10=300;se resta subrectangulo15*5=75.Queda225cm2,la region1incluye franja superior y no solo rectangulo inferior.",
+      "alert": "Conservar correccion previa del caso;no volver a150por omitir franja superior."
+    },
+    {
+      "question": 33,
+      "page": 12,
+      "topic": "Total de premios ponderado por cantidad",
+      "competency_code": "FE",
+      "answer_proposal": "B",
+      "reason": "5*10millones=50;25*5millones=125;100*1millon=100millones."
+    },
+    {
+      "question": 34,
+      "page": 13,
+      "topic": "Consulta de intervalo en tabla de subsidio",
+      "competency_code": "IR",
+      "answer_proposal": "C",
+      "reason": "1500000esta entre1472901y1606800,con13SMMLVde subsidio.",
+      "alert": "Valores del ejercicio,no informacion financiera vigente."
+    },
+    {
+      "question": 35,
+      "page": 13,
+      "topic": "Crecimiento estricto y tramo constante",
+      "competency_code": "AR",
+      "answer_proposal": "C",
+      "reason": "El tramo horizontal con distintosx e igualy contradice estrictamente creciente,aunque no decrezca."
+    },
+    {
+      "question": 36,
+      "page": 14,
+      "topic": "Porcentaje de masa reciclada",
+      "competency_code": "FE",
+      "answer_proposal": "A",
+      "reason": "50ton*0.40=20ton."
+    },
+    {
+      "question": 37,
+      "page": 14,
+      "topic": "Normalizacion de proporcion de fichas",
+      "competency_code": "IR",
+      "answer_proposal": "C",
+      "reason": "Solo P1yR3quedan:total4;P1/4yR3/4.DiagramaC."
+    },
+    {
+      "question": 38,
+      "page": 14,
+      "topic": "Frecuencia anual de tareas",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "Procedimiento26*12/6*2=104veces por habitante.",
+      "alert": "26dias/mes es supuesto dado, no conteo exacto de todos los anos."
+    }
+  ],
+  "next": "Continuar39desdepagina15."
+}

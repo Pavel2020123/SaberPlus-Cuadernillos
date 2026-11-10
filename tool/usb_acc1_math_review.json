@@ -1,0 +1,257 @@
+{
+  "file_id": "USB-91836110f48e",
+  "date": "2026-10-29",
+  "area": "Matematicas",
+  "scope": "Preguntas1-25, paginas fisicas2-9 leidas visualmente completas, con figuras y alternativas. Portada declaraACC1,2026-1,primera sesion y143 preguntas, sin autenticar. Sin claves resaltadas observadas. Propuestas pendientes de docente.",
+  "competency_legend": {
+    "IR": "Interpretacion y representacion",
+    "FE": "Formulacion y ejecucion",
+    "AR": "Argumentacion"
+  },
+  "items": [
+    {
+      "question": 1,
+      "page": 2,
+      "topic": "Datos suficientes para area de prisma rectangular",
+      "competency_code": "AR",
+      "answer_proposal": "B",
+      "reason": "Con area de base A y ancho w se obtiene largo A/w; con volumen V se obtiene altura V/A. Quedan determinadas todas las caras.",
+      "alert": "Area de base y altura, por si solas, no separan largo y ancho; no asumir base cuadrada."
+    },
+    {
+      "question": 2,
+      "page": 2,
+      "topic": "Sucesion geometrica de duplicacion",
+      "competency_code": "FE",
+      "answer_proposal": "D",
+      "reason": "La primera casilla tiene1=2 elevado a0; en casilla n hay2 elevado a(n-1).",
+      "ocr_correction": "El exponente n-1 debe conservarse; el OCR puede omitir superindices."
+    },
+    {
+      "question": 3,
+      "page": 2,
+      "topic": "Pertinencia de Pitagoras en instalacion de cable",
+      "competency_code": "AR",
+      "answer_proposal": "A",
+      "reason": "Pitagoras mide diagonal atravesando el vano; para no obstruir paso, el recorrido usual debe seguir bordes y no la diagonal.",
+      "alert": "La conclusion depende de interpretar el cable atravesando el vano sin otra sujecion; el enunciado no detalla ruta real de instalacion."
+    },
+    {
+      "question": 4,
+      "page": 3,
+      "topic": "Semejanza de triangulos y conservacion angular",
+      "competency_code": "AR",
+      "answer_proposal": "B",
+      "reason": "Duplicar lados conserva angulos; duplicar40 grados cambia proporciones y es el primer error."
+    },
+    {
+      "question": 5,
+      "page": 3,
+      "topic": "Insuficiencia de datos en descuento algebraico",
+      "competency_code": "AR",
+      "answer_proposal": "B",
+      "reason": "Sin precios x e y no se determina el monto0,2x+0,1y; conocer tasas no basta."
+    },
+    {
+      "question": 6,
+      "page": 3,
+      "topic": "Reparto proporcional de excedente de cuenta",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "Excedente500000-300000=200000; el jugo representa5000/500000 de la cuenta. Pago proporcional:2000 pesos.",
+      "alert": "Se sigue reparto proporcional al consumo indicado, no reparto igual de aporte empresarial por trabajador."
+    },
+    {
+      "question": 7,
+      "page": 4,
+      "topic": "Reconstruccion de factura y valor unitario",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "Restar del total los otros importes permite hallar valor total de arveja y dividir entre5 libras; el total resulta31770 y precio6354 por libra."
+    },
+    {
+      "question": 8,
+      "page": 4,
+      "topic": "Comparacion de sumas por categoria",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "Totales X30,Y35,Z40,W25; la ciudad Z obtiene mas medallas."
+    },
+    {
+      "question": 9,
+      "page": 4,
+      "topic": "Posicion polar y desplazamiento radial",
+      "competency_code": "IR",
+      "answer_proposal": "D",
+      "reason": "La distancia aumenta de100 a130 km manteniendo angulo50 grados a la derecha del norte."
+    },
+    {
+      "question": 10,
+      "page": 4,
+      "topic": "Conversion de unidad no estandar a centimetros",
+      "competency_code": "FE",
+      "answer_proposal": "B",
+      "reason": "El diametro son8 cuartas de21,5 cm:172 cm."
+    },
+    {
+      "question": 11,
+      "page": 5,
+      "topic": "Coordenadas de vertices en plano cartesiano",
+      "competency_code": "IR",
+      "answer_proposal": "C",
+      "reason": "El rectangulo que encierra el barco va de x4 a9 y de y5 a6; respetar orden(x,y)."
+    },
+    {
+      "question": 12,
+      "page": 5,
+      "topic": "Mediana tras quitar extremos de muestra impar",
+      "competency_code": "AR",
+      "answer_proposal": "B",
+      "reason": "Ambas listas conservan mediana34 al retirar10 y52; la central de los cinco datos restantes sigue siendo34."
+    },
+    {
+      "question": 13,
+      "page": 5,
+      "topic": "Condicion de perpendicularidad para area triangular",
+      "competency_code": "AR",
+      "answer_proposal": "A",
+      "reason": "Para usar MN por NO dividido entre2, esos segmentos deben actuar como base y altura perpendiculares."
+    },
+    {
+      "question": 14,
+      "page": 5,
+      "topic": "Area de sector circular de tres cuartos",
+      "competency_code": "FE",
+      "answer_proposal": "B",
+      "reason": "Tres cuartos de pi por2 al cuadrado son3pi, aproximadamente9,42 cm2."
+    },
+    {
+      "question": 15,
+      "page": 6,
+      "topic": "Verificacion de medidas de tendencia central",
+      "competency_code": "AR",
+      "answer_proposal": "D",
+      "reason": "La media no puede ser 11 si los datos van de 11 a 16 y varios superan 11; suma 96 y media 96/7. Moda15, mediana14 y rango5 son correctos.",
+      "related_file_id": "USB-1c44481d3d4a",
+      "related_question": 40,
+      "related_page": 16
+    },
+    {
+      "question": 16,
+      "page": 6,
+      "topic": "Modelo lineal aproximado de crecimiento",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "La serie inicia cerca de 4 mm y aumenta aproximadamente un milimetro por dia; L=T+4 ajusta mejor entre opciones.",
+      "alert": "Es un ajuste aproximado a medidas fluctuantes, no igualdad exacta de cada punto.",
+      "related_file_id": "USB-1c44481d3d4a",
+      "related_question": 41,
+      "related_page": 16
+    },
+    {
+      "question": 17,
+      "page": 6,
+      "topic": "Suma algebraica de fracciones",
+      "competency_code": "FE",
+      "answer_proposal": "B",
+      "reason": "x/2 + x/6 = 3x/6+x/6 =4x/6.",
+      "related_file_id": "USB-1c44481d3d4a",
+      "related_question": 42,
+      "related_page": 16
+    },
+    {
+      "question": 18,
+      "page": 7,
+      "topic": "Conversion de volumen y tasa de fuga",
+      "competency_code": "AR",
+      "answer_proposal": "B",
+      "reason": "25 por 10 por 20 =5000 cm3=5 L; vaciarlo en media hora equivale a tasa media 10 L/h; en 24 horas a tasa constante serian 240 L.",
+      "alert": "La proyeccion presupone tanque abastecido y tasa constante: tras retirar manguera el tanque vacio no pierde otros 235 L; una fuga real depende de altura. B es la razon prevista del modelo, no prueba fisica completa. D ofrece el factor numerico 48, pero no explica la extrapolacion temporal.",
+      "related_file_id": "USB-1c44481d3d4a",
+      "related_question": 43,
+      "related_page": 17
+    },
+    {
+      "question": 19,
+      "page": 7,
+      "topic": "Paso redundante en calculo de ingresos no percibidos",
+      "competency_code": "AR",
+      "answer_proposal": "C",
+      "reason": "El total de boletas sin vender no es necesario si se calcula directamente perdida de cada zona y luego se suman importes.",
+      "related_file_id": "USB-1c44481d3d4a",
+      "related_question": 44,
+      "related_page": 17
+    },
+    {
+      "question": 20,
+      "page": 8,
+      "topic": "Conversion de porcentajes a frecuencias",
+      "competency_code": "FE",
+      "answer_proposal": "A",
+      "reason": "De 200 personas, 40,35 y 25 por ciento son 80,70 y50 respectivamente.",
+      "alert": "La encuesta solo reporta percepcion de participantes, no demuestra eficacia de medicamento.",
+      "related_file_id": "USB-1c44481d3d4a",
+      "related_question": 45,
+      "related_page": 18
+    },
+    {
+      "question": 21,
+      "page": 8,
+      "topic": "Variables numericas aptas para media aritmetica",
+      "competency_code": "IR",
+      "answer_proposal": "C",
+      "reason": "Pares vendidos y horas trabajadas son numericos. Estado civil y nacionalidad no admiten ese promedio directo.",
+      "alert": "Calcular medias por separado, no promediar conjuntamente horas con pares de zapatos.",
+      "related_file_id": "USB-1c44481d3d4a",
+      "related_question": 46,
+      "related_page": 18
+    },
+    {
+      "question": 22,
+      "page": 9,
+      "topic": "Relacion de radio y diametro",
+      "competency_code": "FE",
+      "answer_proposal": "D",
+      "reason": "El radio es la mitad del diametro de 100 cm: 50 cm.",
+      "related_file_id": "USB-1c44481d3d4a",
+      "related_question": 47,
+      "related_page": 19
+    },
+    {
+      "question": 23,
+      "page": 9,
+      "topic": "Area de hoja compuesta por cuadrado y sector circular",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "Se suma r2 con tres cuartos de pi por r2.",
+      "visual_dependency": "El radio r y el sector de 270 grados dependen del contorno y las lineas punteadas del dibujo.",
+      "related_file_id": "USB-1c44481d3d4a",
+      "related_question": 48,
+      "related_page": 19
+    },
+    {
+      "question": 24,
+      "page": 9,
+      "topic": "Analisis dimensional del volumen de piramide",
+      "competency_code": "AR",
+      "answer_proposal": "B",
+      "reason": "Area de base 3 por 3=9 cm2 y altura 5 cm: volumen 15 cm3. El numero 15 es correcto, la unidad cm es incorrecta.",
+      "related_file_id": "USB-1c44481d3d4a",
+      "related_question": 49,
+      "related_page": 19
+    },
+    {
+      "question": 25,
+      "page": 9,
+      "topic": "Mediana y moda de lista de horas",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "En los 12 datos ordenados, posiciones 6 y7 son6; el valor mas frecuente tambien es6. Moda y mediana coinciden.",
+      "related_file_id": "USB-1c44481d3d4a",
+      "related_question": 50,
+      "related_page": 19
+    }
+  ],
+  "comparison_scope": "Once pares15-25 con40-50 deABV2 cotejados visualmente; cambian numeracion y paginas. No identidad de archivo ni permiso para eliminar por semejanza. Los demas items no se declaran unicos de toda la coleccion.",
+  "next": "Lectura critica comienza en26, pagina fisica10; resto del archivo pendiente."
+}

@@ -1,0 +1,196 @@
+{
+  "file_id": "USB-04dc5257ed8b",
+  "date": "2026-10-30",
+  "area": "Matematicas",
+  "scope": "Revisión inicial visual de preguntas 1-5,9-15,18-19 en páginas físicas2-6. Orden físico alterado. No constituye revisión completa del PDF ni clave oficial.",
+  "competency_legend": {
+    "IR": "Interpretación y representación",
+    "FE": "Formulación y ejecución",
+    "AR": "Argumentación"
+  },
+  "items": [
+    {
+      "question": 1,
+      "page": 2,
+      "topic": "Interpretación de tarifa de parqueadero",
+      "competency_code": "IR",
+      "answer_proposal": "C",
+      "reason": "La tarifa permanece en 3000 durante las primeras seis horas y después aumenta linealmente hasta 9000 a las doce horas.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "marca gris sobre letra de opción",
+        "provenance": "Marca visible en el PDF de origen; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 2,
+      "page": 2,
+      "topic": "Volumen de prisma con dimensiones relacionadas",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "Si la altura es h, el ancho es h/3 y el largo 2h/3; el volumen es 2h³/9.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "marca gris sobre letra de opción",
+        "provenance": "Marca visible en el PDF de origen; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 3,
+      "page": 2,
+      "topic": "Probabilidad y espacio muestral",
+      "competency_code": "AR",
+      "answer_proposal": "C",
+      "reason": "Tres victorias y diez derrotas suman trece carreras; la probabilidad empírica usa 3/13 y no 3/10.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "marca gris sobre letra de opción",
+        "provenance": "Marca visible en el PDF de origen; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 4,
+      "page": 3,
+      "topic": "Comparación de porcentajes de ahorro",
+      "competency_code": "FE",
+      "answer_proposal": "A",
+      "reason": "Sobre los ahorros acumulados de 100000, 200000 y 300000, la madre aporta 60000 y el padre 58000; conviene la madre.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "marca gris sobre letra de opción",
+        "provenance": "Marca visible en el PDF de origen; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 5,
+      "page": 3,
+      "topic": "Conversión entre gráfico porcentual y barras",
+      "competency_code": "IR",
+      "answer_proposal": "A",
+      "reason": "De cien consultas corresponden 30 a biología, 20 a inglés, 40 a sociales y 10 a matemáticas.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "marca gris sobre letra de opción",
+        "provenance": "Marca visible en el PDF de origen; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 9,
+      "page": 4,
+      "topic": "Validación de sucesión multiplicativa",
+      "competency_code": "AR",
+      "answer_proposal": "D",
+      "reason": "La lista 2,4,6,8,10 no duplica cada término anterior: por ejemplo, después de 4 tendría que aparecer 8 y no 6.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "marca gris sobre letra de opción",
+        "provenance": "Marca visible en el PDF de origen; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 10,
+      "page": 4,
+      "topic": "Ordenación de frecuencias en tabla",
+      "competency_code": "IR",
+      "answer_proposal": "D",
+      "reason": "Los visitantes son 2920,2723,2577,2386 y2345 en las temporadas 4,3,1,2 y5, respectivamente; no se pide el promedio diario.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "marca gris sobre letra de opción",
+        "provenance": "Marca visible en el PDF de origen; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 11,
+      "page": 4,
+      "topic": "Distancia por teorema de Pitágoras",
+      "competency_code": "FE",
+      "answer_proposal": "D",
+      "reason": "El desplazamiento recto mide raíz(9²+12²)=raíz225=15 km.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "marca gris sobre letra de opción",
+        "provenance": "Marca visible en el PDF de origen; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 12,
+      "page": 5,
+      "topic": "Multiplicación de cantidades y masas",
+      "competency_code": "FE",
+      "answer_proposal": "D",
+      "reason": "Tres paquetes de arroz de 2 kg pesan6 kg; dos de fríjol de1 kg pesan2 kg; dos de lenteja de0,5 kg pesan1 kg.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "marca gris sobre letra de opción",
+        "provenance": "Marca visible en el PDF de origen; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 13,
+      "page": 5,
+      "topic": "Presupuesto y cambio",
+      "competency_code": "FE",
+      "answer_proposal": "D",
+      "reason": "6000-(1000+4×900)=1400.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "marca gris sobre letra de opción",
+        "provenance": "Marca visible en el PDF de origen; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 14,
+      "page": 5,
+      "topic": "Evaluación de tabla de frecuencias",
+      "competency_code": "AR",
+      "answer_proposal": "D",
+      "reason": "La lista tiene dos valores de2000, uno de3000 y tres de4000; las frecuencias1,2,3 intercambian las dos primeras cantidades.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "marca gris sobre letra de opción",
+        "provenance": "Marca visible en el PDF de origen; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 15,
+      "page": 5,
+      "topic": "Diámetro y longitud restante",
+      "competency_code": "FE",
+      "answer_proposal": "B",
+      "reason": "El diámetro mide2×5=10 cm; el lado del cuadrado ocupa4 cm, de modo que el segmento s mide6 cm.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "marca gris sobre letra de opción",
+        "provenance": "Marca visible en el PDF de origen; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 18,
+      "page": 6,
+      "topic": "Porcentaje de una población y gráfico",
+      "competency_code": "IR",
+      "answer_proposal": "C",
+      "reason": "El60% de50 estudiantes es30; la opción C representa treinta estudiantes.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "marca gris sobre letra de opción",
+        "provenance": "Marca visible en el PDF de origen; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 19,
+      "page": 6,
+      "topic": "Perímetro de polígonos regulares",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "30/5=6 lados: la intención del ítem corresponde al hexágonoC.",
+      "alert": "Alerta propagada del cotejo con USB-2722e7c48dfd pregunta41: un hexágono regular de lado5 tendría apotema5√3/2≈4,33cm, no4exactos. Datos geométricamente inconsistentes; C identifica intención por número de lados, no una figura exacta con todos los datos.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "marca gris sobre letra de opción",
+        "provenance": "Marca visible en el PDF de origen; autoría y carácter oficial no comprobados."
+      }
+    }
+  ]
+}

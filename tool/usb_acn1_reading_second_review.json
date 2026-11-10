@@ -1,0 +1,136 @@
+{
+  "file_id": "USB-77cc8ac26d2c",
+  "date": "2026-10-29",
+  "area": "Lectura critica",
+  "scope": "Preguntas32-35,39-43 inspeccionadas visualmente en paginasfisicas21,16,17.No se infieren36-38ni46por continuidad.Competencias y claves propuestas,sin validacion docente.",
+  "competency_legend": {
+    "L": "Identifica y entiende los contenidos locales que conforman un texto",
+    "G": "Comprende como se articulan las partes de un texto para darle un sentido global",
+    "R": "Reflexiona a partir de un texto y evalua su contenido"
+  },
+  "contexts": [
+    {
+      "id": "ACN1-LC04",
+      "questions": [
+        32,
+        33,
+        34,
+        35
+      ],
+      "pages": [
+        21
+      ],
+      "title": "De ratones y hombres",
+      "source_as_printed": "Steinbeck,J.(2009).De ratones y hombres.Edhasa."
+    },
+    {
+      "id": "ACN1-LC05",
+      "questions": [
+        39,
+        40
+      ],
+      "pages": [
+        16
+      ],
+      "title": "No me toques el pelo",
+      "source_as_printed": "Vidal,V.(2022,3diciembre).No me toques el pelo.Revista Cambio Colombia."
+    },
+    {
+      "id": "ACN1-LC06",
+      "questions": [
+        41,
+        42,
+        43
+      ],
+      "pages": [
+        17
+      ],
+      "title": "El arte y la ciencia mas alla de la utilidad",
+      "source_as_printed": "Suarez,C.(2017).Revista Politecia."
+    }
+  ],
+  "items": [
+    {
+      "question": 32,
+      "page": 21,
+      "topic": "Identificacion de personaje y accion",
+      "competency_code": "L",
+      "answer_proposal": "C",
+      "reason": "El patron saco y abrio la libreta donde habia un lapiz.",
+      "context": "ACN1-LC04"
+    },
+    {
+      "question": 33,
+      "page": 21,
+      "topic": "Razon de valoracion de trabajador",
+      "competency_code": "L",
+      "answer_proposal": "C",
+      "reason": "Jorge destaca fuerza deCharlie,capaz de cargar200kg,no inteligencia.",
+      "context": "ACN1-LC04"
+    },
+    {
+      "question": 34,
+      "page": 21,
+      "topic": "Intencion de reclamo en dialogo",
+      "competency_code": "G",
+      "answer_proposal": "D",
+      "reason": "Patron reclama aJorge no dejar queCharlie responda,ante sospecha de engano.",
+      "context": "ACN1-LC04"
+    },
+    {
+      "question": 35,
+      "page": 21,
+      "topic": "Parafrasis de perspectiva emocional",
+      "competency_code": "G",
+      "answer_proposal": "D",
+      "reason": "Mirada enfurecida y bajar cara por incumplir recomendaciones conserva enojo y verguenza.",
+      "context": "ACN1-LC04"
+    },
+    {
+      "question": 39,
+      "page": 16,
+      "topic": "Funcion de apertura de texto",
+      "competency_code": "G",
+      "answer_proposal": "D",
+      "reason": "Escena en peluqueria introduce contexto de cabello e identidad,no define formalmente concepto.",
+      "context": "ACN1-LC05"
+    },
+    {
+      "question": 40,
+      "page": 16,
+      "topic": "Funcion de conector concesivo",
+      "competency_code": "G",
+      "answer_proposal": "B",
+      "reason": "Aunque introduce hecho que no impide otro:rasgos no predominantes siguen valorados como normales.",
+      "context": "ACN1-LC05"
+    },
+    {
+      "question": 41,
+      "page": 17,
+      "topic": "Conector de reformulacion",
+      "competency_code": "G",
+      "answer_proposal": "B",
+      "reason": "En otras palabras introduce explicacion equivalente de idea previa.",
+      "context": "ACN1-LC06"
+    },
+    {
+      "question": 42,
+      "page": 17,
+      "topic": "Tema global sobre belleza y ciencias",
+      "competency_code": "G",
+      "answer_proposal": "D",
+      "reason": "La belleza integra productos del ingenio humano,incluidas ciencias,no solo critica ni utilidad.",
+      "context": "ACN1-LC06"
+    },
+    {
+      "question": 43,
+      "page": 17,
+      "topic": "Argumento contra exclusion de belleza",
+      "competency_code": "R",
+      "answer_proposal": "C",
+      "reason": "Experiencia muestra objetos utiles tambien bellos aunque belleza no sea atributo primario.",
+      "context": "ACN1-LC06"
+    }
+  ],
+  "next": "Lectura36-38y46aunporlocalizar.EltextoLaobra maestray44-45enfisica17vistos,pendientecierre46."
+}

@@ -1,0 +1,53 @@
+{
+  "file_id": "USB-45e476387c60",
+  "date": "2026-10-30",
+  "area": "Matemáticas",
+  "scope": "Física 17, impresa 16, preguntas 47-50 cotejadas contra ABR2 física12 preguntas36-39: mismas opciones, texto y datos. Cierre inicial de Matemáticas 26-50.",
+  "items": [],
+  "duplicate_occurrences": [
+    {
+      "question": 47,
+      "page": 17,
+      "printed_page": 16,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 36,
+      "canonical_page": 12,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de ambos PDF; mismos enunciados, cifras, pasos y opciones A-D, distinta numeración y presentación.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 48,
+      "page": 17,
+      "printed_page": 16,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 37,
+      "canonical_page": 12,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de ambos PDF; mismos enunciados, cifras, pasos y opciones A-D, distinta numeración y presentación.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 49,
+      "page": 17,
+      "printed_page": 16,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 38,
+      "canonical_page": 12,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de ambos PDF; mismos enunciados, cifras, pasos y opciones A-D, distinta numeración y presentación.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 50,
+      "page": 17,
+      "printed_page": 16,
+      "canonical_file_id": "USB-f00a52c8b6f2",
+      "canonical_question": 39,
+      "canonical_page": 12,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de ambos PDF; mismos enunciados, cifras, pasos y opciones A-D, distinta numeración y presentación.",
+      "observed_annotation": "No se observa respuesta marcada."
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "file_id": "USB-8e6cf8399239",
+  "date": "2026-10-30",
+  "area": "Cuestionario socioeconómico",
+  "scope": "Física41 completa inspeccionada. Preguntas121-131 autoinformes sin claves y explícitamente no calificables.",
+  "items": [
+    {
+      "question": 121,
+      "page": 41,
+      "topic": "Nivel educativo del padre",
+      "competency_proposal": "No aplica: autoinforme socioeconómico",
+      "answer_proposal": null,
+      "reason": "Respuesta personal; sin opción correcta. Excluir de calificación y competencias académicas.",
+      "exclude_academic": true
+    },
+    {
+      "question": 122,
+      "page": 41,
+      "topic": "Nivel educativo de la madre",
+      "competency_proposal": "No aplica: autoinforme socioeconómico",
+      "answer_proposal": null,
+      "reason": "Respuesta personal; sin opción correcta. Excluir de calificación y competencias académicas.",
+      "exclude_academic": true
+    },
+    {
+      "question": 123,
+      "page": 41,
+      "topic": "Estrato socioeconómico de vivienda",
+      "competency_proposal": "No aplica: autoinforme socioeconómico",
+      "answer_proposal": null,
+      "reason": "Respuesta personal; sin opción correcta. Excluir de calificación y competencias académicas.",
+      "exclude_academic": true
+    },
+    {
+      "question": 124,
+      "page": 41,
+      "topic": "Conexión a Internet del hogar",
+      "competency_proposal": "No aplica: autoinforme socioeconómico",
+      "answer_proposal": null,
+      "reason": "Respuesta personal; sin opción correcta. Excluir de calificación y competencias académicas.",
+      "exclude_academic": true
+    },
+    {
+      "question": 125,
+      "page": 41,
+      "topic": "Televisión por suscripción",
+      "competency_proposal": "No aplica: autoinforme socioeconómico",
+      "answer_proposal": null,
+      "reason": "Respuesta personal; sin opción correcta. Excluir de calificación y competencias académicas.",
+      "exclude_academic": true
+    },
+    {
+      "question": 126,
+      "page": 41,
+      "topic": "Cantidad de libros del hogar",
+      "competency_proposal": "No aplica: autoinforme socioeconómico",
+      "answer_proposal": null,
+      "reason": "Respuesta personal; sin opción correcta. Excluir de calificación y competencias académicas.",
+      "exclude_academic": true
+    },
+    {
+      "question": 127,
+      "page": 41,
+      "topic": "Tiempo diario de lectura por entretenimiento",
+      "competency_proposal": "No aplica: autoinforme socioeconómico",
+      "answer_proposal": null,
+      "reason": "Respuesta personal; sin opción correcta. Excluir de calificación y competencias académicas.",
+      "exclude_academic": true
+    },
+    {
+      "question": 128,
+      "page": 41,
+      "topic": "Tiempo diario de navegación no académica",
+      "competency_proposal": "No aplica: autoinforme socioeconómico",
+      "answer_proposal": null,
+      "reason": "Respuesta personal; sin opción correcta. Excluir de calificación y competencias académicas.",
+      "exclude_academic": true
+    },
+    {
+      "question": 129,
+      "page": 41,
+      "topic": "Frecuencia de consumo de lácteos",
+      "competency_proposal": "No aplica: autoinforme socioeconómico",
+      "answer_proposal": null,
+      "reason": "Respuesta personal; sin opción correcta. Excluir de calificación y competencias académicas.",
+      "exclude_academic": true
+    },
+    {
+      "question": 130,
+      "page": 41,
+      "topic": "Frecuencia de consumo de carnes,pescados o huevos",
+      "competency_proposal": "No aplica: autoinforme socioeconómico",
+      "answer_proposal": null,
+      "reason": "Respuesta personal; sin opción correcta. Excluir de calificación y competencias académicas.",
+      "exclude_academic": true
+    },
+    {
+      "question": 131,
+      "page": 41,
+      "topic": "Frecuencia de consumo de cereales,frutos secos o legumbres",
+      "competency_proposal": "No aplica: autoinforme socioeconómico",
+      "answer_proposal": null,
+      "reason": "Respuesta personal; sin opción correcta. Excluir de calificación y competencias académicas.",
+      "exclude_academic": true
+    }
+  ]
+}

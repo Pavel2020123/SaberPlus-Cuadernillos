@@ -1,0 +1,171 @@
+{
+  "file_id": "USB-4d0661231ca3",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Físicas21-24completas.56-66once referencias;67-70cuatro fichas,70sin clave por alternativasB/Cverdaderas.",
+  "items": [
+    {
+      "question": 67,
+      "page": 24,
+      "printed_page": 24,
+      "answer_proposal": "B",
+      "topic": "Diseño de investigación ambiental",
+      "competency_proposal": "Indagación",
+      "reason": "Medir turbidez,peso y número de peces junto con extracción permite evaluar asociación en otro río.",
+      "alert": "No demuestra causalidad sin controlar variables;no extrapolar automáticamente resultados de río anterior."
+    },
+    {
+      "question": 68,
+      "page": 24,
+      "printed_page": 24,
+      "answer_proposal": "B",
+      "topic": "Presión minera y calidad de agua",
+      "competency_proposal": "Explicación de fenómenos",
+      "reason": "Contexto vincula extracción de arenisca con partículas suspendidas y menor calidad de agua;B.",
+      "alert": "Hipótesis causal del caso,no estudio real exhaustivo de calidad."
+    },
+    {
+      "question": 69,
+      "page": 24,
+      "printed_page": 24,
+      "answer_proposal": "A",
+      "topic": "Interpretación de rango de pesos",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "reason": "Peso mínimo permanece50g;máximo desciende250a55g. Peces más pequeños mantienen peso según tabla.",
+      "alert": "No implica seguir mismos individuos ni ausencia de cambio en otras variables."
+    },
+    {
+      "question": 70,
+      "page": 24,
+      "printed_page": 24,
+      "answer_proposal": null,
+      "topic": "Condiciones simultáneas en LED",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "reason": "B yCresultan compatibles:gruposIIIA+VA=3+5=8y diferencias2.19−1.81=0.38y2.18−1.81=0.37sonmenores1.7. No hay única opción correcta.",
+      "alert": "AMBIGUO:dos opciones verdaderas explícitas. No clave automática;revisar o descartar antes de reutilizar."
+    }
+  ],
+  "duplicate_occurrences": [
+    {
+      "question": 56,
+      "page": 21,
+      "printed_page": 21,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 56,
+      "canonical_page": 19,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de contextos,vacunas,membrana,escarabajos,corales,polillas,fósiles,cuerda,reacciones,separación,gráfica y masa lunar conLasLajasfísicas19-21;opciones idénticas.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 57,
+      "page": 21,
+      "printed_page": 21,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 57,
+      "canonical_page": 19,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de contextos,vacunas,membrana,escarabajos,corales,polillas,fósiles,cuerda,reacciones,separación,gráfica y masa lunar conLasLajasfísicas19-21;opciones idénticas.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 58,
+      "page": 21,
+      "printed_page": 21,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 58,
+      "canonical_page": 19,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de contextos,vacunas,membrana,escarabajos,corales,polillas,fósiles,cuerda,reacciones,separación,gráfica y masa lunar conLasLajasfísicas19-21;opciones idénticas.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 59,
+      "page": 22,
+      "printed_page": 22,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 59,
+      "canonical_page": 20,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de contextos,vacunas,membrana,escarabajos,corales,polillas,fósiles,cuerda,reacciones,separación,gráfica y masa lunar conLasLajasfísicas19-21;opciones idénticas.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 60,
+      "page": 22,
+      "printed_page": 22,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 60,
+      "canonical_page": 20,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de contextos,vacunas,membrana,escarabajos,corales,polillas,fósiles,cuerda,reacciones,separación,gráfica y masa lunar conLasLajasfísicas19-21;opciones idénticas.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 61,
+      "page": 22,
+      "printed_page": 22,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 61,
+      "canonical_page": 20,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de contextos,vacunas,membrana,escarabajos,corales,polillas,fósiles,cuerda,reacciones,separación,gráfica y masa lunar conLasLajasfísicas19-21;opciones idénticas.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 62,
+      "page": 22,
+      "printed_page": 22,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 62,
+      "canonical_page": 20,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de contextos,vacunas,membrana,escarabajos,corales,polillas,fósiles,cuerda,reacciones,separación,gráfica y masa lunar conLasLajasfísicas19-21;opciones idénticas.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 63,
+      "page": 23,
+      "printed_page": 23,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 63,
+      "canonical_page": 21,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de contextos,vacunas,membrana,escarabajos,corales,polillas,fósiles,cuerda,reacciones,separación,gráfica y masa lunar conLasLajasfísicas19-21;opciones idénticas.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 64,
+      "page": 23,
+      "printed_page": 23,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 64,
+      "canonical_page": 21,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de contextos,vacunas,membrana,escarabajos,corales,polillas,fósiles,cuerda,reacciones,separación,gráfica y masa lunar conLasLajasfísicas19-21;opciones idénticas.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 65,
+      "page": 23,
+      "printed_page": 23,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 65,
+      "canonical_page": 21,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de contextos,vacunas,membrana,escarabajos,corales,polillas,fósiles,cuerda,reacciones,separación,gráfica y masa lunar conLasLajasfísicas19-21;opciones idénticas.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 66,
+      "page": 23,
+      "printed_page": 23,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 66,
+      "canonical_page": 21,
+      "exact_content": true,
+      "verification": "Cotejo visual completo de contextos,vacunas,membrana,escarabajos,corales,polillas,fósiles,cuerda,reacciones,separación,gráfica y masa lunar conLasLajasfísicas19-21;opciones idénticas.",
+      "observed_annotation": "Sin marca relevante."
+    }
+  ]
+}

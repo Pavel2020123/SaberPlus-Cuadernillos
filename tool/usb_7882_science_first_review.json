@@ -1,0 +1,119 @@
+{
+  "file_id": "USB-7882c8f9ae2f",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Preguntas51-62en físicas17-20 inspeccionadas visualmente con contextos, tablas y diagramas. Propuestas iniciales no oficiales; no recomendaciones médicas; sin opciones marcadas observadas.",
+  "competency_legend": {
+    "U": "Uso comprensivo del conocimiento científico",
+    "E": "Explicación de fenómenos",
+    "I": "Indagación"
+  },
+  "items": [
+    {
+      "question": 51,
+      "page": 17,
+      "topic": "Función ecológica de polinizador",
+      "competency_code": "E",
+      "answer_proposal": "D",
+      "reason": "Perder el colibrí reduce polinización y capacidad reproductiva de plantas que dependen de esa interacción.",
+      "alert": "Se explica la dependencia del caso; no se verifica estado actual de conservación local."
+    },
+    {
+      "question": 52,
+      "page": 17,
+      "topic": "Fuerza gravitacional durante un clavado",
+      "competency_code": "U",
+      "answer_proposal": "C",
+      "reason": "El peso permanece aproximadamente constante para masa fija y pequeñas diferencias de altura, aunque cambien normal,flotación y resistencia.",
+      "alert": "La aproximación de gconstante es local; no significa que fuerza neta o aceleración sean constantes al entrar al agua."
+    },
+    {
+      "question": 53,
+      "page": 17,
+      "topic": "Clasificación de sustancias por pH",
+      "competency_code": "U",
+      "answer_proposal": "A",
+      "reason": "LimónpH2y tomatepH4son ácidos por estar debajo de7; no tienen el mismo pH."
+    },
+    {
+      "question": 54,
+      "page": 18,
+      "topic": "Compresión de gas y presión",
+      "competency_code": "E",
+      "answer_proposal": "D",
+      "reason": "Bajo el modelo de aire atrapado con cantidad y temperatura constantes, disminuir volumen aumenta presión inversamente.",
+      "alert": "El enunciado dice necesariamente: no es ley universal para alvéolos abiertos o con intercambio y cambios térmicos. Drequiere sistema cerrado aproximadamente isotérmico. Caso pedagógico, no explicación clínica completa."
+    },
+    {
+      "question": 55,
+      "page": 18,
+      "topic": "Representación de cobertura por número de cepas",
+      "competency_code": "U",
+      "answer_proposal": "A",
+      "reason": "El contexto indica23cepas paraPPSV23y13paraPCV13; Aconserva esos valores y etiquetas.",
+      "alert": "No confundir porcentajes60o90con número de cepas; afirmaciones del material no se verifican como consejo médico actual."
+    },
+    {
+      "question": 56,
+      "page": 19,
+      "topic": "Relación entre prevención y hospitalización",
+      "competency_code": "E",
+      "answer_proposal": "B",
+      "reason": "Entre las opciones,Bes la única que vincula vacunas con menor afectación por bacterias, coherente con finalidad preventiva del contexto.",
+      "alert": "El dato reduce hospitalización y describe protección; no demuestra específicamente reducción de contagio. La opciónBsimplifica mecanismos. No usar para recomendación médica."
+    },
+    {
+      "question": 57,
+      "page": 19,
+      "topic": "Difusión facilitada por transportadores",
+      "competency_code": "U",
+      "answer_proposal": "B",
+      "reason": "Ingreso a favor de gradiente,sin gasto energético y por proteínas transportadoras corresponde a difusión facilitada mediada por transportadores.",
+      "alert": "El enunciado generaliza concentraciones y transporte de glucosa; se clasifica el mecanismo definido, no todas las células."
+    },
+    {
+      "question": 58,
+      "page": 19,
+      "topic": "Herencia de variación y selección natural",
+      "competency_code": "E",
+      "answer_proposal": "B",
+      "reason": "El modelo representa variación heredable y mayor descendencia de variantes favorables, no transmisión de caracteres adquiridos por esfuerzo.",
+      "alert": "La figura por sí sola no prueba toda teoría genética ni que solo mutaciones nuevas se transmitan; evitar lenguaje de mutaciones generadas por necesidad."
+    },
+    {
+      "question": 59,
+      "page": 20,
+      "topic": "Evaluación de hipótesis ante evidencia nueva",
+      "competency_code": "I",
+      "answer_proposal": "A",
+      "reason": "Sin aumento de temperatura registrado,la hipótesis original no explica el cambio; vertimientos aportan otro factor posible.",
+      "alert": "La asociación con vertimientos tampoco prueba causalidad sin controles; albino simplifica blanqueamiento de coral."
+    },
+    {
+      "question": 60,
+      "page": 20,
+      "topic": "Selección por camuflaje ante cambio ambiental",
+      "competency_code": "E",
+      "answer_proposal": "C",
+      "reason": "Si troncos recuperan tono claro,polillas claras obtienen ventaja de camuflaje y tenderían a aumentar relativamente.",
+      "alert": "Predicción condicionada al escenario, no cambio instantáneo de color individual ni abundancia garantizada."
+    },
+    {
+      "question": 61,
+      "page": 20,
+      "topic": "Origen común de combustibles fósiles",
+      "competency_code": "U",
+      "answer_proposal": "B",
+      "reason": "Ambos se forman a partir de materia orgánica transformada durante largos periodos por condiciones físicas específicas."
+    },
+    {
+      "question": 62,
+      "page": 20,
+      "topic": "Contrastación de hipótesis con datos",
+      "competency_code": "I",
+      "answer_proposal": "D",
+      "reason": "A igual longitud y material,calidadpasa buena a regular y mala al aumentar grosor; contradice que no importe grosor.",
+      "alert": "La prueba mantiene fuerza aplicada,pero igual fuerza no implica igual tensión mecánica por unidad de sección. El caso usa tensión de manera simplificada."
+    }
+  ]
+}

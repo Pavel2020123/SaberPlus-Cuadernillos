@@ -1,0 +1,75 @@
+{
+  "file_id": "USB-7c1a96cf7ade",
+  "date": "2026-10-31",
+  "area": "Estructura del documento",
+  "scope": "38páginas físicas inspeccionadas completas;134enunciados presentes cubiertos inicialmente. Sin portada:calendarización,código,cantidad total declarada yautenticidad no verificados.",
+  "items": [],
+  "structure": {
+    "cover": {
+      "pages": [],
+      "title": "Sin portada",
+      "code": null,
+      "declared_year_session": "2025-2por nombre y cabeceras;segunda sesión por secciones",
+      "declared_questions": null,
+      "calendar": "Sin confirmar",
+      "authenticity": "Sin verificar"
+    },
+    "sections": [
+      {
+        "area": "Sociales",
+        "questions": [
+          1,
+          25
+        ],
+        "physical_pages": [
+          1,
+          9
+        ]
+      },
+      {
+        "area": "Matemáticas",
+        "questions": [
+          26,
+          50
+        ],
+        "physical_pages": [
+          10,
+          18
+        ]
+      },
+      {
+        "area": "Ciencias",
+        "questions": [
+          51,
+          79
+        ],
+        "physical_pages": [
+          19,
+          29
+        ]
+      },
+      {
+        "area": "Inglés",
+        "questions": [
+          80,
+          134
+        ],
+        "physical_pages": [
+          30,
+          38
+        ]
+      }
+    ],
+    "academic_own": 31,
+    "academic_references": 103,
+    "excluded_self_reports": 0,
+    "missing_questions": [],
+    "absent_material": "No portada ni135-147;no inferir que fueron declaradas eneste ejemplar.",
+    "printed_page_offset": 1,
+    "reservations": "26sinclave:maízcomplementocircular9π−9noentreopciones;70varianteC esde1.7enlugardemenorde1.7,por tantoBúnica frenteABA2ambiguo.79hereda defectodesobresaturación. Trazos azulesno sonvalidación. PuzzleenlazadoaAAQ2traspromovercanónicas98y100-104sin duplicar análisis.",
+    "initial_coverage_complete": true,
+    "teacher_validated": false,
+    "global_uniqueness_certified": false,
+    "source_modified": false
+  }
+}

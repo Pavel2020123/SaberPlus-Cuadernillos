@@ -1,0 +1,80 @@
+{
+  "file_id": "USB-f00a52c8b6f2",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Preguntas72-79,físicas25-27inspeccionadas visualmente; Ciencias51-79cubierta inicialmente. Advertencias sobre modelos yalternativas conservadas.",
+  "items": [
+    {
+      "question": 72,
+      "page": 25,
+      "topic": "Selección de mezcla según propiedades",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "B",
+      "reason": "Éter ybenceno figuran como solubles entre sí y sus puntos34y80°Cdifieren46°C,superior a10.",
+      "alert": "Se responde según la tabla provista; no es protocolo de manipulación segura de disolventes."
+    },
+    {
+      "question": 73,
+      "page": 25,
+      "topic": "Velocidad límite al alejarse de fuente gravitatoria",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "C",
+      "reason": "La curva se aplana cerca de119×10²km/h; muy lejos,aceleración del planeta es despreciable yvelocidad aproximadamente constante.",
+      "alert": "No afirmar que gravedad sea exactamente cero a distancia finita ni que toda sonda escape sin otras condiciones."
+    },
+    {
+      "question": 74,
+      "page": 25,
+      "topic": "Elección de gráfico de serie temporal",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "C",
+      "reason": "La línea muestra la evolución de concentración100,97,93%en los tres tiempos,adecuada para tendencia temporal.",
+      "alert": "B yD también pueden representar valores discretos; C es preferible por continuidad temporal,no única gráfica válida. No normalizar como sectores de un total."
+    },
+    {
+      "question": 75,
+      "page": 26,
+      "topic": "Equilibrio de fuerzas en suspensión",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "B",
+      "reason": "Empuje hacia arriba debe equilibrar peso hacia abajo, sin impulso horizontal neto,para permanecer suspendido.",
+      "alert": "Equilibrio garantiza aceleración cero; para reposo también se requiere velocidad inicial cero."
+    },
+    {
+      "question": 76,
+      "page": 26,
+      "topic": "Consecuencia de eliminación de fijadores de nitrógeno",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "A",
+      "reason": "Al eliminar fijadores se interrumpe incorporación biológica delN2atmosférico al suelo ydisminuye disponibilidad para organismos.",
+      "alert": "La frase no llegue a seres vivos deAesabsoluta: reservas de nitrógeno yotras entradas pueden mantener disponibilidad temporal; no desaparece instantáneamente todo nitrógeno."
+    },
+    {
+      "question": 77,
+      "page": 27,
+      "topic": "Comparación de expansión térmica por coeficientes",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "B",
+      "reason": "En la tabla todos los metales tienen coeficientes54-87frente9-27de no metales; igual volumen inicial yΔTproducen mayor expansión metálica.",
+      "alert": "Conclusión limitada a materiales de la tabla ycondiciones comparables,no a todo metal ytodo no metal universalmente."
+    },
+    {
+      "question": 78,
+      "page": 27,
+      "topic": "Ventaja de asociación con micorrizas",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "C",
+      "reason": "El hongo asociado a raíces favorece acceso a agua ynutrientes del suelo,compatible con mayor desarrollo de planta1.",
+      "alert": "No se prueba que planta2carezca totalmente de recursos ni que hongo aumente recepción de luz."
+    },
+    {
+      "question": 79,
+      "page": 27,
+      "topic": "Tendencia temperatura-solubilidad de gas",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "D",
+      "reason": "A presión constante,solubilidad baja de3,38a0,76g/kg al aumentar temperatura0a50°C; Drecoge tendencia inversa.",
+      "alert": "No es proporcionalidad inversa matemática exacta: temperatura por solubilidad no es constante y0°Cno define inversa. Opciones confunden tendencia inversa con ley proporcional."
+    }
+  ]
+}

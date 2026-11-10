@@ -1,0 +1,493 @@
+{
+  "file_id": "USB-7c1a96cf7ade",
+  "date": "2026-10-31",
+  "area": "Inglés",
+  "scope": "Físicas33-38completas.93-134mediante7fichasCookiesy35referencias. Puzzle98-105enlazado íntegro aAAQ2traspromovercanónicas6ítems;sin análisisduplicado decontexto idéntico. Termina134sin portada ni autoinformes.",
+  "contexts": [
+    {
+      "id": "puzzle",
+      "page": 34,
+      "title": "A puzzle legend",
+      "description": "Contexto idéntico AAQ2,variantedereferenciaTatacoa:dateJune4,opción99mosty105may;elrestoconservadocomofichasdecontextovariantedondesólodisponiblecanónicaTatacoa."
+    },
+    {
+      "id": "cookies",
+      "page": 35,
+      "title": "Historia de las galletas",
+      "description": "Origen enPersia,difusión europea,exploradores,América,cambios1840,RuthGravesychocolatechip."
+    }
+  ],
+  "items": [
+    {
+      "question": 106,
+      "page": 35,
+      "printed_page": 36,
+      "context": "cookies",
+      "topic": "Comprensión de lectura histórica",
+      "competency_proposal": "Competencia comunicativa: comprensión lectora",
+      "answer_proposal": "C",
+      "selected_option": "Persia",
+      "reason": "El primerpárrafo sitúa primerasgalletas enPersiasigloVII.",
+      "alert": "Respuesta segúntexto;no se validan atribuciones históricas ni datos comerciales como hechos actuales."
+    },
+    {
+      "question": 107,
+      "page": 35,
+      "printed_page": 36,
+      "context": "cookies",
+      "topic": "Comprensión de lectura histórica",
+      "competency_proposal": "Competencia comunicativa: comprensión lectora",
+      "answer_proposal": "A",
+      "selected_option": "eaten by explorers",
+      "reason": "Se conservaron enbarcoscomo alimento para exploradores.",
+      "alert": "Respuesta segúntexto;no se validan atribuciones históricas ni datos comerciales como hechos actuales."
+    },
+    {
+      "question": 108,
+      "page": 35,
+      "printed_page": 36,
+      "context": "cookies",
+      "topic": "Comprensión de lectura histórica",
+      "competency_proposal": "Competencia comunicativa: comprensión lectora",
+      "answer_proposal": "B",
+      "selected_option": "17th century",
+      "reason": "Llegan aNorteAmérica conholandeses afinales delsigloXVII.",
+      "alert": "Respuesta segúntexto;no se validan atribuciones históricas ni datos comerciales como hechos actuales."
+    },
+    {
+      "question": 109,
+      "page": 35,
+      "printed_page": 36,
+      "context": "cookies",
+      "topic": "Comprensión de lectura histórica",
+      "competency_proposal": "Competencia comunicativa: comprensión lectora",
+      "answer_proposal": "A",
+      "selected_option": "the same ingredients",
+      "reason": "Tras1840eltexto dice all had sugar and butter or oil,ingredientes comunes.",
+      "alert": "Respuesta segúntexto;no se validan atribuciones históricas ni datos comerciales como hechos actuales."
+    },
+    {
+      "question": 110,
+      "page": 35,
+      "printed_page": 36,
+      "context": "cookies",
+      "topic": "Comprensión de lectura histórica",
+      "competency_proposal": "Competencia comunicativa: comprensión lectora",
+      "answer_proposal": "A",
+      "selected_option": "a businesswoman",
+      "reason": "RuthGraves,propietaria dehotel,crea galletas conchocolate.",
+      "alert": "Respuesta segúntexto;no se validan atribuciones históricas ni datos comerciales como hechos actuales."
+    },
+    {
+      "question": 111,
+      "page": 35,
+      "printed_page": 36,
+      "context": "cookies",
+      "topic": "Comprensión de lectura histórica",
+      "competency_proposal": "Competencia comunicativa: comprensión lectora",
+      "answer_proposal": "A",
+      "selected_option": "a successful business",
+      "reason": "Ventadelaideaypopularidad apoyan éxito comercial,no precioalto o experimento.",
+      "alert": "Respuesta segúntexto;no se validan atribuciones históricas ni datos comerciales como hechos actuales."
+    },
+    {
+      "question": 112,
+      "page": 35,
+      "printed_page": 36,
+      "context": "cookies",
+      "topic": "Comprensión de lectura histórica",
+      "competency_proposal": "Competencia comunicativa: comprensión lectora",
+      "answer_proposal": "C",
+      "selected_option": "The history of cookies",
+      "reason": "Texto recorre origen,difusión y chocolatechip;no recetas ni solo invención moderna.",
+      "alert": "Respuesta segúntexto;no se validan atribuciones históricas ni datos comerciales como hechos actuales."
+    }
+  ],
+  "duplicate_occurrences": [
+    {
+      "question": 93,
+      "page": 33,
+      "printed_page": 34,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 93,
+      "canonical_page": 16,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de contexto,enunciado y opciones conAAQ2físicas16-17,AAO2física19oLasLajas35segúncanónica. Puzzle99mosty105mayidénticos aAAQ2,noTatacoa.",
+      "observed_annotation": "Sin marca relevante;ejemplos excluidos."
+    },
+    {
+      "question": 94,
+      "page": 33,
+      "printed_page": 34,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 94,
+      "canonical_page": 16,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de contexto,enunciado y opciones conAAQ2físicas16-17,AAO2física19oLasLajas35segúncanónica. Puzzle99mosty105mayidénticos aAAQ2,noTatacoa.",
+      "observed_annotation": "Sin marca relevante;ejemplos excluidos."
+    },
+    {
+      "question": 95,
+      "page": 33,
+      "printed_page": 34,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 95,
+      "canonical_page": 16,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de contexto,enunciado y opciones conAAQ2físicas16-17,AAO2física19oLasLajas35segúncanónica. Puzzle99mosty105mayidénticos aAAQ2,noTatacoa.",
+      "observed_annotation": "Sin marca relevante;ejemplos excluidos."
+    },
+    {
+      "question": 96,
+      "page": 33,
+      "printed_page": 34,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 96,
+      "canonical_page": 16,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de contexto,enunciado y opciones conAAQ2físicas16-17,AAO2física19oLasLajas35segúncanónica. Puzzle99mosty105mayidénticos aAAQ2,noTatacoa.",
+      "observed_annotation": "Sin marca relevante;ejemplos excluidos."
+    },
+    {
+      "question": 97,
+      "page": 33,
+      "printed_page": 34,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 97,
+      "canonical_page": 16,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de contexto,enunciado y opciones conAAQ2físicas16-17,AAO2física19oLasLajas35segúncanónica. Puzzle99mosty105mayidénticos aAAQ2,noTatacoa.",
+      "observed_annotation": "Sin marca relevante;ejemplos excluidos."
+    },
+    {
+      "question": 99,
+      "page": 34,
+      "printed_page": 35,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 99,
+      "canonical_page": 16,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de contexto,enunciado y opciones conAAQ2físicas16-17,AAO2física19oLasLajas35segúncanónica. Puzzle99mosty105mayidénticos aAAQ2,noTatacoa.",
+      "observed_annotation": "Sin marca relevante;ejemplos excluidos."
+    },
+    {
+      "question": 105,
+      "page": 34,
+      "printed_page": 35,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 105,
+      "canonical_page": 16,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de contexto,enunciado y opciones conAAQ2físicas16-17,AAO2física19oLasLajas35segúncanónica. Puzzle99mosty105mayidénticos aAAQ2,noTatacoa.",
+      "observed_annotation": "Sin marca relevante;ejemplos excluidos."
+    },
+    {
+      "question": 113,
+      "page": 36,
+      "printed_page": 37,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 113,
+      "canonical_page": 17,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de contexto,enunciado y opciones conAAQ2físicas16-17,AAO2física19oLasLajas35segúncanónica. Puzzle99mosty105mayidénticos aAAQ2,noTatacoa.",
+      "observed_annotation": "Sin marca relevante;ejemplos excluidos."
+    },
+    {
+      "question": 114,
+      "page": 36,
+      "printed_page": 37,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 114,
+      "canonical_page": 17,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de contexto,enunciado y opciones conAAQ2físicas16-17,AAO2física19oLasLajas35segúncanónica. Puzzle99mosty105mayidénticos aAAQ2,noTatacoa.",
+      "observed_annotation": "Sin marca relevante;ejemplos excluidos."
+    },
+    {
+      "question": 115,
+      "page": 36,
+      "printed_page": 37,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 115,
+      "canonical_page": 17,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de contexto,enunciado y opciones conAAQ2físicas16-17,AAO2física19oLasLajas35segúncanónica. Puzzle99mosty105mayidénticos aAAQ2,noTatacoa.",
+      "observed_annotation": "Sin marca relevante;ejemplos excluidos."
+    },
+    {
+      "question": 116,
+      "page": 36,
+      "printed_page": 37,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 116,
+      "canonical_page": 17,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de contexto,enunciado y opciones conAAQ2físicas16-17,AAO2física19oLasLajas35segúncanónica. Puzzle99mosty105mayidénticos aAAQ2,noTatacoa.",
+      "observed_annotation": "Sin marca relevante;ejemplos excluidos."
+    },
+    {
+      "question": 117,
+      "page": 36,
+      "printed_page": 37,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 117,
+      "canonical_page": 17,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de contexto,enunciado y opciones conAAQ2físicas16-17,AAO2física19oLasLajas35segúncanónica. Puzzle99mosty105mayidénticos aAAQ2,noTatacoa.",
+      "observed_annotation": "Sin marca relevante;ejemplos excluidos."
+    },
+    {
+      "question": 118,
+      "page": 36,
+      "printed_page": 37,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 118,
+      "canonical_page": 17,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de contexto,enunciado y opciones conAAQ2físicas16-17,AAO2física19oLasLajas35segúncanónica. Puzzle99mosty105mayidénticos aAAQ2,noTatacoa.",
+      "observed_annotation": "Sin marca relevante;ejemplos excluidos."
+    },
+    {
+      "question": 119,
+      "page": 36,
+      "printed_page": 37,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 119,
+      "canonical_page": 17,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de contexto,enunciado y opciones conAAQ2físicas16-17,AAO2física19oLasLajas35segúncanónica. Puzzle99mosty105mayidénticos aAAQ2,noTatacoa.",
+      "observed_annotation": "Sin marca relevante;ejemplos excluidos."
+    },
+    {
+      "question": 120,
+      "page": 37,
+      "printed_page": 38,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 120,
+      "canonical_page": 19,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de contexto,enunciado y opciones conAAQ2físicas16-17,AAO2física19oLasLajas35segúncanónica. Puzzle99mosty105mayidénticos aAAQ2,noTatacoa.",
+      "observed_annotation": "Sin marca relevante;ejemplos excluidos."
+    },
+    {
+      "question": 121,
+      "page": 37,
+      "printed_page": 38,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 121,
+      "canonical_page": 19,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de contexto,enunciado y opciones conAAQ2físicas16-17,AAO2física19oLasLajas35segúncanónica. Puzzle99mosty105mayidénticos aAAQ2,noTatacoa.",
+      "observed_annotation": "Sin marca relevante;ejemplos excluidos."
+    },
+    {
+      "question": 122,
+      "page": 37,
+      "printed_page": 38,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 122,
+      "canonical_page": 19,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de contexto,enunciado y opciones conAAQ2físicas16-17,AAO2física19oLasLajas35segúncanónica. Puzzle99mosty105mayidénticos aAAQ2,noTatacoa.",
+      "observed_annotation": "Sin marca relevante;ejemplos excluidos."
+    },
+    {
+      "question": 123,
+      "page": 37,
+      "printed_page": 38,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 123,
+      "canonical_page": 19,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de contexto,enunciado y opciones conAAQ2físicas16-17,AAO2física19oLasLajas35segúncanónica. Puzzle99mosty105mayidénticos aAAQ2,noTatacoa.",
+      "observed_annotation": "Sin marca relevante;ejemplos excluidos."
+    },
+    {
+      "question": 124,
+      "page": 37,
+      "printed_page": 38,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 124,
+      "canonical_page": 19,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de contexto,enunciado y opciones conAAQ2físicas16-17,AAO2física19oLasLajas35segúncanónica. Puzzle99mosty105mayidénticos aAAQ2,noTatacoa.",
+      "observed_annotation": "Sin marca relevante;ejemplos excluidos."
+    },
+    {
+      "question": 125,
+      "page": 38,
+      "printed_page": 39,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 125,
+      "canonical_page": 35,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de contexto,enunciado y opciones conAAQ2físicas16-17,AAO2física19oLasLajas35segúncanónica. Puzzle99mosty105mayidénticos aAAQ2,noTatacoa.",
+      "observed_annotation": "Sin marca relevante;ejemplos excluidos."
+    },
+    {
+      "question": 126,
+      "page": 38,
+      "printed_page": 39,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 126,
+      "canonical_page": 35,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de contexto,enunciado y opciones conAAQ2físicas16-17,AAO2física19oLasLajas35segúncanónica. Puzzle99mosty105mayidénticos aAAQ2,noTatacoa.",
+      "observed_annotation": "Sin marca relevante;ejemplos excluidos."
+    },
+    {
+      "question": 127,
+      "page": 38,
+      "printed_page": 39,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 127,
+      "canonical_page": 35,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de contexto,enunciado y opciones conAAQ2físicas16-17,AAO2física19oLasLajas35segúncanónica. Puzzle99mosty105mayidénticos aAAQ2,noTatacoa.",
+      "observed_annotation": "Sin marca relevante;ejemplos excluidos."
+    },
+    {
+      "question": 128,
+      "page": 38,
+      "printed_page": 39,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 128,
+      "canonical_page": 35,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de contexto,enunciado y opciones conAAQ2físicas16-17,AAO2física19oLasLajas35segúncanónica. Puzzle99mosty105mayidénticos aAAQ2,noTatacoa.",
+      "observed_annotation": "Sin marca relevante;ejemplos excluidos."
+    },
+    {
+      "question": 129,
+      "page": 38,
+      "printed_page": 39,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 129,
+      "canonical_page": 35,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de contexto,enunciado y opciones conAAQ2físicas16-17,AAO2física19oLasLajas35segúncanónica. Puzzle99mosty105mayidénticos aAAQ2,noTatacoa.",
+      "observed_annotation": "Sin marca relevante;ejemplos excluidos."
+    },
+    {
+      "question": 130,
+      "page": 38,
+      "printed_page": 39,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 130,
+      "canonical_page": 35,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de contexto,enunciado y opciones conAAQ2físicas16-17,AAO2física19oLasLajas35segúncanónica. Puzzle99mosty105mayidénticos aAAQ2,noTatacoa.",
+      "observed_annotation": "Sin marca relevante;ejemplos excluidos."
+    },
+    {
+      "question": 131,
+      "page": 38,
+      "printed_page": 39,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 131,
+      "canonical_page": 35,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de contexto,enunciado y opciones conAAQ2físicas16-17,AAO2física19oLasLajas35segúncanónica. Puzzle99mosty105mayidénticos aAAQ2,noTatacoa.",
+      "observed_annotation": "Sin marca relevante;ejemplos excluidos."
+    },
+    {
+      "question": 132,
+      "page": 38,
+      "printed_page": 39,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 132,
+      "canonical_page": 35,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de contexto,enunciado y opciones conAAQ2físicas16-17,AAO2física19oLasLajas35segúncanónica. Puzzle99mosty105mayidénticos aAAQ2,noTatacoa.",
+      "observed_annotation": "Sin marca relevante;ejemplos excluidos."
+    },
+    {
+      "question": 133,
+      "page": 38,
+      "printed_page": 39,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 133,
+      "canonical_page": 35,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de contexto,enunciado y opciones conAAQ2físicas16-17,AAO2física19oLasLajas35segúncanónica. Puzzle99mosty105mayidénticos aAAQ2,noTatacoa.",
+      "observed_annotation": "Sin marca relevante;ejemplos excluidos."
+    },
+    {
+      "question": 134,
+      "page": 38,
+      "printed_page": 39,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 134,
+      "canonical_page": 35,
+      "exact_content": true,
+      "verification": "Cotejo visual íntegro de contexto,enunciado y opciones conAAQ2físicas16-17,AAO2física19oLasLajas35segúncanónica. Puzzle99mosty105mayidénticos aAAQ2,noTatacoa.",
+      "observed_annotation": "Sin marca relevante;ejemplos excluidos."
+    },
+    {
+      "question": 98,
+      "page": 34,
+      "printed_page": 35,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 98,
+      "canonical_page": 16,
+      "exact_content": true,
+      "verification": "ContextoPuzzle,fechaJune4,todaslasopcionesy enunciado idénticos aAAQ2física16. Ficha canónica promovida aAAQ2para evitar cadenas y no duplicar análisis.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 100,
+      "page": 34,
+      "printed_page": 35,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 100,
+      "canonical_page": 16,
+      "exact_content": true,
+      "verification": "ContextoPuzzle,fechaJune4,todaslasopcionesy enunciado idénticos aAAQ2física16. Ficha canónica promovida aAAQ2para evitar cadenas y no duplicar análisis.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 101,
+      "page": 34,
+      "printed_page": 35,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 101,
+      "canonical_page": 16,
+      "exact_content": true,
+      "verification": "ContextoPuzzle,fechaJune4,todaslasopcionesy enunciado idénticos aAAQ2física16. Ficha canónica promovida aAAQ2para evitar cadenas y no duplicar análisis.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 102,
+      "page": 34,
+      "printed_page": 35,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 102,
+      "canonical_page": 16,
+      "exact_content": true,
+      "verification": "ContextoPuzzle,fechaJune4,todaslasopcionesy enunciado idénticos aAAQ2física16. Ficha canónica promovida aAAQ2para evitar cadenas y no duplicar análisis.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 103,
+      "page": 34,
+      "printed_page": 35,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 103,
+      "canonical_page": 16,
+      "exact_content": true,
+      "verification": "ContextoPuzzle,fechaJune4,todaslasopcionesy enunciado idénticos aAAQ2física16. Ficha canónica promovida aAAQ2para evitar cadenas y no duplicar análisis.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 104,
+      "page": 34,
+      "printed_page": 35,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 104,
+      "canonical_page": 16,
+      "exact_content": true,
+      "verification": "ContextoPuzzle,fechaJune4,todaslasopcionesy enunciado idénticos aAAQ2física16. Ficha canónica promovida aAAQ2para evitar cadenas y no duplicar análisis.",
+      "observed_annotation": "Sin marca relevante."
+    }
+  ]
+}

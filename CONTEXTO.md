@@ -1,0 +1,57 @@
+# Relevo de conversación - 28 de octubre de 2026
+
+## Continuación más reciente
+
+31 de octubre, cotejo del lote de 30: fuente actual de conteos y pendientes en `docs/COTEJO_PREGUNTAS_ESTADO_ACTUAL.md`, `output/cotejo_30/estado_actual.json` e índice HTML. Se examinaron automáticamente 2834 fichas; se consolidaron 70 con evidencia (64 comparaciones visuales históricas explícitas y seis nuevas), conservando archivo recuperable completo y redirigiendo referencias sin cadenas. Quedan 2764 fichas académicas y 723 apariciones exactas académicas, total de cobertura inalterado de 3487 apariciones. Hay 5680 pares candidatos aún pendientes de cotejo visual y 36 fichas sin clave cerrada. No confundir similitud con identidad ni declarar terminada la unicidad global. Las fuentes PDF no se borraron ni alteraron. Se corrigió el área exportada de lotes mixtos a partir de rangos documentados. 23 pruebas USB aprobadas. El índice editorial NO es banco importable: faltan enunciados/opciones/recursos completos, revisión docente y permisos. No se modificaron app, editor ni datos personales. `archivo_fichas_consolidadas.json` conserva estado previo y fichas completas; no volver a ejecutar `usb_crosscheck_decisions.py`. La cola y el informe permiten continuar sin rehacer el lote. Los documentos de cierre anteriores son fotografías históricas, no los conteos vigentes.
+
+29 de octubre, organización de fuentes: por petición explícita del usuario se renombraron los 47 PDF de `Desktop/Icfes_SaberPlus` sin modificar su contenido. Se revisaron las 47 portadas y datos textuales; 20 quedaron clasificados A/B según portada o periodo, 13 conservan calendario pendiente y 14 son simulacros editoriales sin calendario indicado. No tomar S11-A/S11-B como calendarios. Registros con nombres anteriores, nuevos, evidencia y SHA-256: `Desktop/Icfes_SaberPlus/REGISTRO_RENOMBRADO_2026-10-29.json` y CSV; índice LEEME_ORGANIZACION.md y script Restaurar_nombres_PDF.ps1. Los hashes de todos los archivos coincidieron después de renombrar; Ref031/032 son duplicados binarios conservados. Hay nombres de descarga que contradicen las portadas y algunos códigos; el nombre nuevo NO certifica autenticidad. Las copias de references/ del proyecto no se tocaron. El usuario traerá más PDF y quiere preparar una matriz por cada una de las dos sesiones con área, tema/subtema, competencia, evidencia y cantidad antes de escoger preguntas. Esa matriz de cobertura todavía está por construir, no confundir con el inventario de nombres ni con haber analizado todas las preguntas.
+
+Tres salidas añadidas: `cuadernillo.pdf` sin respuestas, `cuadernillo_resuelto.pdf` con marcas sobre la misma maquetación y explicaciones al final, y `clave_docente.pdf` con círculos correctos rellenos. El botón del editor dice Generar los 3 PDF e incluye enlaces y selector de archivo. Las hojas del estudiante ahora usan círculos vacíos vectoriales, no paréntesis. Asociación de inglés añade círculos A–G bajo las descripciones para identificar la clave sin ambigüedad. Se preserva la guía pedagógica antigua como archivo auxiliar, sin cuarto botón. QR/publicación siguen pendientes y no se inventó URL pública. Todo se probó con muestras aisladas, sin reemplazar preguntas del usuario. La guía de uso actualizada está en docs/EDITOR_LOCAL.md.
+
+29 de octubre: el usuario quiere ingresar personalmente las preguntas con guía paso a paso, no que se carguen ejemplos sin pedir contenido. A petición suya se retiraron únicamente `q-muestra-reciclaje-001` y su contexto no utilizado; se conservaron intactas las dos preguntas vacías del usuario y copia recuperable del estado anterior. Se simplificó la apertura de área: título una sola vez, sin rango/conteo adicional en la banda. Los rangos dinámicos siguen disponibles en contextos. Este ajuste sustituye la presentación descrita como banda con conteos más abajo.
+
+Encabezados añadidos: configuración opcional `area_headers` por área con título e indicaciones, banda gris al comenzar cada área y rango/cantidad automáticos. Contextos admiten `range_heading` con `{{desde}}`, `{{hasta}}`, `{{cantidad}}`, modelos rápidos y `source` impreso; encabezado automático usa singular para un solo ítem. Botones para crear/vincular un contexto y abrir el vinculado desde una pregunta. Se agregaron cinco pruebas Python y cobertura JavaScript para estas funciones; pasaron junto con las anteriores. Revisadas las nueve páginas renderizadas de segunda sesión con estas novedades. Ver docs/EDITOR_LOCAL.md. Conservada compatibilidad con JSON anteriores; no se migró ni sobrescribió el proyecto guardado.
+
+Ya existe un editor local en `tool/editor_server.py`, accesible en http://127.0.0.1:4185 mientras el proceso esté activo. Ver `docs/EDITOR_LOCAL.md` para estado actual, ejecución y límites. Usa un modelo independiente y un generador medido (`editor_model.py`, `editor_pdf.py`), no el esquema fijo de 22 ítems. Incluye carga de imágenes, contextos y clasificación pedagógica, exportación separada estudiante/docente y vista previa automática con páginas PNG del mismo motor PDF, navegación, zoom y foco en la pregunta seleccionada. La vista previa trabaja en una copia temporal y no guarda cambios ni genera claves. Pasaron 13 pruebas de metadatos, 8 de previsualización/HTTP y la prueba JavaScript de concurrencia y navegación. Se inspeccionaron visualmente las 9 páginas de una previsualización de segunda sesión. No se ha completado una prueba interactiva en navegador: el control de navegador falló en la sesión anterior. No afirmar aprobación final del diseño ni validación del banco. Las descripciones de ausencia de editor y esquema fijo más abajo son históricas.
+
+La portada SP-001 aprobada ha sido refinada (Sabi contenido, encabezado solo SaberPlus, bordes redondeados y S+ gris). El usuario pidió guardar el aprendizaje sobre competencias y niveles y aplicarlo a la plantilla. Ver `docs/ESTADO_PLANTILLA_Y_CARGA.md` y `docs/COMPETENCIAS_ICFES_2025_2026.md`: son la referencia actual para los pendientes. Se añadieron catálogo de evaluación 2026-2, metadatos/validación y muestra SP-M04 con 14 propuestas y 8 sin clasificar; ninguna está revisada. Las notas históricas siguientes no describen un editor web terminado ni sustituyen este estado actual.
+
+## Lo que quiere el usuario
+
+Tras una demostración de SaberPlus, un profesor manifestó interés en comprar un banco de preguntas entregado en cuadernillos PDF listos para usar. El usuario quiere una presentación muy parecida a los cuadernillos de referencia, especialmente los que identifica como Grupo 500: que los estudiantes se familiaricen con la estructura de una prueba. Quiere preguntas variadas que evalúen distintos temas y un sistema reutilizable para generar versiones.
+
+El usuario pidió separar este trabajo de la app existente. Esta carpeta se creó y se copiaron los materiales; los originales de la app no se movieron ni se modificaron para este relevo.
+
+## Estado real
+
+Se revisaron los metadatos de los 13 PDF y páginas representativas renderizadas, no todas las páginas ni todas las respuestas. Hay formatos de una y dos columnas, contextos compartidos, tablas y gráficos, portadas e instrucciones, y formatos especiales de inglés. Varios archivos son escaneados y algunos contienen marcas o respuestas señaladas. No se ha confirmado cuáles pertenecen al Grupo 500 ni la autenticidad sugerida por los nombres de archivo.
+
+Se creó una muestra editorial propia con marca SaberPlus: 8 páginas, 22 preguntas originales propuestas, cinco áreas, siete partes de inglés y una hoja de respuestas de corrección manual. La guía docente tiene 2 páginas con especificaciones y clave explicada. La revisión visual SP-M02 conserva la versión anterior, añade tarjetas de identificación en portada, encabezados de tabla con mayor contraste, acentos laterales en las secciones y una instrucción explícita de marcado manual. El generador ahora valida el banco antes de crear los PDF y admite un archivo alternativo con el mismo esquema. Se inspeccionaron renders y se comprobaron límites de texto. La numeración final recorre lectura 1-2, sociales 3-4, matemáticas 5-7, ciencias 8-10 e inglés 11-22.
+
+El usuario dijo que quería comenzar la plantilla en otro proyecto. Eso no equivale a aprobar como definitiva la apariencia de la primera muestra. El siguiente chat debe trabajar con él sobre el diseño antes de extender el banco.
+
+## Revisión visual SP-M03
+
+Como ajuste solicitado por el usuario, la muestra ahora usa escala de grises, reglas horizontales para delimitar cada pregunta, un separador vertical en la doble columna y bloques sin color de marca. El generador acepta un campo opcional `image` en cada pregunta para insertar gráficos propios, conservar proporciones y fallar si el recurso no existe o no cabe. Esta revisión busca acercarse a convenciones editoriales de cuadernillos de práctica sin reproducir logotipos, códigos, marcas ni contenido oficial.
+
+## Límites importantes
+
+- El generador actual sirve para la muestra fija de 22 preguntas y bloques determinados. Todavía no selecciona ni pagina un banco de tamaño arbitrario.
+- La proporción por área, el orden de las áreas y los ítems por parte de inglés son decisiones de muestra, no una distribución oficial.
+- La hoja de respuestas no está calibrada para lectura óptica.
+- No hay dificultad calibrada, aplicación piloto ni validación psicométrica. Hace falta revisión docente de los ítems.
+- Las referencias no tienen permisos comerciales verificados. El interés del comprador no sustituye esos permisos. La muestra usa textos y preguntas propios; no reutilizar material de terceros como si fuera propio.
+- No se incorporaron logotipos oficiales ni marcas de las referencias. Mantener identidad propia y señalar que es práctica independiente.
+- No hay integración con la app, exportación de su banco, cambios a servicios ni publicación.
+
+En la revisión del 28 de octubre de 2026 se consultaron en modo solo lectura 47 PDF externos proporcionados por el usuario; 46 eran únicos por SHA-256 y uno era una copia exacta. Se renderizaron páginas representativas de cada archivo único y se revisaron con detalle varios cuadernillos escaneados, materiales digitales, tablas, gráficos, partes de inglés y hojas de respuestas. Esta consulta sirvió para comparar estructura y densidad; no se copiaron preguntas, respuestas, marcas, logotipos ni textos en la muestra.
+
+## Por dónde continuar
+
+1. Duplicar `tool/booklet_template_bank.json`, reemplazar las preguntas y conservar el mapa fijo 1-22; validar el archivo y generar una salida versionada.
+2. Acordar con el profesor extensión, áreas, temas, competencias, tiempo de aplicación, versiones y entrega de claves; revisar cada ítem y hacer una prueba impresa al 100 %.
+3. Solo después ampliar a un banco estructurado con IDs estables, autoría/permisos, contextos, recursos gráficos, distractores, clave y explicación; la selección automática y la paginación arbitraria siguen siendo una etapa posterior.
+
+## Comunicación
+
+El usuario prefiere español cercano, explicaciones simples y resultados concretos. Distinguir una muestra visual de un producto listo para vender. No reconstruir innecesariamente ni mezclar con el proyecto Flutter.

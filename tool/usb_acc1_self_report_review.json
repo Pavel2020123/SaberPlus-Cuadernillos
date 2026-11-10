@@ -1,0 +1,75 @@
+{
+  "file_id": "USB-91836110f48e",
+  "date": "2026-10-29",
+  "area": "Cuestionario socioeconomico",
+  "scope": "Pagina fisica43 inspeccionada visualmente; autoinformes121-131 cotejados con primer PDF. Sin respuestas correctas ni competencia academica. No se recogen respuestas personales. Portada anuncia143 e incluye clima escolar, pero archivo termina en131; no crear enunciados ausentes.",
+  "items": [
+    {
+      "question": 121,
+      "page": 43,
+      "topic": "Nivel educativo del padre",
+      "exclude_academic": true
+    },
+    {
+      "question": 122,
+      "page": 43,
+      "topic": "Nivel educativo de la madre",
+      "exclude_academic": true
+    },
+    {
+      "question": 123,
+      "page": 43,
+      "topic": "Estrato reportado de vivienda",
+      "exclude_academic": true
+    },
+    {
+      "question": 124,
+      "page": 43,
+      "topic": "Conexion a internet en el hogar",
+      "exclude_academic": true
+    },
+    {
+      "question": 125,
+      "page": 43,
+      "topic": "Television cerrada en el hogar",
+      "exclude_academic": true
+    },
+    {
+      "question": 126,
+      "page": 43,
+      "topic": "Cantidad de libros del hogar",
+      "exclude_academic": true
+    },
+    {
+      "question": 127,
+      "page": 43,
+      "topic": "Tiempo de lectura recreativa",
+      "exclude_academic": true
+    },
+    {
+      "question": 128,
+      "page": 43,
+      "topic": "Tiempo de navegacion no academica",
+      "exclude_academic": true
+    },
+    {
+      "question": 129,
+      "page": 43,
+      "topic": "Frecuencia de consumo de leche y derivados",
+      "exclude_academic": true
+    },
+    {
+      "question": 130,
+      "page": 43,
+      "topic": "Frecuencia de consumo de carnes, pescados o huevos",
+      "exclude_academic": true
+    },
+    {
+      "question": 131,
+      "page": 43,
+      "topic": "Frecuencia de consumo de cereales, frutos secos o legumbres",
+      "exclude_academic": true
+    }
+  ],
+  "next": "No resolver ni asignar desempeno a estos items. No usar indicadores socioeconomicos para inferir competencia academica."
+}

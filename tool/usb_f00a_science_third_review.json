@@ -1,0 +1,82 @@
+{
+  "file_id": "USB-f00a52c8b6f2",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Preguntas65-71,físicas22-24inspeccionadas visualmente con leyendas ytabla. Propuestas no oficiales.",
+  "contexts": [
+    {
+      "id": "energia_impacto",
+      "page": 23,
+      "title": "Impactos de fuentes de energía",
+      "description": "Tabla de puntos por kWh para petróleo,carbón,nuclear,solar,hidráulica;calentamiento,radiaciones,residuos,sustancias cancerígenas. Preguntas67-69."
+    }
+  ],
+  "items": [
+    {
+      "question": 65,
+      "page": 22,
+      "topic": "Alcance de evidencia en flotación",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "A",
+      "reason": "Solo se ensayó plastilina con dos formas; no sustenta que forma sea única condición independientemente del material.",
+      "alert": "Cambiar forma afecta volumen desplazado y densidad media del sistema; material ymasa también importan."
+    },
+    {
+      "question": 66,
+      "page": 22,
+      "topic": "Ventaja de especialización en mutualismo",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "B",
+      "reason": "La estructura larga restringe acceso de visitantes que roban néctar y favorece al polinizador adaptado con pico largo.",
+      "alert": "Es la ventaja descrita por el modelo,no exclusividad universal demostrada."
+    },
+    {
+      "question": 67,
+      "page": 23,
+      "topic": "Lectura de máximos en tabla ambiental",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "B",
+      "reason": "Radiaciones:nuclear2,2es máximo; residuos:carbón13es máximo. El orden solicitado es nuclear ycarbón.",
+      "alert": "Los números son puntos de impacto por kWh,no emisiones físicas directamente comparables entre categorías.",
+      "context": "energia_impacto"
+    },
+    {
+      "question": 68,
+      "page": 23,
+      "topic": "Efecto de alteración pulmonar sobre oxigenación",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "C",
+      "reason": "Daño y compresión comprometen intercambio gaseoso y disminuyen oxígeno disponible para tejidos yórganos.",
+      "alert": "No se deriva diagnóstico individual ni que toda exposición cause inevitablemente cáncer.",
+      "context": "energia_impacto"
+    },
+    {
+      "question": 69,
+      "page": 23,
+      "topic": "Diseño de formato para registrar variables",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "A",
+      "reason": "Aincluye fuente,identidad de metales,cantidad por kWh ypuntaje de impacto; los otros formatos omiten variables necesarias.",
+      "alert": "Cantidad requiere unidad yprocedimiento de puntaje; el formato no define por sí solo esos métodos.",
+      "context": "energia_impacto"
+    },
+    {
+      "question": 70,
+      "page": 24,
+      "topic": "Control de variable en experimento térmico",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "B",
+      "reason": "Igualar cantidad de agua permite estudiar diferencias de temperatura sin confundirlas con masa distinta.",
+      "alert": "También deben mantenerse comparables recipiente,tiempo ytransferencia ambiental. Igualar masa no prueba por sí solo que calor dependa únicamente de diferencia térmica."
+    },
+    {
+      "question": 71,
+      "page": 24,
+      "topic": "Representación de proporcionalidad volumen-temperatura",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "A",
+      "reason": "Tabla100K/1L,200/2,300/3,400/4corresponde a recta creciente V=0,01T,opciónA.",
+      "alert": "Relación del experimento a presión constante ycantidad fija de gas; no extrapolar físicamente a cualquier temperatura."
+    }
+  ]
+}

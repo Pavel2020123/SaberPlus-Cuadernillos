@@ -1,0 +1,236 @@
+{
+  "file_id": "USB-36f91aeae115",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales e Inglés",
+  "scope": "Físicas16-17(impresas30-33)inspeccionadas completas;17coincidencias exactas, variante gráfica78 yconversaciones nuevas90-91. Parte3contiene7preguntas90-96aunque instrucción dice cinco.",
+  "items": [
+    {
+      "question": 78,
+      "page": 16,
+      "printed_page": 30,
+      "area": "Ciencias naturales",
+      "topic": "Características comunes de organismos con ilustración variante",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "B",
+      "reason": "Organismos animales yvegetales comparten organización celular,intercambio con medio,reproducción yrespuesta aestímulos.",
+      "alert": "Variante gráfica:no fusionar exactamente conAAK2 78;en esquina inferior derechaAAO2muestra gallo yAAK2ardilla. La conclusión conceptual no cambia.",
+      "related_file_id": "USB-45e476387c60",
+      "related_question": 78,
+      "related_page": 29
+    },
+    {
+      "question": 90,
+      "page": 17,
+      "printed_page": 33,
+      "area": "Inglés",
+      "topic": "Respuesta pertinente sobre bibliotecas",
+      "competency_proposal": "Competencia comunicativa: adecuación pragmática",
+      "answer_proposal": "B",
+      "description": "My child likes libraries.",
+      "selected_option": "Can she read?",
+      "reason": "Pregunta por capacidad de lectura del niño o niña mencionado; las otras respuestas cambian referente otema.",
+      "alert": "Child no indica género; she presupone referente femenino no explicitado,pero B es la réplica pertinente entre opciones."
+    },
+    {
+      "question": 91,
+      "page": 17,
+      "printed_page": 33,
+      "area": "Inglés",
+      "topic": "Respuesta aexpresión de hambre",
+      "competency_proposal": "Competencia comunicativa: adecuación pragmática",
+      "answer_proposal": "C",
+      "description": "I am hungry.",
+      "selected_option": "I'll cook something.",
+      "reason": "Ofrece preparar comida ante hambre; no responde sobre seguridad exterior oestado propio."
+    }
+  ],
+  "duplicate_occurrences": [
+    {
+      "question": 77,
+      "page": 16,
+      "printed_page": 30,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 77,
+      "canonical_page": 29,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de enunciado,contexto,banco,figuras y opciones pertinentes. Se excluye78por figura distinta. Solo numeración/maquetación cambian en ítems enlazados.",
+      "observed_annotation": "No se observa opción marcada."
+    },
+    {
+      "question": 79,
+      "page": 16,
+      "printed_page": 30,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 79,
+      "canonical_page": 29,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de enunciado,contexto,banco,figuras y opciones pertinentes. Se excluye78por figura distinta. Solo numeración/maquetación cambian en ítems enlazados.",
+      "observed_annotation": "No se observa opción marcada."
+    },
+    {
+      "question": 80,
+      "page": 16,
+      "printed_page": 31,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 85,
+      "canonical_page": 28,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de enunciado,contexto,banco,figuras y opciones pertinentes. Se excluye78por figura distinta. Solo numeración/maquetación cambian en ítems enlazados.",
+      "observed_annotation": "No se observa opción marcada."
+    },
+    {
+      "question": 81,
+      "page": 16,
+      "printed_page": 31,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 86,
+      "canonical_page": 28,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de enunciado,contexto,banco,figuras y opciones pertinentes. Se excluye78por figura distinta. Solo numeración/maquetación cambian en ítems enlazados.",
+      "observed_annotation": "No se observa opción marcada."
+    },
+    {
+      "question": 82,
+      "page": 16,
+      "printed_page": 31,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 87,
+      "canonical_page": 28,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de enunciado,contexto,banco,figuras y opciones pertinentes. Se excluye78por figura distinta. Solo numeración/maquetación cambian en ítems enlazados.",
+      "observed_annotation": "No se observa opción marcada."
+    },
+    {
+      "question": 83,
+      "page": 16,
+      "printed_page": 31,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 88,
+      "canonical_page": 28,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de enunciado,contexto,banco,figuras y opciones pertinentes. Se excluye78por figura distinta. Solo numeración/maquetación cambian en ítems enlazados.",
+      "observed_annotation": "No se observa opción marcada."
+    },
+    {
+      "question": 84,
+      "page": 16,
+      "printed_page": 31,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 89,
+      "canonical_page": 28,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de enunciado,contexto,banco,figuras y opciones pertinentes. Se excluye78por figura distinta. Solo numeración/maquetación cambian en ítems enlazados.",
+      "observed_annotation": "No se observa opción marcada."
+    },
+    {
+      "question": 85,
+      "page": 17,
+      "printed_page": 32,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 90,
+      "canonical_page": 29,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de enunciado,contexto,banco,figuras y opciones pertinentes. Se excluye78por figura distinta. Solo numeración/maquetación cambian en ítems enlazados.",
+      "observed_annotation": "No se observa opción marcada."
+    },
+    {
+      "question": 86,
+      "page": 17,
+      "printed_page": 32,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 91,
+      "canonical_page": 29,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de enunciado,contexto,banco,figuras y opciones pertinentes. Se excluye78por figura distinta. Solo numeración/maquetación cambian en ítems enlazados.",
+      "observed_annotation": "No se observa opción marcada."
+    },
+    {
+      "question": 87,
+      "page": 17,
+      "printed_page": 32,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 92,
+      "canonical_page": 29,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de enunciado,contexto,banco,figuras y opciones pertinentes. Se excluye78por figura distinta. Solo numeración/maquetación cambian en ítems enlazados.",
+      "observed_annotation": "No se observa opción marcada."
+    },
+    {
+      "question": 88,
+      "page": 17,
+      "printed_page": 32,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 93,
+      "canonical_page": 29,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de enunciado,contexto,banco,figuras y opciones pertinentes. Se excluye78por figura distinta. Solo numeración/maquetación cambian en ítems enlazados.",
+      "observed_annotation": "No se observa opción marcada."
+    },
+    {
+      "question": 89,
+      "page": 17,
+      "printed_page": 32,
+      "canonical_file_id": "USB-7882c8f9ae2f",
+      "canonical_question": 94,
+      "canonical_page": 29,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de enunciado,contexto,banco,figuras y opciones pertinentes. Se excluye78por figura distinta. Solo numeración/maquetación cambian en ítems enlazados.",
+      "observed_annotation": "No se observa opción marcada."
+    },
+    {
+      "question": 92,
+      "page": 17,
+      "printed_page": 33,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 92,
+      "canonical_page": 32,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de enunciado,contexto,banco,figuras y opciones pertinentes. Se excluye78por figura distinta. Solo numeración/maquetación cambian en ítems enlazados.",
+      "observed_annotation": "No se observa opción marcada."
+    },
+    {
+      "question": 93,
+      "page": 17,
+      "printed_page": 33,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 93,
+      "canonical_page": 32,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de enunciado,contexto,banco,figuras y opciones pertinentes. Se excluye78por figura distinta. Solo numeración/maquetación cambian en ítems enlazados.",
+      "observed_annotation": "No se observa opción marcada."
+    },
+    {
+      "question": 94,
+      "page": 17,
+      "printed_page": 33,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 94,
+      "canonical_page": 32,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de enunciado,contexto,banco,figuras y opciones pertinentes. Se excluye78por figura distinta. Solo numeración/maquetación cambian en ítems enlazados.",
+      "observed_annotation": "No se observa opción marcada."
+    },
+    {
+      "question": 95,
+      "page": 17,
+      "printed_page": 33,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 95,
+      "canonical_page": 32,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de enunciado,contexto,banco,figuras y opciones pertinentes. Se excluye78por figura distinta. Solo numeración/maquetación cambian en ítems enlazados.",
+      "observed_annotation": "No se observa opción marcada."
+    },
+    {
+      "question": 96,
+      "page": 17,
+      "printed_page": 33,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 96,
+      "canonical_page": 32,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de enunciado,contexto,banco,figuras y opciones pertinentes. Se excluye78por figura distinta. Solo numeración/maquetación cambian en ítems enlazados.",
+      "observed_annotation": "No se observa opción marcada."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "file_id": "USB-a170782eadcb",
+  "date": "2026-10-30",
+  "area": "Sociales y ciudadanas",
+  "scope": "Física14(impresas26-27)inspeccionada visualmente,preguntas73-78. Sin identidad exacta verificada con fichas previas.",
+  "items": [
+    {
+      "question": 73,
+      "page": 14,
+      "printed_page": 26,
+      "topic": "Evidencia económica para medida proteccionista",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "answer_proposal": "D",
+      "reason": "Insumos importados20%más baratos que producción nacional explican desventaja competitiva que arancel busca compensar.",
+      "alert": "Se identifica evidencia compatible,no se demuestra efecto final de política ni validez de argumento de seguridad nacional."
+    },
+    {
+      "question": 74,
+      "page": 14,
+      "printed_page": 26,
+      "topic": "Libertad de cultos yjerarquía normativa",
+      "competency_proposal": "Pensamiento social",
+      "answer_proposal": "C",
+      "reason": "El propio fragmento cita igualdad de confesiones ylibertad de religión;una ley de religión única se opone aestos principios.",
+      "alert": "Se responde conforme apremisas constitucionales incluidas,no aconsulta normativa actual."
+    },
+    {
+      "question": 75,
+      "page": 14,
+      "printed_page": 26,
+      "topic": "Causa estructural de conflicto agrario",
+      "competency_proposal": "Pensamiento reflexivo y sistémico",
+      "answer_proposal": "D",
+      "reason": "La concentración de propiedad ycarencia de tierra de campesinos/jornaleros originan reclamo;no desempleo mayoritario ni invasiones recurrentes.",
+      "alert": "Distinguir causa de conflicto de acciones posteriores yde proyecciones de crisis."
+    },
+    {
+      "question": 76,
+      "page": 14,
+      "printed_page": 27,
+      "topic": "Intereses contrapuestos sobre uso de suelo",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "answer_proposal": "D",
+      "reason": "Empresa busca hotel con fin comercial;residentes conservar casa por patrimonio yevitar aumento del costo de vida.",
+      "alert": "No se presume que oposición atodo turismo esté demostrada."
+    },
+    {
+      "question": 77,
+      "page": 14,
+      "printed_page": 27,
+      "topic": "Beneficio económico directo de política de movilidad",
+      "competency_proposal": "Pensamiento reflexivo y sistémico",
+      "answer_proposal": "C",
+      "reason": "Reducir tarifa de transporte público disminuye gasto del usuario yfomenta uso;otras opciones no ofrecen ahorro directo explícito.",
+      "alert": "No significa que toda política de peatones ovehículos eléctricos carezca de beneficios indirectos."
+    },
+    {
+      "question": 78,
+      "page": 14,
+      "printed_page": 27,
+      "topic": "Comparación de motivos de desplazamiento",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "answer_proposal": "C",
+      "reason": "En relato,Siria se vincula aguerrayprotección de vida;Venezuela incluye carencia de alimentos,medicinas yservicios básicos.",
+      "alert": "El texto también menciona violencia,inseguridad yamenazas enVenezuela;contrasteprincipal no niega esos factores ni establece categoría jurídica universal."
+    }
+  ]
+}

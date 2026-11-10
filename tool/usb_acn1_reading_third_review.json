@@ -1,0 +1,138 @@
+{
+  "file_id": "USB-77cc8ac26d2c",
+  "date": "2026-10-29",
+  "area": "Lectura critica",
+  "scope": "Preguntas36-38y44-49,paginasfisicas28,17,30 inspeccionadas visualmente.Textos compartidos cotejados completos;calidad variable.Propuestas no oficiales,sin revision docente.",
+  "competency_legend": {
+    "L": "Identifica y entiende los contenidos locales que conforman un texto",
+    "G": "Comprende como se articulan las partes de un texto para darle un sentido global",
+    "R": "Reflexiona a partir de un texto y evalua su contenido"
+  },
+  "contexts": [
+    {
+      "id": "ACN1-LC07",
+      "questions": [
+        36,
+        37,
+        38
+      ],
+      "pages": [
+        28
+      ],
+      "title": "Un viaje por el conocimiento que tenemos",
+      "source_as_printed": "Savater,F.(1999).Las preguntas de la vida.Ariel;referencia tenue."
+    },
+    {
+      "id": "ACN1-LC08",
+      "questions": [
+        44,
+        45,
+        46
+      ],
+      "pages": [
+        17,
+        30
+      ],
+      "title": "La obra maestra",
+      "source_as_printed": "Yunque,A.(2004).La obra maestra.EnCaminos de la fabula,p.158.Colihue."
+    },
+    {
+      "id": "ACN1-LC09",
+      "questions": [
+        47,
+        48,
+        49
+      ],
+      "pages": [
+        30
+      ],
+      "title": "La tentacion del mar",
+      "source_as_printed": "Zapata Olivella,M.(2020).Pasion vagabunda(3a.ed.).Universidad del Valle."
+    }
+  ],
+  "items": [
+    {
+      "question": 36,
+      "page": 28,
+      "topic": "Tema global sobre fuentes del saber",
+      "competency_code": "G",
+      "answer_proposal": "B",
+      "reason": "Texto recorre aprendizaje por otros,colegio y experiencia;dudas aparecen al final,no son unico tema.",
+      "context": "ACN1-LC07"
+    },
+    {
+      "question": 37,
+      "page": 28,
+      "topic": "Parafrasis de conocimiento por testimonio",
+      "competency_code": "L",
+      "answer_proposal": "B",
+      "reason": "Lo aprendido de padres y otros muestra saber basado en ensenanzas de otras personas.",
+      "context": "ACN1-LC07"
+    },
+    {
+      "question": 38,
+      "page": 28,
+      "topic": "Comparacion de fuentes de conocimiento",
+      "competency_code": "G",
+      "answer_proposal": "D",
+      "reason": "Unfragmento muestra colegio y otro experiencia;ambos ejemplifican formas de adquirir conocimiento.",
+      "context": "ACN1-LC07"
+    },
+    {
+      "question": 44,
+      "page": 17,
+      "topic": "Cuantificador y personajes",
+      "competency_code": "L",
+      "answer_proposal": "D",
+      "reason": "Todos menos condor admiran al mono;mayoria,no todos.",
+      "context": "ACN1-LC08"
+    },
+    {
+      "question": 45,
+      "page": 17,
+      "topic": "Contenido de testimonio de condor",
+      "competency_code": "L",
+      "answer_proposal": "C",
+      "reason": "Condor dice que lo dejado en cumbre es solo viejo tronco,no estatua.",
+      "context": "ACN1-LC08"
+    },
+    {
+      "question": 46,
+      "page": 30,
+      "topic": "Motivacion de juicio del personaje",
+      "competency_code": "G",
+      "answer_proposal": "B",
+      "reason": "Condor volo y vio tronco directamente;habilidades le permitieron comprobar ausencia de obra artistica.",
+      "context": "ACN1-LC08"
+    },
+    {
+      "question": 47,
+      "page": 30,
+      "topic": "Intencion de relato autobiografico",
+      "competency_code": "G",
+      "answer_proposal": "B",
+      "reason": "Narra experiencias de alguien que queria embarcarse y viajar,no manual de esclavitud o procedimiento de embarque.",
+      "context": "ACN1-LC09"
+    },
+    {
+      "question": 48,
+      "page": 30,
+      "topic": "Identificacion de juicio valorativo",
+      "competency_code": "R",
+      "answer_proposal": "C",
+      "reason": "Comparacion con tiempos de esclavitud evalua situacion humana del trabajo;no es mero dato de carga o deseo personal.",
+      "context": "ACN1-LC09"
+    },
+    {
+      "question": 49,
+      "page": 30,
+      "topic": "Relacion explicativa entre fragmentos",
+      "competency_code": "G",
+      "answer_proposal": "B",
+      "reason": "Advertencia de ser reclutado para guerra explica escrupulo y decision de quedarse en tierra.",
+      "context": "ACN1-LC09",
+      "alert": "OpcionDrepite segundo en ambos lugares;transcripcion defectuosa no se corrige silenciosamente."
+    }
+  ],
+  "next": "Lectura50-58pendiente;fisica20contiene53-55vistos,revisarcontextoanterior y56."
+}

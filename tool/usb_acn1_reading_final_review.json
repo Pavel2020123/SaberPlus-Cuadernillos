@@ -1,0 +1,139 @@
+{
+  "file_id": "USB-77cc8ac26d2c",
+  "date": "2026-10-29",
+  "area": "Lectura critica",
+  "scope": "Preguntas50-58paginasfisicas20,39,41 inspeccionadas visualmente con textos completos.Propuestas no oficiales,sin validacion docente.",
+  "competency_legend": {
+    "L": "Identifica y entiende los contenidos locales que conforman un texto",
+    "G": "Comprende como se articulan las partes de un texto para darle un sentido global",
+    "R": "Reflexiona a partir de un texto y evalua su contenido"
+  },
+  "contexts": [
+    {
+      "id": "ACN1-LC10",
+      "questions": [
+        50,
+        51,
+        52,
+        53,
+        54
+      ],
+      "pages": [
+        20,
+        41
+      ],
+      "title": "Deliciosos panqueques",
+      "source_as_printed": "campi.com.co/preparaciones-campi/como-preparar-pancakes-caseros-paso-a-paso (referencia parcialmente recortada)"
+    },
+    {
+      "id": "ACN1-LC11",
+      "questions": [
+        55,
+        56
+      ],
+      "pages": [
+        20,
+        39
+      ],
+      "title": "Viaje a pie",
+      "source_as_printed": "Gonzalez,F.(1929).Viaje a pie.Editorial La Libre."
+    },
+    {
+      "id": "ACN1-LC12",
+      "questions": [
+        57,
+        58
+      ],
+      "pages": [
+        39
+      ],
+      "title": "Armas,germenes y acero",
+      "source_as_printed": "Diamond,J.(2006).Armas,germenes y acero.Debolsillo."
+    }
+  ],
+  "items": [
+    {
+      "question": 50,
+      "page": 41,
+      "topic": "Preferencia por preparacion tradicional",
+      "competency_code": "L",
+      "answer_proposal": "B",
+      "reason": "Permite seleccionar ingredientes y cantidades al gusto.",
+      "context": "ACN1-LC10"
+    },
+    {
+      "question": 51,
+      "page": 41,
+      "topic": "Secuencia de preparacion",
+      "competency_code": "L",
+      "answer_proposal": "A",
+      "reason": "Tras mezcla original se agregan vainilla,polvo/bicarbonato y sal.",
+      "context": "ACN1-LC10"
+    },
+    {
+      "question": 52,
+      "page": 41,
+      "topic": "Exclusion de ingrediente en variante salada",
+      "competency_code": "L",
+      "answer_proposal": "D",
+      "reason": "Azucar o edulcorante se omite explicitamente para salados.",
+      "context": "ACN1-LC10"
+    },
+    {
+      "question": 53,
+      "page": 20,
+      "topic": "Funcion introductoria",
+      "competency_code": "G",
+      "answer_proposal": "C",
+      "reason": "El fragmento presenta el plato que luego se explica,no tesis sobre cocina.",
+      "context": "ACN1-LC10"
+    },
+    {
+      "question": 54,
+      "page": 20,
+      "topic": "Implicacion de difusion cultural",
+      "competency_code": "G",
+      "answer_proposal": "C",
+      "reason": "Consumo enEuropa yLatinoamerica muestra que no es exclusivo deEstadosUnidos.",
+      "context": "ACN1-LC10"
+    },
+    {
+      "question": 55,
+      "page": 20,
+      "topic": "Relacion de afirmacion y apoyo",
+      "competency_code": "G",
+      "answer_proposal": "A",
+      "reason": "Lista de enfermedades en2apoya afirmacion de hombre enfermo en1.",
+      "context": "ACN1-LC11"
+    },
+    {
+      "question": 56,
+      "page": 39,
+      "topic": "Identificacion de tesis",
+      "competency_code": "G",
+      "answer_proposal": "A",
+      "reason": "La busqueda de fortuna y dinero es caracterizacion central del siglo desarrollada luego.",
+      "context": "ACN1-LC11"
+    },
+    {
+      "question": 57,
+      "page": 39,
+      "topic": "Proposito argumentativo",
+      "competency_code": "G",
+      "answer_proposal": "B",
+      "reason": "Busca convencer de que explicar causas no equivale a justificar resultados.",
+      "context": "ACN1-LC12"
+    },
+    {
+      "question": 58,
+      "page": 39,
+      "topic": "Afinidad entre ideas",
+      "competency_code": "R",
+      "answer_proposal": "A",
+      "reason": "Adefiende que los fenomenos admiten explicacion aunque aun no la comprendamos;otras hablan simplicidad o niegan explicacion.",
+      "context": "ACN1-LC12",
+      "alert": "La idea deAes mas general y no expresa distincion explicar/justificar;mejor alternativa disponible,no equivalencia exacta."
+    }
+  ],
+  "next": "Lectura23-58documentada en todos sus enunciados presentes;no significa validacion docente."
+}

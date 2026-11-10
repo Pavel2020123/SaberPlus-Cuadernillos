@@ -1,0 +1,129 @@
+{
+  "file_id": "USB-36f91aeae115",
+  "date": "2026-10-30",
+  "area": "Sociales y ciudadanas",
+  "scope": "Físicas4-5 (impresas6-9) inspeccionadas completas. Preguntas13-14 nuevas;15-23 cotejadas visualmente contra AAA1 físicas13-14, preguntas70-78, misma información y opciones.",
+  "items": [
+    {
+      "question": 13,
+      "page": 4,
+      "printed_page": 6,
+      "topic": "Diferencias de demandas entre movimientos sociales",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "answer_proposal": "D",
+      "reason": "MTS reivindica tierra para población rural brasileña; PHRP defiende vivienda de sector urbano en Barcelona.",
+      "alert": "La ubicación continental es diferencia geográfica, no objetivo de demanda. No hay datos para comparar tamaño relativo de grupos ni negar derechos urbanos al MTS."
+    },
+    {
+      "question": 14,
+      "page": 4,
+      "printed_page": 6,
+      "topic": "Interés económico en decisión de una emisora",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "answer_proposal": "B",
+      "reason": "Las directivas cambian de posición tras caer audiencia y retirarse patrocinadores; el motivo explícito destacado es proteger ingresos.",
+      "alert": "No se infiere sanción legal o normativa interna no descrita, ni se justifica contenido sexista del discurso."
+    }
+  ],
+  "duplicate_occurrences": [
+    {
+      "question": 15,
+      "page": 4,
+      "printed_page": 7,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 70,
+      "canonical_page": 13,
+      "exact_content": true,
+      "verification": "Cotejo visual directo contra páginas canónicas: mismos textos, datos, fuentes y opciones A-D. Solo cambian números, código del ejemplar y maquetación.",
+      "observed_annotation": "No se observa opción marcada."
+    },
+    {
+      "question": 16,
+      "page": 4,
+      "printed_page": 7,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 71,
+      "canonical_page": 13,
+      "exact_content": true,
+      "verification": "Cotejo visual directo contra páginas canónicas: mismos textos, datos, fuentes y opciones A-D. Solo cambian números, código del ejemplar y maquetación.",
+      "observed_annotation": "No se observa opción marcada."
+    },
+    {
+      "question": 17,
+      "page": 4,
+      "printed_page": 7,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 72,
+      "canonical_page": 13,
+      "exact_content": true,
+      "verification": "Cotejo visual directo contra páginas canónicas: mismos textos, datos, fuentes y opciones A-D. Solo cambian números, código del ejemplar y maquetación.",
+      "observed_annotation": "No se observa opción marcada."
+    },
+    {
+      "question": 18,
+      "page": 5,
+      "printed_page": 8,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 73,
+      "canonical_page": 14,
+      "exact_content": true,
+      "verification": "Cotejo visual directo contra páginas canónicas: mismos textos, datos, fuentes y opciones A-D. Solo cambian números, código del ejemplar y maquetación.",
+      "observed_annotation": "No se observa opción marcada."
+    },
+    {
+      "question": 19,
+      "page": 5,
+      "printed_page": 8,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 74,
+      "canonical_page": 14,
+      "exact_content": true,
+      "verification": "Cotejo visual directo contra páginas canónicas: mismos textos, datos, fuentes y opciones A-D. Solo cambian números, código del ejemplar y maquetación.",
+      "observed_annotation": "No se observa opción marcada."
+    },
+    {
+      "question": 20,
+      "page": 5,
+      "printed_page": 8,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 75,
+      "canonical_page": 14,
+      "exact_content": true,
+      "verification": "Cotejo visual directo contra páginas canónicas: mismos textos, datos, fuentes y opciones A-D. Solo cambian números, código del ejemplar y maquetación.",
+      "observed_annotation": "No se observa opción marcada."
+    },
+    {
+      "question": 21,
+      "page": 5,
+      "printed_page": 9,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 76,
+      "canonical_page": 14,
+      "exact_content": true,
+      "verification": "Cotejo visual directo contra páginas canónicas: mismos textos, datos, fuentes y opciones A-D. Solo cambian números, código del ejemplar y maquetación.",
+      "observed_annotation": "No se observa opción marcada."
+    },
+    {
+      "question": 22,
+      "page": 5,
+      "printed_page": 9,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 77,
+      "canonical_page": 14,
+      "exact_content": true,
+      "verification": "Cotejo visual directo contra páginas canónicas: mismos textos, datos, fuentes y opciones A-D. Solo cambian números, código del ejemplar y maquetación.",
+      "observed_annotation": "No se observa opción marcada."
+    },
+    {
+      "question": 23,
+      "page": 5,
+      "printed_page": 9,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 78,
+      "canonical_page": 14,
+      "exact_content": true,
+      "verification": "Cotejo visual directo contra páginas canónicas: mismos textos, datos, fuentes y opciones A-D. Solo cambian números, código del ejemplar y maquetación.",
+      "observed_annotation": "No se observa opción marcada."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "file_id": "USB-45e476387c60",
+  "date": "2026-10-30",
+  "area": "Matemáticas",
+  "scope": "Físicas 10-12 inspeccionadas completas, giradas en original. Preguntas 26-34, contextos, tablas, opciones y diagrama revisados. Propuestas iniciales.",
+  "items": [
+    {
+      "question": 26,
+      "page": 10,
+      "printed_page": 10,
+      "topic": "Reconstrucción de total mediante porcentajes encadenados",
+      "competency_proposal": "Formulación y ejecución",
+      "answer_proposal": "D",
+      "reason": "Si 2200 es el 20 % de la mitad del total, T=2200/(0,5×0,2)=22000. Dividir entre 2 y después entre 0,2 recupera el total.",
+      "alert": "La pregunta pide cantidad total, no solo racimos popocho."
+    },
+    {
+      "question": 27,
+      "page": 10,
+      "printed_page": 10,
+      "topic": "Probabilidad y tamaño de una población",
+      "competency_proposal": "Formulación y ejecución",
+      "answer_proposal": "A",
+      "reason": "Con probabilidad de ciencia ficción 1/4, conocer su frecuencia absoluta permite calcular total N=4n y luego restar las otras categorías para obtener histórica.",
+      "alert": "Supone tres géneros exhaustivos y mutuamente excluyentes y selección equiprobable de profesor."
+    },
+    {
+      "question": 28,
+      "page": 10,
+      "printed_page": 10,
+      "topic": "Sucesión recursiva de parejas de conejos",
+      "competency_proposal": "Formulación y ejecución",
+      "answer_proposal": "B",
+      "reason": "Las parejas siguen 1,2,3,5,8,13 en meses 0 a 5. En mes 5 son 13 parejas, es decir 26 conejos.",
+      "alert": "Aplicar reglas idealizadas del enunciado: nacimientos por pareja y maduración mensual, sin mortalidad."
+    },
+    {
+      "question": 29,
+      "page": 11,
+      "printed_page": 11,
+      "topic": "Diferencia entre ingreso y ganancia",
+      "competency_proposal": "Formulación y ejecución",
+      "answer_proposal": "A",
+      "reason": "Ganancia por pantalón es precio de venta menos costo de 100000; multiplicar esa diferencia por unidades vendidas da ganancia total.",
+      "alert": "Se asume mismo precio y costo unitario, sin otros gastos; no confundir venta total con utilidad."
+    },
+    {
+      "question": 30,
+      "page": 11,
+      "printed_page": 11,
+      "topic": "Sesgo de selección y muestreo estratificado",
+      "competency_proposal": "Argumentación",
+      "answer_proposal": "A",
+      "reason": "Separar rural/urbano y secundaria/media conserva ambos sectores y permite seleccionar a lo largo del rango de notas, en lugar de favorecer solo mejores estudiantes.",
+      "alert": "La selección sistemática por notas requiere además inicio y procedimiento adecuados para evitar otros sesgos; la opción corrige el problema señalado sin garantizar representatividad perfecta."
+    },
+    {
+      "question": 31,
+      "page": 11,
+      "printed_page": 11,
+      "topic": "Consistencia entre tabla y gráfica",
+      "competency_proposal": "Interpretación y representación",
+      "answer_proposal": "D",
+      "reason": "Antioquia 2013 es 22,4 en tabla pero 26,1 en gráfico; Central 2012 es 26,7 en tabla pero 20,5 en gráfico. No hay identidad de datos.",
+      "alert": "El promedio de esos dos datos en tabla es (22,4+26,7)/2=24,55; en gráfica es (26,1+20,5)/2=23,3. Verificar leyenda de líneas para no confundir regiones."
+    },
+    {
+      "question": 32,
+      "page": 12,
+      "printed_page": 12,
+      "topic": "Cruce de tablas y condiciones de selección",
+      "competency_proposal": "Interpretación y representación",
+      "answer_proposal": "C",
+      "reason": "Fotografía dura dos semanas; entre Hernando 110, Luisa 117 y Ricardo 280, los de carné par son Hernando y Ricardo, pero Hernando está en Diseño de tres semanas. Gana Ricardo.",
+      "alert": "Número de carné es identificador y su paridad, no cantidad de estudiantes."
+    },
+    {
+      "question": 33,
+      "page": 12,
+      "printed_page": 12,
+      "topic": "Área como diferencia de discos",
+      "competency_proposal": "Formulación y ejecución",
+      "answer_proposal": "A",
+      "reason": "VY da el radio exterior con centro V; WX da el radio interior con centro W. El área sombreada es π(VY²−WX²).",
+      "alert": "Las circunferencias tienen centros distintos; no suponer concentricidad. El disco interior está contenido según figura."
+    },
+    {
+      "question": 34,
+      "page": 12,
+      "printed_page": 12,
+      "topic": "Modelo de precio unitario y costo total",
+      "competency_proposal": "Argumentación",
+      "answer_proposal": "B",
+      "reason": "Los precios unitarios son 1000,950,900...: p(x)=1050−50x. El total es x p(x)=1050x−50x², cuadrático, no la fórmula lineal propuesta.",
+      "alert": "La fórmula mostrada y=1050−50x puede representar precio por lápiz, pero no total de todos. El dominio dado es de 1 a 10; x=0 no es contraejemplo admisible."
+    }
+  ]
+}

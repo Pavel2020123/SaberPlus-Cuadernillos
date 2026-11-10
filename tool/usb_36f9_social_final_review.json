@@ -1,0 +1,31 @@
+{
+  "file_id": "USB-36f91aeae115",
+  "date": "2026-10-30",
+  "area": "Sociales y ciudadanas",
+  "scope": "Física6, impresa10, cierreSociales24-25: cotejo visual exacto contraAAA1 79-80 física15; se omite nuevo análisis.",
+  "items": [],
+  "duplicate_occurrences": [
+    {
+      "question": 24,
+      "page": 6,
+      "printed_page": 10,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 79,
+      "canonical_page": 15,
+      "exact_content": true,
+      "verification": "Cotejo visual directo del contexto completo, enunciado y opciones A-D: identidad de contenido; distinta numeración y maquetación.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 25,
+      "page": 6,
+      "printed_page": 10,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 80,
+      "canonical_page": 15,
+      "exact_content": true,
+      "verification": "Cotejo visual directo del contexto completo, enunciado y opciones A-D: identidad de contenido; distinta numeración y maquetación.",
+      "observed_annotation": "No se observa respuesta marcada."
+    }
+  ]
+}

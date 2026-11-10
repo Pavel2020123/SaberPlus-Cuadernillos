@@ -1,0 +1,157 @@
+{
+  "file_id": "USB-f00a52c8b6f2",
+  "date": "2026-10-30",
+  "area": "Inglés",
+  "scope": "Preguntas120-134,físicas34-35inspeccionadas con textos completos. Inglés80-134cubierto inicialmente.",
+  "contexts": [
+    {
+      "id": "travel",
+      "page": 34,
+      "title": "Lectura yviajes",
+      "description": "Parte6,cinco preguntas de comprensión;cuatro tipos de libro ylectura como destino."
+    },
+    {
+      "id": "soledad",
+      "page": 35,
+      "title": "Soledad",
+      "description": "Parte7,diez espacios125-134sobreSoledadAcosta,ficción,ciencia yeducación femenina."
+    }
+  ],
+  "items": [
+    {
+      "question": 120,
+      "page": 34,
+      "context": "travel",
+      "topic": "Propósito del artículo",
+      "competency_proposal": "Competencia comunicativa: comprensión de propósito, inferencias y sentido global",
+      "answer_proposal": "C",
+      "reason": "Anima a leer durante viajes,usando experiencias yrecomendaciones."
+    },
+    {
+      "question": 121,
+      "page": 34,
+      "context": "travel",
+      "topic": "Información del tercer párrafo",
+      "competency_proposal": "Competencia comunicativa: comprensión de propósito, inferencias y sentido global",
+      "answer_proposal": "A",
+      "reason": "Enumera tipos de libros que la autora lleva;no se centra solo en ventajas generales."
+    },
+    {
+      "question": 122,
+      "page": 34,
+      "context": "travel",
+      "topic": "Metáfora de destino lector",
+      "competency_proposal": "Competencia comunicativa: comprensión de propósito, inferencias y sentido global",
+      "answer_proposal": "A",
+      "reason": "El libro puede ser aventura principal de vacaciones,aun sin relación con destino físico."
+    },
+    {
+      "question": 123,
+      "page": 34,
+      "context": "travel",
+      "topic": "Hábito explícito de selección",
+      "competency_proposal": "Competencia comunicativa: comprensión de propósito, inferencias y sentido global",
+      "answer_proposal": "C",
+      "reason": "Al planear un viaje lleva cuatro tipos de libros."
+    },
+    {
+      "question": 124,
+      "page": 34,
+      "context": "travel",
+      "topic": "Título ytema global",
+      "competency_proposal": "Competencia comunicativa: comprensión de propósito, inferencias y sentido global",
+      "answer_proposal": "A",
+      "reason": "Reading as a way to enjoy your holidays completely integra tema lector yvacaciones."
+    },
+    {
+      "question": 125,
+      "page": 35,
+      "context": "soledad",
+      "topic": "Colocación léxica de género literario",
+      "competency_proposal": "Competencia comunicativa: uso léxico y gramatical en contexto",
+      "answer_proposal": "D",
+      "reason": "Historical novels es la combinación adecuada;no elderly o permanent novels."
+    },
+    {
+      "question": 126,
+      "page": 35,
+      "context": "soledad",
+      "topic": "Conector concesivo",
+      "competency_proposal": "Competencia comunicativa: uso léxico y gramatical en contexto",
+      "answer_proposal": "B",
+      "reason": "Although contrapone ficción con inclusión de conocimiento científico."
+    },
+    {
+      "question": 127,
+      "page": 35,
+      "context": "soledad",
+      "topic": "Vocabulario de especias",
+      "competency_proposal": "Competencia comunicativa: uso léxico y gramatical en contexto",
+      "answer_proposal": "D",
+      "reason": "Vanilla es especia;flour,lamb ypeanut no corresponden al contexto."
+    },
+    {
+      "question": 128,
+      "page": 35,
+      "context": "soledad",
+      "topic": "Colocación climate control",
+      "competency_proposal": "Competencia comunicativa: uso léxico y gramatical en contexto",
+      "answer_proposal": "D",
+      "reason": "Climate control se refiere al manejo de condiciones para cultivos."
+    },
+    {
+      "question": 129,
+      "page": 35,
+      "context": "soledad",
+      "topic": "Adverbio de difusión",
+      "competency_proposal": "Competencia comunicativa: uso léxico y gramatical en contexto",
+      "answer_proposal": "A",
+      "reason": "Widely published corresponde a llegar a audiencia mayor."
+    },
+    {
+      "question": 130,
+      "page": 35,
+      "context": "soledad",
+      "topic": "Infinitivo de finalidad",
+      "competency_proposal": "Competencia comunicativa: uso léxico y gramatical en contexto",
+      "answer_proposal": "B",
+      "reason": "To attract new readers explica finalidad de presentar científicas."
+    },
+    {
+      "question": 131,
+      "page": 35,
+      "context": "soledad",
+      "topic": "Participio con with",
+      "competency_proposal": "Competencia comunicativa: uso léxico y gramatical en contexto",
+      "answer_proposal": "C",
+      "reason": "Provided with an education es construcción correcta."
+    },
+    {
+      "question": 132,
+      "page": 35,
+      "context": "soledad",
+      "topic": "Adjetivo seguido de infinitivo",
+      "competency_proposal": "Competencia comunicativa: uso léxico y gramatical en contexto",
+      "answer_proposal": "B",
+      "reason": "Determined to prove expresa determinación."
+    },
+    {
+      "question": 133,
+      "page": 35,
+      "context": "soledad",
+      "topic": "Verbo frasal de continuidad",
+      "competency_proposal": "Competencia comunicativa: uso léxico y gramatical en contexto",
+      "answer_proposal": "B",
+      "reason": "Went on publishing significa continuó publicando."
+    },
+    {
+      "question": 134,
+      "page": 35,
+      "context": "soledad",
+      "topic": "Modal de recomendación con to",
+      "competency_proposal": "Competencia comunicativa: uso léxico y gramatical en contexto",
+      "answer_proposal": "D",
+      "reason": "Ought to check expresa recomendación yencaja contoya impreso."
+    }
+  ]
+}

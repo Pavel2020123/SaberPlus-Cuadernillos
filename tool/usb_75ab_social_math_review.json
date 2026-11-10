@@ -1,0 +1,62 @@
+{
+  "file_id": "USB-75abccb84c15",
+  "date": "2026-10-30",
+  "area": "Sociales y Matemáticas",
+  "scope": "Físicas10-11inspeccionadas completas.24-25idénticas aAAO2 13-14física4,tras cotejo directo. Matemáticas26-28tres fichas nuevas,sin coincidencia identificada por búsqueda dirigida;unicidad global no certificada.",
+  "items": [
+    {
+      "question": 26,
+      "page": 11,
+      "printed_page": 11,
+      "topic": "Expresión algebraica de ingresos por dos productos",
+      "competency_proposal": "Interpretación y representación",
+      "answer_proposal": "B",
+      "reason": "Los ingresos suman precio por cantidad de cada producto:40000c+80000p. No se suman precios antes de multiplicar todas las unidades ni se intercambian precios."
+    },
+    {
+      "question": 27,
+      "page": 11,
+      "printed_page": 11,
+      "topic": "Conteo de conjuntos en diagrama deVenn",
+      "competency_proposal": "Argumentación",
+      "answer_proposal": "A",
+      "reason": "Crioterapia suma10+4+7+5=26usuarios;electroterapia12+4+1+5=22;masaje8+7+1+5=21. Elmayor total corresponde acrioterapia,no electroterapia.",
+      "alert": "Contar todas las regiones del servicio,incluidas intersecciones;no comparar solamente usuarios exclusivos."
+    },
+    {
+      "question": 28,
+      "page": 11,
+      "printed_page": 11,
+      "topic": "Ángulo central ydivisión uniforme decircunferencia",
+      "competency_proposal": "Formulación y ejecución",
+      "answer_proposal": "D",
+      "reason": "Cinco radios uniformes dejan360/5=72°,superando60°. Se necesitan almenos6radios,con separación60° alusar exactamente6.",
+      "alert": "Cálculo geométrico del ejercicio,no validación de estabilidad oseguridad mecánica deuna rueda real."
+    }
+  ],
+  "duplicate_occurrences": [
+    {
+      "question": 24,
+      "page": 10,
+      "printed_page": 10,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 13,
+      "canonical_page": 4,
+      "exact_content": true,
+      "verification": "Cotejo visual directo deenunciados completos y opcionesA-D:movimientos rural/urbano ydespido decomediantes. Mismo contenido salvo numeración,código,maquetación ymarcas deagua. Reservas canónicas conservadas.",
+      "observed_annotation": "Sin respuesta seleccionada inequívoca enAAR2."
+    },
+    {
+      "question": 25,
+      "page": 10,
+      "printed_page": 10,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 14,
+      "canonical_page": 4,
+      "exact_content": true,
+      "verification": "Cotejo visual directo deenunciados completos y opcionesA-D:movimientos rural/urbano ydespido decomediantes. Mismo contenido salvo numeración,código,maquetación ymarcas deagua. Reservas canónicas conservadas.",
+      "observed_annotation": "Sin respuesta seleccionada inequívoca enAAR2."
+    }
+  ],
+  "next": "Física12,verificar29en adelante."
+}

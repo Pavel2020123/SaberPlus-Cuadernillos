@@ -1,0 +1,223 @@
+{
+  "file_id": "USB-7882c8f9ae2f",
+  "date": "2026-10-30",
+  "area": "Sociales y ciudadanas",
+  "scope": "Preguntas1-25, físicas2-8, inspección visual de textos y opciones. Portada2026-1segunda sesión147preguntas4h30,SantuarioLasLajas; calendarioBsolo en nombre no confirmado. Propuestas iniciales no oficiales; no letras marcadas observadas en este bloque.",
+  "competency_legend": {
+    "PS": "Pensamiento social",
+    "IP": "Interpretación y análisis de perspectivas",
+    "RS": "Pensamiento reflexivo y sistémico"
+  },
+  "items": [
+    {
+      "question": 1,
+      "page": 2,
+      "topic": "Pertinencia de evidencia sobre mitigación climática",
+      "competency_code": "IP",
+      "answer_proposal": "C",
+      "reason": "La reducción británica de emisiones aún incompleta conecta directamente con el reclamo de ir más allá de reducciones parciales."
+    },
+    {
+      "question": 2,
+      "page": 2,
+      "topic": "Contraste de lenguaje legal con diversidad étnica",
+      "competency_code": "PS",
+      "answer_proposal": "B",
+      "reason": "Reducir y civilizar tribus expresa perspectiva asimilacionista contraria al reconocimiento de diversidad étnica de1991.",
+      "alert": "Se analiza el contraste textual, no se fecha una ley solo por estilo ni se verifica legislación vigente."
+    },
+    {
+      "question": 3,
+      "page": 2,
+      "topic": "Prejuicio de género en explicación investigativa",
+      "competency_code": "IP",
+      "answer_proposal": "B",
+      "reason": "Atribuir formación en valores solo a madres presupone responsabilidad exclusiva de ellas y excluye otros cuidadores."
+    },
+    {
+      "question": 4,
+      "page": 3,
+      "topic": "Afinidad de postura con diversidad sexual",
+      "competency_code": "IP",
+      "answer_proposal": "D",
+      "reason": "La postura declarada promueve educación sexual sin prejuicios y valoración de diversidad;Drecoge esa orientación."
+    },
+    {
+      "question": 5,
+      "page": 3,
+      "topic": "Identificación de prejuicio sobre discapacidad",
+      "competency_code": "IP",
+      "answer_proposal": "C",
+      "reason": "Catribuye discapacidad a actitudes personales e ignora barreras del entorno; ese es el juicio cuestionable."
+    },
+    {
+      "question": 6,
+      "page": 3,
+      "topic": "Condición que reduce eficacia de regulación pesquera",
+      "competency_code": "RS",
+      "answer_proposal": "B",
+      "reason": "Concentrar más buques en franjas acordadas puede mantener o agravar presión ecológica pese al límite temporal.",
+      "alert": "La solución requiere controlar esfuerzo total de pesca, no solo tiempos."
+    },
+    {
+      "question": 7,
+      "page": 3,
+      "topic": "Función participativa de partidos políticos",
+      "competency_code": "PS",
+      "answer_proposal": "A",
+      "reason": "Los partidos permiten participación e incidencia en decisiones públicas; no administran justicia ni requieren censurar oposición."
+    },
+    {
+      "question": 8,
+      "page": 4,
+      "topic": "Derecho afectado por infraestructura de agua insuficiente",
+      "competency_code": "PS",
+      "answer_proposal": "C",
+      "reason": "La carencia de suministro seguro y universal afecta directamente acceso a agua potable."
+    },
+    {
+      "question": 9,
+      "page": 4,
+      "topic": "Intención explícita en discurso de estado de sitio",
+      "competency_code": "IP",
+      "answer_proposal": "D",
+      "reason": "El discurso invoca prevención de un levantamiento general y mantenimiento del orden; no anuncia nueva elección o castigo por fraude."
+    },
+    {
+      "question": 10,
+      "page": 4,
+      "topic": "Cambio de posición y rol político",
+      "competency_code": "IP",
+      "answer_proposal": "C",
+      "reason": "Pasa de oposición que cuestiona impuesto a canasta familiar a apoyo gubernamental de reforma presentada como gravamen a clases altas; cambian rol y enfoque."
+    },
+    {
+      "question": 11,
+      "page": 5,
+      "topic": "Factor omitido en criterio de financiación educativa",
+      "competency_code": "RS",
+      "answer_proposal": "C",
+      "reason": "Exigir buen desempeño no considera desigual calidad previa de educación primaria/secundaria que condiciona ese rendimiento.",
+      "alert": "La propuesta sí menciona nivel socioeconómico y acreditación de programas; no confundirlos con factores omitidos."
+    },
+    {
+      "question": 12,
+      "page": 5,
+      "topic": "Relación entre segregación y violencia genocida",
+      "competency_code": "PS",
+      "answer_proposal": "C",
+      "reason": "El confinamiento en guetos y separación del resto de población corresponde a segregación que el relato vincula como antecedente al genocidio."
+    },
+    {
+      "question": 13,
+      "page": 5,
+      "topic": "Barrera cultural para innovación de riego",
+      "competency_code": "RS",
+      "answer_proposal": "C",
+      "reason": "Conservar técnicas tradicionales y esperar lluvias puede obstaculizar adoptar molino y riego alternativo.",
+      "alert": "Se analiza la resistencia descrita en el caso, no se generaliza a pueblos africanos ni a creencias religiosas."
+    },
+    {
+      "question": 14,
+      "page": 5,
+      "topic": "Intervención estatal en economía mixta",
+      "competency_code": "PS",
+      "answer_proposal": "A",
+      "reason": "La alcaldía interviene en contratación de servicio público al terminar contrato por incumplimiento; las otras opciones describen acuerdos o competencia privados."
+    },
+    {
+      "question": 15,
+      "page": 6,
+      "topic": "Cuestionamiento de analogía argumentativa",
+      "competency_code": "IP",
+      "answer_proposal": "C",
+      "reason": "Mayor interacción activa del jugador podría diferenciar efectos de videojuegos de televisión y cuestionar que deban tratarse igual.",
+      "alert": "Se propone argumento posible; no prueba que videojuegos causen delitos."
+    },
+    {
+      "question": 16,
+      "page": 6,
+      "topic": "Crítica metodológica frente a contradicción de resultados",
+      "competency_code": "IP",
+      "answer_proposal": "A",
+      "reason": "Los voceros reconocen resultados alarmantes pero piden considerar otras variables y contextos; eso no equivale a negarlos.",
+      "alert": "Aceptación de cifras no valida sus objeciones ni demuestra que la exclusión se deba a otros factores."
+    },
+    {
+      "question": 17,
+      "page": 6,
+      "topic": "Intención de reclamo de discriminación",
+      "competency_code": "IP",
+      "answer_proposal": "D",
+      "reason": "La estudiante denuncia que la decisión vulnera derechos vinculados con sus creencias; no declara objetivo económico ni defender reglamento."
+    },
+    {
+      "question": 18,
+      "page": 6,
+      "topic": "Ejemplo de libre desarrollo de personalidad",
+      "competency_code": "PS",
+      "answer_proposal": "C",
+      "reason": "Permitir continuar estudios a estudiantes embarazadas respeta decisiones personales y evita exclusión por esa condición.",
+      "alert": "No requiere aceptar prohibición general de culto como condición de diversidad."
+    },
+    {
+      "question": 19,
+      "page": 7,
+      "topic": "Efecto indirecto no deseado de asignación de liderazgo",
+      "competency_code": "RS",
+      "answer_proposal": "D",
+      "reason": "Enfatizar responsabilidad de pueblos indígenas podría inducir a otros grupos a desentenderse del cuidado ambiental.",
+      "alert": "Es hipótesis de efecto no deseado, no consecuencia necesaria de consulta ni disminución real de responsabilidad legal."
+    },
+    {
+      "question": 20,
+      "page": 7,
+      "topic": "Compatibilidad de captura y consumo de invasora",
+      "competency_code": "RS",
+      "answer_proposal": "C",
+      "reason": "Consumir peces capturados para controlar población puede complementar la caza; no hace falta criar más peces león."
+    },
+    {
+      "question": 21,
+      "page": 7,
+      "topic": "Competencias y mecanismos de reforma constitucional",
+      "competency_code": "PS",
+      "answer_proposal": null,
+      "reason": "El presidente no reforma unilateralmente la Constitución, peroCafirma incorrectamente que solo el Congreso puede reformarla;AyDno responden adecuadamente a mecanismos.",
+      "alert": "Cparece intención de separación de poderes, pero excluye referendo y asamblea constituyente. Aconfunde tramitar reforma con dictar sentencias. Sin clave suficientemente precisa; revisión docente, no asesoría jurídica."
+    },
+    {
+      "question": 22,
+      "page": 8,
+      "topic": "Pertinencia de indicios para atribuir discurso histórico",
+      "competency_code": "IP",
+      "answer_proposal": "B",
+      "reason": "Entre las opciones,Bmejor relaciona crítica a oligarquías tradicionales y posicionamiento político con el personaje mencionado.",
+      "alert": "El contenido por sí solo no prueba autoría única de Gaitán;Descarta Frente Nacional por anacronismo1946. Propuesta de intención del ítem, no autenticación de la cita."
+    },
+    {
+      "question": 23,
+      "page": 8,
+      "topic": "Concepto de discriminación por orientación sexual",
+      "competency_code": "PS",
+      "answer_proposal": "B",
+      "reason": "El ataque se dirige a condición homosexual del congresista, por lo que corresponde a homofobia entre las opciones."
+    },
+    {
+      "question": 24,
+      "page": 8,
+      "topic": "Adaptación a disponibilidad geográfica de agua",
+      "competency_code": "PS",
+      "answer_proposal": "D",
+      "reason": "La escasez de fuentes superficiales explica captación y almacenamiento subterráneo de lluvia en Yucatán."
+    },
+    {
+      "question": 25,
+      "page": 8,
+      "topic": "Concepto de desarrollo sostenible",
+      "competency_code": "PS",
+      "answer_proposal": "D",
+      "reason": "El texto combina crecimiento presente con preservación de recursos para futuro, comoD."
+    }
+  ]
+}

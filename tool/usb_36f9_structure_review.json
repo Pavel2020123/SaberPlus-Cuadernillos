@@ -1,0 +1,86 @@
+{
+  "file_id": "USB-36f91aeae115",
+  "date": "2026-10-30",
+  "area": "Estructura del documento",
+  "scope": "20páginas físicas inspeccionadas visualmente,147enunciados presentes cubiertos inicialmente. No validación docente ni unicidad global certificada.",
+  "items": [],
+  "structure": {
+    "cover": {
+      "page": 1,
+      "title": "Mompox",
+      "year_session": "2025-2 segunda sesión",
+      "code": "AAO2",
+      "declared_questions": 147,
+      "declared_time": "4h30",
+      "calendar": "Sin confirmar",
+      "authenticity": "Sin verificar"
+    },
+    "sections": [
+      {
+        "area": "Sociales",
+        "questions": [
+          1,
+          25
+        ],
+        "physical_pages": [
+          2,
+          6
+        ]
+      },
+      {
+        "area": "Matemáticas",
+        "questions": [
+          26,
+          50
+        ],
+        "physical_pages": [
+          6,
+          10
+        ]
+      },
+      {
+        "area": "Ciencias",
+        "questions": [
+          51,
+          79
+        ],
+        "physical_pages": [
+          11,
+          16
+        ]
+      },
+      {
+        "area": "Inglés",
+        "questions": [
+          80,
+          134
+        ],
+        "physical_pages": [
+          16,
+          20
+        ]
+      },
+      {
+        "area": "Autoinformes",
+        "questions": [
+          135,
+          147
+        ],
+        "physical_pages": [
+          20,
+          20
+        ]
+      }
+    ],
+    "academic_own": 59,
+    "academic_references": 75,
+    "excluded_self_reports": 13,
+    "missing_questions": [],
+    "notable_variants": [
+      "Ciencias78:animal de ilustración diferente",
+      "Inglés105-112:contextoPicasso24%frente21%"
+    ],
+    "source_modified": false,
+    "corrections": "75noesvarianterespectoAAK2:ambos8/6,cotejo ampliado confirmado;seconsolida como referencia directa."
+  }
+}

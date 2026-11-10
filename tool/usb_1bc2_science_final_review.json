@@ -1,0 +1,91 @@
+{
+  "file_id": "USB-1bc205e23b46",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Preguntas 74-79 revisadas visualmente en páginas físicas 21-23. Salto 71-73 pendiente de comprobar; no se declara completada la numeración de Ciencias.",
+  "items": [
+    {
+      "question": 74,
+      "page": 21,
+      "topic": "Electrones de valencia y modelo del octeto",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "C",
+      "reason": "Según la regla de suma planteada, Na aporta 1 y Cl 7 electrones de valencia: suman 8.",
+      "alert": "La regla del enunciado es una simplificación inadecuada como criterio general de enlace: el octeto corresponde a la capa de cada átomo tras transferencia o compartición, no simplemente a sumar valencias de dos átomos.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 75,
+      "page": 21,
+      "topic": "Predicción en conjugación bacteriana",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "C",
+      "reason": "El modelo termina con dos donantes: la receptora adquiere ADN extra y puede transferirlo a otras bacterias; no se muestra reproducción celular ni identidad genómica completa.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 76,
+      "page": 22,
+      "topic": "Contraste de hipótesis con curvas de altitud",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "C",
+      "reason": "Las curvas oscilan y no muestran adelgazamiento ni aumento sostenido de porosidad al ascender. C es la alternativa compatible con ausencia de tendencia clara.",
+      "alert": "La expresión ninguna relación es más fuerte que lo que prueba el gráfico: no se muestra tendencia monotónica evidente, pero faltan análisis estadísticos para descartar toda asociación.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 77,
+      "page": 22,
+      "topic": "Inferencia experimental sobre composición de luz",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "B",
+      "reason": "En el modelo, el primer prisma separa amarillo en rojo y verde; el segundo no divide el verde. B recoge ambas observaciones.",
+      "alert": "Resultado limitado a la luz y al modelo descritos: no toda luz percibida como amarilla es mezcla de rojo y verde; tampoco se demuestra en general pureza espectral solo por una separación no observada.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 78,
+      "page": 23,
+      "topic": "Comparación de intensidad sonora con tabla de referencia",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "A",
+      "reason": "La máxima intensidad de la gráfica ronda 40 dB, inferior al ejemplo de 60 dB clasificado sin riesgo en la tabla y lejos de los 80 dB de límite; A corresponde al criterio del ejercicio.",
+      "alert": "La máxima ronda 40 dB. La tabla es una referencia escolar simplificada, no evaluación clínica ni garantía universal de seguridad para cualquier duración.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    },
+    {
+      "question": 79,
+      "page": 23,
+      "topic": "Predicción de distribución de huevos según tamaño",
+      "competency_proposal": "Indagación",
+      "answer_proposal": "D",
+      "reason": "El grupo I tiene mayor longitud media (350 frente a 250 mm). D representa al grupo I con más nidos de muchos huevos y al II concentrado en pocos huevos, de acuerdo con la hipótesis.",
+      "alert": "Es el patrón esperado si la hipótesis es cierta, no un resultado observado ni demostración causal de que el tamaño determina la puesta.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "círculo rojo en letra de opción",
+        "provenance": "Marca del escaneo; autoría y carácter oficial no comprobados."
+      }
+    }
+  ]
+}

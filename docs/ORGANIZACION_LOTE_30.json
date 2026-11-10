@@ -1,0 +1,246 @@
+{
+  "date": "2026-10-31T10:56:04.054637",
+  "status": "completed_and_sha256_verified",
+  "records": [
+    {
+      "id": "USB-04dc5257ed8b",
+      "old_path": "ICFES_2026_Cal-B-por-confirmar_Sesion-1_Castillo-San-Felipe_Ref020.pdf",
+      "new_path": "Revisados - Lote 30/2026 - Calendario por confirmar/ICFES_2026_Cal-B-por-confirmar_Sesion-1_Castillo-San-Felipe_Ref020_USB-04dc5257ed8b/ICFES_2026_Cal-B-por-confirmar_Sesion-1_Castillo-San-Felipe_Ref020_USB-04dc5257ed8b.pdf",
+      "sha256": "5f56dff2cf940691bec4187c2087030a6a036a5b36d153bce38e8d51188103b4",
+      "year_basis": "Nombre documentado; no certifica fecha ni autenticidad",
+      "calendar": "Por confirmar"
+    },
+    {
+      "id": "USB-1bc205e23b46",
+      "old_path": "ICFES_2025_Cal-B_Sesion-2_Desierto-de-la-Tatacoa_Ref014.pdf",
+      "new_path": "Revisados - Lote 30/2025 - Calendario B/ICFES_2025_Cal-B_Sesion-2_Desierto-de-la-Tatacoa_Ref014_USB-1bc205e23b46/ICFES_2025_Cal-B_Sesion-2_Desierto-de-la-Tatacoa_Ref014_USB-1bc205e23b46.pdf",
+      "sha256": "65873a53eb39360da44482f5406c6ee5c7fb462b906275c7abc3611fdd34a1e1",
+      "year_basis": "Nombre documentado; no certifica fecha ni autenticidad",
+      "calendar": "B"
+    },
+    {
+      "id": "USB-1c44481d3d4a",
+      "old_path": "Referencia_2026-1-declarado_Sesion-2_ABV2_USB-1c44481d3d4a.pdf",
+      "new_path": "Revisados - Lote 30/2026 - Calendario por confirmar/Referencia_2026-1-declarado_Sesion-2_ABV2_USB-1c44481d3d4a/Referencia_2026-1-declarado_Sesion-2_ABV2_USB-1c44481d3d4a.pdf",
+      "sha256": "73f4a0c626812d201c9cf701ab19f5dc106be94d5e4311288f366d0316c6b6fd",
+      "year_basis": "Nombre documentado; no certifica fecha ni autenticidad",
+      "calendar": "Por confirmar"
+    },
+    {
+      "id": "USB-1c6462bf5377",
+      "old_path": "2025-2 AAR1.pdf",
+      "new_path": "Revisados - Lote 30/2025 - Calendario por confirmar/2025-2-AAR1_USB-1c6462bf5377/2025-2-AAR1_USB-1c6462bf5377.pdf",
+      "sha256": "b7fb69259af383a01de0f49a289810d3375414b310e26f7a2080e7fd82dc31c5",
+      "year_basis": "Nombre documentado; no certifica fecha ni autenticidad",
+      "calendar": "Por confirmar"
+    },
+    {
+      "id": "USB-234fa4e3ddce",
+      "old_path": "2026-1 ADB3.pdf",
+      "new_path": "Revisados - Lote 30/2026 - Calendario por confirmar/2026-1-ADB3_USB-234fa4e3ddce/2026-1-ADB3_USB-234fa4e3ddce.pdf",
+      "sha256": "f963de729924fc065b1fea2189285ac6136397118e3565a593797a30d99a2702",
+      "year_basis": "Nombre documentado; no certifica fecha ni autenticidad",
+      "calendar": "Por confirmar"
+    },
+    {
+      "id": "USB-2543b7a34fb2",
+      "old_path": "Referencia_2026-1-declarado_Sesion-2_ABU2_USB-2543b7a34fb2.pdf",
+      "new_path": "Revisados - Lote 30/2026 - Calendario por confirmar/Referencia_2026-1-declarado_Sesion-2_ABU2_USB-2543b7a34fb2/Referencia_2026-1-declarado_Sesion-2_ABU2_USB-2543b7a34fb2.pdf",
+      "sha256": "999a9d6313aa10e9bb26f8427c774d50fc38de700c3a55337229b5f190e98a74",
+      "year_basis": "Nombre documentado; no certifica fecha ni autenticidad",
+      "calendar": "Por confirmar"
+    },
+    {
+      "id": "USB-2722e7c48dfd",
+      "old_path": "ICFES_2026_Cal-B-por-confirmar_Sesion-2_Cristo-Redentor_Ref029.pdf",
+      "new_path": "Revisados - Lote 30/2026 - Calendario por confirmar/ICFES_2026_Cal-B-por-confirmar_Sesion-2_Cristo-Redentor_Ref029_USB-2722e7c48dfd/ICFES_2026_Cal-B-por-confirmar_Sesion-2_Cristo-Redentor_Ref029_USB-2722e7c48dfd.pdf",
+      "sha256": "0b44346f5e0c0bee4c0afe9136da06686b01bd056e96514410ba43db1c839677",
+      "year_basis": "Nombre documentado; no certifica fecha ni autenticidad",
+      "calendar": "Por confirmar"
+    },
+    {
+      "id": "USB-295a0508d0cf",
+      "old_path": "SAMUEL SOCIALES 2026-2_compressed.pdf",
+      "new_path": "Revisados - Lote 30/2026 - Calendario por confirmar/SAMUEL-SOCIALES-2026-2_compressed_USB-295a0508d0cf/SAMUEL-SOCIALES-2026-2_compressed_USB-295a0508d0cf.pdf",
+      "sha256": "12963e424d1b3401a45b66c1891c318035464a9a66a238a25148fad037af8eac",
+      "year_basis": "Nombre documentado; no certifica fecha ni autenticidad",
+      "calendar": "Por confirmar"
+    },
+    {
+      "id": "USB-36f91aeae115",
+      "old_path": "2025-2 AAO2.pdf",
+      "new_path": "Revisados - Lote 30/2025 - Calendario por confirmar/2025-2-AAO2_USB-36f91aeae115/2025-2-AAO2_USB-36f91aeae115.pdf",
+      "sha256": "b7a2a74721fddd201b2d1d2d06ba1ec8db2d62aa201286efc01544c8629ae0fc",
+      "year_basis": "Nombre documentado; no certifica fecha ni autenticidad",
+      "calendar": "Por confirmar"
+    },
+    {
+      "id": "USB-45e476387c60",
+      "old_path": "2025-2 AAK2.pdf",
+      "new_path": "Revisados - Lote 30/2025 - Calendario por confirmar/2025-2-AAK2_USB-45e476387c60/2025-2-AAK2_USB-45e476387c60.pdf",
+      "sha256": "c3a56c263759d694cbe5a120a2c06610f7ccc3c2c8a3ce294b4c46307cb707c6",
+      "year_basis": "Nombre documentado; no certifica fecha ni autenticidad",
+      "calendar": "Por confirmar"
+    },
+    {
+      "id": "USB-4d0661231ca3",
+      "old_path": "2025-2 ABA2.pdf",
+      "new_path": "Revisados - Lote 30/2025 - Calendario por confirmar/2025-2-ABA2_USB-4d0661231ca3/2025-2-ABA2_USB-4d0661231ca3.pdf",
+      "sha256": "42d790dc86654057393740cbe445cfa5500876e53f9e5aef836e5ee78725e21d",
+      "year_basis": "Nombre documentado; no certifica fecha ni autenticidad",
+      "calendar": "Por confirmar"
+    },
+    {
+      "id": "USB-524d98b0a234",
+      "old_path": "2026-2 ABJ2.pdf",
+      "new_path": "Revisados - Lote 30/2026 - Calendario por confirmar/2026-2-ABJ2_USB-524d98b0a234/2026-2-ABJ2_USB-524d98b0a234.pdf",
+      "sha256": "78c31d57f562a19c1f7f627c6ce2e42808fd0c8383e4391e0de2b02bc632d4e0",
+      "year_basis": "Nombre documentado; no certifica fecha ni autenticidad",
+      "calendar": "Por confirmar"
+    },
+    {
+      "id": "USB-578d9b20297e",
+      "old_path": "Referencia_Sesion-2_Ano-por-confirmar_Sin-portada_77322_USB-578d9b20297e.pdf",
+      "new_path": "Revisados - Lote 30/Sin ano confirmado - Cuadernillos de referencia/Referencia_Sesion-2_Ano-por-confirmar_Sin-portada_77322_USB-578d9b20297e/Referencia_Sesion-2_Ano-por-confirmar_Sin-portada_77322_USB-578d9b20297e.pdf",
+      "sha256": "c6891b3eb5a0d610166e86cb15fdf4b0f18c52a28292ffc7756e4d9bf77b859b",
+      "year_basis": "Nombre documentado; no certifica fecha ni autenticidad",
+      "calendar": "Por confirmar"
+    },
+    {
+      "id": "USB-709bc037689b",
+      "old_path": "2026-1 ACC2.pdf",
+      "new_path": "Revisados - Lote 30/2026 - Calendario por confirmar/2026-1-ACC2_USB-709bc037689b/2026-1-ACC2_USB-709bc037689b.pdf",
+      "sha256": "fbf1ad538fa4ceb1782ed4577449c6f12806b898e6a51158c3080751cf7e3752",
+      "year_basis": "Nombre documentado; no certifica fecha ni autenticidad",
+      "calendar": "Por confirmar"
+    },
+    {
+      "id": "USB-73fbd3be4b98",
+      "old_path": "2025-2 AAZ1.pdf",
+      "new_path": "Revisados - Lote 30/2025 - Calendario por confirmar/2025-2-AAZ1_USB-73fbd3be4b98/2025-2-AAZ1_USB-73fbd3be4b98.pdf",
+      "sha256": "eddea9020c466aeb48696d6884ebb9237948b8834169f1eadb6864116fcfd42c",
+      "year_basis": "Nombre documentado; no certifica fecha ni autenticidad",
+      "calendar": "Por confirmar"
+    },
+    {
+      "id": "USB-75abccb84c15",
+      "old_path": "2025-2 AAR2.pdf",
+      "new_path": "Revisados - Lote 30/2025 - Calendario por confirmar/2025-2-AAR2_USB-75abccb84c15/2025-2-AAR2_USB-75abccb84c15.pdf",
+      "sha256": "6ae77eadda708416634c4fe7d3c7f08f2e318074641a4033ec2639d85ca567d1",
+      "year_basis": "Nombre documentado; no certifica fecha ni autenticidad",
+      "calendar": "Por confirmar"
+    },
+    {
+      "id": "USB-77cc8ac26d2c",
+      "old_path": "2026-2 ACN1.pdf",
+      "new_path": "Revisados - Lote 30/2026 - Calendario por confirmar/2026-2-ACN1_USB-77cc8ac26d2c/2026-2-ACN1_USB-77cc8ac26d2c.pdf",
+      "sha256": "4e72bb9a8b43bab5a66189cef655479f6df52a32c137afe407906405842fa88a",
+      "year_basis": "Nombre documentado; no certifica fecha ni autenticidad",
+      "calendar": "Por confirmar"
+    },
+    {
+      "id": "USB-7882c8f9ae2f",
+      "old_path": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033.pdf",
+      "new_path": "Revisados - Lote 30/2026 - Calendario B/ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f/ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
+      "sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
+      "year_basis": "Nombre documentado; no certifica fecha ni autenticidad",
+      "calendar": "B"
+    },
+    {
+      "id": "USB-7b48857ae6bc",
+      "old_path": "Referencia_Sesion-1_Ano-por-confirmar_Sin-portada_USB-7b48857ae6bc.pdf",
+      "new_path": "Revisados - Lote 30/Sin ano confirmado - Cuadernillos de referencia/Referencia_Sesion-1_Ano-por-confirmar_Sin-portada_USB-7b48857ae6bc/Referencia_Sesion-1_Ano-por-confirmar_Sin-portada_USB-7b48857ae6bc.pdf",
+      "sha256": "e097030e30d207442b8d940520b00a6ddd0a9f3cd581b4fc92cc6c21ba109d57",
+      "year_basis": "Nombre documentado; no certifica fecha ni autenticidad",
+      "calendar": "Por confirmar"
+    },
+    {
+      "id": "USB-7c1a96cf7ade",
+      "old_path": "2025-2.pdf",
+      "new_path": "Revisados - Lote 30/2025 - Calendario por confirmar/2025-2_USB-7c1a96cf7ade/2025-2_USB-7c1a96cf7ade.pdf",
+      "sha256": "72155c3f651666a7b18084bfa236fc7440bc082a5562572e64a68b1f736dda58",
+      "year_basis": "Nombre documentado; no certifica fecha ni autenticidad",
+      "calendar": "Por confirmar"
+    },
+    {
+      "id": "USB-8e6cf8399239",
+      "old_path": "2025-1 (1).pdf",
+      "new_path": "Revisados - Lote 30/2025 - Calendario por confirmar/2025-1-1_USB-8e6cf8399239/2025-1-1_USB-8e6cf8399239.pdf",
+      "sha256": "429623cc8f005d97a8b7a62d8d3412c17c3a886779172232bdb89e5b78bfd810",
+      "year_basis": "Nombre documentado; no certifica fecha ni autenticidad",
+      "calendar": "Por confirmar"
+    },
+    {
+      "id": "USB-91836110f48e",
+      "old_path": "Referencia_2026-1-declarado_Sesion-1_ACC1_Incompleto-131-de-143_USB-91836110f48e.pdf",
+      "new_path": "Revisados - Lote 30/2026 - Calendario por confirmar/Referencia_2026-1-declarado_Sesion-1_ACC1_Incompleto-131-de-143_USB-91836110f48e/Referencia_2026-1-declarado_Sesion-1_ACC1_Incompleto-131-de-143_USB-91836110f48e.pdf",
+      "sha256": "68cf407d827856af596efebb8d8b3243db2e37b4f0134ea47a5a698b144f09e7",
+      "year_basis": "Nombre documentado; no certifica fecha ni autenticidad",
+      "calendar": "Por confirmar"
+    },
+    {
+      "id": "USB-a170782eadcb",
+      "old_path": "2025-2 AAA1.pdf",
+      "new_path": "Revisados - Lote 30/2025 - Calendario por confirmar/2025-2-AAA1_USB-a170782eadcb/2025-2-AAA1_USB-a170782eadcb.pdf",
+      "sha256": "79071054609dcbf4aa0938915a960c59aead34bf4aeeb99d2ad4be9a406cb613",
+      "year_basis": "Nombre documentado; no certifica fecha ni autenticidad",
+      "calendar": "Por confirmar"
+    },
+    {
+      "id": "USB-b39f1fd42a79",
+      "old_path": "Referencia_2026-1-declarado_Sesion-1_ABV1_Incompleto-131-de-143_USB-b39f1fd42a79.pdf",
+      "new_path": "Revisados - Lote 30/2026 - Calendario por confirmar/Referencia_2026-1-declarado_Sesion-1_ABV1_Incompleto-131-de-143_USB-b39f1fd42a79/Referencia_2026-1-declarado_Sesion-1_ABV1_Incompleto-131-de-143_USB-b39f1fd42a79.pdf",
+      "sha256": "a0092119c34217e57582df03d034183dd9f4882f68073ceec59fdca17a638d60",
+      "year_basis": "Nombre documentado; no certifica fecha ni autenticidad",
+      "calendar": "Por confirmar"
+    },
+    {
+      "id": "USB-d4e43db6988a",
+      "old_path": "ICFES_2026_Cal-B_Sesion-1_Condor-Andino_Ref001.pdf",
+      "new_path": "Revisados - Lote 30/2026 - Calendario B/ICFES_2026_Cal-B_Sesion-1_Condor-Andino_Ref001_USB-d4e43db6988a/ICFES_2026_Cal-B_Sesion-1_Condor-Andino_Ref001_USB-d4e43db6988a.pdf",
+      "sha256": "0e11d3447856c31df81560ab183b27b138df951c088d715ab2a11640facf6092",
+      "year_basis": "Nombre documentado; no certifica fecha ni autenticidad",
+      "calendar": "B"
+    },
+    {
+      "id": "USB-e4489f150183",
+      "old_path": "2026-1.pdf",
+      "new_path": "Revisados - Lote 30/2026 - Calendario por confirmar/2026-1_USB-e4489f150183/2026-1_USB-e4489f150183.pdf",
+      "sha256": "173c729eb0d5215e4c0b19bed77c2942187ba867a9669fb4b03365a121cd6547",
+      "year_basis": "Nombre documentado; no certifica fecha ni autenticidad",
+      "calendar": "Por confirmar"
+    },
+    {
+      "id": "USB-e58ef5771b78",
+      "old_path": "2025-2 AAQ2.pdf",
+      "new_path": "Revisados - Lote 30/2025 - Calendario por confirmar/2025-2-AAQ2_USB-e58ef5771b78/2025-2-AAQ2_USB-e58ef5771b78.pdf",
+      "sha256": "b26feaf961f7a26b3f911d511c6d01c641daf2c5af264649007f57b2be85845e",
+      "year_basis": "Nombre documentado; no certifica fecha ni autenticidad",
+      "calendar": "Por confirmar"
+    },
+    {
+      "id": "USB-eee9960ca52a",
+      "old_path": "Referencia_2026-1-declarado_Sesion-1_ACM7_USB-eee9960ca52a.pdf",
+      "new_path": "Revisados - Lote 30/2026 - Calendario por confirmar/Referencia_2026-1-declarado_Sesion-1_ACM7_USB-eee9960ca52a/Referencia_2026-1-declarado_Sesion-1_ACM7_USB-eee9960ca52a.pdf",
+      "sha256": "b2aa1c860cc6b6c995aeec750be4a13e44486bed4d1270c3795aca9221102113",
+      "year_basis": "Nombre documentado; no certifica fecha ni autenticidad",
+      "calendar": "Por confirmar"
+    },
+    {
+      "id": "USB-f00a52c8b6f2",
+      "old_path": "2025-1.pdf",
+      "new_path": "Revisados - Lote 30/2025 - Calendario por confirmar/2025-1_USB-f00a52c8b6f2/2025-1_USB-f00a52c8b6f2.pdf",
+      "sha256": "c2844639a62a8b2b94b15c3ddcfb80035f1bc2733a122ca09ecd10730289e637",
+      "year_basis": "Nombre documentado; no certifica fecha ni autenticidad",
+      "calendar": "Por confirmar"
+    },
+    {
+      "id": "USB-f539288d427d",
+      "old_path": "SAMUEL SOCIALES 2026-2_(Resuelto completo).pdf",
+      "new_path": "Revisados - Lote 30/2026 - Calendario por confirmar/SAMUEL-SOCIALES-2026-2_-Resuelto-completo_USB-f539288d427d/SAMUEL-SOCIALES-2026-2_-Resuelto-completo_USB-f539288d427d.pdf",
+      "sha256": "129833328adffb633b20bb2d1a8c33404a10e16f829f4e5ce0747dda1e6e9411",
+      "year_basis": "Nombre documentado; no certifica fecha ni autenticidad",
+      "calendar": "Por confirmar"
+    }
+  ]
+}

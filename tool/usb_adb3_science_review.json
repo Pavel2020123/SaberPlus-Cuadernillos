@@ -1,0 +1,214 @@
+{
+  "file_id": "USB-234fa4e3ddce",
+  "date": "2026-10-29",
+  "area": "Ciencias naturales",
+  "scope": "Preguntas65-86 paginas24-33 inspeccionadas visualmente.Pagina25leida en imagen auxiliar girada180grados,sin alterarPDF.Propuestas no oficiales,sin validacion docente ni recomendaciones tecnicas o sanitarias.",
+  "competency_legend": {
+    "U": "Uso comprensivo del conocimiento cientifico",
+    "E": "Explicacion de fenomenos",
+    "I": "Indagacion"
+  },
+  "contexts": [
+    {
+      "id": "ADB3-CN01",
+      "questions": [
+        65,
+        66,
+        67
+      ],
+      "pages": [
+        24,
+        25
+      ],
+      "topic": "Metales pesados en agua y leche"
+    }
+  ],
+  "items": [
+    {
+      "question": 65,
+      "page": 24,
+      "topic": "Representacion de concentraciones de plomo",
+      "competency_code": "I",
+      "answer_proposal": "D",
+      "reason": "D muestra agua con concentracion mayor que leche,como declara el contexto.",
+      "context": "ADB3-CN01"
+    },
+    {
+      "question": 66,
+      "page": 25,
+      "topic": "Orden experimental de analisis de muestras",
+      "competency_code": "I",
+      "answer_proposal": "A",
+      "reason": "Recolectar,preparar,analizar y obtener resultados es la secuencia coherente.",
+      "context": "ADB3-CN01"
+    },
+    {
+      "question": 67,
+      "page": 25,
+      "topic": "Ruta de contaminacion en cadena alimentaria",
+      "competency_code": "E",
+      "answer_proposal": "B",
+      "reason": "El modelo describe metales acumulados en pastos que son consumidos por vacas.",
+      "context": "ADB3-CN01"
+    },
+    {
+      "question": 68,
+      "page": 26,
+      "topic": "Magnitudes fisicas y unidades",
+      "competency_code": "U",
+      "answer_proposal": "C",
+      "reason": "Masa445g,volumen36mL,longitud3.3cm corresponden a magnitudes e instrumentos."
+    },
+    {
+      "question": 69,
+      "page": 26,
+      "topic": "Seleccion de material por propiedades",
+      "competency_code": "U",
+      "answer_proposal": "C",
+      "reason": "Aluminio tiene menor densidad2.70 y es maleable; cumple ambos criterios."
+    },
+    {
+      "question": 70,
+      "page": 27,
+      "topic": "Metamorfosis completa de mariposa",
+      "competency_code": "U",
+      "answer_proposal": "B",
+      "reason": "Larva,pupa y adulto de formas distintas corresponden al modelo2; huevo solo no distingue modelos."
+    },
+    {
+      "question": 71,
+      "page": 27,
+      "topic": "Grafica de fuerza en funcion de posicion",
+      "competency_code": "I",
+      "answer_proposal": "C",
+      "reason": "C aumenta hasta4m y permanece constante hasta6m,como se describe."
+    },
+    {
+      "question": 72,
+      "page": 27,
+      "topic": "Adaptaciones de plantas de paramo",
+      "competency_code": "U",
+      "answer_proposal": "C",
+      "reason": "Frio,alta radiacion,viento,hojas velludas en roseta y hojas muertas protectoras corresponden al paramo."
+    },
+    {
+      "question": 73,
+      "page": 28,
+      "topic": "Decision segun escala de intensidad sonora",
+      "competency_code": "I",
+      "answer_proposal": "B",
+      "reason": "B elimina fuentes sobre70dB incluidas zonas danina y dolorosa del diagrama; A y C dejan fuentes intensas.",
+      "alert": "El maximo tolerable marcado es60dB y zona molesta60-80;70no elimina todos los sonidos molestos.No equivale a garantia sanitaria."
+    },
+    {
+      "question": 74,
+      "page": 28,
+      "topic": "Interpretacion de tabla sobre fibra",
+      "competency_code": "U",
+      "answer_proposal": "C",
+      "reason": "La tabla vincula fibra insoluble con transito intestinal; C es respuesta segun informacion del ejercicio.",
+      "alert": "No convertir ejercicio en tratamiento individual; tabla simplifica propiedades de fibras."
+    },
+    {
+      "question": 75,
+      "page": 29,
+      "topic": "Titulo de relacion entre masa y metabolismo",
+      "competency_code": "I",
+      "answer_proposal": "A",
+      "reason": "A incluye relacion entre tasa metabolica y variable corporal;las otras opciones omiten relacion o usan otra magnitud.",
+      "alert": "Eje x indica masa enkg pero tituloA dice peso; precision terminologica pendiente."
+    },
+    {
+      "question": 76,
+      "page": 29,
+      "topic": "Pregunta investigable con datos de ciclistas",
+      "competency_code": "I",
+      "answer_proposal": "A",
+      "reason": "Se registran radio,vueltas en5s y velocidad;no esfuerzo,peso ni numero de ruedas."
+    },
+    {
+      "question": 77,
+      "page": 30,
+      "topic": "Unidad de temperatura de ebullicion",
+      "competency_code": "U",
+      "answer_proposal": "C",
+      "reason": "Kelvin es unidad de temperatura;metro,longitud;kilogramo,masa;coulomb,carga."
+    },
+    {
+      "question": 78,
+      "page": 30,
+      "topic": "Dispersion de semillas por murcielagos",
+      "competency_code": "E",
+      "answer_proposal": "B",
+      "reason": "Transportan semillas entre habitats al consumir frutos y defecar,promoviendo recolonizacion vegetal."
+    },
+    {
+      "question": 79,
+      "page": 31,
+      "topic": "Enlace ionico y conductividad segun tabla",
+      "competency_code": "U",
+      "answer_proposal": "C",
+      "reason": "NaCl es la unica fila ionica de conductividad alta; es respuesta segun datos del ejercicio.",
+      "alert": "La tabla dice HCl no conduce,pero en disolucion acuosa ioniza y conduce;CH3COOH tambien ioniza parcialmente.Falta especificar estado/medio.No reutilizar como tabla cientifica validada."
+    },
+    {
+      "question": 80,
+      "page": 31,
+      "topic": "Inclinacion y estabilidad de camion",
+      "competency_code": "E",
+      "answer_proposal": "B",
+      "reason": "Reducir inclinacion amplia soporte segun modelo y favorece que proyeccion del centro quede dentro;B es prevista.",
+      "alert": "Reducir a mitad no garantiza estabilidad sin geometria cuantitativa;el dibujo es cualitativo y la conclusion necesita ese supuesto."
+    },
+    {
+      "question": 81,
+      "page": 31,
+      "topic": "Genotipo heterocigoto",
+      "competency_code": "U",
+      "answer_proposal": "D",
+      "reason": "Descendiente Gg presenta dos alelos diferentes;dos alelos por si solos no implica homocigosis."
+    },
+    {
+      "question": 82,
+      "page": 32,
+      "topic": "Fuerza igual y aceleraciones distintas",
+      "competency_code": "E",
+      "answer_proposal": "A",
+      "reason": "F=ma:con igual magnitud de fuerza,aceleraciones distintas corresponden a masas diferentes."
+    },
+    {
+      "question": 83,
+      "page": 32,
+      "topic": "Generalizacion de velocidad de reacciones",
+      "competency_code": "I",
+      "answer_proposal": "D",
+      "reason": "Un caso lento no prueba que todo cambio quimico tarde dias;libro menciona factores que modifican velocidad."
+    },
+    {
+      "question": 84,
+      "page": 33,
+      "topic": "Energia en arco y flecha",
+      "competency_code": "E",
+      "answer_proposal": "C",
+      "reason": "Al tensar se almacena potencial elastica y al soltar se transforma en cinetica.",
+      "alert": "Toda energia se convierte es idealizacion:hay movimiento del arco,cuerda,sonido y disipacion."
+    },
+    {
+      "question": 85,
+      "page": 33,
+      "topic": "Mezcla separable por destilacion",
+      "competency_code": "U",
+      "answer_proposal": "A",
+      "reason": "Separacion fisica en fracciones indica mezcla,no compuesto puro;destilacion no es cambio quimico segun ejercicio.",
+      "alert": "Frase aceite transparente muy concentrado en aroma se conserva como descripcion,no se evalua seguridad de procedimiento."
+    },
+    {
+      "question": 86,
+      "page": 33,
+      "topic": "Configuracion electronica y oxidacion de potasio",
+      "competency_code": "U",
+      "answer_proposal": "C",
+      "reason": "K pierde electron externo4s1 y forma ion1+;no porque primer nivel contenga1s."
+    }
+  ]
+}

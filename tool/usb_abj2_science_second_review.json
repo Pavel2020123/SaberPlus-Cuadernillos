@@ -1,0 +1,132 @@
+{
+  "file_id": "USB-524d98b0a234",
+  "date": "2026-10-29",
+  "area": "Ciencias naturales",
+  "scope": "Preguntas65-75,paginas25-30 inspeccionadas visualmente en modelos,tablas y alternativas.Resaltados solo donde observados.Propuestas no oficiales y revision docente pendiente.",
+  "competency_legend": {
+    "U": "Uso comprensivo del conocimiento cientifico",
+    "I": "Indagacion",
+    "E": "Explicacion de fenomenos"
+  },
+  "contexts": [
+    {
+      "id": "ABJ2-CN02",
+      "questions": [
+        67,
+        68,
+        69
+      ],
+      "pages": [
+        27,
+        28
+      ],
+      "topic": "Vertimientos,algas toxicas y tratamiento"
+    }
+  ],
+  "items": [
+    {
+      "question": 65,
+      "page": 25,
+      "topic": "Prediccion de hipotesis sin efecto termico",
+      "competency_code": "I",
+      "answer_proposal": "B",
+      "reason": "Si temperatura no afecta duracion,curvas deben agotarse al mismo tiempo;Btermina alrededor14hpara las tres.",
+      "observed_highlight": "B",
+      "alert": "CurvasBno identicas en todos puntos,pero duracion final coincide;no representa hallazgo real."
+    },
+    {
+      "question": 66,
+      "page": 26,
+      "topic": "Secuencia de ciclo litico",
+      "competency_code": "U",
+      "answer_proposal": "D",
+      "reason": "Dordena adhesion,inyeccion,replicacion/sintesis,componentes,ensamblaje y liberacion;otros anticipan sintesis o liberacion."
+    },
+    {
+      "question": 67,
+      "page": 27,
+      "topic": "Causa de proliferacion de algas",
+      "competency_code": "E",
+      "answer_proposal": "C",
+      "reason": "Vertimientos ricos enN yPaportan nutrientes;toxina y muerte son consecuencias.",
+      "context": "ABJ2-CN02"
+    },
+    {
+      "question": 68,
+      "page": 27,
+      "topic": "Funciones del sistema nervioso",
+      "competency_code": "U",
+      "answer_proposal": "A",
+      "reason": "Movimiento y cognicion se vinculan directamente con sistema nervioso,a diferencia de defensa o excrecion.",
+      "context": "ABJ2-CN02"
+    },
+    {
+      "question": 69,
+      "page": 28,
+      "topic": "Grafica de prediccion de tratamiento",
+      "competency_code": "I",
+      "answer_proposal": "C",
+      "reason": "Ccompara superficiekm2sin tratamiento y con tratamiento aproximadamente mitad;Betiqueta ambos sin tratamiento y usa numero.",
+      "observed_highlight": "C",
+      "alert": "La altura dibujada no coincide exactamente320/160;representacion aproximada de50%.",
+      "context": "ABJ2-CN02"
+    },
+    {
+      "question": 70,
+      "page": 28,
+      "topic": "Transferencia de calor y equilibrio",
+      "competency_code": "E",
+      "answer_proposal": "A",
+      "reason": "Aes unica opcion con calentamiento de torta desde15hacia temperatura160del horno;otras enfrian,sobrepasan o no cambian.",
+      "observed_highlight": "A",
+      "alert": "Alcanzar160Cen varios minutos no esta demostrado;contenido de agua y tiempo importan.Aes idealizacion prevista,no temperatura interna segura ni garantizada."
+    },
+    {
+      "question": 71,
+      "page": 29,
+      "topic": "Orientacion de agua en solvatacion",
+      "competency_code": "U",
+      "answer_proposal": "B",
+      "reason": "OxigenoparcialnegativorodeaK+;hidrogenosparcialpositivosrodeanCl-.",
+      "observed_highlight": "B"
+    },
+    {
+      "question": 72,
+      "page": 29,
+      "topic": "Clasificacion de mezcla de aceites",
+      "competency_code": "U",
+      "answer_proposal": "C",
+      "reason": "Aceites de girasol y maizsin fases distinguibles forman mezcla homogenea,no compuesto de formula fija.",
+      "observed_highlight": "C"
+    },
+    {
+      "question": 73,
+      "page": 29,
+      "topic": "Flotacion y cambio de masa",
+      "competency_code": "E",
+      "answer_proposal": "C",
+      "reason": "Reemplazar aire por agua aumenta masa;botella debe desplazar mas agua y sumergirse mas.",
+      "observed_highlight": "C",
+      "alert": "No garantiza flotacion final sin densidad del envase y volumen,pero opcionCexpresa tendencia de mayor inmersion."
+    },
+    {
+      "question": 74,
+      "page": 30,
+      "topic": "Modelo de fermentacion de leche",
+      "competency_code": "U",
+      "answer_proposal": "D",
+      "reason": "Microorganismos producen acidolactico,baja pH,coagulan proteinas y forman cuajada;Dconserva secuencia.",
+      "observed_highlight": "D"
+    },
+    {
+      "question": 75,
+      "page": 30,
+      "topic": "Seleccion por conductividades",
+      "competency_code": "U",
+      "answer_proposal": "B",
+      "reason": "Diamantetiene baja conductividadelectrica1.3e-19y alta termica1000entre materiales dados;cumple ambas condiciones.",
+      "observed_highlight": "B"
+    }
+  ],
+  "next": "Continuarpaginafisica31para verificar si iniciaIngles76.No asumirfinalCienciasporcantidad."
+}

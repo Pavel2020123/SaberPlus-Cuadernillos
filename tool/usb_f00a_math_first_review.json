@@ -1,0 +1,39 @@
+{
+  "file_id": "USB-f00a52c8b6f2",
+  "date": "2026-10-30",
+  "area": "Matemáticas",
+  "scope": "Preguntas26-28,física9 inspeccionada visualmente; propuestas no oficiales.",
+  "competency_legend": {
+    "IR": "Interpretación y representación",
+    "AR": "Argumentación"
+  },
+  "items": [
+    {
+      "question": 26,
+      "page": 9,
+      "topic": "Información disponible en cuartiles",
+      "competency_code": "IR",
+      "answer_proposal": "B",
+      "reason": "Q1=8,5kg identifica el umbral del25%inferior; los cuartiles no permiten recuperar media,moda o extremos.",
+      "alert": "Cuartiles pueden tener convenciones y empates; interpretación del percentil no exige afirmar25observaciones estrictamente menores."
+    },
+    {
+      "question": 27,
+      "page": 9,
+      "topic": "Dimensión de unidades de volumen",
+      "competency_code": "AR",
+      "answer_proposal": "B",
+      "reason": "Base3×3=9cm² por altura5cm dividido3da15cm³,no15cm; dividir por3no cambia dimensión.",
+      "alert": "El valor numérico es15pero la afirmación impresa usa unidad de longitud incorrecta."
+    },
+    {
+      "question": 28,
+      "page": 9,
+      "topic": "Relación inversa en curva decreciente",
+      "competency_code": "IR",
+      "answer_proposal": "C",
+      "reason": "La curva desciende sin ser recta: mayor tamaño de letra corresponde a menor agudeza; C es la alternativa compatible entre las cuatro.",
+      "alert": "Disminuye proporcionalmente es impreciso: se aproxima a proporcionalidad inversa,no directa. Sin fórmula o pares exactos no afirmar ley inversa exacta; no es valoración clínica."
+    }
+  ]
+}

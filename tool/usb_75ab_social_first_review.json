@@ -1,0 +1,96 @@
+{
+  "file_id": "USB-75abccb84c15",
+  "date": "2026-10-30",
+  "area": "Sociales y ciudadanas",
+  "scope": "Físicas1-4inspeccionadas visualmente completas. PortadaMompox2025-2segunda sesión,AAR2,147preguntas,4h30;calendario yautenticidad sin verificar. Tres fichas1-3,sin coincidencia exacta identificada por búsqueda dirigida,no certifica unicidad global. Cuatro referencias4-7tras cotejo completo conAAA1.",
+  "cover": {
+    "page": 1,
+    "title": "Mompox",
+    "declared_year_session": "2025-2 segunda sesión",
+    "code": "AAR2",
+    "declared_questions": 147,
+    "declared_time": "4h30",
+    "calendar": "Sin confirmar",
+    "authenticity": "Sin verificar",
+    "rights_notice": "La portada declara uso exclusivo yprohibición dereproducción. Auditoría no concede permiso dereutilización."
+  },
+  "items": [
+    {
+      "question": 1,
+      "page": 2,
+      "printed_page": 2,
+      "topic": "Canales representativos departicipación ciudadana",
+      "competency_proposal": "Pensamiento social",
+      "answer_proposal": "C",
+      "reason": "Acudir aCongreso oConcejo para que oigan propuestas utiliza corporaciones derepresentación institucional. Asumir dirección escolar porcomité sinhabilitación o pedir intervención internacional no corresponde alcanal descrito.",
+      "alert": "La protesta pacífica también es participación democrática legítima. La preferencia porCdepende del uso deformal como canal institucional representativo;no afirmar que protestar carezca deprotección olegitimidad. Revisar esa ambigüedad antes dereutilizar."
+    },
+    {
+      "question": 2,
+      "page": 2,
+      "printed_page": 2,
+      "topic": "Interés económico deactor enuso dedatos genéticos",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "answer_proposal": "C",
+      "reason": "Las farmacéuticas proponen acceder a información genética para desarrollar fármacos ydiversificar ingresos:aprovechamiento económico. Confidencialidad ypolíticas deuso corresponden aotras posturas;ayuda alaempresa no es su interés principal expuesto.",
+      "alert": "Identifica perspectiva hipotética,no autoriza comercialización dedatos ni evalúa licitud oconsentimiento."
+    },
+    {
+      "question": 3,
+      "page": 2,
+      "printed_page": 2,
+      "topic": "Dimensión política deacuerdos yparticipación comunitaria",
+      "competency_proposal": "Pensamiento reflexivo y sistémico",
+      "answer_proposal": "C",
+      "reason": "La solución privilegia concertación conautoridades yparticipación deinteresados en decisiones viales. Aunque nace de pérdidas económicas,el mecanismo propuesto tiene énfasis político.",
+      "alert": "No niega dimensión económica delproblema ni otras consecuencias;se identifica dimensión priorizada por lasolución."
+    }
+  ],
+  "duplicate_occurrences": [
+    {
+      "question": 4,
+      "page": 3,
+      "printed_page": 3,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 81,
+      "canonical_page": 15,
+      "exact_content": true,
+      "verification": "Cotejo visual directo deinfografía,casos completos y opciones frenteAAA1preguntas81-84. Misma información depáramos,discurso sexista,ciudadanía yCiudad delCabo salvo numeración,código,maquetación y marcas deagua. Reservas canónicas conservadas.",
+      "observed_annotation": "Sin opción seleccionada inequívoca enAAR2."
+    },
+    {
+      "question": 5,
+      "page": 4,
+      "printed_page": 4,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 82,
+      "canonical_page": 16,
+      "exact_content": true,
+      "verification": "Cotejo visual directo deinfografía,casos completos y opciones frenteAAA1preguntas81-84. Misma información depáramos,discurso sexista,ciudadanía yCiudad delCabo salvo numeración,código,maquetación y marcas deagua. Reservas canónicas conservadas.",
+      "observed_annotation": "Sin opción seleccionada inequívoca enAAR2."
+    },
+    {
+      "question": 6,
+      "page": 4,
+      "printed_page": 4,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 83,
+      "canonical_page": 16,
+      "exact_content": true,
+      "verification": "Cotejo visual directo deinfografía,casos completos y opciones frenteAAA1preguntas81-84. Misma información depáramos,discurso sexista,ciudadanía yCiudad delCabo salvo numeración,código,maquetación y marcas deagua. Reservas canónicas conservadas.",
+      "observed_annotation": "Sin opción seleccionada inequívoca enAAR2."
+    },
+    {
+      "question": 7,
+      "page": 4,
+      "printed_page": 4,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 84,
+      "canonical_page": 16,
+      "exact_content": true,
+      "verification": "Cotejo visual directo deinfografía,casos completos y opciones frenteAAA1preguntas81-84. Misma información depáramos,discurso sexista,ciudadanía yCiudad delCabo salvo numeración,código,maquetación y marcas deagua. Reservas canónicas conservadas.",
+      "observed_annotation": "Sin opción seleccionada inequívoca enAAR2."
+    }
+  ],
+  "next": "Física5,verificar8en adelante."
+}

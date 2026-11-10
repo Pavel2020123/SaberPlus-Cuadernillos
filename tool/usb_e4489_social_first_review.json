@@ -1,0 +1,192 @@
+{
+  "file_id": "USB-e4489f150183",
+  "date": "2026-10-29",
+  "area": "Sociales y ciudadanas",
+  "scope": "Preguntas1-20 paginas fisicas1-7 inspeccionadas visualmente.Segunda sesion en encabezados,sin portada;ano/version/calendario no confirmados por nombre.Competencias y claves propuestas sin revision docente.",
+  "competency_legend": {
+    "P": "Pensamiento social",
+    "I": "Interpretacion y analisis de perspectivas",
+    "S": "Pensamiento reflexivo y sistemico"
+  },
+  "contexts": [
+    {
+      "id": "S2-SC01",
+      "questions": [
+        12,
+        13
+      ],
+      "pages": [
+        5
+      ],
+      "topic": "Extraccion en Amazonia y pueblos aislados"
+    }
+  ],
+  "items": [
+    {
+      "question": 1,
+      "page": 1,
+      "topic": "Generalizacion sobre agresividad de mascotas",
+      "competency_code": "I",
+      "answer_proposal": "C",
+      "reason": "Casos de videos no justifican generalizar comportamiento de todas las mascotas."
+    },
+    {
+      "question": 2,
+      "page": 1,
+      "topic": "Contexto de ultima proclama de Bolivar",
+      "competency_code": "P",
+      "answer_proposal": "D",
+      "reason": "Disolucion de Gran Colombia en1830 corresponde a llamado final a union;no1902 ni inicio de independencia."
+    },
+    {
+      "question": 3,
+      "page": 1,
+      "topic": "Comparacion de discursos religiosos sobre divorcio",
+      "competency_code": "I",
+      "answer_proposal": "B",
+      "reason": "Ambos mantienen censura etica;segundo incorpora acogida y recuperacion para personas divorciadas."
+    },
+    {
+      "question": 4,
+      "page": 2,
+      "topic": "Alumbrado y derecho colectivo ambiental",
+      "competency_code": "S",
+      "answer_proposal": "B",
+      "reason": "Afectacion de fauna y ecosistemas vincula decision con disfrute de ambiente sano."
+    },
+    {
+      "question": 5,
+      "page": 2,
+      "topic": "Evidencia y apelacion a autoridad",
+      "competency_code": "I",
+      "answer_proposal": "B",
+      "reason": "Prestigio del cientifico no sustituye evidencias;afirmar posibilidad no demuestra existencia."
+    },
+    {
+      "question": 6,
+      "page": 2,
+      "topic": "Pluralismo y libertades en educacion",
+      "competency_code": "P",
+      "answer_proposal": "C",
+      "reason": "Prohibir expresion politica,religiosa o filosofica afecta libertades de pensamiento y opinion segun enfoque del ejercicio."
+    },
+    {
+      "question": 7,
+      "page": 3,
+      "topic": "Consecuencias de prohibir aceite de palma",
+      "competency_code": "S",
+      "answer_proposal": "D",
+      "reason": "Prohibicion puede reducir ingresos y produccion;no se deriva mejora de empleo en zonas cultivadoras."
+    },
+    {
+      "question": 8,
+      "page": 3,
+      "topic": "Efectos de discurso excluyente",
+      "competency_code": "I",
+      "answer_proposal": "B",
+      "reason": "Presentar presencia LGBT como amenaza a infancia puede hacer sentir rechazo y juicio negativo a esa comunidad."
+    },
+    {
+      "question": 9,
+      "page": 3,
+      "topic": "Salud publica y control de animales abandonados",
+      "competency_code": "S",
+      "answer_proposal": "B",
+      "reason": "Bvincula esterilizacion con menor crecimiento poblacional y menor riesgo sanitario entre alternativas.",
+      "alert": "Esterilizacion no inmuniza contra rabia;variante agrega propuesta de refugio que no aparece en ADB3,conservar diferencias."
+    },
+    {
+      "question": 10,
+      "page": 4,
+      "topic": "Cronologia de discursos de paz",
+      "competency_code": "I",
+      "answer_proposal": "D",
+      "reason": "Briceno habla de conversaciones y combates aun activos;Londono habla de acuerdos y participacion politica sin armas.",
+      "alert": "Marca manuscrita al margen no es letra correcta demostrada;no incorporarla como clave."
+    },
+    {
+      "question": 11,
+      "page": 4,
+      "topic": "Apertura economica y libre comercio",
+      "competency_code": "P",
+      "answer_proposal": "B",
+      "reason": "Entrada de importaciones y capital foraneo reduce barreras y conecta economia con comercio internacional."
+    },
+    {
+      "question": 12,
+      "page": 5,
+      "topic": "Conflicto de intereses sobre selva amazonica",
+      "competency_code": "I",
+      "answer_proposal": "B",
+      "reason": "Interes extractivo del gremio minero se opone a proteccion territorial y aislamiento indigena.",
+      "context": "S2-SC01"
+    },
+    {
+      "question": 13,
+      "page": 5,
+      "topic": "Perspectiva omitida en negociacion",
+      "competency_code": "I",
+      "answer_proposal": "C",
+      "reason": "Invitar a comunidades aisladas a negociar omite su voluntad de no mantener contacto.",
+      "context": "S2-SC01"
+    },
+    {
+      "question": 14,
+      "page": 5,
+      "topic": "Dimensiones de mercados campesinos",
+      "competency_code": "S",
+      "answer_proposal": "C",
+      "reason": "Venta directa y precios son economia;recuperacion de practicas y tradiciones es cultura."
+    },
+    {
+      "question": 15,
+      "page": 6,
+      "topic": "Division del trabajo e intercambio",
+      "competency_code": "P",
+      "answer_proposal": "D",
+      "reason": "Especializacion eleva productividad y mercado permite distribucion e intercambio eficiente segun texto."
+    },
+    {
+      "question": 16,
+      "page": 6,
+      "topic": "Funcion militar durante transicion a paz",
+      "competency_code": "S",
+      "answer_proposal": "D",
+      "reason": "Acuerdo modifica contexto y funciones de fuerzas armadas hacia seguridad de transicion,no subordinacion al grupo."
+    },
+    {
+      "question": 17,
+      "page": 6,
+      "topic": "Modelo de dependencia economica",
+      "competency_code": "P",
+      "answer_proposal": "B",
+      "reason": "Multinacional extrae materias primas baratas,agrega valor y vende al pais pobre;reproduce relacion descrita."
+    },
+    {
+      "question": 18,
+      "page": 7,
+      "topic": "Argumento sobre importancia de Cumbre de Tierra",
+      "competency_code": "I",
+      "answer_proposal": "C",
+      "reason": "Tres tratados y acciones conjuntas de muchos paises sustentan trascendencia,mas que mera publicidad.",
+      "alert": "La cita no demuestra por si sola supremacia absoluta entre todos los eventos del siglo;C es mejor sustento disponible."
+    },
+    {
+      "question": 19,
+      "page": 7,
+      "topic": "Pertinencia de informacion sobre pez leon",
+      "competency_code": "I",
+      "answer_proposal": "C",
+      "reason": "Depredacion de peces jovenes apoya investigar factores de disminucion de fauna;no cuantifica costos ni poblacion previa."
+    },
+    {
+      "question": 20,
+      "page": 7,
+      "topic": "Organizacion de rama judicial",
+      "competency_code": "P",
+      "answer_proposal": "B",
+      "reason": "Fiscalia pertenece a rama judicial y ejerce investigacion/acusacion penal entre entidades propuestas."
+    }
+  ],
+  "next": "Continuar desde pregunta21,pagina fisica8. Pagina impresa= fisica+1 en bloque visto;no generalizar al resto."
+}

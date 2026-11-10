@@ -1,0 +1,267 @@
+{
+  "file_id": "USB-7c1a96cf7ade",
+  "date": "2026-10-30",
+  "area": "Sociales y Matemáticas",
+  "scope": "Físicas5-12completas.11-14y26-28siete fichas propias;15-25y29-34diecisiete referencias.26sinclaveporincompatibilidadentre región preguntada y opciones.",
+  "items": [
+    {
+      "question": 11,
+      "page": 5,
+      "printed_page": 6,
+      "answer_proposal": "B",
+      "topic": "Mecanismo de reforma por participación",
+      "competency_proposal": "Pensamiento social",
+      "reason": "Entre opciones,referendo es mecanismo que puede someter reforma constitucional a voto.",
+      "alert": "Mecanismo procedimental no garantiza validez de reforma que afecte derechos esenciales;no afirmar que pena de muerte quede autorizada."
+    },
+    {
+      "question": 12,
+      "page": 5,
+      "printed_page": 6,
+      "answer_proposal": "C",
+      "topic": "Origen de conflicto cultural por desplazamiento",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "reason": "Desplazamiento forzado y adaptación enotro lugar originan tensión sobre preservación cultural.",
+      "alert": "No atribuir falta de respeto a jóvenes sin prueba ni afirmar desaparición efectiva de lengua."
+    },
+    {
+      "question": 13,
+      "page": 5,
+      "printed_page": 6,
+      "answer_proposal": "B",
+      "topic": "Control recíproco de poderes",
+      "competency_proposal": "Pensamiento social",
+      "reason": "Revisión judicial deley aprobada porCongreso refleja controles para limitar concentración de poder.",
+      "alert": "No función de imponer hegemonía judicial ni brindar beneficios por preferencia política."
+    },
+    {
+      "question": 14,
+      "page": 5,
+      "printed_page": 6,
+      "answer_proposal": "C",
+      "topic": "Efecto económico negativo de transición energética",
+      "competency_proposal": "Pensamiento reflexivo y sistémico",
+      "reason": "Menor demanda fósil puede afectar distribuidores y empleos;Copción económica adversa.",
+      "alert": "Posibilidad,no predicción inevitable;no sustituye análisis de transición justa."
+    },
+    {
+      "question": 26,
+      "page": 10,
+      "printed_page": 11,
+      "answer_proposal": null,
+      "topic": "Área circular y complemento",
+      "competency_proposal": "Formulación y ejecución",
+      "reason": "Triángulo de pastoreo tiene área3²=9hm²;si maíz ocupa región blanca del círculo,su área9π−9≈19.27hm²,no figura en opciones36/18/9/3.",
+      "alert": "Ítem defectuoso:pregunta maíz,peroC9corresponde al pastoreo. No cambiar enunciado silenciosamente ni seguir subrayadosazules. Ampliación visual guardada."
+    },
+    {
+      "question": 27,
+      "page": 10,
+      "printed_page": 11,
+      "answer_proposal": "D",
+      "topic": "Media aritmética",
+      "competency_proposal": "Formulación y ejecución",
+      "reason": "(7+1+2+7+3)/5=20/5=4.",
+      "alert": "Marcas manuscritas no son claves oficiales."
+    },
+    {
+      "question": 28,
+      "page": 10,
+      "printed_page": 11,
+      "answer_proposal": "A",
+      "topic": "Incremento entre mediciones sucesivas",
+      "competency_proposal": "Interpretación y representación",
+      "reason": "Alturas10,12,15,16,17;incrementos2,3,1,1:mayor entresemanas1y2.",
+      "alert": "No usaraltura máxima como mayorcrecimiento;marcas azules no determinan clave."
+    }
+  ],
+  "duplicate_occurrences": [
+    {
+      "question": 15,
+      "page": 6,
+      "printed_page": 7,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 4,
+      "canonical_page": 2,
+      "exact_content": true,
+      "verification": "Casos,discursos y opciones completos cotejados conAAO2físicas2-4,solo cambia numeración y diagramación.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 16,
+      "page": 6,
+      "printed_page": 7,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 5,
+      "canonical_page": 2,
+      "exact_content": true,
+      "verification": "Casos,discursos y opciones completos cotejados conAAO2físicas2-4,solo cambia numeración y diagramación.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 17,
+      "page": 6,
+      "printed_page": 7,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 6,
+      "canonical_page": 2,
+      "exact_content": true,
+      "verification": "Casos,discursos y opciones completos cotejados conAAO2físicas2-4,solo cambia numeración y diagramación.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 18,
+      "page": 7,
+      "printed_page": 8,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 7,
+      "canonical_page": 3,
+      "exact_content": true,
+      "verification": "Casos,discursos y opciones completos cotejados conAAO2físicas2-4,solo cambia numeración y diagramación.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 19,
+      "page": 7,
+      "printed_page": 8,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 8,
+      "canonical_page": 3,
+      "exact_content": true,
+      "verification": "Casos,discursos y opciones completos cotejados conAAO2físicas2-4,solo cambia numeración y diagramación.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 20,
+      "page": 7,
+      "printed_page": 8,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 9,
+      "canonical_page": 3,
+      "exact_content": true,
+      "verification": "Casos,discursos y opciones completos cotejados conAAO2físicas2-4,solo cambia numeración y diagramación.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 21,
+      "page": 8,
+      "printed_page": 9,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 10,
+      "canonical_page": 3,
+      "exact_content": true,
+      "verification": "Casos,discursos y opciones completos cotejados conAAO2físicas2-4,solo cambia numeración y diagramación.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 22,
+      "page": 8,
+      "printed_page": 9,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 11,
+      "canonical_page": 3,
+      "exact_content": true,
+      "verification": "Casos,discursos y opciones completos cotejados conAAO2físicas2-4,solo cambia numeración y diagramación.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 23,
+      "page": 8,
+      "printed_page": 9,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 12,
+      "canonical_page": 3,
+      "exact_content": true,
+      "verification": "Casos,discursos y opciones completos cotejados conAAO2físicas2-4,solo cambia numeración y diagramación.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 24,
+      "page": 9,
+      "printed_page": 10,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 13,
+      "canonical_page": 4,
+      "exact_content": true,
+      "verification": "Casos,discursos y opciones completos cotejados conAAO2físicas2-4,solo cambia numeración y diagramación.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 25,
+      "page": 9,
+      "printed_page": 10,
+      "canonical_file_id": "USB-36f91aeae115",
+      "canonical_question": 14,
+      "canonical_page": 4,
+      "exact_content": true,
+      "verification": "Casos,discursos y opciones completos cotejados conAAO2físicas2-4,solo cambia numeración y diagramación.",
+      "observed_annotation": "Sin marca relevante."
+    },
+    {
+      "question": 29,
+      "page": 11,
+      "printed_page": 12,
+      "canonical_file_id": "USB-1c6462bf5377",
+      "canonical_question": 15,
+      "canonical_page": 9,
+      "exact_content": true,
+      "verification": "Algoritmo bilirrubina,libros,votos,rutas,relojes y árbol16salidas cotejados íntegramente conAAR1físicas9-10.",
+      "observed_annotation": "Trazos azules junto a texto y opciones,no validados como clave oficial."
+    },
+    {
+      "question": 30,
+      "page": 11,
+      "printed_page": 12,
+      "canonical_file_id": "USB-1c6462bf5377",
+      "canonical_question": 16,
+      "canonical_page": 9,
+      "exact_content": true,
+      "verification": "Algoritmo bilirrubina,libros,votos,rutas,relojes y árbol16salidas cotejados íntegramente conAAR1físicas9-10.",
+      "observed_annotation": "Trazos azules junto a texto y opciones,no validados como clave oficial."
+    },
+    {
+      "question": 31,
+      "page": 11,
+      "printed_page": 12,
+      "canonical_file_id": "USB-1c6462bf5377",
+      "canonical_question": 17,
+      "canonical_page": 9,
+      "exact_content": true,
+      "verification": "Algoritmo bilirrubina,libros,votos,rutas,relojes y árbol16salidas cotejados íntegramente conAAR1físicas9-10.",
+      "observed_annotation": "Trazos azules junto a texto y opciones,no validados como clave oficial."
+    },
+    {
+      "question": 32,
+      "page": 12,
+      "printed_page": 13,
+      "canonical_file_id": "USB-1c6462bf5377",
+      "canonical_question": 18,
+      "canonical_page": 10,
+      "exact_content": true,
+      "verification": "Algoritmo bilirrubina,libros,votos,rutas,relojes y árbol16salidas cotejados íntegramente conAAR1físicas9-10.",
+      "observed_annotation": "Trazos azules junto a texto y opciones,no validados como clave oficial."
+    },
+    {
+      "question": 33,
+      "page": 12,
+      "printed_page": 13,
+      "canonical_file_id": "USB-1c6462bf5377",
+      "canonical_question": 19,
+      "canonical_page": 10,
+      "exact_content": true,
+      "verification": "Algoritmo bilirrubina,libros,votos,rutas,relojes y árbol16salidas cotejados íntegramente conAAR1físicas9-10.",
+      "observed_annotation": "Trazos azules junto a texto y opciones,no validados como clave oficial."
+    },
+    {
+      "question": 34,
+      "page": 12,
+      "printed_page": 13,
+      "canonical_file_id": "USB-1c6462bf5377",
+      "canonical_question": 20,
+      "canonical_page": 10,
+      "exact_content": true,
+      "verification": "Algoritmo bilirrubina,libros,votos,rutas,relojes y árbol16salidas cotejados íntegramente conAAR1físicas9-10.",
+      "observed_annotation": "Trazos azules junto a texto y opciones,no validados como clave oficial."
+    }
+  ]
+}

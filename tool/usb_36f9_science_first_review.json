@@ -1,0 +1,106 @@
+{
+  "file_id": "USB-36f91aeae115",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Físicas11-12(impresas20-23)inspeccionadas completas. Nuevas51-53;54-59idénticas aAAA1 95-100 tras cotejo visual directo, incluyendo contexto y gráficas.",
+  "items": [
+    {
+      "question": 51,
+      "page": 11,
+      "printed_page": 20,
+      "topic": "Selección de especies según restricciones ambientales",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "C",
+      "reason": "Especies1y3son de altura media/baja yproducen frutos,con requerimiento deagua bajo/medio;2no produce frutos yexige altaagua,4esalta.",
+      "alert": "En zona árida sería preferible bajo consumo; opciónCsatisface mejor conjunto disponible, sin garantizar adecuación ecológica real ni identificar especies."
+    },
+    {
+      "question": 52,
+      "page": 11,
+      "printed_page": 20,
+      "topic": "Efecto de retirar productores en flujo de energía",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "B",
+      "reason": "Desmonte ydescapote eliminan productores yalteran suelo, reduciendo incorporación deenergía solar acadenas tróficas.",
+      "alert": "Regla10%es aproximación pedagógica,no porcentaje universal ni afirmación de que maquinaria aporte energía utilizable por ecosistema."
+    },
+    {
+      "question": 53,
+      "page": 11,
+      "printed_page": 20,
+      "topic": "Interpretación de curvas de solubilidad y temperatura",
+      "competency_proposal": "Uso comprensivo del conocimiento científico",
+      "answer_proposal": "B",
+      "reason": "Ambas curvas crecen con temperatura; aumentarla incrementa solubilidad deazúcar ysal en intervalo representado.",
+      "alert": "No confundir aumentar cantidad agregada con aumentar solubilidad; respuesta específica aestas sustancias ygráfico,no regla universal para todo soluto."
+    }
+  ],
+  "duplicate_occurrences": [
+    {
+      "question": 54,
+      "page": 11,
+      "printed_page": 21,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 95,
+      "canonical_page": 18,
+      "exact_content": true,
+      "verification": "Cotejo visual directo: contexto, tablas, modelos atómicos, figuras y opciones A-D idénticos. Cambia numeración y ubicación. Se conservan reservas semánticas de ficha canónica.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 55,
+      "page": 12,
+      "printed_page": 22,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 96,
+      "canonical_page": 18,
+      "exact_content": true,
+      "verification": "Cotejo visual directo: contexto, tablas, modelos atómicos, figuras y opciones A-D idénticos. Cambia numeración y ubicación. Se conservan reservas semánticas de ficha canónica.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 56,
+      "page": 12,
+      "printed_page": 22,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 97,
+      "canonical_page": 18,
+      "exact_content": true,
+      "verification": "Cotejo visual directo: contexto, tablas, modelos atómicos, figuras y opciones A-D idénticos. Cambia numeración y ubicación. Se conservan reservas semánticas de ficha canónica.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 57,
+      "page": 12,
+      "printed_page": 22,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 98,
+      "canonical_page": 18,
+      "exact_content": true,
+      "verification": "Cotejo visual directo: contexto, tablas, modelos atómicos, figuras y opciones A-D idénticos. Cambia numeración y ubicación. Se conservan reservas semánticas de ficha canónica.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 58,
+      "page": 12,
+      "printed_page": 22,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 99,
+      "canonical_page": 18,
+      "exact_content": true,
+      "verification": "Cotejo visual directo: contexto, tablas, modelos atómicos, figuras y opciones A-D idénticos. Cambia numeración y ubicación. Se conservan reservas semánticas de ficha canónica.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 59,
+      "page": 12,
+      "printed_page": 23,
+      "canonical_file_id": "USB-a170782eadcb",
+      "canonical_question": 100,
+      "canonical_page": 19,
+      "exact_content": true,
+      "verification": "Cotejo visual directo: contexto, tablas, modelos atómicos, figuras y opciones A-D idénticos. Cambia numeración y ubicación. Se conservan reservas semánticas de ficha canónica.",
+      "observed_annotation": "No se observa respuesta marcada."
+    }
+  ]
+}

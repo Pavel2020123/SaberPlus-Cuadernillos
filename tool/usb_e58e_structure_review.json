@@ -1,0 +1,98 @@
+{
+  "file_id": "USB-e58ef5771b78",
+  "date": "2026-10-30",
+  "area": "Estructura del documento",
+  "scope": "19 páginas físicas inspeccionadas visualmente;147 enunciados presentes cubiertos inicialmente, sin certificación de unicidad global o revisión docente.",
+  "items": [],
+  "structure": {
+    "cover": {
+      "page": 1,
+      "title": "Mompox",
+      "year_session": "2025-2 segunda sesión",
+      "code": "AAQ2",
+      "declared_questions": 147,
+      "declared_time": "4h30",
+      "calendar": "Sin confirmar",
+      "authenticity": "Sin verificar"
+    },
+    "sections": [
+      {
+        "area": "Sociales",
+        "questions": [
+          1,
+          25
+        ],
+        "physical_pages": [
+          2,
+          5
+        ]
+      },
+      {
+        "area": "Matemáticas",
+        "questions": [
+          26,
+          50
+        ],
+        "physical_pages": [
+          5,
+          9
+        ]
+      },
+      {
+        "area": "Ciencias",
+        "questions": [
+          51,
+          79
+        ],
+        "physical_pages": [
+          9,
+          14
+        ]
+      },
+      {
+        "area": "Inglés",
+        "questions": [
+          80,
+          134
+        ],
+        "physical_pages": [
+          15,
+          18
+        ]
+      },
+      {
+        "area": "Autoinformes",
+        "questions": [
+          135,
+          147
+        ],
+        "physical_pages": [
+          19,
+          19
+        ]
+      }
+    ],
+    "academic_own": 56,
+    "academic_references": 78,
+    "excluded_self_reports": 13,
+    "self_report_references": 13,
+    "missing_questions": [],
+    "notable_variants": [
+      "Ciencias57:tablaC deH.diversicolor4268 frente4258 enLasLajas",
+      "Inglés99:most frentemust enTatacoa98",
+      "Inglés105:may/need/should frentewill/might/should enTatacoa104, cambia clave",
+      "Inglés94:opcionesA yC diferentes deTatacoa91, cotejo confirmado"
+    ],
+    "unresolved_items": [
+      {
+        "question": 28,
+        "issue": "Procedimiento impreso no coincide con alternativa exacta ni redondeo habitual."
+      },
+      {
+        "question": 111,
+        "issue": "Ninguna alternativa plenamente respaldada; propuesta null."
+      }
+    ],
+    "source_modified": false
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "file_id": "USB-73fbd3be4b98",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Físicas36-39 completas;102-113doce referencias exactas,conservando reservas científicas de canónicas.",
+  "items": [],
+  "duplicate_occurrences": [
+    {
+      "question": 102,
+      "page": 36,
+      "printed_page": 36,
+      "canonical_file_id": "USB-75abccb84c15",
+      "canonical_question": 74,
+      "canonical_page": 28,
+      "exact_content": true,
+      "verification": "Cotejo completo conAAR2físicas28-29:fricción,manatí,tabla flujo,poleas,codones y fórmulaMgCl2;figuras y opciones idénticas.",
+      "observed_annotation": "Solo cambia numeración."
+    },
+    {
+      "question": 103,
+      "page": 36,
+      "printed_page": 36,
+      "canonical_file_id": "USB-75abccb84c15",
+      "canonical_question": 75,
+      "canonical_page": 28,
+      "exact_content": true,
+      "verification": "Cotejo completo conAAR2físicas28-29:fricción,manatí,tabla flujo,poleas,codones y fórmulaMgCl2;figuras y opciones idénticas.",
+      "observed_annotation": "Solo cambia numeración."
+    },
+    {
+      "question": 104,
+      "page": 36,
+      "printed_page": 36,
+      "canonical_file_id": "USB-75abccb84c15",
+      "canonical_question": 76,
+      "canonical_page": 28,
+      "exact_content": true,
+      "verification": "Cotejo completo conAAR2físicas28-29:fricción,manatí,tabla flujo,poleas,codones y fórmulaMgCl2;figuras y opciones idénticas.",
+      "observed_annotation": "Solo cambia numeración."
+    },
+    {
+      "question": 105,
+      "page": 37,
+      "printed_page": 37,
+      "canonical_file_id": "USB-75abccb84c15",
+      "canonical_question": 77,
+      "canonical_page": 29,
+      "exact_content": true,
+      "verification": "Cotejo completo conAAR2físicas28-29:fricción,manatí,tabla flujo,poleas,codones y fórmulaMgCl2;figuras y opciones idénticas.",
+      "observed_annotation": "Solo cambia numeración."
+    },
+    {
+      "question": 106,
+      "page": 37,
+      "printed_page": 37,
+      "canonical_file_id": "USB-75abccb84c15",
+      "canonical_question": 78,
+      "canonical_page": 29,
+      "exact_content": true,
+      "verification": "Cotejo completo conAAR2físicas28-29:fricción,manatí,tabla flujo,poleas,codones y fórmulaMgCl2;figuras y opciones idénticas.",
+      "observed_annotation": "Solo cambia numeración."
+    },
+    {
+      "question": 107,
+      "page": 37,
+      "printed_page": 37,
+      "canonical_file_id": "USB-75abccb84c15",
+      "canonical_question": 79,
+      "canonical_page": 29,
+      "exact_content": true,
+      "verification": "Cotejo completo conAAR2físicas28-29:fricción,manatí,tabla flujo,poleas,codones y fórmulaMgCl2;figuras y opciones idénticas.",
+      "observed_annotation": "Solo cambia numeración."
+    },
+    {
+      "question": 108,
+      "page": 38,
+      "printed_page": 38,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 67,
+      "canonical_page": 25,
+      "exact_content": true,
+      "verification": "Cotejo visual de estructuras hormonales,hipótesis y diseño experimental,mapaches,manglar,temperaturas4/15°Cy eutrofización;contextos y opciones idénticosAAK2físicas25-26.",
+      "observed_annotation": "Solo cambia numeración."
+    },
+    {
+      "question": 109,
+      "page": 38,
+      "printed_page": 38,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 68,
+      "canonical_page": 25,
+      "exact_content": true,
+      "verification": "Cotejo visual de estructuras hormonales,hipótesis y diseño experimental,mapaches,manglar,temperaturas4/15°Cy eutrofización;contextos y opciones idénticosAAK2físicas25-26.",
+      "observed_annotation": "Solo cambia numeración."
+    },
+    {
+      "question": 110,
+      "page": 38,
+      "printed_page": 38,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 69,
+      "canonical_page": 25,
+      "exact_content": true,
+      "verification": "Cotejo visual de estructuras hormonales,hipótesis y diseño experimental,mapaches,manglar,temperaturas4/15°Cy eutrofización;contextos y opciones idénticosAAK2físicas25-26.",
+      "observed_annotation": "Solo cambia numeración."
+    },
+    {
+      "question": 111,
+      "page": 39,
+      "printed_page": 39,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 70,
+      "canonical_page": 26,
+      "exact_content": true,
+      "verification": "Cotejo visual de estructuras hormonales,hipótesis y diseño experimental,mapaches,manglar,temperaturas4/15°Cy eutrofización;contextos y opciones idénticosAAK2físicas25-26.",
+      "observed_annotation": "Solo cambia numeración."
+    },
+    {
+      "question": 112,
+      "page": 39,
+      "printed_page": 39,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 71,
+      "canonical_page": 26,
+      "exact_content": true,
+      "verification": "Cotejo visual de estructuras hormonales,hipótesis y diseño experimental,mapaches,manglar,temperaturas4/15°Cy eutrofización;contextos y opciones idénticosAAK2físicas25-26.",
+      "observed_annotation": "Solo cambia numeración."
+    },
+    {
+      "question": 113,
+      "page": 39,
+      "printed_page": 39,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 72,
+      "canonical_page": 26,
+      "exact_content": true,
+      "verification": "Cotejo visual de estructuras hormonales,hipótesis y diseño experimental,mapaches,manglar,temperaturas4/15°Cy eutrofización;contextos y opciones idénticosAAK2físicas25-26.",
+      "observed_annotation": "Solo cambia numeración."
+    }
+  ]
+}

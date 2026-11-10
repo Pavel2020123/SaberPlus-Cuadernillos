@@ -1,0 +1,28 @@
+{
+  "file_id": "USB-45e476387c60",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Física 18, impresa 17 inspeccionada completa. Inicio de Ciencias 51-52; tablas y todas las opciones cotejadas visualmente, sin coincidencias exactas identificadas.",
+  "items": [
+    {
+      "question": 51,
+      "page": 18,
+      "printed_page": 17,
+      "topic": "Efectos de disponibilidad de agua en cadena trófica",
+      "competency_proposal": "Explicación de fenómenos",
+      "answer_proposal": "D",
+      "reason": "El modelo indica que menos agua reduce fitoplancton y, con ello, los recursos de zooplancton y peces consumidores.",
+      "alert": "Predicción condicionada al modelo del ejercicio; no establece respuesta universal de cualquier ecosistema ante cualquier variación de agua."
+    },
+    {
+      "question": 52,
+      "page": 18,
+      "printed_page": 17,
+      "topic": "Contraste de hipótesis nutricional con intervalos de crecimiento y mortalidad",
+      "competency_proposal": "Indagación",
+      "answer_proposal": null,
+      "reason": "La hipótesis favorece alimento artificial, pero natural muestra crecimiento 4-12 mm/semana y mortalidad 2-4 individuos/semana, frente a artificial 3-8 y 2-11. Ninguna opción reproduce con rigor estos datos.",
+      "alert": "A afirma ausencia de diferencias significativas sin prueba estadística; B atribuye mayor crecimiento y menor mortalidad a artificial; C también atribuye menor mortalidad al artificial; D rechaza hipótesis pero dice que natural disminuye el crecimiento y añade facilidad de acceso no medida. Intervalos solapados y falta de tamaño muestral impiden probar significación. Mantener sin clave hasta revisión docente."
+    }
+  ]
+}

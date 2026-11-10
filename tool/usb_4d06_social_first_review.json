@@ -1,0 +1,108 @@
+{
+  "file_id": "USB-4d0661231ca3",
+  "date": "2026-10-30",
+  "area": "Sociales y ciudadanas",
+  "scope": "Portada y físicas2-4 completas. ABA2,Mompox,2025-2segunda sesión,147preguntas4h30,calendario y autenticidad sin verificar.1-10diez fichas iniciales.",
+  "items": [
+    {
+      "question": 1,
+      "page": 2,
+      "printed_page": 2,
+      "answer_proposal": "C",
+      "topic": "Proceso de aprobación de ley",
+      "competency_proposal": "Pensamiento social",
+      "reason": "ElCongreso debate y aprueba proyecto para sanción presidencial,no aprobación unilateral.",
+      "alert": "Esquema conceptual del ejercicio,no procedimiento legal completo ni normativa vigente verificada."
+    },
+    {
+      "question": 2,
+      "page": 2,
+      "printed_page": 2,
+      "answer_proposal": "C",
+      "topic": "Efectos no deseados de retirar peaje",
+      "competency_proposal": "Pensamiento reflexivo y sistémico",
+      "reason": "Menor recaudo puede reducir financiación vial y empleo asociado en departamento.",
+      "alert": "Consecuencia posible,no garantía;no se presume compensación por otros peajes."
+    },
+    {
+      "question": 3,
+      "page": 2,
+      "printed_page": 2,
+      "answer_proposal": "D",
+      "topic": "Dimensión de política contra desperdicio",
+      "competency_proposal": "Pensamiento reflexivo y sistémico",
+      "reason": "Donación de alimentos y reducción de inseguridad alimentaria privilegian dimensión social entre opciones.",
+      "alert": "También existen dimensiones ambientales y educativas;se pregunta enfoque privilegiado."
+    },
+    {
+      "question": 4,
+      "page": 3,
+      "printed_page": 3,
+      "answer_proposal": "C",
+      "topic": "Perspectiva de movimiento social",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "reason": "Manifestarse para promover respeto y educación implica confianza en transformar condiciones arraigadas.",
+      "alert": "No deducir que sea única ruta de cambio ni que ausencia de moral asegure aceptación."
+    },
+    {
+      "question": 5,
+      "page": 3,
+      "printed_page": 3,
+      "answer_proposal": "C",
+      "topic": "Identificación de prejuicio sobre discapacidad",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "reason": "Atribuir discapacidad a actitudes personales culpabiliza individuos y omite barreras sociales y materiales.",
+      "alert": "No legitimar prejuicio;analizar formulación del jefe."
+    },
+    {
+      "question": 6,
+      "page": 3,
+      "printed_page": 3,
+      "answer_proposal": "B",
+      "topic": "Riesgo de implementación de acuerdo pesquero",
+      "competency_proposal": "Pensamiento reflexivo y sistémico",
+      "reason": "Aumentar número de buques en franjas permitidas puede mantener presión y daño que acuerdo busca reducir.",
+      "alert": "No prueba por sí solo resultado,requiere evaluar esfuerzo pesquero total."
+    },
+    {
+      "question": 7,
+      "page": 3,
+      "printed_page": 3,
+      "answer_proposal": "A",
+      "topic": "Función de partidos políticos",
+      "competency_proposal": "Pensamiento social",
+      "reason": "Permiten participación e incidencia ciudadana en decisiones del país.",
+      "alert": "No equivalen a administración de justicia ni al clientelismo como función constitucional."
+    },
+    {
+      "question": 8,
+      "page": 4,
+      "printed_page": 4,
+      "answer_proposal": "C",
+      "topic": "Acceso al agua potable",
+      "competency_proposal": "Pensamiento social",
+      "reason": "Disponer de recursos hídricos sin red potable suficiente vulnera acceso efectivo a agua segura.",
+      "alert": "No confundir riqueza hídrica con servicio disponible."
+    },
+    {
+      "question": 9,
+      "page": 4,
+      "printed_page": 4,
+      "answer_proposal": "D",
+      "topic": "Intención de declaración de excepción",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "reason": "Discurso invoca amenaza de levantamiento y mantenimiento de orden:evitar alzamientos armados.",
+      "alert": "Interpretar intención alegada,no justificar medidas ni validar acusación de fraude."
+    },
+    {
+      "question": 10,
+      "page": 4,
+      "printed_page": 4,
+      "answer_proposal": "C",
+      "topic": "Cambio de posición política",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "reason": "Varían rol político del congresista y enfoque de reforma:canasta familiar frente a clases altas.",
+      "alert": "No atribuir obligación general de cambiar postura ni inferir crisis fiscal específica sin datos."
+    }
+  ]
+}

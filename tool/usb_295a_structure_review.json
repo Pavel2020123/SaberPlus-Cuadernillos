@@ -1,0 +1,82 @@
+{
+  "file_id": "USB-295a0508d0cf",
+  "date": "2026-10-30",
+  "area": "Estructura documental",
+  "scope": "Primera documentación de todas las preguntas presentes tras inspección de7páginas. No autentica contenido como examen oficial.",
+  "items": [],
+  "metadata": {
+    "cover": "Compilación de Sociales con nombre Samuel Palacios y marca de grupo; dibujos de tortugas. Sin fecha,sesión,calendario o versión oficial comprobados.",
+    "filename_period": "2026-2(no corroborado en interior)",
+    "physical_pages": 7,
+    "present_count": 24,
+    "present_range": "67-90",
+    "page_map": [
+      {
+        "page": 1,
+        "type": "portada"
+      },
+      {
+        "page": 2,
+        "questions": [
+          67,
+          68,
+          69
+        ],
+        "context_start": 70
+      },
+      {
+        "page": 3,
+        "questions": [
+          70,
+          71,
+          72,
+          73
+        ]
+      },
+      {
+        "page": 4,
+        "questions": [
+          74,
+          75,
+          76
+        ]
+      },
+      {
+        "page": 5,
+        "questions": [
+          77,
+          78,
+          79,
+          80,
+          81
+        ]
+      },
+      {
+        "page": 6,
+        "questions": [
+          82,
+          83,
+          84,
+          85
+        ]
+      },
+      {
+        "page": 7,
+        "questions": [
+          86,
+          87,
+          88,
+          89,
+          90
+        ]
+      }
+    ],
+    "annotation_scope": "Marcas azules de estudio67-82;83-90sin letra marcada documentada. No asignar de manera automática las respuestas de anotaciones a claves.",
+    "unresolved": [
+      "85sin clave por insuficiencia de alternativas.",
+      "82opcionesB/Csolapadas, propuestaCcondicionada.",
+      "Año y sesión solo sugeridos por nombre, no verificados."
+    ],
+    "collection_complete": false
+  }
+}

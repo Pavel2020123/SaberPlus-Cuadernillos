@@ -1,0 +1,286 @@
+{
+  "file_id": "USB-709bc037689b",
+  "date": "2026-10-29",
+  "area": "Ciencias naturales",
+  "scope": "Preguntas51-79,paginas fisicas20-32 inspeccionadas visualmente en modelos,figuras,tablas,graficas y alternativas.Sin claves resaltadas observadas.Propuestas no oficiales y competencias propuestas sin validacion docente.No son indicaciones medicas o tecnicas reales.",
+  "competency_legend": {
+    "U": "Uso comprensivo del conocimiento cientifico",
+    "E": "Explicacion de fenomenos",
+    "I": "Indagacion"
+  },
+  "contexts": [
+    {
+      "id": "ACC2-CN01",
+      "questions": [
+        54,
+        55,
+        56
+      ],
+      "pages": [
+        22
+      ],
+      "topic": "Mapa y evaluacion de energias renovables"
+    },
+    {
+      "id": "ACC2-CN02",
+      "questions": [
+        67,
+        68,
+        69
+      ],
+      "pages": [
+        27
+      ],
+      "topic": "Cambios de deforestacion en2022"
+    }
+  ],
+  "items": [
+    {
+      "question": 51,
+      "page": 20,
+      "topic": "Eutrofizacion y oxigeno disuelto",
+      "answer_proposal": "B",
+      "reason": "La disminucion del oxigeno disuelto reduce la supervivencia de anchoas y atunes; no basta el aumento de nutrientes para sostener consumidores.",
+      "competency_code": "E"
+    },
+    {
+      "question": 52,
+      "page": 20,
+      "topic": "Origen organico de combustibles fosiles",
+      "answer_proposal": "C",
+      "reason": "El texto describe restos de seres vivos transformados por calor y presion; no sintesis industrial ni solidificacion magmatica.",
+      "alert": "El enunciado alterna miles de anos y la opcion millones; conservar inconsistencia temporal sin corregir el PDF.",
+      "competency_code": "U"
+    },
+    {
+      "question": 53,
+      "page": 21,
+      "topic": "Tabla y grafica de abundancia de mariposas",
+      "answer_proposal": "B",
+      "reason": "B conserva por especie Neuta22,2,8,2 y Tierra Blanca7,2,0,3. D invierte los valores de las mariposas amarillas.",
+      "competency_code": "I"
+    },
+    {
+      "question": 54,
+      "page": 22,
+      "topic": "Radiacion solar y generacion fotovoltaica",
+      "answer_proposal": "A",
+      "reason": "La radiacion solar es la variable directamente relacionada con la energia recibida por los paneles durante el dia.",
+      "context": "ACC2-CN01",
+      "competency_code": "U"
+    },
+    {
+      "question": 55,
+      "page": 22,
+      "topic": "Secciones de un informe cientifico",
+      "answer_proposal": "B",
+      "reason": "El mapa comunica datos obtenidos en la investigacion; pertenece a resultados, no indice, objetivos ni bibliografia.",
+      "context": "ACC2-CN01",
+      "competency_code": "I"
+    },
+    {
+      "question": 56,
+      "page": 22,
+      "topic": "Objetivo de investigacion de energias renovables",
+      "answer_proposal": "B",
+      "reason": "Se busca identificar las regiones de mayor potencial eolico y solar para aprovechar recursos naturales sin asumir uso exclusivamente solar.",
+      "context": "ACC2-CN01",
+      "competency_code": "I"
+    },
+    {
+      "question": 57,
+      "page": 23,
+      "topic": "Adaptaciones vegetales al paramo",
+      "answer_proposal": "B",
+      "reason": "Hojas pequenas rigidas con ceras y vellosidades protegen en condiciones frias, radiacion alta y viento; las otras opciones describen rasgos no correspondientes.",
+      "competency_code": "U"
+    },
+    {
+      "question": 58,
+      "page": 23,
+      "topic": "Actividad de catalasa y temperatura",
+      "answer_proposal": "C",
+      "reason": "La grafica alcanza su maximo entre35 y40 grados Celsius; luego cae. No permite extrapolar aumento bajo10 grados.",
+      "competency_code": "I"
+    },
+    {
+      "question": 59,
+      "page": 23,
+      "topic": "Curvas de solubilidad de tres sales",
+      "answer_proposal": null,
+      "reason": "NaNO3 y KNO3 aumentan con la temperatura, pero la curva discontinua de NaCl permanece horizontal aproximadamente en35. Ninguna alternativa expresa dos crecientes y una constante.",
+      "alert": "C parece la intencion, pero afirma aumento de las tres sales. Revisar original de mayor calidad/docente antes de cerrar clave; no convertir horizontal en pendiente por conocimiento externo.",
+      "competency_code": "I"
+    },
+    {
+      "question": 60,
+      "page": 24,
+      "topic": "Red de polinizacion e insecticidas",
+      "answer_proposal": "D",
+      "reason": "Las plantas1,2 y3 conservan polinizadores no insectos en el modelo; la planta4 depende solo de la hormiga y queda sin polinizador.",
+      "competency_code": "E"
+    },
+    {
+      "question": 61,
+      "page": 24,
+      "topic": "Hipotesis de simbiosis planta-hongo",
+      "answer_proposal": "A",
+      "reason": "El hallazgo de asociacion en raices con intercambio de fosforo y carbohidratos apoya la hipotesis de beneficio mutuo; no implica todas las especies de la familia.",
+      "competency_code": "I"
+    },
+    {
+      "question": 62,
+      "page": 24,
+      "topic": "Nanoparticulas y pH en transporte de medicamentos",
+      "answer_proposal": "C",
+      "reason": "Al bajar pH de7.45 a7.18 el porcentaje que llega al tumor pasa de23 a93. C es la interpretacion prevista de mayor entrega en medio ligeramente acido.",
+      "alert": "La tabla mide porcentaje que llega, no liberacion una vez en el tumor ni el pH para100%; no inferir que ya se encontro ese optimo.",
+      "competency_code": "I"
+    },
+    {
+      "question": 63,
+      "page": 25,
+      "topic": "Clasificacion de reacciones de lluvia acida",
+      "answer_proposal": "B",
+      "reason": "Las representaciones combinan oxidos con agua para formar un acido; corresponden a formacion o sintesis.",
+      "alert": "La ecuacion generica NOx no esta balanceada; clasificacion segun esquema presentado, no validacion estequiometrica.",
+      "competency_code": "U"
+    },
+    {
+      "question": 64,
+      "page": 25,
+      "topic": "Conservacion de energia cinetica en choques",
+      "answer_proposal": "D",
+      "reason": "Con discos identicos cada choque transfiere la misma rapidez3.6m/s al siguiente mientras el anterior queda en reposo; se conserva un termino de energia cinetica de igual masa y rapidez.",
+      "competency_code": "E"
+    },
+    {
+      "question": 65,
+      "page": 26,
+      "topic": "Sintesis de proteinas y aminoacidos",
+      "answer_proposal": "B",
+      "reason": "El modelo muestra aminoacidos aportados durante la traduccion como unidades de la proteina; ribosoma y ARN participan pero no son sus monomeros.",
+      "competency_code": "U"
+    },
+    {
+      "question": 66,
+      "page": 26,
+      "topic": "Meseta de temperatura en datos experimentales",
+      "answer_proposal": "C",
+      "reason": "A partir de200s los registros permanecen en178.3 grados Celsius hasta280s; antes aumentan de manera no constante.",
+      "alert": "Describir tabla, no atribuir ebullicion a una mezcla sin datos adicionales.",
+      "competency_code": "I"
+    },
+    {
+      "question": 67,
+      "page": 27,
+      "topic": "Causas tabuladas de cambio en deforestacion",
+      "answer_proposal": "C",
+      "reason": "Ganaderia y agricultura extensiva presentan las mayores magnitudes de reduccion en Guaviare15,Caqueta13,Meta14.",
+      "context": "ACC2-CN02",
+      "competency_code": "I"
+    },
+    {
+      "question": 68,
+      "page": 27,
+      "topic": "Titulo de grafica de deforestacion",
+      "answer_proposal": "C",
+      "reason": "Tres departamentos muestran reduccion y el texto introductorio destaca esa tendencia; C es el titulo esperado entre las opciones.",
+      "alert": "El titulo no representa la excepcion de Putumayo+26%; un titulo neutral sobre cambios seria mas preciso.",
+      "context": "ACC2-CN02",
+      "competency_code": "I"
+    },
+    {
+      "question": 69,
+      "page": 27,
+      "topic": "Evidencia para una conclusion sobre deforestacion",
+      "answer_proposal": "D",
+      "reason": "Infraestructura mal planificada tiene las menores magnitudes de reduccion en los tres departamentos con disminucion:4,2,3 frente a las demas categorias.",
+      "context": "ACC2-CN02",
+      "competency_code": "I"
+    },
+    {
+      "question": 70,
+      "page": 28,
+      "topic": "Beneficio mutuo pez payaso-anemona",
+      "answer_proposal": "C",
+      "reason": "Ambos obtienen proteccion frente a depredadores, no debilitamiento unilateral ni perdida de defensa.",
+      "competency_code": "E"
+    },
+    {
+      "question": 71,
+      "page": 28,
+      "topic": "Secuencia de formacion de tsunami",
+      "answer_proposal": "C",
+      "reason": "C ordena sismo en fondo marino, propagacion de onda y olas grandes al llegar a la costa.",
+      "competency_code": "U"
+    },
+    {
+      "question": 72,
+      "page": 29,
+      "topic": "Extrapolacion de crecimiento bacteriano",
+      "answer_proposal": "B",
+      "reason": "La secuencia1,2,4,9,21,47,105,234 crece aproximadamente por factor2.2; a11horas se espera cerca520millones, entre400 y600.",
+      "alert": "Extrapolacion aproximada bajo condiciones constantes; no es dato medido ni crecimiento lineal.",
+      "competency_code": "I"
+    },
+    {
+      "question": 73,
+      "page": 29,
+      "topic": "Contraste de hipotesis con nueva evidencia",
+      "answer_proposal": "A",
+      "reason": "La alternativa enzimatica permite limpiar sin agua hirviendo ni espera nocturna; contradice la exclusividad que afirmaba la hipotesis.",
+      "competency_code": "I"
+    },
+    {
+      "question": 74,
+      "page": 29,
+      "topic": "Relacion molar en produccion de acido nitrico",
+      "answer_proposal": "D",
+      "reason": "La ecuacion3NO2+H2O produce2HNO3+NO;15mol deNO2 con agua suficiente producen15*(2/3)=10mol deHNO3.",
+      "competency_code": "U"
+    },
+    {
+      "question": 75,
+      "page": 30,
+      "topic": "Prediccion experimental de germinacion",
+      "answer_proposal": "C",
+      "reason": "C muestra la curva con carbon llegando al100% a semana6 frente a semana9 sin carbon, reduciendo tres semanas el tiempo total.",
+      "competency_code": "I"
+    },
+    {
+      "question": 76,
+      "page": 31,
+      "topic": "Patrones de calibracion y magnitudes",
+      "answer_proposal": "D",
+      "reason": "Se empareja masa con patron0.5kg, temperatura con termometros40/130C y densidad con referencia0.1g/mL.",
+      "alert": "El texto llama contrapeso al patron de densidad; se clasifica por unidades declaradas sin validar idoneidad fisica del material.",
+      "competency_code": "I"
+    },
+    {
+      "question": 77,
+      "page": 31,
+      "topic": "Haplodiploidia y parentesco",
+      "answer_proposal": "C",
+      "reason": "Los machos proceden de ovulos no fecundados y tienen solo madre; las hembras diploides proceden de fecundacion y tienen madre y padre.",
+      "competency_code": "U"
+    },
+    {
+      "question": 78,
+      "page": 32,
+      "topic": "Suma vectorial de fuerzas electricas",
+      "answer_proposal": "C",
+      "reason": "Sobre carga3 actuan600N hacia la izquierda y300N hacia la derecha; la resultante es300N hacia la izquierda.",
+      "competency_code": "U"
+    },
+    {
+      "question": 79,
+      "page": 32,
+      "topic": "Repulsion de pares libres y angulo molecular",
+      "answer_proposal": "A",
+      "reason": "Dos pares libres en agua comprimen mas el angulo de enlace que un par libre en amoniaco; se predice angulo menor de107grados.",
+      "competency_code": "E"
+    }
+  ],
+  "next": "Ingles80-134 desde pagina33 pendiente de inspeccion visual; luego cuestionarios y estructura final."
+}

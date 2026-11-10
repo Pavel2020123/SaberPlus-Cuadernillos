@@ -1,0 +1,252 @@
+{
+  "file_id": "USB-7882c8f9ae2f",
+  "date": "2026-10-30",
+  "area": "Ingles",
+  "scope": "Preguntas90-114en físicas29-32,textos,avisos y opciones inspeccionados visualmente. Competencia general propuesta,no MCERni dificultad asignados,no claves oficiales.Sin letras marcadas observadas.",
+  "competency_proposal": "Competencia comunicativa en lengua inglesa (propuesta general)",
+  "contexts": [
+    {
+      "id": "signs",
+      "title": "Avisos y señales",
+      "part": "2",
+      "pages": [
+        29
+      ],
+      "format": "Avisos y señales",
+      "answer_letters": "A-C"
+    },
+    {
+      "id": "dialogues",
+      "title": "Conversaciones",
+      "part": "3",
+      "pages": [
+        30
+      ],
+      "format": "Conversaciones",
+      "answer_letters": "A-C"
+    },
+    {
+      "id": "taj",
+      "title": "Taj Mahal",
+      "part": "4",
+      "pages": [
+        31
+      ],
+      "format": "Texto con espacios",
+      "answer_letters": "A-C",
+      "description": "Fechas históricas del texto no verificadas; preguntas de selección gramatical y cohesión."
+    },
+    {
+      "id": "nurse",
+      "title": "I'll Be a Nurse",
+      "part": "5",
+      "pages": [
+        32
+      ],
+      "format": "Comprensión lectora",
+      "answer_letters": "A-C"
+    }
+  ],
+  "items": [
+    {
+      "question": 90,
+      "page": 29,
+      "topic": "Lugar de anuncio de tartas",
+      "answer_proposal": "A",
+      "reason": "Tartas de manzana para cumpleaños se anuncian en pastelería.",
+      "context": "signs"
+    },
+    {
+      "question": 91,
+      "page": 29,
+      "topic": "Envase de juguete",
+      "answer_proposal": "A",
+      "reason": "Play with me y edad2+corresponden a caja de muñeca, no leche o zapatos.",
+      "context": "signs"
+    },
+    {
+      "question": 92,
+      "page": 29,
+      "topic": "Oferta de productos de cumpleaños",
+      "answer_proposal": "A",
+      "reason": "Sabores chocolate/banana y chocolate/coco con precios corresponden a tienda de pasteles.",
+      "context": "signs"
+    },
+    {
+      "question": 93,
+      "page": 29,
+      "topic": "Punto de recogida de comida",
+      "answer_proposal": "B",
+      "reason": "Pick up food here encaja en cafetería.",
+      "context": "signs"
+    },
+    {
+      "question": 94,
+      "page": 29,
+      "topic": "Promoción de artículos deportivos",
+      "answer_proposal": "C",
+      "reason": "Oferta de pelotas y juegos corresponde a tienda deportiva.",
+      "context": "signs"
+    },
+    {
+      "question": 95,
+      "page": 30,
+      "topic": "Respuesta causal a elección de ropa",
+      "answer_proposal": "C",
+      "reason": "It was too warm explica por qué no se puso abrigo.",
+      "context": "dialogues"
+    },
+    {
+      "question": 96,
+      "page": 30,
+      "topic": "Seguimiento pertinente sobre película",
+      "answer_proposal": "A",
+      "reason": "Is it good pregunta por la calidad de la película mencionada.",
+      "context": "dialogues"
+    },
+    {
+      "question": 97,
+      "page": 30,
+      "topic": "Declaración de desconocimiento",
+      "answer_proposal": "B",
+      "reason": "I've got no idea responde pertinentemente a por qué se esconden.",
+      "context": "dialogues"
+    },
+    {
+      "question": 98,
+      "page": 30,
+      "topic": "Pregunta sobre fecha de concierto",
+      "answer_proposal": "A",
+      "reason": "Is it on Saturday continúa la conversación sobre concierto y entradas.",
+      "context": "dialogues"
+    },
+    {
+      "question": 99,
+      "page": 30,
+      "topic": "Respuesta social a ascenso laboral",
+      "answer_proposal": "C",
+      "reason": "Congratulations es la reacción apropiada al anuncio de ser nuevo jefe.",
+      "context": "dialogues"
+    },
+    {
+      "question": 100,
+      "page": 31,
+      "topic": "Agente de voz pasiva",
+      "answer_proposal": "C",
+      "reason": "Was built by emperorJahan introduce agente conby.",
+      "context": "taj"
+    },
+    {
+      "question": 101,
+      "page": 31,
+      "topic": "Participio pasado",
+      "answer_proposal": "B",
+      "reason": "Materials and shapes were used requiereused.",
+      "context": "taj"
+    },
+    {
+      "question": 102,
+      "page": 31,
+      "topic": "Locución temporal",
+      "answer_proposal": "A",
+      "reason": "At that moment es la expresión temporal apropiada.",
+      "context": "taj"
+    },
+    {
+      "question": 103,
+      "page": 31,
+      "topic": "Relativo personal",
+      "answer_proposal": "C",
+      "reason": "Who introduce oración relativa sobre arquitectoAhmadLahawri.",
+      "context": "taj"
+    },
+    {
+      "question": 104,
+      "page": 31,
+      "topic": "Cuantificador con plural contable",
+      "answer_proposal": "B",
+      "reason": "Several years concuerda conyears;eachrequiere singular y muchno cuantifica plural contable.",
+      "context": "taj"
+    },
+    {
+      "question": 105,
+      "page": 31,
+      "topic": "Adverbio temporal de posterioridad",
+      "answer_proposal": "C",
+      "reason": "Were later completed expresa terminación posterior de otras construcciones.",
+      "context": "taj"
+    },
+    {
+      "question": 106,
+      "page": 31,
+      "topic": "Aproximación de duración",
+      "answer_proposal": "A",
+      "reason": "Took around22years expresa duración aproximada.",
+      "context": "taj"
+    },
+    {
+      "question": 107,
+      "page": 31,
+      "topic": "Conector de contraste",
+      "answer_proposal": "B",
+      "reason": "While contrapone posible fama de otros monumentos con carácter singular delTajMahal.",
+      "context": "taj"
+    },
+    {
+      "question": 108,
+      "page": 32,
+      "topic": "Cualidad interpersonal de enfermería",
+      "answer_proposal": "C",
+      "reason": "Kind y nice with people se corresponden confriendly.",
+      "context": "nurse"
+    },
+    {
+      "question": 109,
+      "page": 32,
+      "topic": "Expectativa laboral próxima",
+      "answer_proposal": "A",
+      "reason": "La narradora espera terminar estudios y ganar dinero trabajando como enfermera.",
+      "context": "nurse"
+    },
+    {
+      "question": 110,
+      "page": 32,
+      "topic": "Hecho explícito en aeropuerto",
+      "answer_proposal": "A",
+      "reason": "Got sick indica que enfermó,no accidente o medicina equivocada.",
+      "context": "nurse"
+    },
+    {
+      "question": 111,
+      "page": 32,
+      "topic": "Valoración de personas que ayudaron",
+      "answer_proposal": "B",
+      "reason": "Fantastic nurses equivale a valoraciónamazing.",
+      "context": "nurse"
+    },
+    {
+      "question": 112,
+      "page": 32,
+      "topic": "Decisión motivada por experiencia",
+      "answer_proposal": "C",
+      "reason": "La atención hospitalaria la animó a ser enfermera y decidir su futuro.",
+      "context": "nurse"
+    },
+    {
+      "question": 113,
+      "page": 32,
+      "topic": "Observación durante práctica universitaria",
+      "answer_proposal": "A",
+      "reason": "Las prácticas permiten observar agradecimiento de pacientes y buen trabajo de enfermería.",
+      "context": "nurse"
+    },
+    {
+      "question": 114,
+      "page": 32,
+      "topic": "Expectativa al concluir formación",
+      "answer_proposal": "B",
+      "reason": "Ready to start my career expresa deseo de comenzar a trabajar.",
+      "context": "nurse"
+    }
+  ]
+}

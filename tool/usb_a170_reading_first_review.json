@@ -1,0 +1,94 @@
+{
+  "file_id": "USB-a170782eadcb",
+  "date": "2026-10-30",
+  "area": "Lectura crítica",
+  "scope": "Física6(impresas10-11)inspeccionada visualmente,contextos completos ypreguntas26-32. No coincidencias exactas verificadas para estos ítems;propuestas no oficiales.",
+  "contexts": [
+    {
+      "id": "manuelita",
+      "page": 6,
+      "title": "De Palenque a Bocagrande,las frutas de Manuelita",
+      "description": "Perfil deEstebanaCassiani,trabajo,alusión aMamáGrande yreconocimiento cultural. Impresa10."
+    },
+    {
+      "id": "talbot",
+      "page": 6,
+      "title": "Razonamiento crítico",
+      "description": "MarianneTalbot,taza sin razones,humano irracional ydistinción no racional. Impresa11."
+    }
+  ],
+  "items": [
+    {
+      "question": 26,
+      "page": 6,
+      "printed_page": 10,
+      "context": "manuelita",
+      "topic": "Valoración de comportamiento en crónica",
+      "competency_proposal": "Reflexiona a partir de un texto y evalúa su contenido",
+      "answer_proposal": "D",
+      "reason": "El cierre presenta favorablemente que permanezca bajo el árbol como le gusta,en contraste con reconocimiento material o político; D es la interpretación más cercana.",
+      "alert": "Desapego material se infiere,no se afirma. El fragmento también critica oportunismo electoral,pero describirlo no implica legitimarlo. Revisión docente antes de usar como clave cerrada."
+    },
+    {
+      "question": 27,
+      "page": 6,
+      "printed_page": 10,
+      "context": "manuelita",
+      "topic": "Localización de dato biográfico",
+      "competency_proposal": "Identifica y entiende los contenidos locales que conforman un texto",
+      "answer_proposal": "C",
+      "reason": "Aprendió valor del trabajo enLaLoma delRosario,donde llevaba agua junto a su hermana."
+    },
+    {
+      "question": 28,
+      "page": 6,
+      "printed_page": 10,
+      "context": "manuelita",
+      "topic": "Caracterización mediante alusión literaria",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "C",
+      "reason": "La comparación conlaMamáGrande deGarcíaMárquez construye imagen de matrona."
+    },
+    {
+      "question": 29,
+      "page": 6,
+      "printed_page": 10,
+      "context": "manuelita",
+      "topic": "Voz narrativa de perfil periodístico",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "C",
+      "reason": "Una voz externa cuenta vida ytrayectoria de un personaje conocido deCartagena;no cuenta su propia vida ni solo cita palabras."
+    },
+    {
+      "question": 30,
+      "page": 6,
+      "printed_page": 10,
+      "context": "manuelita",
+      "topic": "Propósito de una crónica",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "A",
+      "reason": "Resalta valor cultural de figura local ycuestiona que no reciba reconocimiento público."
+    },
+    {
+      "question": 31,
+      "page": 6,
+      "printed_page": 11,
+      "context": "talbot",
+      "topic": "Función de distinción conceptual",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "D",
+      "reason": "El cuarto párrafo distingue humano que actúa por razones malas y taza no racional sin razones.",
+      "alert": "Se cuentan párrafos desdeMi taza,incluyendoSupongo yEsta es una buena pregunta."
+    },
+    {
+      "question": 32,
+      "page": 6,
+      "printed_page": 11,
+      "context": "talbot",
+      "topic": "Contraste de definiciones",
+      "competency_proposal": "Reflexiona a partir de un texto y evalúa su contenido",
+      "answer_proposal": "A",
+      "reason": "La definición dada llama irracional a quien no puede razonar;Talbot reserva irracional para quien sí actúa por razones pero malas,ydistingue no racional."
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "file_id": "USB-75abccb84c15",
+  "date": "2026-10-30",
+  "area": "Matemáticas",
+  "scope": "Físicas12-13inspeccionadas completas;cotejo conAAK2físicas11-12.29idéntica;30-34conservadas como variantes detexto,datos uilustración. No unicidad global certificada ni claveoficial.",
+  "items": [
+    {
+      "question": 30,
+      "page": 12,
+      "printed_page": 12,
+      "topic": "Corrección de sesgo de selección",
+      "competency_proposal": "Argumentación",
+      "answer_proposal": "D",
+      "reason": "Quitar el orden por notas evita seleccionar sistemáticamente solo los mejores y mantiene100rurales y300urbanos.",
+      "alert": "No especificar orden no garantiza selección aleatoria ni representatividad;D corrige el sesgo señalado mejor que las otras opciones.",
+      "related_file_id": "USB-45e476387c60",
+      "related_question": 30,
+      "related_page": 11
+    },
+    {
+      "question": 31,
+      "page": 12,
+      "printed_page": 12,
+      "topic": "Contraste de datos entre tabla y gráfica",
+      "competency_proposal": "Interpretación y representación",
+      "answer_proposal": "C",
+      "reason": "Antioquia2012y2013yBogotá2015no coinciden:tabla21,7/22,4/4,7frentegráfica12,5/13,3/7,6.",
+      "alert": "No trasladar claveD deAAK2:tabla,gráfica ypregunta difieren.",
+      "related_file_id": "USB-45e476387c60",
+      "related_question": 31,
+      "related_page": 11
+    },
+    {
+      "question": 32,
+      "page": 13,
+      "printed_page": 13,
+      "topic": "Cruce de tablas y paridad de identificador",
+      "competency_proposal": "Interpretación y representación",
+      "answer_proposal": "B",
+      "reason": "Fotografía dura2semanas;Hernando110yLuisa117la cursan. Solo110espar:ganaHernando.",
+      "alert": "EnAAK2Ricardo cursaFotografía yHernandoDiseño;esta variante cambia ganador yclave.",
+      "related_file_id": "USB-45e476387c60",
+      "related_question": 32,
+      "related_page": 12
+    },
+    {
+      "question": 33,
+      "page": 13,
+      "printed_page": 13,
+      "topic": "Área como diferencia de discos",
+      "competency_proposal": "Formulación y ejecución",
+      "answer_proposal": "A",
+      "reason": "VY esradio exterior yWX radio interior;área=π(VY²−WX²).",
+      "alert": "Ilustración deAAR2tiene distribución geométrica distinta alescaneoAAK2 consultado;se conserva variante visual,hasta comparación detallada,no asumir concentricidad.",
+      "related_file_id": "USB-45e476387c60",
+      "related_question": 33,
+      "related_page": 12
+    },
+    {
+      "question": 34,
+      "page": 13,
+      "printed_page": 13,
+      "topic": "Modelo de precio unitario decreciente",
+      "competency_proposal": "Argumentación",
+      "answer_proposal": "C",
+      "reason": "y=1050−50xproduce1000,950,900para1,2,3lápices;pendiente−50describe descuento porunidad.",
+      "alert": "Aquí se pide precio decada lápiz;AAK2pide precio detodos. Cambia validez dela fórmula yclave. x=0está fuera deldominio1-10.",
+      "related_file_id": "USB-45e476387c60",
+      "related_question": 34,
+      "related_page": 12
+    }
+  ],
+  "duplicate_occurrences": [
+    {
+      "question": 29,
+      "page": 12,
+      "printed_page": 12,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 29,
+      "canonical_page": 11,
+      "exact_content": true,
+      "verification": "Cotejo visual directo deenunciado ycuatro procedimientos deganancias porpantalón,costo100000. Mismo contenido salvo código ymaquetación.",
+      "observed_annotation": "Sin respuesta seleccionada inequívoca."
+    }
+  ],
+  "next": "Física14,35en adelante."
+}

@@ -1,0 +1,41 @@
+{
+  "file_id": "USB-7882c8f9ae2f",
+  "date": "2026-10-30",
+  "area": "Estructura documental",
+  "scope": "Las36páginas inspeccionadas visualmente; todos134enunciados presentes documentados inicialmente. No autentica ni completa edición original.",
+  "items": [],
+  "metadata": {
+    "cover": {
+      "declared_period": "2026-1",
+      "session": "Segunda sesión",
+      "declared_questions": 147,
+      "duration": "4h30",
+      "illustration": "Santuario de Las Lajas",
+      "calendar": "No confirmado; Bsolo en nombre",
+      "authenticity": "No verificada",
+      "version": "No identificada con certeza"
+    },
+    "physical_pages": 36,
+    "blank_pages": [
+      36
+    ],
+    "present_academic_questions": 134,
+    "present_self_report_questions": 0,
+    "missing_from_declared_range": "135-147no aparecen; no generar fichas sin enunciado ni asignar tipo por conjetura.",
+    "ranges": {
+      "sociales": "1-25,físicas2-8",
+      "matematicas": "26-50,físicas9-16",
+      "ciencias": "51-79,físicas17-26",
+      "ingles": "80-134,físicas27-35"
+    },
+    "english_parts": "1.A80-84,1.B85-89,2 90-94,3 95-99,4 100-107,5 108-114,6.A115-119,6.B120-124,7 125-134",
+    "unresolved": [
+      "Sociales21sin clave, alternativas imprecisas sobre reforma constitucional.",
+      "Sociales22no permite autenticar autoría solo por contenido.",
+      "Matemáticas27variablelado incompatible con expresión de área.",
+      "Ciencias54supuestos de gas cerrado isotérmico.",
+      "Ciencias56hospitalización no equivale directamente a contagio."
+    ],
+    "collection_complete": false
+  }
+}

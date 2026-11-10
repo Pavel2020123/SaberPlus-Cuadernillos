@@ -1,0 +1,374 @@
+{
+  "file_id": "USB-f539288d427d",
+  "date": "2026-10-30",
+  "area": "Sociales y ciudadanas",
+  "scope": "Todas las7páginas inspeccionadas visualmente y cotejadas conUSB-295a0508d0cf.24enunciados67-90coinciden en contextos y opciones,pero se añaden marcas/subrayados83-90enesta versión.No duplicado binario,conservar ambos.Año2026-2solo en nombre,portada no lo confirma.Propuestas no oficiales. Consolidación solicitada: 24 apariciones referencian ficha canónica; anotaciones del ejemplar conservadas en referencias, sin duplicar pregunta.",
+  "competency_legend": {
+    "PS": "Pensamiento social",
+    "IP": "Interpretación y análisis de perspectivas",
+    "RS": "Pensamiento reflexivo y sistémico"
+  },
+  "items": [],
+  "duplicate_occurrences": [
+    {
+      "question": 67,
+      "page": 2,
+      "canonical_file_id": "USB-295a0508d0cf",
+      "canonical_question": 67,
+      "canonical_page": 2,
+      "exact_content": true,
+      "verification": "Cotejo visual documentado de las siete páginas: contextos,enunciados y opciones coinciden. Solo cambia anotación del ejemplar.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "letra rodeada en azul con tachones de otras opciones",
+        "provenance": "Anotación de estudio visible, autoría y validación no comprobadas."
+      },
+      "annotation_comparison": "Contenido y anotaciones visibles coinciden en bloque inspeccionado;documentos completos difieren por anotaciones posteriores.No eliminar."
+    },
+    {
+      "question": 68,
+      "page": 2,
+      "canonical_file_id": "USB-295a0508d0cf",
+      "canonical_question": 68,
+      "canonical_page": 2,
+      "exact_content": true,
+      "verification": "Cotejo visual documentado de las siete páginas: contextos,enunciados y opciones coinciden. Solo cambia anotación del ejemplar.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "letra rodeada en azul con tachones de otras opciones",
+        "provenance": "Anotación de estudio visible, autoría y validación no comprobadas."
+      },
+      "annotation_comparison": "Contenido y anotaciones visibles coinciden en bloque inspeccionado;documentos completos difieren por anotaciones posteriores.No eliminar."
+    },
+    {
+      "question": 69,
+      "page": 2,
+      "canonical_file_id": "USB-295a0508d0cf",
+      "canonical_question": 69,
+      "canonical_page": 2,
+      "exact_content": true,
+      "verification": "Cotejo visual documentado de las siete páginas: contextos,enunciados y opciones coinciden. Solo cambia anotación del ejemplar.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "letra rodeada en azul con tachones de otras opciones",
+        "provenance": "Anotación de estudio visible, autoría y validación no comprobadas."
+      },
+      "annotation_comparison": "Contenido y anotaciones visibles coinciden en bloque inspeccionado;documentos completos difieren por anotaciones posteriores.No eliminar."
+    },
+    {
+      "question": 70,
+      "page": 3,
+      "canonical_file_id": "USB-295a0508d0cf",
+      "canonical_question": 70,
+      "canonical_page": 3,
+      "exact_content": true,
+      "verification": "Cotejo visual documentado de las siete páginas: contextos,enunciados y opciones coinciden. Solo cambia anotación del ejemplar.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "letra rodeada en azul con tachones de otras opciones",
+        "provenance": "Anotación de estudio visible, autoría y validación no comprobadas."
+      },
+      "annotation_comparison": "Contenido y anotaciones visibles coinciden en bloque inspeccionado;documentos completos difieren por anotaciones posteriores.No eliminar."
+    },
+    {
+      "question": 71,
+      "page": 3,
+      "canonical_file_id": "USB-295a0508d0cf",
+      "canonical_question": 71,
+      "canonical_page": 3,
+      "exact_content": true,
+      "verification": "Cotejo visual documentado de las siete páginas: contextos,enunciados y opciones coinciden. Solo cambia anotación del ejemplar.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "letra rodeada en azul con tachones de otras opciones",
+        "provenance": "Anotación de estudio visible, autoría y validación no comprobadas."
+      },
+      "annotation_comparison": "Contenido y anotaciones visibles coinciden en bloque inspeccionado;documentos completos difieren por anotaciones posteriores.No eliminar."
+    },
+    {
+      "question": 72,
+      "page": 3,
+      "canonical_file_id": "USB-295a0508d0cf",
+      "canonical_question": 72,
+      "canonical_page": 3,
+      "exact_content": true,
+      "verification": "Cotejo visual documentado de las siete páginas: contextos,enunciados y opciones coinciden. Solo cambia anotación del ejemplar.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "letra rodeada en azul con tachones de otras opciones",
+        "provenance": "Anotación de estudio visible, autoría y validación no comprobadas."
+      },
+      "annotation_comparison": "Contenido y anotaciones visibles coinciden en bloque inspeccionado;documentos completos difieren por anotaciones posteriores.No eliminar."
+    },
+    {
+      "question": 73,
+      "page": 3,
+      "canonical_file_id": "USB-295a0508d0cf",
+      "canonical_question": 73,
+      "canonical_page": 3,
+      "exact_content": true,
+      "verification": "Cotejo visual documentado de las siete páginas: contextos,enunciados y opciones coinciden. Solo cambia anotación del ejemplar.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "letra rodeada en azul con tachones de otras opciones",
+        "provenance": "Anotación de estudio visible, autoría y validación no comprobadas."
+      },
+      "annotation_comparison": "Contenido y anotaciones visibles coinciden en bloque inspeccionado;documentos completos difieren por anotaciones posteriores.No eliminar."
+    },
+    {
+      "question": 74,
+      "page": 4,
+      "canonical_file_id": "USB-295a0508d0cf",
+      "canonical_question": 74,
+      "canonical_page": 4,
+      "exact_content": true,
+      "verification": "Cotejo visual documentado de las siete páginas: contextos,enunciados y opciones coinciden. Solo cambia anotación del ejemplar.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "letra rodeada en azul con tachones de otras opciones",
+        "provenance": "Anotación de estudio visible, autoría y validación no comprobadas."
+      },
+      "annotation_comparison": "Contenido y anotaciones visibles coinciden en bloque inspeccionado;documentos completos difieren por anotaciones posteriores.No eliminar."
+    },
+    {
+      "question": 75,
+      "page": 4,
+      "canonical_file_id": "USB-295a0508d0cf",
+      "canonical_question": 75,
+      "canonical_page": 4,
+      "exact_content": true,
+      "verification": "Cotejo visual documentado de las siete páginas: contextos,enunciados y opciones coinciden. Solo cambia anotación del ejemplar.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "letra rodeada en azul con tachones de otras opciones",
+        "provenance": "Anotación de estudio visible, autoría y validación no comprobadas."
+      },
+      "annotation_comparison": "Contenido y anotaciones visibles coinciden en bloque inspeccionado;documentos completos difieren por anotaciones posteriores.No eliminar."
+    },
+    {
+      "question": 76,
+      "page": 4,
+      "canonical_file_id": "USB-295a0508d0cf",
+      "canonical_question": 76,
+      "canonical_page": 4,
+      "exact_content": true,
+      "verification": "Cotejo visual documentado de las siete páginas: contextos,enunciados y opciones coinciden. Solo cambia anotación del ejemplar.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "letra rodeada en azul con tachones de otras opciones",
+        "provenance": "Anotación de estudio visible, autoría y validación no comprobadas."
+      },
+      "annotation_comparison": "Contenido y anotaciones visibles coinciden en bloque inspeccionado;documentos completos difieren por anotaciones posteriores.No eliminar."
+    },
+    {
+      "question": 77,
+      "page": 5,
+      "canonical_file_id": "USB-295a0508d0cf",
+      "canonical_question": 77,
+      "canonical_page": 5,
+      "exact_content": true,
+      "verification": "Cotejo visual documentado de las siete páginas: contextos,enunciados y opciones coinciden. Solo cambia anotación del ejemplar.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "letra rodeada en azul con tachones de otras opciones",
+        "provenance": "Anotación de estudio visible, autoría y validación no comprobadas."
+      },
+      "annotation_comparison": "Contenido y anotaciones visibles coinciden en bloque inspeccionado;documentos completos difieren por anotaciones posteriores.No eliminar."
+    },
+    {
+      "question": 78,
+      "page": 5,
+      "canonical_file_id": "USB-295a0508d0cf",
+      "canonical_question": 78,
+      "canonical_page": 5,
+      "exact_content": true,
+      "verification": "Cotejo visual documentado de las siete páginas: contextos,enunciados y opciones coinciden. Solo cambia anotación del ejemplar.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "letra rodeada en azul con tachones de otras opciones",
+        "provenance": "Anotación de estudio visible, autoría y validación no comprobadas."
+      },
+      "annotation_comparison": "Contenido y anotaciones visibles coinciden en bloque inspeccionado;documentos completos difieren por anotaciones posteriores.No eliminar."
+    },
+    {
+      "question": 79,
+      "page": 5,
+      "canonical_file_id": "USB-295a0508d0cf",
+      "canonical_question": 79,
+      "canonical_page": 5,
+      "exact_content": true,
+      "verification": "Cotejo visual documentado de las siete páginas: contextos,enunciados y opciones coinciden. Solo cambia anotación del ejemplar.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "letra rodeada en azul con tachones de otras opciones",
+        "provenance": "Anotación de estudio visible, autoría y validación no comprobadas."
+      },
+      "annotation_comparison": "Contenido y anotaciones visibles coinciden en bloque inspeccionado;documentos completos difieren por anotaciones posteriores.No eliminar."
+    },
+    {
+      "question": 80,
+      "page": 5,
+      "canonical_file_id": "USB-295a0508d0cf",
+      "canonical_question": 80,
+      "canonical_page": 5,
+      "exact_content": true,
+      "verification": "Cotejo visual documentado de las siete páginas: contextos,enunciados y opciones coinciden. Solo cambia anotación del ejemplar.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "letra rodeada en azul con tachones de otras opciones",
+        "provenance": "Anotación de estudio visible, autoría y validación no comprobadas."
+      },
+      "annotation_comparison": "Contenido y anotaciones visibles coinciden en bloque inspeccionado;documentos completos difieren por anotaciones posteriores.No eliminar."
+    },
+    {
+      "question": 81,
+      "page": 5,
+      "canonical_file_id": "USB-295a0508d0cf",
+      "canonical_question": 81,
+      "canonical_page": 5,
+      "exact_content": true,
+      "verification": "Cotejo visual documentado de las siete páginas: contextos,enunciados y opciones coinciden. Solo cambia anotación del ejemplar.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "letra rodeada en azul con tachones de otras opciones",
+        "provenance": "Anotación de estudio visible, autoría y validación no comprobadas."
+      },
+      "annotation_comparison": "Contenido y anotaciones visibles coinciden en bloque inspeccionado;documentos completos difieren por anotaciones posteriores.No eliminar."
+    },
+    {
+      "question": 82,
+      "page": 6,
+      "canonical_file_id": "USB-295a0508d0cf",
+      "canonical_question": 82,
+      "canonical_page": 6,
+      "exact_content": true,
+      "verification": "Cotejo visual documentado de las siete páginas: contextos,enunciados y opciones coinciden. Solo cambia anotación del ejemplar.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "letra rodeada en azul con tachones de otras opciones",
+        "provenance": "Anotación de estudio visible, autoría y validación no comprobadas."
+      },
+      "annotation_comparison": "Contenido y anotaciones visibles coinciden en bloque inspeccionado;documentos completos difieren por anotaciones posteriores.No eliminar."
+    },
+    {
+      "question": 83,
+      "page": 6,
+      "canonical_file_id": "USB-295a0508d0cf",
+      "canonical_question": 83,
+      "canonical_page": 6,
+      "exact_content": true,
+      "verification": "Cotejo visual documentado de las siete páginas: contextos,enunciados y opciones coinciden. Solo cambia anotación del ejemplar.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "letra rodeada en azul y subrayados nuevos",
+        "provenance": "Anotación visible de esta versión,no clave oficial;no trasladada automáticamente de otro PDF."
+      },
+      "annotation_comparison": "Mismo contexto,enunciado y opciones;esta versión añade subrayados y letra azul marcada,ausentes en versióncompressed. No eliminar."
+    },
+    {
+      "question": 84,
+      "page": 6,
+      "canonical_file_id": "USB-295a0508d0cf",
+      "canonical_question": 84,
+      "canonical_page": 6,
+      "exact_content": true,
+      "verification": "Cotejo visual documentado de las siete páginas: contextos,enunciados y opciones coinciden. Solo cambia anotación del ejemplar.",
+      "observed_annotation": {
+        "value": "D",
+        "type": "letra rodeada en azul y subrayados nuevos",
+        "provenance": "Anotación visible de esta versión,no clave oficial;no trasladada automáticamente de otro PDF."
+      },
+      "annotation_comparison": "Mismo contexto,enunciado y opciones;esta versión añade subrayados y letra azul marcada,ausentes en versióncompressed. No eliminar."
+    },
+    {
+      "question": 85,
+      "page": 6,
+      "canonical_file_id": "USB-295a0508d0cf",
+      "canonical_question": 85,
+      "canonical_page": 6,
+      "exact_content": true,
+      "verification": "Cotejo visual documentado de las siete páginas: contextos,enunciados y opciones coinciden. Solo cambia anotación del ejemplar.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "letra rodeada en azul y subrayados nuevos",
+        "provenance": "Anotación visible de esta versión,no clave oficial;no trasladada automáticamente de otro PDF."
+      },
+      "annotation_comparison": "Mismo contexto,enunciado y opciones;esta versión añade subrayados y letra azul marcada,ausentes en versióncompressed. No eliminar."
+    },
+    {
+      "question": 86,
+      "page": 7,
+      "canonical_file_id": "USB-295a0508d0cf",
+      "canonical_question": 86,
+      "canonical_page": 7,
+      "exact_content": true,
+      "verification": "Cotejo visual documentado de las siete páginas: contextos,enunciados y opciones coinciden. Solo cambia anotación del ejemplar.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "letra rodeada en azul y subrayados nuevos",
+        "provenance": "Anotación visible de esta versión,no clave oficial;no trasladada automáticamente de otro PDF."
+      },
+      "annotation_comparison": "Mismo contexto,enunciado y opciones;esta versión añade subrayados y letra azul marcada,ausentes en versióncompressed. No eliminar."
+    },
+    {
+      "question": 87,
+      "page": 7,
+      "canonical_file_id": "USB-295a0508d0cf",
+      "canonical_question": 87,
+      "canonical_page": 7,
+      "exact_content": true,
+      "verification": "Cotejo visual documentado de las siete páginas: contextos,enunciados y opciones coinciden. Solo cambia anotación del ejemplar.",
+      "observed_annotation": {
+        "value": "C",
+        "type": "letra rodeada en azul y subrayados nuevos",
+        "provenance": "Anotación visible de esta versión,no clave oficial;no trasladada automáticamente de otro PDF."
+      },
+      "annotation_comparison": "Mismo contexto,enunciado y opciones;esta versión añade subrayados y letra azul marcada,ausentes en versióncompressed. No eliminar."
+    },
+    {
+      "question": 88,
+      "page": 7,
+      "canonical_file_id": "USB-295a0508d0cf",
+      "canonical_question": 88,
+      "canonical_page": 7,
+      "exact_content": true,
+      "verification": "Cotejo visual documentado de las siete páginas: contextos,enunciados y opciones coinciden. Solo cambia anotación del ejemplar.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "letra rodeada en azul y subrayados nuevos",
+        "provenance": "Anotación visible de esta versión,no clave oficial;no trasladada automáticamente de otro PDF."
+      },
+      "annotation_comparison": "Mismo contexto,enunciado y opciones;esta versión añade subrayados y letra azul marcada,ausentes en versióncompressed. No eliminar."
+    },
+    {
+      "question": 89,
+      "page": 7,
+      "canonical_file_id": "USB-295a0508d0cf",
+      "canonical_question": 89,
+      "canonical_page": 7,
+      "exact_content": true,
+      "verification": "Cotejo visual documentado de las siete páginas: contextos,enunciados y opciones coinciden. Solo cambia anotación del ejemplar.",
+      "observed_annotation": {
+        "value": "B",
+        "type": "letra rodeada en azul y subrayados nuevos",
+        "provenance": "Anotación visible de esta versión,no clave oficial;no trasladada automáticamente de otro PDF."
+      },
+      "annotation_comparison": "Mismo contexto,enunciado y opciones;esta versión añade subrayados y letra azul marcada,ausentes en versióncompressed. No eliminar."
+    },
+    {
+      "question": 90,
+      "page": 7,
+      "canonical_file_id": "USB-295a0508d0cf",
+      "canonical_question": 90,
+      "canonical_page": 7,
+      "exact_content": true,
+      "verification": "Cotejo visual documentado de las siete páginas: contextos,enunciados y opciones coinciden. Solo cambia anotación del ejemplar.",
+      "observed_annotation": {
+        "value": "A",
+        "type": "letra rodeada en azul y subrayados nuevos",
+        "provenance": "Anotación visible de esta versión,no clave oficial;no trasladada automáticamente de otro PDF."
+      },
+      "annotation_comparison": "Mismo contexto,enunciado y opciones;esta versión añade subrayados y letra azul marcada,ausentes en versióncompressed. No eliminar."
+    }
+  ]
+}

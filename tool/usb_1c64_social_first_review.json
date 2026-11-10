@@ -1,0 +1,129 @@
+{
+  "file_id": "USB-1c6462bf5377",
+  "date": "2026-10-30",
+  "area": "Sociales y ciudadanas",
+  "scope": "Físicas28-30,impresas26-28 inspeccionadas visualmente completas. Tres fichas67-69. Ocho referencias70-77 tras cotejo visual de todos los contextos y opciones conAAQ2física4,15-22. Claves ycompetencias propuestas,no oficiales.",
+  "items": [
+    {
+      "question": 67,
+      "page": 28,
+      "printed_page": 26,
+      "topic": "Papel representativo de partidos en democracia",
+      "competency_proposal": "Pensamiento social",
+      "answer_proposal": "C",
+      "reason": "Eliminar partidos afecta canales de representación de intereses ynecesidades ciudadanas. No son la única forma de participación ni se definen por afiliación según títulos académicos.",
+      "alert": "No confundir conLasLajas7,que comparte tema pero presenta otras opciones."
+    },
+    {
+      "question": 68,
+      "page": 28,
+      "printed_page": 26,
+      "topic": "Contraste de afirmaciones yalcance de evidencia",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "answer_proposal": "C",
+      "reason": "Cafirma mayor capacidad para lograr estabilidad económica,lo que contrasta con la descripción deendeudamiento ymayor demora enindependizarse pese amayor educación. Dintroduce menor inteligencia,sin respaldo ni afirmación contraria explícita enel fragmento.",
+      "alert": "Ces la oposición más directa pretendida,pero capacidad potencial yresultado económico observado no son equivalentes lógicos. Dtambién carece de sustento ypuede inducir confusión entre contradicción yno demostrado. Revisión docente antes de usar como clave única. No inferir inteligencia a partir de educación odeuda."
+    },
+    {
+      "question": 69,
+      "page": 28,
+      "printed_page": 26,
+      "topic": "Protección de derechos frente adiscriminación racial",
+      "competency_proposal": "Pensamiento social",
+      "answer_proposal": "C",
+      "reason": "El artículo exige identificar,revisar,corregir yeliminar normas yprácticas discriminatorias para proteger derechos. No manda discriminar aquienes no segregan ni exime actos discriminatorios por invocar libertad.",
+      "alert": "Interpretación del fragmento citado,no revisión de vigencia legal ni asesoría jurídica."
+    }
+  ],
+  "duplicate_occurrences": [
+    {
+      "question": 70,
+      "page": 29,
+      "printed_page": 27,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 15,
+      "canonical_page": 4,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto íntegro y opcionesA-D frenteAAQ2física4:estatua,fútbol femenino,gladiadores,aranceles,termoeléctrica,moción decensura,sindicalización ydiscurso británico. Igual contenido salvo numeración,maquetación ycódigo. Reservas canónicas conservadas.",
+      "observed_annotation": "Sin respuesta seleccionada observada;pequeñas marcas amarillas marginales no se atribuyen aopciones."
+    },
+    {
+      "question": 71,
+      "page": 29,
+      "printed_page": 27,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 16,
+      "canonical_page": 4,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto íntegro y opcionesA-D frenteAAQ2física4:estatua,fútbol femenino,gladiadores,aranceles,termoeléctrica,moción decensura,sindicalización ydiscurso británico. Igual contenido salvo numeración,maquetación ycódigo. Reservas canónicas conservadas.",
+      "observed_annotation": "Sin respuesta seleccionada observada;pequeñas marcas amarillas marginales no se atribuyen aopciones."
+    },
+    {
+      "question": 72,
+      "page": 29,
+      "printed_page": 27,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 17,
+      "canonical_page": 4,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto íntegro y opcionesA-D frenteAAQ2física4:estatua,fútbol femenino,gladiadores,aranceles,termoeléctrica,moción decensura,sindicalización ydiscurso británico. Igual contenido salvo numeración,maquetación ycódigo. Reservas canónicas conservadas.",
+      "observed_annotation": "Sin respuesta seleccionada observada;pequeñas marcas amarillas marginales no se atribuyen aopciones."
+    },
+    {
+      "question": 73,
+      "page": 29,
+      "printed_page": 27,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 18,
+      "canonical_page": 4,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto íntegro y opcionesA-D frenteAAQ2física4:estatua,fútbol femenino,gladiadores,aranceles,termoeléctrica,moción decensura,sindicalización ydiscurso británico. Igual contenido salvo numeración,maquetación ycódigo. Reservas canónicas conservadas.",
+      "observed_annotation": "Sin respuesta seleccionada observada;pequeñas marcas amarillas marginales no se atribuyen aopciones."
+    },
+    {
+      "question": 74,
+      "page": 30,
+      "printed_page": 28,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 19,
+      "canonical_page": 4,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto íntegro y opcionesA-D frenteAAQ2física4:estatua,fútbol femenino,gladiadores,aranceles,termoeléctrica,moción decensura,sindicalización ydiscurso británico. Igual contenido salvo numeración,maquetación ycódigo. Reservas canónicas conservadas.",
+      "observed_annotation": "Sin respuesta seleccionada observada;pequeñas marcas amarillas marginales no se atribuyen aopciones."
+    },
+    {
+      "question": 75,
+      "page": 30,
+      "printed_page": 28,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 20,
+      "canonical_page": 4,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto íntegro y opcionesA-D frenteAAQ2física4:estatua,fútbol femenino,gladiadores,aranceles,termoeléctrica,moción decensura,sindicalización ydiscurso británico. Igual contenido salvo numeración,maquetación ycódigo. Reservas canónicas conservadas.",
+      "observed_annotation": "Sin respuesta seleccionada observada;pequeñas marcas amarillas marginales no se atribuyen aopciones."
+    },
+    {
+      "question": 76,
+      "page": 30,
+      "printed_page": 28,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 21,
+      "canonical_page": 4,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto íntegro y opcionesA-D frenteAAQ2física4:estatua,fútbol femenino,gladiadores,aranceles,termoeléctrica,moción decensura,sindicalización ydiscurso británico. Igual contenido salvo numeración,maquetación ycódigo. Reservas canónicas conservadas.",
+      "observed_annotation": "Sin respuesta seleccionada observada;pequeñas marcas amarillas marginales no se atribuyen aopciones."
+    },
+    {
+      "question": 77,
+      "page": 30,
+      "printed_page": 28,
+      "canonical_file_id": "USB-e58ef5771b78",
+      "canonical_question": 22,
+      "canonical_page": 4,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto íntegro y opcionesA-D frenteAAQ2física4:estatua,fútbol femenino,gladiadores,aranceles,termoeléctrica,moción decensura,sindicalización ydiscurso británico. Igual contenido salvo numeración,maquetación ycódigo. Reservas canónicas conservadas.",
+      "observed_annotation": "Sin respuesta seleccionada observada;pequeñas marcas amarillas marginales no se atribuyen aopciones."
+    }
+  ],
+  "next": "Física31,verificar78en adelante."
+}

@@ -1,0 +1,84 @@
+{
+  "file_id": "USB-4d0661231ca3",
+  "date": "2026-10-30",
+  "area": "Estructura del documento",
+  "scope": "37páginas físicas inspeccionadas completas;147enunciados cubiertos inicialmente,sin huecos ni solapamientos.",
+  "items": [],
+  "structure": {
+    "cover": {
+      "pages": [
+        1
+      ],
+      "title": "Mompox",
+      "code": "ABA2",
+      "declared_year_session": "2025-2 segunda sesión",
+      "declared_questions": 147,
+      "declared_time": "4h30",
+      "calendar": "Sin confirmar",
+      "authenticity": "Sin verificar"
+    },
+    "sections": [
+      {
+        "area": "Sociales",
+        "questions": [
+          1,
+          25
+        ],
+        "physical_pages": [
+          2,
+          8
+        ]
+      },
+      {
+        "area": "Matemáticas",
+        "questions": [
+          26,
+          50
+        ],
+        "physical_pages": [
+          9,
+          17
+        ]
+      },
+      {
+        "area": "Ciencias",
+        "questions": [
+          51,
+          79
+        ],
+        "physical_pages": [
+          18,
+          28
+        ]
+      },
+      {
+        "area": "Inglés",
+        "questions": [
+          80,
+          134
+        ],
+        "physical_pages": [
+          29,
+          36
+        ]
+      },
+      {
+        "area": "Autoinformes",
+        "questions": [
+          135,
+          147
+        ],
+        "physical_pages": [
+          37,
+          37
+        ]
+      }
+    ],
+    "academic_own": 32,
+    "academic_references": 102,
+    "self_report_references": 13,
+    "excluded_self_reports": 13,
+    "missing_questions": [],
+    "reservations": "28algoritmo distinto deAAQ2,46gráfico distractorDdistintoAAR1;70dos opciones válidasB/Csinclave;79sobresaturación incorrecta,sinclave. Parte3anuncia cinco conversaciones pero presenta siete. No derechos de reproducción inferidos."
+  }
+}

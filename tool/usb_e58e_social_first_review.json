@@ -1,0 +1,161 @@
+{
+  "file_id": "USB-e58ef5771b78",
+  "date": "2026-10-30",
+  "area": "Sociales y ciudadanas",
+  "scope": "Portada y físicas2-3 inspeccionadas completas: Mompox,2025-2,Segunda sesión,AAQ2,147preguntas,4h30. Calendario/autenticidad sin verificar. Preguntas1-14 cubiertas;11exactas cotejadas visualmente y3nuevas.",
+  "items": [
+    {
+      "question": 1,
+      "page": 2,
+      "printed_page": 2,
+      "topic": "Descolonización e independencia política",
+      "competency_proposal": "Pensamiento social",
+      "answer_proposal": "B",
+      "reason": "Independencias de India,Argelia yCongo frente aimperios europeos son luchas anticoloniales.",
+      "alert": "No se deduce que sean antinacionalistas,anticomunistas oantcapitalistas solo por independencia. Identificación conceptual,no reconstrucción completa de cada proceso."
+    },
+    {
+      "question": 2,
+      "page": 2,
+      "printed_page": 2,
+      "topic": "Libertad de asociación sindical",
+      "competency_proposal": "Pensamiento social",
+      "answer_proposal": "C",
+      "reason": "La opciónCidentifica asociación como derecho de trabajadores yrechaza requerir autorización del empleador para constituir sindicato.",
+      "alert": "Se responde al caso conceptual;no se valida procedimiento jurídico actual ni se justifica despido por sindicalización."
+    },
+    {
+      "question": 3,
+      "page": 2,
+      "printed_page": 2,
+      "topic": "Generalización acusatoria sin evidencia",
+      "competency_proposal": "Interpretación y análisis de perspectivas",
+      "answer_proposal": "C",
+      "reason": "El congresista atribuye robos amigrantes ehinchas sin presentar datos,estigmatizando grupos específicos.",
+      "alert": "No se hereda acusación como hecho;el problema es ausencia de respaldo ygeneralización,no que toda propuesta de seguridad sea inválida."
+    }
+  ],
+  "duplicate_occurrences": [
+    {
+      "question": 4,
+      "page": 2,
+      "printed_page": 3,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 15,
+      "canonical_page": 7,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto,enunciado y opcionesA-D en páginas canónicas yAAQ2. Identidad de contenido;solo numeración,código ypresentación distintos.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 5,
+      "page": 2,
+      "printed_page": 3,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 16,
+      "canonical_page": 7,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto,enunciado y opcionesA-D en páginas canónicas yAAQ2. Identidad de contenido;solo numeración,código ypresentación distintos.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 6,
+      "page": 2,
+      "printed_page": 3,
+      "canonical_file_id": "USB-45e476387c60",
+      "canonical_question": 17,
+      "canonical_page": 7,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto,enunciado y opcionesA-D en páginas canónicas yAAQ2. Identidad de contenido;solo numeración,código ypresentación distintos.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 7,
+      "page": 3,
+      "printed_page": 4,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 73,
+      "canonical_page": 25,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto,enunciado y opcionesA-D en páginas canónicas yAAQ2. Identidad de contenido;solo numeración,código ypresentación distintos.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 8,
+      "page": 3,
+      "printed_page": 4,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 74,
+      "canonical_page": 25,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto,enunciado y opcionesA-D en páginas canónicas yAAQ2. Identidad de contenido;solo numeración,código ypresentación distintos.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 9,
+      "page": 3,
+      "printed_page": 4,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 75,
+      "canonical_page": 25,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto,enunciado y opcionesA-D en páginas canónicas yAAQ2. Identidad de contenido;solo numeración,código ypresentación distintos.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 10,
+      "page": 3,
+      "printed_page": 4,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 76,
+      "canonical_page": 25,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto,enunciado y opcionesA-D en páginas canónicas yAAQ2. Identidad de contenido;solo numeración,código ypresentación distintos.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 11,
+      "page": 3,
+      "printed_page": 5,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 77,
+      "canonical_page": 26,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto,enunciado y opcionesA-D en páginas canónicas yAAQ2. Identidad de contenido;solo numeración,código ypresentación distintos.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 12,
+      "page": 3,
+      "printed_page": 5,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 78,
+      "canonical_page": 26,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto,enunciado y opcionesA-D en páginas canónicas yAAQ2. Identidad de contenido;solo numeración,código ypresentación distintos.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 13,
+      "page": 3,
+      "printed_page": 5,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 79,
+      "canonical_page": 26,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto,enunciado y opcionesA-D en páginas canónicas yAAQ2. Identidad de contenido;solo numeración,código ypresentación distintos.",
+      "observed_annotation": "No se observa respuesta marcada."
+    },
+    {
+      "question": 14,
+      "page": 3,
+      "printed_page": 5,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 80,
+      "canonical_page": 26,
+      "exact_content": true,
+      "verification": "Cotejo visual directo de contexto,enunciado y opcionesA-D en páginas canónicas yAAQ2. Identidad de contenido;solo numeración,código ypresentación distintos.",
+      "observed_annotation": "No se observa respuesta marcada."
+    }
+  ]
+}

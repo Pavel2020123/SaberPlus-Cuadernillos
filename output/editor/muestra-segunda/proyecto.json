@@ -1,0 +1,979 @@
+{
+  "schema": 1,
+  "revision": 0,
+  "code": "SP-001",
+  "session": "second",
+  "time": "",
+  "targets": {
+    "mathematics": null,
+    "reading": null,
+    "social": null,
+    "science": null,
+    "english": null
+  },
+  "contexts": [
+    {
+      "id": "ctx-reading",
+      "area": "reading",
+      "title": "Un patio con sombra",
+      "text": "En una escuela se propuso sustituir una parte del patio de cemento por árboles y jardines. Algunos estudiantes apoyaron la idea porque al mediodía casi no había sombra. Otros temían perder el espacio donde jugaban. La primera propuesta fue rechazada: ocupaba toda la cancha. Después de escuchar a ambos grupos, el consejo escolar acordó sembrar árboles en los bordes y conservar el centro para los juegos. La decisión no eliminó las diferencias, pero permitió atender dos necesidades sin presentar una como si fuera la única importante."
+    },
+    {
+      "id": "ctx-table",
+      "area": "mathematics",
+      "title": "Préstamos de libros",
+      "table": "Día;Lunes;Martes;Miércoles;Jueves\nPréstamos;20;30;10;40"
+    },
+    {
+      "id": "ctx-en-2",
+      "area": "english",
+      "part": 2,
+      "title": "Notice",
+      "text": "PLEASE RETURN BOOKS TO THE DESK AFTER USE"
+    },
+    {
+      "id": "ctx-en-1",
+      "area": "english",
+      "part": 1,
+      "title": "School",
+      "text": "",
+      "words": [
+        "eraser",
+        "library",
+        "notebook",
+        "ruler",
+        "teacher",
+        "window",
+        "backpack"
+      ],
+      "instructions": ""
+    },
+    {
+      "id": "ctx-en-4",
+      "area": "english",
+      "part": 4,
+      "title": "A class garden",
+      "text": "Last Saturday, our class {{h16}} a small garden near the school. We worked together {{h17}} we wanted to finish before noon.",
+      "words": [],
+      "instructions": ""
+    },
+    {
+      "id": "ctx-en-5",
+      "area": "english",
+      "part": 5,
+      "title": "Reading club",
+      "text": "The community reading club meets at the park every Friday at four o'clock. Members bring a book and share a short passage. When it rains, they meet in the community hall. Joining the club is free.",
+      "words": [],
+      "instructions": ""
+    },
+    {
+      "id": "ctx-en-6",
+      "area": "english",
+      "part": 6,
+      "title": "Messages and study",
+      "text": "At first, Elena kept every message notification on while studying. She thought this would help her stay connected. However, she often had to reread the same paragraph. She decided to check her phone only during planned breaks. After a week, she noticed that she finished her reading sooner without losing touch with her friends. She did not stop using her phone; she changed when she used it.",
+      "words": [],
+      "instructions": ""
+    },
+    {
+      "id": "ctx-en-7",
+      "area": "english",
+      "part": 7,
+      "title": "Seed exchange",
+      "text": "Our school started a seed exchange. Students bring seeds from home and write clear {{h21}} so others know which plants they will grow. The project encourages students to {{h22}} seeds instead of throwing them away.",
+      "words": [],
+      "instructions": ""
+    }
+  ],
+  "questions": [
+    {
+      "id": "q-demo-1",
+      "area": "reading",
+      "part": 0,
+      "order": 1,
+      "topic": "Información explícita",
+      "subtopic": "",
+      "stem": "¿Por qué fue rechazada la primera propuesta?",
+      "options": [
+        {
+          "text": "Porque ocupaba toda la cancha."
+        },
+        {
+          "text": "Porque los árboles no daban sombra."
+        },
+        {
+          "text": "Porque ningún estudiante la apoyaba."
+        },
+        {
+          "text": "Porque el consejo prohibió los jardines."
+        }
+      ],
+      "correct": "A",
+      "explanation": "El texto señala expresamente que la primera propuesta ocupaba toda la cancha.",
+      "layout": "boxed",
+      "included": true,
+      "context": "ctx-reading",
+      "slot": "h1",
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "reading",
+        "status": "proposed",
+        "competency": "reading",
+        "process": "local",
+        "claim": "1",
+        "evidence": "1.2",
+        "component": null,
+        "part": null,
+        "rationale": "Recupera una causa narrada expresamente, sin exigir una valoración crítica.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-demo-2",
+      "area": "reading",
+      "part": 0,
+      "order": 2,
+      "topic": "Inferencia y propósito",
+      "subtopic": "",
+      "stem": "La decisión final permite concluir que el consejo escolar buscó",
+      "options": [
+        {
+          "text": "demostrar que el juego era innecesario."
+        },
+        {
+          "text": "evitar que los estudiantes participaran."
+        },
+        {
+          "text": "compatibilizar intereses diferentes."
+        },
+        {
+          "text": "aplazar cualquier cambio en el patio."
+        }
+      ],
+      "correct": "C",
+      "explanation": "El acuerdo conserva el espacio de juego e incorpora árboles para dar sombra.",
+      "layout": "columns",
+      "included": true,
+      "context": "ctx-reading",
+      "slot": "h2",
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "reading",
+        "status": "unclassified",
+        "competency": null,
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-demo-5",
+      "area": "mathematics",
+      "part": 0,
+      "order": 5,
+      "topic": "Interpretación de tablas",
+      "subtopic": "",
+      "stem": "La tabla registra los préstamos de libros de una biblioteca durante cuatro días. ¿Qué fracción del total de préstamos corresponde al jueves?",
+      "options": [
+        {
+          "text": "1/5"
+        },
+        {
+          "text": "2/5"
+        },
+        {
+          "text": "1/4"
+        },
+        {
+          "text": "3/5"
+        }
+      ],
+      "correct": "B",
+      "explanation": "El total es 100 préstamos; el jueves hubo 40. Por tanto, 40/100 = 2/5.",
+      "layout": "boxed",
+      "included": true,
+      "context": "ctx-table",
+      "slot": "h5",
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "mathematics",
+        "status": "unclassified",
+        "competency": null,
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-demo-6",
+      "area": "mathematics",
+      "part": 0,
+      "order": 6,
+      "topic": "Porcentajes y descuentos",
+      "subtopic": "",
+      "stem": "Una mochila cuesta $80.000. Una tienda aplica un descuento del 25 % sobre ese precio. ¿Cuánto se paga por la mochila?",
+      "options": [
+        {
+          "text": "$20.000"
+        },
+        {
+          "text": "$55.000"
+        },
+        {
+          "text": "$75.000"
+        },
+        {
+          "text": "$60.000"
+        }
+      ],
+      "correct": "D",
+      "explanation": "El descuento es $20.000; el precio final es $80.000 - $20.000 = $60.000.",
+      "layout": "columns",
+      "included": true,
+      "context": null,
+      "slot": "h6",
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "mathematics",
+        "status": "proposed",
+        "competency": "execution",
+        "process": null,
+        "claim": "2",
+        "evidence": "2.2",
+        "component": null,
+        "part": null,
+        "rationale": "Aplica un procedimiento de descuento para obtener el precio final.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-demo-7",
+      "area": "mathematics",
+      "part": 0,
+      "order": 7,
+      "topic": "Jerarquía de operaciones",
+      "subtopic": "",
+      "stem": "Para calcular el costo de un pedido, una persona usa la expresión 3 × (8.000 + 2.000) - 5.000. ¿Cuál es el resultado?",
+      "options": [
+        {
+          "text": "$25.000"
+        },
+        {
+          "text": "$13.000"
+        },
+        {
+          "text": "$30.000"
+        },
+        {
+          "text": "$35.000"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Primero se suma dentro del paréntesis: 10.000; luego se multiplica por 3 y finalmente se restan 5.000.",
+      "layout": "boxed",
+      "included": true,
+      "context": null,
+      "slot": "h7",
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "mathematics",
+        "status": "unclassified",
+        "competency": null,
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-demo-8",
+      "area": "science",
+      "part": 0,
+      "order": 8,
+      "topic": "Adaptaciones y ecosistemas",
+      "subtopic": "",
+      "stem": "Una planta costera tiene estructuras que le permiten eliminar parte de la sal que ingresa a su organismo. Esta característica favorece principalmente su supervivencia en",
+      "options": [
+        {
+          "text": "suelos de montaña sin sales."
+        },
+        {
+          "text": "ambientes sin agua disponible."
+        },
+        {
+          "text": "ambientes donde el agua contiene sales."
+        },
+        {
+          "text": "lugares sin luz solar."
+        }
+      ],
+      "correct": "C",
+      "explanation": "La eliminación de sal ayuda a regular su acumulación en ambientes salinos.",
+      "layout": "columns",
+      "included": true,
+      "context": null,
+      "slot": "h8",
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "science",
+        "status": "unclassified",
+        "competency": null,
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-demo-9",
+      "area": "science",
+      "part": 0,
+      "order": 9,
+      "topic": "Mezclas y separación física",
+      "subtopic": "",
+      "stem": "En un recipiente hay agua y aceite formando dos capas. Se busca recuperar ambos líquidos sin calentarlos. ¿Qué procedimiento resulta adecuado?",
+      "options": [
+        {
+          "text": "Filtrar la mezcla con papel."
+        },
+        {
+          "text": "Separar las capas por decantación."
+        },
+        {
+          "text": "Agitar hasta obtener un solo líquido."
+        },
+        {
+          "text": "Acercar un imán al recipiente."
+        }
+      ],
+      "correct": "B",
+      "explanation": "Los líquidos inmiscibles forman fases que pueden separarse por decantación.",
+      "layout": "boxed",
+      "included": true,
+      "context": null,
+      "slot": "h9",
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "science",
+        "status": "unclassified",
+        "competency": null,
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-demo-10",
+      "area": "science",
+      "part": 0,
+      "order": 10,
+      "topic": "Presión",
+      "subtopic": "",
+      "stem": "Un bloque ejerce una fuerza de 120 N. Cuando se apoya sobre una superficie de 0,02 m², la presión es de 6.000 Pa. Si se gira y el área de apoyo aumenta a 0,04 m², sin cambiar su peso, la presión será",
+      "options": [
+        {
+          "text": "12.000 Pa."
+        },
+        {
+          "text": "6.000 Pa."
+        },
+        {
+          "text": "120 Pa."
+        },
+        {
+          "text": "3.000 Pa."
+        }
+      ],
+      "correct": "D",
+      "explanation": "La presión es fuerza dividida entre área: 120/0,04 = 3.000 Pa.",
+      "layout": "columns",
+      "included": true,
+      "context": null,
+      "slot": "h10",
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "science",
+        "status": "unclassified",
+        "competency": null,
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-demo-3",
+      "area": "social",
+      "part": 0,
+      "order": 3,
+      "topic": "Intereses y conflictos sociales",
+      "subtopic": "",
+      "stem": "Una alcaldía propone cerrar una calle al tráfico durante los domingos para que los habitantes hagan actividad física. Los comerciantes solicitan mantener una ruta para entregar sus productos. ¿Qué alternativa atiende de manera más directa ambos intereses?",
+      "options": [
+        {
+          "text": "Establecer horarios de entrega y conservar el cierre durante las actividades."
+        },
+        {
+          "text": "Prohibir que los comerciantes reciban productos toda la semana."
+        },
+        {
+          "text": "Cancelar las actividades sin consultar a los habitantes."
+        },
+        {
+          "text": "Permitir el tráfico sin cambios durante toda la jornada."
+        }
+      ],
+      "correct": "A",
+      "explanation": "La alternativa coordina la entrega de productos con el uso recreativo de la calle.",
+      "layout": "boxed",
+      "included": true,
+      "context": null,
+      "slot": "h3",
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "social",
+        "status": "unclassified",
+        "competency": null,
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-demo-4",
+      "area": "social",
+      "part": 0,
+      "order": 4,
+      "topic": "Consecuencias no deseadas",
+      "subtopic": "",
+      "stem": "Para reducir el consumo de vasos desechables, una cafetería ofrece descuento a quienes lleven su propio vaso. ¿Cuál sería una consecuencia no deseada de la medida?",
+      "options": [
+        {
+          "text": "Que más clientes reutilicen sus vasos."
+        },
+        {
+          "text": "Que disminuya la cantidad de residuos."
+        },
+        {
+          "text": "Que algunos clientes sin vaso reutilizable dejen de comprar por no acceder al descuento."
+        },
+        {
+          "text": "Que se necesiten menos vasos desechables."
+        }
+      ],
+      "correct": "C",
+      "explanation": "La pérdida de clientes sería un efecto adverso, distinto del objetivo de reducir residuos.",
+      "layout": "columns",
+      "included": true,
+      "context": null,
+      "slot": "h4",
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "social",
+        "status": "unclassified",
+        "competency": null,
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-demo-11",
+      "area": "english",
+      "part": 1,
+      "order": 11,
+      "topic": "Vocabulario cotidiano",
+      "subtopic": "",
+      "stem": "You carry your school things in this.",
+      "options": [],
+      "correct": "G",
+      "explanation": "Backpack es la mochila donde se llevan los útiles.",
+      "layout": "boxed",
+      "included": true,
+      "context": "ctx-en-1",
+      "slot": "h11",
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 1,
+        "rationale": "Relaciona descripciones con un banco común de palabras.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-demo-12",
+      "area": "english",
+      "part": 1,
+      "order": 12,
+      "topic": "Vocabulario cotidiano",
+      "subtopic": "",
+      "stem": "You use this to remove pencil marks.",
+      "options": [],
+      "correct": "A",
+      "explanation": "Eraser significa borrador.",
+      "layout": "columns",
+      "included": true,
+      "context": "ctx-en-1",
+      "slot": "h12",
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 1,
+        "rationale": "Relaciona descripciones con un banco común de palabras.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-demo-13",
+      "area": "english",
+      "part": 1,
+      "order": 13,
+      "topic": "Vocabulario cotidiano",
+      "subtopic": "",
+      "stem": "You can borrow books in this place.",
+      "options": [],
+      "correct": "B",
+      "explanation": "Library es el lugar donde se pueden pedir libros prestados.",
+      "layout": "boxed",
+      "included": true,
+      "context": "ctx-en-1",
+      "slot": "h13",
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 1,
+        "rationale": "Relaciona descripciones con un banco común de palabras.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-demo-14",
+      "area": "english",
+      "part": 2,
+      "order": 14,
+      "topic": "Interpretación de avisos",
+      "subtopic": "",
+      "stem": "Where can you see this notice?",
+      "options": [
+        {
+          "text": "In a swimming pool."
+        },
+        {
+          "text": "In a library."
+        },
+        {
+          "text": "In a bakery."
+        }
+      ],
+      "correct": "B",
+      "explanation": "El aviso solicita devolver los libros después de usarlos.",
+      "layout": "columns",
+      "included": true,
+      "context": "ctx-en-2",
+      "slot": "h14",
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 2,
+        "rationale": "Reconoce dónde sería pertinente el aviso.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-demo-15",
+      "area": "english",
+      "part": 3,
+      "order": 15,
+      "topic": "Respuestas en conversaciones",
+      "subtopic": "",
+      "stem": "Could you help me carry these books?",
+      "options": [
+        {
+          "text": "Yes, of course."
+        },
+        {
+          "text": "It's on Monday."
+        },
+        {
+          "text": "They're blue."
+        }
+      ],
+      "correct": "A",
+      "explanation": "Yes, of course responde afirmativamente a una petición de ayuda.",
+      "layout": "boxed",
+      "included": true,
+      "context": null,
+      "slot": "h15",
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 3,
+        "rationale": "Selecciona una intervención apropiada para una petición.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-demo-16",
+      "area": "english",
+      "part": 4,
+      "order": 16,
+      "topic": "Pasado simple",
+      "subtopic": "",
+      "stem": "Choose the word for space 16.",
+      "options": [
+        {
+          "text": "visit"
+        },
+        {
+          "text": "visited"
+        },
+        {
+          "text": "visiting"
+        }
+      ],
+      "correct": "B",
+      "explanation": "Last Saturday sitúa la acción en el pasado; corresponde visited.",
+      "layout": "columns",
+      "included": true,
+      "context": "ctx-en-4",
+      "slot": "h16",
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 4,
+        "rationale": "Selecciona formas gramaticales para completar un texto.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-demo-17",
+      "area": "english",
+      "part": 4,
+      "order": 17,
+      "topic": "Conectores de causa",
+      "subtopic": "",
+      "stem": "Choose the word for space 17.",
+      "options": [
+        {
+          "text": "but"
+        },
+        {
+          "text": "or"
+        },
+        {
+          "text": "because"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Because introduce la razón para trabajar juntos.",
+      "layout": "boxed",
+      "included": true,
+      "context": "ctx-en-4",
+      "slot": "h17",
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 4,
+        "rationale": "Selecciona formas gramaticales para completar un texto.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-demo-18",
+      "area": "english",
+      "part": 5,
+      "order": 18,
+      "topic": "Comprensión literal",
+      "subtopic": "",
+      "stem": "When does the club meet?",
+      "options": [
+        {
+          "text": "Every Friday."
+        },
+        {
+          "text": "Every Monday."
+        },
+        {
+          "text": "Every Sunday."
+        }
+      ],
+      "correct": "A",
+      "explanation": "El texto indica every Friday.",
+      "layout": "columns",
+      "included": true,
+      "context": "ctx-en-5",
+      "slot": "h18",
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 5,
+        "rationale": "Recupera información explícita de la lectura.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-demo-19",
+      "area": "english",
+      "part": 5,
+      "order": 19,
+      "topic": "Comprensión literal",
+      "subtopic": "",
+      "stem": "Where do members meet when it rains?",
+      "options": [
+        {
+          "text": "At a bookshop."
+        },
+        {
+          "text": "In the community hall."
+        },
+        {
+          "text": "At the school."
+        }
+      ],
+      "correct": "B",
+      "explanation": "El texto señala que se reúnen en el salón comunitario cuando llueve.",
+      "layout": "boxed",
+      "included": true,
+      "context": "ctx-en-5",
+      "slot": "h19",
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 5,
+        "rationale": "Recupera información explícita de la lectura.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-demo-20",
+      "area": "english",
+      "part": 6,
+      "order": 20,
+      "topic": "Inferencia y propósito del texto",
+      "subtopic": "",
+      "stem": "What is the main idea of the text?",
+      "options": [
+        {
+          "text": "Friends should never send messages."
+        },
+        {
+          "text": "Phones cannot be used for studying."
+        },
+        {
+          "text": "Reading quickly is always better than reading carefully."
+        },
+        {
+          "text": "Planning when to check messages may help someone concentrate."
+        }
+      ],
+      "correct": "D",
+      "explanation": "Elena mejora su concentración al reservar los mensajes para descansos planificados.",
+      "layout": "columns",
+      "included": true,
+      "context": "ctx-en-6",
+      "slot": "h20",
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 6,
+        "rationale": "Infiere la idea general a partir de la situación narrada.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-demo-21",
+      "area": "english",
+      "part": 7,
+      "order": 21,
+      "topic": "Vocabulario en contexto",
+      "subtopic": "",
+      "stem": "Choose the word for space 21.",
+      "options": [
+        {
+          "text": "windows"
+        },
+        {
+          "text": "tickets"
+        },
+        {
+          "text": "labels"
+        },
+        {
+          "text": "shoes"
+        }
+      ],
+      "correct": "C",
+      "explanation": "Labels son etiquetas que permiten identificar las plantas.",
+      "layout": "boxed",
+      "included": true,
+      "context": "ctx-en-7",
+      "slot": "h21",
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 7,
+        "rationale": "Selecciona palabras pertinentes para completar el contexto.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-demo-22",
+      "area": "english",
+      "part": 7,
+      "order": 22,
+      "topic": "Vocabulario en contexto",
+      "subtopic": "",
+      "stem": "Choose the word for space 22.",
+      "options": [
+        {
+          "text": "save"
+        },
+        {
+          "text": "break"
+        },
+        {
+          "text": "hide"
+        },
+        {
+          "text": "burn"
+        }
+      ],
+      "correct": "A",
+      "explanation": "Save contrasta con desechar las semillas y es coherente con conservarlas para el intercambio.",
+      "layout": "columns",
+      "included": true,
+      "context": "ctx-en-7",
+      "slot": "h22",
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 7,
+        "rationale": "Selecciona palabras pertinentes para completar el contexto.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    }
+  ]
+}

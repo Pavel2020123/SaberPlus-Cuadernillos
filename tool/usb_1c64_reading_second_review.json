@@ -1,0 +1,162 @@
+{
+  "file_id": "USB-1c6462bf5377",
+  "date": "2026-10-30",
+  "area": "Lectura crítica",
+  "scope": "Físicas17-20,impresas15-18 inspeccionadas visualmente completas en orientación legible.36-39comparadas directamente conABR1 física13 y lectura deCassany ya cotejada:cuatro referencias.40-48nueve fichas nuevas,sin identidad exacta localizada por búsqueda dirigida;no certifica unicidad global. Claves propuestas no oficiales.",
+  "contexts": [
+    {
+      "id": "vampiros",
+      "title": "Vampiros eléctricos",
+      "page": 18,
+      "description": "Infografía dePictoline2022:personificación de aparatos,consumo en reposo y tres recomendaciones. La estimación1/4se atribuye aEEUU,no se generaliza a todo hogar o país.",
+      "alert": "Auditoría de lectura,no verificación independiente de cifras ni consejo técnico de seguridad o carga de baterías."
+    },
+    {
+      "id": "teatro",
+      "title": "El teatro japonés en París (fragmento)",
+      "page": 19,
+      "description": "Relato atribuido aCarpentier2002:surgimiento deKabuki,prohibiciones sucesivas de actrices y actores jóvenes,posterior levantamiento. Juicios sobre sexualidad y costumbres pertenecen al contexto histórico narrado,no se adoptan como valoración del auditor."
+    }
+  ],
+  "items": [
+    {
+      "question": 40,
+      "page": 18,
+      "printed_page": 16,
+      "context": "vampiros",
+      "topic": "Propósito comunicativo de infografía",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "A",
+      "reason": "La infografía informa sobre consumo de aparatos conectados y ofrece prácticas para reducirlo; no explica instalación eléctrica ni busca solamente entretener."
+    },
+    {
+      "question": 41,
+      "page": 19,
+      "printed_page": 17,
+      "context": "vampiros",
+      "topic": "Recursos visuales de personificación",
+      "competency_proposal": "Identifica y entiende los contenidos locales que conforman un texto",
+      "answer_proposal": "B",
+      "reason": "Los rasgos faciales humanizan objetos y los globos de texto les atribuyen voz. La opciónB identifica ambos recursos solicitados."
+    },
+    {
+      "question": 42,
+      "page": 19,
+      "printed_page": 17,
+      "context": "vampiros",
+      "topic": "Función de definición contextual",
+      "competency_proposal": "Identifica y entiende los contenidos locales que conforman un texto",
+      "answer_proposal": "A",
+      "reason": "El fragmento denomina vampiros eléctricos a aparatos que consumen energía aun apagados y explica la característica que define esa categoría."
+    },
+    {
+      "question": 43,
+      "page": 19,
+      "printed_page": 17,
+      "context": "teatro",
+      "topic": "Reconstrucción de resumen y secuencia narrativa",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "B",
+      "reason": "B conserva que la exbailarina casada con un samurái fundó la compañía y después se prohibió actuar a mujeres por el supuesto daño a costumbres. Las otras opciones atribuyen fundación al marido o adelantan el motivo relativo a actores varones."
+    },
+    {
+      "question": 44,
+      "page": 20,
+      "printed_page": 18,
+      "context": "teatro",
+      "topic": "Inferencia sobre postura tradicionalista",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "B",
+      "reason": "La inquietud por supuestas influencias nefastas sobre las costumbres permite inferir que algunos veían el nuevo teatro como alejamiento de tradiciones. No se afirma oposición a toda innovación ni cancelación de todo teatro.",
+      "alert": "B es la inferencia más sustentada,pero no una consecuencia temporal. El enunciado usa consecuencia de modo impreciso;revisión docente antes de reutilizar."
+    },
+    {
+      "question": 45,
+      "page": 20,
+      "printed_page": 18,
+      "context": "teatro",
+      "topic": "Identificación de tesis general",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "C",
+      "reason": "El texto parte de la rápida evolución de un teatro de creación reciente y la desarrolla mediante su historia. Los restantes enunciados son detalles o episodios."
+    },
+    {
+      "question": 46,
+      "page": 20,
+      "printed_page": 18,
+      "context": "teatro",
+      "topic": "Sentido contextual de una expresión valorativa",
+      "competency_proposal": "Identifica y entiende los contenidos locales que conforman un texto",
+      "answer_proposal": "A",
+      "reason": "La expresión alude a la atracción que podían provocar los actores jóvenes en samuráis y al juicio de peligrosidad que motivó la prohibición, no simplemente a una experiencia estética."
+    },
+    {
+      "question": 47,
+      "page": 20,
+      "printed_page": 18,
+      "context": "teatro",
+      "topic": "Localización temporal explícita",
+      "competency_proposal": "Identifica y entiende los contenidos locales que conforman un texto",
+      "answer_proposal": "A",
+      "reason": "El nacimiento del teatro se ubica hacia1600,en la época deCalderón de laBarca;la alternativa más próxima es principios del sigloXVII.",
+      "alert": "Hacia1600es aproximación del texto;no convertir principios delXVIIen datación exacta independiente."
+    },
+    {
+      "question": 48,
+      "page": 20,
+      "printed_page": 18,
+      "context": "teatro",
+      "topic": "Causa de una prohibición en relato histórico",
+      "competency_proposal": "Identifica y entiende los contenidos locales que conforman un texto",
+      "answer_proposal": "A",
+      "reason": "La prohibición de1652se asocia a que la belleza de los actores jóvenes perturbaba a los samuráis. La objeción a actrices corresponde a un episodio anterior."
+    }
+  ],
+  "duplicate_occurrences": [
+    {
+      "question": 36,
+      "page": 17,
+      "printed_page": 15,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 36,
+      "canonical_page": 13,
+      "exact_content": true,
+      "verification": "Cotejo visual directo del enunciado,citas y opcionesA-D conABR1física13;texto íntegro deCassany cotejado en pase anterior. Mismo contenido salvo maquetación,código y marcas de agua.",
+      "observed_annotation": "Sin respuesta seleccionada observada enAAR1."
+    },
+    {
+      "question": 37,
+      "page": 17,
+      "printed_page": 15,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 37,
+      "canonical_page": 13,
+      "exact_content": true,
+      "verification": "Cotejo visual directo del enunciado,citas y opcionesA-D conABR1física13;texto íntegro deCassany cotejado en pase anterior. Mismo contenido salvo maquetación,código y marcas de agua.",
+      "observed_annotation": "Sin respuesta seleccionada observada enAAR1."
+    },
+    {
+      "question": 38,
+      "page": 17,
+      "printed_page": 15,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 38,
+      "canonical_page": 13,
+      "exact_content": true,
+      "verification": "Cotejo visual directo del enunciado,citas y opcionesA-D conABR1física13;texto íntegro deCassany cotejado en pase anterior. Mismo contenido salvo maquetación,código y marcas de agua.",
+      "observed_annotation": "Sin respuesta seleccionada observada enAAR1."
+    },
+    {
+      "question": 39,
+      "page": 17,
+      "printed_page": 15,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 39,
+      "canonical_page": 13,
+      "exact_content": true,
+      "verification": "Cotejo visual directo del enunciado,citas y opcionesA-D conABR1física13;texto íntegro deCassany cotejado en pase anterior. Mismo contenido salvo maquetación,código y marcas de agua.",
+      "observed_annotation": "Sin respuesta seleccionada observada enAAR1."
+    }
+  ],
+  "next": "Física21,verificar49en adelante."
+}

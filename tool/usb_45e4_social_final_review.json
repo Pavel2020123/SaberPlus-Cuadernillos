@@ -1,0 +1,97 @@
+{
+  "file_id": "USB-45e476387c60",
+  "date": "2026-10-30",
+  "area": "Sociales y ciudadanas",
+  "scope": "Físicas 8-9 inspeccionadas completas; ambas vienen giradas en el PDF. Preguntas 18-25 idénticas a ABR1 73-80, cotejo visual directo frente a físicas 25-26 de USB-8e6cf8399239. No se repite análisis.",
+  "items": [],
+  "duplicate_occurrences": [
+    {
+      "question": 18,
+      "page": 8,
+      "printed_page": 8,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 73,
+      "canonical_page": 25,
+      "exact_content": true,
+      "verification": "Cotejo visual de contexto, enunciado, cifras, citas y opciones A-D. Cambian numeración, orientación y marcas de agua, no contenido de la pregunta.",
+      "observed_annotation": "No se observa opción marcada."
+    },
+    {
+      "question": 19,
+      "page": 8,
+      "printed_page": 8,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 74,
+      "canonical_page": 25,
+      "exact_content": true,
+      "verification": "Cotejo visual de contexto, enunciado, cifras, citas y opciones A-D. Cambian numeración, orientación y marcas de agua, no contenido de la pregunta.",
+      "observed_annotation": "No se observa opción marcada."
+    },
+    {
+      "question": 20,
+      "page": 8,
+      "printed_page": 8,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 75,
+      "canonical_page": 25,
+      "exact_content": true,
+      "verification": "Cotejo visual de contexto, enunciado, cifras, citas y opciones A-D. Cambian numeración, orientación y marcas de agua, no contenido de la pregunta.",
+      "observed_annotation": "No se observa opción marcada."
+    },
+    {
+      "question": 21,
+      "page": 8,
+      "printed_page": 8,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 76,
+      "canonical_page": 25,
+      "exact_content": true,
+      "verification": "Cotejo visual de contexto, enunciado, cifras, citas y opciones A-D. Cambian numeración, orientación y marcas de agua, no contenido de la pregunta.",
+      "observed_annotation": "No se observa opción marcada."
+    },
+    {
+      "question": 22,
+      "page": 9,
+      "printed_page": 9,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 77,
+      "canonical_page": 26,
+      "exact_content": true,
+      "verification": "Cotejo visual de contexto, enunciado, cifras, citas y opciones A-D. Cambian numeración, orientación y marcas de agua, no contenido de la pregunta.",
+      "observed_annotation": "No se observa opción marcada."
+    },
+    {
+      "question": 23,
+      "page": 9,
+      "printed_page": 9,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 78,
+      "canonical_page": 26,
+      "exact_content": true,
+      "verification": "Cotejo visual de contexto, enunciado, cifras, citas y opciones A-D. Cambian numeración, orientación y marcas de agua, no contenido de la pregunta.",
+      "observed_annotation": "No se observa opción marcada."
+    },
+    {
+      "question": 24,
+      "page": 9,
+      "printed_page": 9,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 79,
+      "canonical_page": 26,
+      "exact_content": true,
+      "verification": "Cotejo visual de contexto, enunciado, cifras, citas y opciones A-D. Cambian numeración, orientación y marcas de agua, no contenido de la pregunta.",
+      "observed_annotation": "No se observa opción marcada."
+    },
+    {
+      "question": 25,
+      "page": 9,
+      "printed_page": 9,
+      "canonical_file_id": "USB-8e6cf8399239",
+      "canonical_question": 80,
+      "canonical_page": 26,
+      "exact_content": true,
+      "verification": "Cotejo visual de contexto, enunciado, cifras, citas y opciones A-D. Cambian numeración, orientación y marcas de agua, no contenido de la pregunta.",
+      "observed_annotation": "No se observa opción marcada."
+    }
+  ]
+}

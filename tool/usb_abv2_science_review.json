@@ -1,0 +1,374 @@
+{
+  "file_id": "USB-1c44481d3d4a",
+  "date": "2026-10-29",
+  "area": "Ciencias naturales",
+  "scope": "Preguntas 51-79, paginas fisicas 20-34 inspeccionadas visualmente: tablas, modelos, opciones y lecturas compartidas. Veintiseis pares cotejados con ABU2, no supuestos a partir de OCR. Sin claves de respuesta resaltadas observadas. Propuestas no oficiales, pendientes de docente.",
+  "competency_legend": {
+    "UC": "Uso comprensivo del conocimiento cientifico",
+    "EF": "Explicacion de fenomenos",
+    "IN": "Indagacion"
+  },
+  "contexts": [
+    {
+      "id": "wifi",
+      "pages": [
+        29,
+        30
+      ],
+      "questions": [
+        67,
+        68,
+        69
+      ],
+      "topic": "Conexion por fibra y ondas, zonas comunitarias frente a megazonas wifi",
+      "visual_dependency": "Dos esquemas de redes y cuatro parejas de ondas; conservar leyendas y ejes."
+    },
+    {
+      "id": "metales",
+      "pages": [
+        22,
+        23
+      ],
+      "questions": [
+        54,
+        55,
+        56
+      ],
+      "topic": "Contaminacion por metales pesados en cuenca de rio, agua y leche",
+      "visual_dependency": "Diagrama de fuentes, graficas de barras y cuatro secuencias de analisis."
+    }
+  ],
+  "items": [
+    {
+      "question": 51,
+      "page": 20,
+      "topic": "Caracteristicas comunes de material volumetrico",
+      "competency_code": "UC",
+      "answer_proposal": "C",
+      "reason": "La tabla presenta instrumentos de vidrio usados para medir volumenes de liquidos, aunque difieran en graduacion, aforo y forma."
+    },
+    {
+      "question": 52,
+      "page": 20,
+      "topic": "Explicacion de resultados negativos de un tinte",
+      "competency_code": "EF",
+      "answer_proposal": "B",
+      "reason": "Los tintes con sulfuros se destinan al cabello en el modelo dado, no a textiles ni a reaccion coloreada con peroxido.",
+      "alert": "La clasificacion de tintes del texto es simplificada: la inferencia vale segun las categorias dadas, no identifica de forma univoca composicion real sin analisis."
+    },
+    {
+      "question": 53,
+      "page": 21,
+      "topic": "Interpretacion de proceso isobarico de gas ideal",
+      "competency_code": "EF",
+      "answer_proposal": "B",
+      "reason": "De 2 a 3 la presion es constante y el volumen se reduce de2 a1 litro: para cantidad fija, temperatura absoluta disminuye en la misma proporcion.",
+      "alert": "Presion y volumen son proporcionales a temperatura solo bajo restricciones apropiadas; no ambos independientemente durante cualquier proceso. De1 a2 PV permanece aproximadamente constante, no implica aumento termico."
+    },
+    {
+      "question": 54,
+      "page": 22,
+      "context": "metales",
+      "topic": "Grafica de concentraciones comparadas",
+      "competency_code": "IN",
+      "answer_proposal": "D",
+      "reason": "La barra de agua supera a la de leche, conforme al resultado narrado.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 67,
+      "related_page": 25
+    },
+    {
+      "question": 55,
+      "page": 23,
+      "context": "metales",
+      "topic": "Secuencia de analisis de muestras",
+      "competency_code": "IN",
+      "answer_proposal": "A",
+      "reason": "Recolectar, preparar, aplicar analisis y obtener resultados respeta la dependencia entre etapas.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 68,
+      "related_page": 26
+    },
+    {
+      "question": 56,
+      "page": 23,
+      "context": "metales",
+      "topic": "Transferencia de metales desde pastos a vacas",
+      "competency_code": "EF",
+      "answer_proposal": "B",
+      "reason": "El modelo explicita contaminacion de pastos y acumulacion en animales que los consumen.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 69,
+      "related_page": 26
+    },
+    {
+      "question": 57,
+      "page": 24,
+      "topic": "Isotopos por numero atomico y masa",
+      "competency_code": "UC",
+      "answer_proposal": "B",
+      "reason": "Atomos 1 y 2 comparten 20 protones y difieren en numero de masa, 40 y 42.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 70,
+      "related_page": 27
+    },
+    {
+      "question": 58,
+      "page": 24,
+      "topic": "Adaptaciones vegetales de paramo",
+      "competency_code": "EF",
+      "answer_proposal": "C",
+      "reason": "Roseta, vellosidad, frio, fuerte radiacion y baja presion corresponden al ambiente de paramo descrito.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 71,
+      "related_page": 27
+    },
+    {
+      "question": 59,
+      "page": 24,
+      "topic": "Electrones de valencia en grupos representativos",
+      "competency_code": "UC",
+      "answer_proposal": "C",
+      "reason": "Segun la regla simplificada dada, Na aporta 1 electron de valencia y Cl 7; suman 8.",
+      "alert": "La regla del octeto no significa en general sumar electrones de cualquier pareja de atomos. Registrar simplificacion del enunciado, no ensenarla como definicion universal de enlace.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 72,
+      "related_page": 27
+    },
+    {
+      "question": 60,
+      "page": 24,
+      "topic": "Conjugacion y transferencia horizontal de ADN",
+      "competency_code": "EF",
+      "answer_proposal": "C",
+      "reason": "El modelo termina con dos donantes capaces de transferir el segmento; no representa division celular ni identidad de todo el genoma.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 73,
+      "related_page": 27
+    },
+    {
+      "question": 61,
+      "page": 25,
+      "topic": "Modelo secuencial de tormenta electrica",
+      "competency_code": "UC",
+      "answer_proposal": "A",
+      "reason": "Ordena ascenso de aire caliente, madurez con corrientes ascendentes y descendentes, y disipacion sin ascenso.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 74,
+      "related_page": 28
+    },
+    {
+      "question": 62,
+      "page": 26,
+      "topic": "Equilibrio termico de bloques iguales",
+      "competency_code": "UC",
+      "answer_proposal": "A",
+      "reason": "Para tres bloques iguales aislados, la temperatura comun seria (100+100+0)/3=66,67 grados, aproximada por la alternativa de 66.",
+      "alert": "La opcion trunca a 66 en vez de redondear a 67; supone masas iguales, mismo calor especifico y sin perdidas, no explicitados numericamente.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 75,
+      "related_page": 29
+    },
+    {
+      "question": 63,
+      "page": 27,
+      "topic": "Evaluacion de hipotesis con dos series graficas",
+      "competency_code": "IN",
+      "answer_proposal": "C",
+      "reason": "Grosor y porosidad fluctuan sin tendencia monotona con altitud; no apoyan la hipotesis de menor grosor y mayor porosidad.",
+      "alert": "No observar tendencia en este grafico no demuestra ausencia estadistica absoluta de cualquier relacion; C usa lenguaje mas fuerte que la evidencia.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 76,
+      "related_page": 30
+    },
+    {
+      "question": 64,
+      "page": 27,
+      "topic": "Presion y temperatura para reducir volumen de gas",
+      "competency_code": "EF",
+      "answer_proposal": "C",
+      "reason": "Las tendencias de tablas muestran menor volumen al aumentar presion y disminuir temperatura.",
+      "alert": "Las tablas permiten direccion cualitativa, no valores exactos para llegar a 15 litros ni verificacion de una ley ideal exacta.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 77,
+      "related_page": 30
+    },
+    {
+      "question": 65,
+      "page": 28,
+      "topic": "Grafica que respalda hipotesis de tamano y huevos",
+      "competency_code": "IN",
+      "answer_proposal": "D",
+      "reason": "En D, grupo 1 de mayor caparazon concentra nidos con mas huevos y grupo 2 con menos; se distinguen distribuciones en vez de totales aislados.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 78,
+      "related_page": 31
+    },
+    {
+      "question": 66,
+      "page": 28,
+      "topic": "Contraste de intensidad sonora y umbral de riesgo",
+      "competency_code": "IN",
+      "answer_proposal": "A",
+      "reason": "Las intensidades registradas son menores que 40 dB, por debajo de los valores de riesgo de la tabla; frecuencia alta no equivale a intensidad peligrosa.",
+      "alert": "La conclusion se limita a la tabla y rango observado; no descarta riesgos reales por duracion, picos o condiciones auditivas individuales.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 79,
+      "related_page": 31
+    },
+    {
+      "question": 67,
+      "page": 29,
+      "context": "wifi",
+      "topic": "Funcion de fibra optica en esquema de red",
+      "competency_code": "UC",
+      "answer_proposal": "C",
+      "reason": "El esquema muestra otra conexion a internet por ondas, ademas de fibra optica; la fibra no alimenta electricamente las antenas ni llega a cada una.",
+      "alert": "C describe la fibra como segunda forma de conectarse, pero no demuestra por si sola necesidad tecnica o redundancia requerida. El enunciado pide argumentar necesidad, alcance mas fuerte que lo mostrado.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 54,
+      "related_page": 19
+    },
+    {
+      "question": 68,
+      "page": 30,
+      "context": "wifi",
+      "topic": "Comparacion grafica de frecuencias",
+      "competency_code": "UC",
+      "answer_proposal": "D",
+      "reason": "En igual intervalo temporal, grupo 2 presenta varias veces mas oscilaciones que grupo 1; A y C cambian sobre todo amplitud, B invierte frecuencias.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 55,
+      "related_page": 20
+    },
+    {
+      "question": 69,
+      "page": 30,
+      "context": "wifi",
+      "topic": "Comunicacion de modelos de conexion",
+      "competency_code": "IN",
+      "answer_proposal": "D",
+      "reason": "La red ilustra conexion entre varias poblaciones, en lugar de una unica pareja de antenas.",
+      "alert": "La estabilidad de la señal no queda demostrada solo por dibujar conexiones. D es la alternativa mas cercana, pero su afirmacion muy estable requiere evidencia adicional.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 56,
+      "related_page": 20
+    },
+    {
+      "question": 70,
+      "page": 31,
+      "topic": "Modelos de metamorfosis de insectos",
+      "competency_code": "UC",
+      "answer_proposal": "B",
+      "reason": "La mariposa presenta larva, pupa y adulto con cambios drasticos, propios del modelo 2.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 57,
+      "related_page": 21
+    },
+    {
+      "question": 71,
+      "page": 31,
+      "topic": "Generalizacion de tiempos de reaccion",
+      "competency_code": "IN",
+      "answer_proposal": "D",
+      "reason": "Observar una fruta no permite concluir que todos los cambios quimicos tardan varios dias; existen factores que modifican la rapidez.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 58,
+      "related_page": 21
+    },
+    {
+      "question": 72,
+      "page": 31,
+      "topic": "Mitosis y crecimiento del pelo",
+      "competency_code": "EF",
+      "answer_proposal": "C",
+      "reason": "La division aumenta el numero de celulas del foliculo y permite el crecimiento, conservando numero cromosomico.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 59,
+      "related_page": 21
+    },
+    {
+      "question": 73,
+      "page": 32,
+      "topic": "Tendencia de solubilidad con temperatura",
+      "competency_code": "IN",
+      "answer_proposal": "C",
+      "reason": "Ambas series aumentan al subir temperatura; la extrapolacion propuesta es aumento en los dos solutos.",
+      "alert": "120 grados Celsius excede la tabla y requiere condiciones para mantener agua liquida; es extrapolacion del modelo, no medicion comprobada.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 60,
+      "related_page": 22
+    },
+    {
+      "question": 74,
+      "page": 32,
+      "topic": "Funcion alimentaria de fibra insoluble",
+      "competency_code": "UC",
+      "answer_proposal": "C",
+      "reason": "Segun la tabla, facilita el transito intestinal y regula su funcion.",
+      "alert": "Analisis de la tabla escolar; no constituye recomendacion medica personalizada.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 61,
+      "related_page": 22
+    },
+    {
+      "question": 75,
+      "page": 32,
+      "topic": "Concentracion y masa en volumenes iguales",
+      "competency_code": "UC",
+      "answer_proposal": "A",
+      "reason": "El mismo soluto en iguales volumenes tiene mas masa en la disolucion 2: duplica molaridad y porcentaje masa-volumen.",
+      "alert": "Los numeros de porcentajes y molaridad no se comparan directamente por ser unidades distintas.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 62,
+      "related_page": 22
+    },
+    {
+      "question": 76,
+      "page": 33,
+      "topic": "Prediccion experimental de deficiencia de nitrogeno",
+      "competency_code": "IN",
+      "answer_proposal": "C",
+      "reason": "Sin nitrogeno se esperan hojas amarillentas, poco follaje, menor crecimiento y floracion tardia frente a los tratamientos dados.",
+      "alert": "El texto dice resultados a 30 dias e incluye floracion en semana 8: desfase temporal a revisar. La prediccion no sustituye ensayo con control.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 63,
+      "related_page": 23
+    },
+    {
+      "question": 77,
+      "page": 34,
+      "topic": "Isotopos por protones y neutrones",
+      "competency_code": "UC",
+      "answer_proposal": "B",
+      "reason": "Los atomos N e Y tienen un proton y distinto numero de neutrones, 0 y 2.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 64,
+      "related_page": 24
+    },
+    {
+      "question": 78,
+      "page": 34,
+      "topic": "Modelo de especiacion por aislamiento geografico",
+      "competency_code": "EF",
+      "answer_proposal": "A",
+      "reason": "El rio separa inicialmente una misma poblacion y la barrera se mantiene mientras surge aislamiento reproductivo.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 65,
+      "related_page": 24
+    },
+    {
+      "question": 79,
+      "page": 34,
+      "topic": "Representacion de fuerza frente a posicion",
+      "competency_code": "UC",
+      "answer_proposal": "C",
+      "reason": "La fuerza aumenta hasta 4 metros y luego permanece constante hasta 6 metros.",
+      "related_file_id": "USB-2543b7a34fb2",
+      "related_question": 66,
+      "related_page": 24
+    }
+  ],
+  "comparison_scope": "26 pares cotejados: 54-66 con 67-79 de ABU2, y 67-79 con 54-66 de ABU2. Figuras y alternativas coinciden sustantivamente, cambian numeracion y paginas. No eliminar archivos diferentes; conservar alertas de interpretacion y simplificacion.",
+  "next": "Ingles 80-134 en paginas fisicas 35-42; autoinformes al cierre aun pendientes."
+}

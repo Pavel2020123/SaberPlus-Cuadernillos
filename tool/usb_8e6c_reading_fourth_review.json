@@ -1,0 +1,147 @@
+{
+  "file_id": "USB-8e6cf8399239",
+  "date": "2026-10-30",
+  "area": "Lectura crítica",
+  "scope": "Físicas17-19 inspeccionadas visualmente; preguntas49-60 con textos completos compartidos. Propuestas no oficiales.",
+  "contexts": [
+    {
+      "id": "sofistas",
+      "page": 17,
+      "title": "Sofistas (fragmento)",
+      "description": "Dos rasgos de sofística, cobro por enseñanza y finalidad práctica persuasiva; relativismo y Gorgias."
+    },
+    {
+      "id": "amador",
+      "page": 17,
+      "title": "Ética para Amador (fragmento)",
+      "description": "Buena vida humana y relaciones con otros; preguntas51-53, continúa en18."
+    },
+    {
+      "id": "musica",
+      "page": 18,
+      "title": "Nuestro cerebro, ¿hecho para la música?",
+      "description": "Antigüedad, instrumentos, universalidad y posibles funciones evolutivas; preguntas54-57."
+    },
+    {
+      "id": "feminismo",
+      "page": 19,
+      "title": "¿Cómo educar en el feminismo?",
+      "description": "Igualdad condicional, lenguaje del permiso y juicio desigual de mujeres poderosas; preguntas58-60."
+    }
+  ],
+  "items": [
+    {
+      "question": 49,
+      "page": 17,
+      "context": "sofistas",
+      "topic": "Supuesto de una contraposición argumentativa",
+      "competency_proposal": "Reflexiona a partir de un texto y evalúa su contenido",
+      "answer_proposal": "A",
+      "reason": "El párrafo contrapone búsqueda teórica de verdad y finalidad práctica de convencer; presupone que buscar verdad no constituye la práctica descrita.",
+      "alert": "La dicotomía pertenece al argumento del fragmento; no demuestra que buscar la verdad carezca siempre de aplicaciones."
+    },
+    {
+      "question": 50,
+      "page": 17,
+      "context": "sofistas",
+      "topic": "Validez de inferencia filosófica",
+      "competency_proposal": "Reflexiona a partir de un texto y evalúa su contenido",
+      "answer_proposal": "B",
+      "reason": "Que los juicios dependan de perspectiva o cultura no prueba que nada exista. Relativismo de verdad no implica inexistencia de toda realidad."
+    },
+    {
+      "question": 51,
+      "page": 17,
+      "context": "amador",
+      "topic": "Sentido contextual de una palabra",
+      "competency_proposal": "Identifica y entiende los contenidos locales que conforman un texto",
+      "answer_proposal": "B",
+      "reason": "Deslumbrar con dinero equivale aquí a impresionar a los otros, no engañarlos ni ilusionarlos."
+    },
+    {
+      "question": 52,
+      "page": 18,
+      "context": "amador",
+      "topic": "Función introductoria",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "B",
+      "reason": "La comparación inicial delimita el tema de una buena vida específicamente humana, que se desarrolla con las relaciones entre personas."
+    },
+    {
+      "question": 53,
+      "page": 18,
+      "context": "amador",
+      "topic": "Estrategia de persuasión",
+      "competency_proposal": "Reflexiona a partir de un texto y evalúa su contenido",
+      "answer_proposal": "C",
+      "reason": "El autor usa preguntas retóricas y ejemplos de riqueza, ropa y casa para conducir a la conclusión sobre buena vida entre humanos.",
+      "alert": "La opción C agrupa preguntas y ejemplos; la primera introducción del tema se formula también de manera declarativa."
+    },
+    {
+      "question": 54,
+      "page": 18,
+      "context": "musica",
+      "topic": "Relación introducida por relativo",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "B",
+      "reason": "Lo que sugiere presenta la apreciación innata como inferencia a partir de la presencia de música en casi todas las sociedades; B es la alternativa más próxima.",
+      "alert": "No es prueba de causalidad: la relación expresa fundamento para una inferencia. La opción B la denomina causalidad de manera imprecisa; requiere revisión docente."
+    },
+    {
+      "question": 55,
+      "page": 18,
+      "context": "musica",
+      "topic": "Secuencia temporal de instrumentos",
+      "competency_proposal": "Identifica y entiende los contenidos locales que conforman un texto",
+      "answer_proposal": "C",
+      "reason": "El texto ubica flautas de hueso y percusiones en los antepasados, y después la creación de instrumentos de madera, cuerda y metal."
+    },
+    {
+      "question": 56,
+      "page": 18,
+      "context": "musica",
+      "topic": "Significado de término en contraste",
+      "competency_proposal": "Identifica y entiende los contenidos locales que conforman un texto",
+      "answer_proposal": "D",
+      "reason": "Disonantes se opone en el fragmento a sonidos agradables: la opción esperada es desagradables.",
+      "alert": "La equivalencia es contextual, no definición musical universal: disonancia no significa necesariamente desagrado."
+    },
+    {
+      "question": 57,
+      "page": 18,
+      "context": "musica",
+      "topic": "Función de apertura de un texto",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "B",
+      "reason": "La primera oración introduce la antigua relación entre humanos y música antes de discutir posibles explicaciones."
+    },
+    {
+      "question": 58,
+      "page": 19,
+      "context": "feminismo",
+      "topic": "Síntesis de un párrafo argumentativo",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "A",
+      "reason": "A integra igualdad condicional, apoyo al poder masculino y benevolencia; B y C niegan la superioridad masculina que el fragmento atribuye al feminismo light, y D exagera a negar toda igualdad."
+    },
+    {
+      "question": 59,
+      "page": 19,
+      "context": "feminismo",
+      "topic": "Relación entre ejemplos y generalización",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "D",
+      "reason": "Las preguntas exigidas a mujeres poderosas ejemplifican y apoyan que se las juzga más duramente que a los hombres;1 es razón para2."
+    },
+    {
+      "question": 60,
+      "page": 19,
+      "context": "feminismo",
+      "topic": "Paráfrasis de insuficiencia",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "B",
+      "reason": "Basarse en algo más que benevolencia implica que buenas acciones masculinas no son suficientes para garantizar bienestar.",
+      "alert": "A afirma independencia completa, más fuerte que insuficiencia; no elegir por similitud superficial."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "file_id": "USB-d4e43db6988a",
+  "date": "2026-10-30",
+  "area": "Matematicas",
+  "scope": "Preguntas23-25,página física9 inspeccionada visualmente;Matemáticas1-25documentadas inicialmente.Propuestas no oficiales; marcas de origen desconocido.",
+  "competency_legend": {
+    "IR": "Interpretación y representación",
+    "FE": "Formulación y ejecución"
+  },
+  "items": [
+    {
+      "question": 23,
+      "page": 9,
+      "topic": "Distancia radial en coordenadas polares",
+      "competency_code": "IR",
+      "answer_proposal": "A",
+      "reason": "La distancia a torre esr:W20,V30,Y40,X60km,independientemente de ángulo.",
+      "observed_highlight": "A"
+    },
+    {
+      "question": 24,
+      "page": 9,
+      "topic": "Desplazamiento con avances y retroceso",
+      "competency_code": "FE",
+      "answer_proposal": "C",
+      "reason": "Avances3,6,3cuadras,retroceso10yavancefinal1dan3+6+3-10+1.",
+      "observed_highlight": "C",
+      "alert": "Supone trayecto sobre misma línea y caminar hacia casa en último paso,como plantea la operación ofrecida."
+    },
+    {
+      "question": 25,
+      "page": 9,
+      "topic": "Ordenación de decimales negativos",
+      "competency_code": "IR",
+      "answer_proposal": "C",
+      "reason": "-7,62<-7,6<-7,53<-7,09:Mariana,Santiago,Orlando,Ximena.",
+      "observed_highlight": "C",
+      "alert": "Presiones son datos de ejercicio,no criterio clínico de tratamiento real."
+    }
+  ]
+}

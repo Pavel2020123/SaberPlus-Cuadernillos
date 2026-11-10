@@ -1,0 +1,141 @@
+{
+  "file_id": "USB-a170782eadcb",
+  "date": "2026-10-30",
+  "area": "Lectura crítica",
+  "scope": "Físicas7-8,impresas12-15,inspeccionadas con contextos completos. Preguntas33-43;sin identidad exacta verificada con fichas previas.",
+  "contexts": [
+    {
+      "id": "leibniz",
+      "page": 7,
+      "title": "¿Por qué hay algo en lugar de nada?",
+      "description": "Leibniz,fluctuación cuántica,simulación ylímites de respuestas;impresa12."
+    },
+    {
+      "id": "desplazamiento",
+      "page": 7,
+      "title": "Desplazamiento forzado enColombia:recrudecimiento2021",
+      "description": "CODHES,167eventos,82846víctimas,composición étnica ymapa;impresas13-14."
+    },
+    {
+      "id": "creatividad",
+      "page": 8,
+      "title": "La creatividad",
+      "description": "Relajación,divagación,caminata,juego yalternancia de tareas;impresa15."
+    }
+  ],
+  "items": [
+    {
+      "question": 33,
+      "page": 7,
+      "printed_page": 12,
+      "context": "leibniz",
+      "topic": "Relación entre argumento yobjeción",
+      "competency_proposal": "Reflexiona a partir de un texto y evalúa su contenido",
+      "answer_proposal": "C",
+      "reason": "El segundo fragmento objeta que fluctuación cuántica resuelva pregunta última,pues aún faltaría explicar leyes naturales."
+    },
+    {
+      "question": 34,
+      "page": 7,
+      "printed_page": 12,
+      "context": "leibniz",
+      "topic": "Estrategia de objeción por supuesto",
+      "competency_proposal": "Reflexiona a partir de un texto y evalúa su contenido",
+      "answer_proposal": "C",
+      "reason": "Aun aceptando simulación,solo se explica universo simulado,no universo del creador hipotético; esa insuficiencia no exige negar simulación."
+    },
+    {
+      "question": 35,
+      "page": 7,
+      "printed_page": 13,
+      "context": "desplazamiento",
+      "topic": "Definición en nota de infografía",
+      "competency_proposal": "Identifica y entiende los contenidos locales que conforman un texto",
+      "answer_proposal": "C",
+      "reason": "La nota describe eventos con muchas personas desplazadas,masivos omúltiples;no solo grupos étnicos nitoda persona desplazada."
+    },
+    {
+      "question": 36,
+      "page": 8,
+      "printed_page": 14,
+      "context": "desplazamiento",
+      "topic": "Propósito informativo",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "A",
+      "reason": "La infografía presenta magnitudes,tendencias ydistribución de desplazamiento,no programa de acciones oreducción."
+    },
+    {
+      "question": 37,
+      "page": 8,
+      "printed_page": 14,
+      "context": "desplazamiento",
+      "topic": "Altura de columnas yvariable representada",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "A",
+      "reason": "Las columnas representan cantidad de eventosDMMpor mes yaño,no cantidad de víctimas."
+    },
+    {
+      "question": 38,
+      "page": 8,
+      "printed_page": 14,
+      "context": "desplazamiento",
+      "topic": "Codificación de tamaño en mapa",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "B",
+      "reason": "Círculos se relacionan con víctimas por departamento:Nariño32026supera Antioquia10698,Chocó9857yCauca8418."
+    },
+    {
+      "question": 39,
+      "page": 8,
+      "printed_page": 14,
+      "context": "desplazamiento",
+      "topic": "Leyenda de gráfico porcentual",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "A",
+      "reason": "Los puntos de leyenda distinguen pertenencia étnica de cada porcentaje:afrodescendientes,indígenas yotros.",
+      "alert": "La redacción habla de porcentaje de víctimas afectadas por incremento;las barras muestran composición anual,no incremento porcentual de cada grupo."
+    },
+    {
+      "question": 40,
+      "page": 8,
+      "printed_page": 15,
+      "context": "creatividad",
+      "topic": "Función de párrafo de cierre",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "D",
+      "reason": "El cierre propone alternar concentración yactividades menos demandantes yorganizar el día:soluciones al problema de descanso insuficiente."
+    },
+    {
+      "question": 41,
+      "page": 8,
+      "printed_page": 15,
+      "context": "creatividad",
+      "topic": "Relación de apoyo entre afirmaciones",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "B",
+      "reason": "Que ideas revolucionarias surjan en relajación respalda que angustia no sea clave de creatividad."
+    },
+    {
+      "question": 42,
+      "page": 8,
+      "printed_page": 15,
+      "context": "creatividad",
+      "topic": "Resultado explícito de estudio citado",
+      "competency_proposal": "Identifica y entiende los contenidos locales que conforman un texto",
+      "answer_proposal": "B",
+      "reason": "El texto afirma analogías más novedosas en quienes caminaron al aire libre frente caminadora estática.",
+      "alert": "Se registra resultado relatado,no se verifica diseño original ni causalidad general."
+    },
+    {
+      "question": 43,
+      "page": 8,
+      "printed_page": 15,
+      "context": "creatividad",
+      "topic": "Contraargumento coherente con recomendaciones",
+      "competency_proposal": "Reflexiona a partir de un texto y evalúa su contenido",
+      "answer_proposal": "B",
+      "reason": "Los dispositivos también pueden servir para jugar,actividad que el propio texto recomienda para descanso;cuestiona rechazo indiscriminado de aparatos.",
+      "alert": "No demuestra que todo uso de pantalla sea descanso ni recomienda tiempo ilimitado."
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "file_id": "USB-7882c8f9ae2f",
+  "date": "2026-10-30",
+  "area": "Ciencias naturales",
+  "scope": "Preguntas63-74en físicas21-24 inspeccionadas visualmente con gráficas y datos;propuestas no oficiales,sin marcas de opción observadas.",
+  "competency_legend": {
+    "U": "Uso comprensivo del conocimiento científico",
+    "E": "Explicación de fenómenos",
+    "I": "Indagación"
+  },
+  "items": [
+    {
+      "question": 63,
+      "page": 21,
+      "topic": "Identificación de neutralización ácido-base",
+      "competency_code": "U",
+      "answer_proposal": "D",
+      "reason": "HCl+NaOHproduceNaCl+H2O:ácido y base generan sal y agua."
+    },
+    {
+      "question": 64,
+      "page": 21,
+      "topic": "Separación por vaporización y condensación",
+      "competency_code": "U",
+      "answer_proposal": "A",
+      "reason": "Extraer componentes volátiles por calor y condensarlos corresponde a destilación, no evaporación con recuperación solo de sólido."
+    },
+    {
+      "question": 65,
+      "page": 21,
+      "topic": "Tendencias de concentración durante reacción",
+      "competency_code": "U",
+      "answer_proposal": "B",
+      "reason": "La gráfica muestra reactivosMyLdisminuyendo y productosNyQaumentando hasta mesetas.",
+      "alert": "Equilibrio no implica concentraciones iguales entre reactivos y productos; las curvas indican evolución cualitativa."
+    },
+    {
+      "question": 66,
+      "page": 21,
+      "topic": "Diferencia entre masa y peso lunar",
+      "competency_code": "U",
+      "answer_proposal": "C",
+      "reason": "gLuna=10/6m/s²; m=50/(10/6)=30kg;la masa no se divide entreseis al cambiar de astro."
+    },
+    {
+      "question": 67,
+      "page": 22,
+      "topic": "Conclusión sobre serie temporal de emisiones",
+      "competency_code": "I",
+      "answer_proposal": "A",
+      "reason": "La gráfica aumenta de aproximadamente6000a14500toneladas entre2000y2020,más del doble; no se duplica2009-2011ni triplica2016-2020.",
+      "alert": "La equivalencia contaminante80veces del contexto omite horizonte temporal y métrica; no tratarla como constante universal."
+    },
+    {
+      "question": 68,
+      "page": 22,
+      "topic": "Clasificación de mezcla inicial de biodigestor",
+      "competency_code": "U",
+      "answer_proposal": "C",
+      "reason": "Agua,estiércol y residuos de alimentos constituyen mezcla heterogénea inicial;biogás y fertilizantes son productos posteriores."
+    },
+    {
+      "question": 69,
+      "page": 23,
+      "topic": "Control de acumulación de gas en modelo",
+      "competency_code": "U",
+      "answer_proposal": "C",
+      "reason": "Verificar funcionamiento de válvula de seguridad es la medida pertinente del esquema para evitar sobrepresión.",
+      "alert": "Interpretación del modelo educativo,no instrucciones completas para construir u operar un biodigestor real."
+    },
+    {
+      "question": 70,
+      "page": 23,
+      "topic": "Correspondencia de tabla de bases con barras",
+      "competency_code": "U",
+      "answer_proposal": "C",
+      "reason": "CrepresentaAalrededor5600-5800,Calrededor4100-4500,Galrededor2100-2400yTalrededor3900-4300,con especies en orden.",
+      "alert": "La tabla cuenta bases de una hebra; no imponer igualdadA=T,C=Gque aplica al conjunto de ADN bicatenario."
+    },
+    {
+      "question": 71,
+      "page": 24,
+      "topic": "Función de transporte de savia",
+      "competency_code": "E",
+      "answer_proposal": "C",
+      "reason": "La savia descrita distribuye agua y nutrientes desde raíces a partes superiores,permitiendo uso de recursos en planta.",
+      "alert": "Se refiere al transporte ascendente descrito,no a que toda savia sea equivalente ni circule igual."
+    },
+    {
+      "question": 72,
+      "page": 24,
+      "topic": "Selección de instrumento para velocidad del viento",
+      "competency_code": "I",
+      "answer_proposal": "C",
+      "reason": "Se necesita anemómetro para verificar intervalo de3a25m/s.",
+      "alert": "La tabla atribuye dirección al anemómetro,que habitualmente requiere veleta o equipo combinado; la variable requerida aquí es velocidad."
+    },
+    {
+      "question": 73,
+      "page": 24,
+      "topic": "Funciones ecológicas del musgo",
+      "competency_code": "E",
+      "answer_proposal": "C",
+      "reason": "Retención y liberación de agua mantienen humedad;refugio y material de nidos favorecen presencia de especies."
+    },
+    {
+      "question": 74,
+      "page": 24,
+      "topic": "Conclusión que excede variables medidas",
+      "competency_code": "I",
+      "answer_proposal": "C",
+      "reason": "No se midió tamaño del fruto ni su relación con azúcares/fibra;la tabla solo compara concentraciones de tres variedades.",
+      "alert": "Mayor azúcar no implica automáticamente mejor alimentación humana; el ítem no ofrece evaluación nutricional integral."
+    }
+  ]
+}

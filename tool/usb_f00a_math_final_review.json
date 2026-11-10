@@ -1,0 +1,29 @@
+{
+  "file_id": "USB-f00a52c8b6f2",
+  "date": "2026-10-30",
+  "area": "Matemáticas",
+  "scope": "Preguntas49-50física16inspeccionada visualmente; Matemáticas26-50cubierta inicialmente.",
+  "competency_legend": {
+    "FE": "Formulación y ejecución"
+  },
+  "items": [
+    {
+      "question": 49,
+      "page": 16,
+      "topic": "Comparación de rangos en tarifas",
+      "competency_code": "FE",
+      "answer_proposal": "B",
+      "reason": "Américas:15000-6500=8500;Estrellas:14000-7000=7000. El rango global es mayor enAméricas.",
+      "alert": "Antes de15h,Estrellas tiene rango5000frente2500enAméricas; los promedios después de15hson11250y12500respectivamente, descartandoA/C/D."
+    },
+    {
+      "question": 50,
+      "page": 16,
+      "topic": "Alcance de movimiento relativo",
+      "competency_code": "FE",
+      "answer_proposal": "D",
+      "reason": "Igualarv1t=v2t+hda t=h/(v1-v2); se requieren separación inicial y diferencia de velocidades.",
+      "alert": "Supone velocidades constantes yv1>v2como establece el enunciado."
+    }
+  ]
+}

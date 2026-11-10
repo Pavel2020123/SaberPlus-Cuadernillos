@@ -1,0 +1,48 @@
+{
+  "file_id": "USB-36f91aeae115",
+  "date": "2026-10-30",
+  "area": "Matemáticas",
+  "scope": "Física10(impresas18-19) inspeccionada completa. Cierre inicial de Matemáticas47-50; no coincidencia exacta identificada en registros consultados.",
+  "items": [
+    {
+      "question": 47,
+      "page": 10,
+      "printed_page": 18,
+      "topic": "Filtro de tabla y correspondencia con gráfico",
+      "competency_proposal": "Interpretación y representación",
+      "answer_proposal": "C",
+      "reason": "Con140cm puede ingresar aP(130),Q(135),T(120); tiempos respectivos10,11,9min. C conserva categorías y valores.",
+      "alert": "No confundir altura mínima con máxima ni intercambiar tiempos entre atracciones."
+    },
+    {
+      "question": 48,
+      "page": 10,
+      "printed_page": 18,
+      "topic": "Distribución de frecuencias y sectores",
+      "competency_proposal": "Interpretación y representación",
+      "answer_proposal": "B",
+      "reason": "56/80=70%,4/80=5%,20/80=25%; Bmuestra esos sectores con tres categorías de edad.",
+      "alert": "Dusa56%,4%,20%confundiendo frecuencias con porcentajes; Aañade categoría Otro no registrada."
+    },
+    {
+      "question": 49,
+      "page": 10,
+      "printed_page": 19,
+      "topic": "Comparación de rangos en tablas de precios",
+      "competency_proposal": "Argumentación",
+      "answer_proposal": "B",
+      "reason": "LasEstrellas:rango14000−7000=7000. Américas:rango15000−6500=8500,mayor que7000.",
+      "alert": "Se entiende rango como máximo menos mínimo de todas las tarifas; no como promedio."
+    },
+    {
+      "question": 50,
+      "page": 10,
+      "printed_page": 19,
+      "topic": "Encuentro en movimiento rectilíneo uniforme",
+      "competency_proposal": "Formulación y ejecución",
+      "answer_proposal": "D",
+      "reason": "Igualar v1t=v2t+h da t=h/(v1−v2); bastan separación inicial h y diferencia positiva de velocidades.",
+      "alert": "Supone salidas simultáneas,velocidades constantes y misma dirección,según enunciado."
+    }
+  ]
+}

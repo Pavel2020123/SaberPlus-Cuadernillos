@@ -1,0 +1,28 @@
+{
+  "file_id": "USB-8e6cf8399239",
+  "date": "2026-10-30",
+  "area": "Estructura documental",
+  "scope": "41páginas inspeccionadas visualmente. Cobertura inicial de enunciados presentes, no validación docente ni cotejo exhaustivo.",
+  "items": [],
+  "metadata": {
+    "cover": "Metro de Medellín,2025-1,Primera Sesión,ABR1,131preguntas,4h30min.",
+    "calendar": "No confirmado explícitamente",
+    "page_map": {
+      "1": "portada",
+      "41": "Autoinformes121-131 yFIN",
+      "2-9": "Matemáticas1-25",
+      "10-22": "Lectura26-66",
+      "23-29": "Sociales67-91",
+      "30-40": "Ciencias92-120"
+    },
+    "present_questions": 131,
+    "academic_questions": 120,
+    "excluded_self_reports": 11,
+    "missing_numbers": [],
+    "unresolved_questions": [
+      41
+    ],
+    "source_status": "Escaneo con marcas de agua añadidas, sin autenticidad ni permiso comercial acreditados.",
+    "collection_complete": false
+  }
+}

@@ -1,0 +1,66 @@
+# SaberPlus - Cuadernillos
+
+Proyecto independiente para diseñar y generar cuadernillos de práctica en PDF.
+
+## Punto de continuación actual
+
+31 de octubre: consultar primero [cotejo de preguntas y pendientes reales](docs/COTEJO_PREGUNTAS_ESTADO_ACTUAL.md). Se consolidaron 70 fichas adicionales: quedan 2764 fichas académicas y 723 apariciones académicas exactas enlazadas. El índice editorial está en `output/cotejo_30/INDICE.html`, con copia en la USB. Aún no se certifican preguntas únicas ni existe un banco importable completo: quedan cotejos visuales, transcripción de contenido, revisión docente y permisos. Los conteos de cierre anteriores son históricos.
+
+Auditoría activa de la USB PAVEL: consultar [catálogo y punto de continuación](docs/CATALOGO_USB.md). La documentación manual de preguntas y el OCR son procesos distintos; no afirmar que toda la colección esté analizada. Este trabajo no modifica la app ni el editor.
+
+Leer [editor local y prueba de carga](docs/EDITOR_LOCAL.md) y [análisis de competencias y niveles](docs/COMPETENCIAS_ICFES_2025_2026.md). Ya existe un primer editor local con imágenes, contextos compartidos y vista previa automática mediante el motor PDF. La muestra fija SP-M04 y sus documentos anteriores son antecedentes, no el diseño final aprobado.
+
+## Probar el editor
+
+```powershell
+uv run --with reportlab --with pymupdf --with pillow python tool/editor_server.py
+```
+
+Abre http://127.0.0.1:4185. El apartado **Así va tu cuadernillo** actualiza las páginas al hacer una pausa al escribir, permite navegar y ampliar. No guarda automáticamente: usa **Guardar proyecto**. Para probar con contenido original de demostración, abre **Distribución prevista y respaldo del proyecto** y carga la muestra; esta acción reemplaza el proyecto actual y pide confirmación. Las siete partes de inglés se encuentran al elegir segunda sesión.
+
+El editor sigue siendo un prototipo editorial: faltan aprobación visual conjunta, revisión docente del banco y completar el catálogo parcial de evidencias. Bloques compartidos demasiado largos todavía requieren división manual; no se recortan para hacerlos caber.
+
+**Generar los 3 PDF** produce el cuadernillo sin resolver, el resuelto con explicaciones al final y la clave del profesor. Las hojas usan círculos con letras: vacíos para el estudiante y rellenos para la clave. No hay QR ni publicación en internet todavía.
+
+## Continuar en un nuevo chat
+
+Abre esta carpeta como proyecto en Codex y escribe:
+
+> Lee AGENTS.md, README.md y CONTEXTO.md. Continuemos con la plantilla de cuadernillos.
+
+No es necesario copiar la conversación anterior: sus decisiones y pendientes están en CONTEXTO.md. Un chat nuevo no hereda automáticamente todo el historial; estos archivos son el relevo.
+
+## Archivos
+
+- `output/pdf/SaberPlus_muestra_cuadernillo.pdf`: muestra de estudiante, 8 páginas y 22 preguntas.
+- `output/pdf/SaberPlus_guia_plantilla_y_clave.pdf`: guía editorial y clave, 2 páginas.
+- `output/pdf/SaberPlus_muestra_cuadernillo_SP-M02.pdf`: revisión visual versionada de la muestra.
+- `output/pdf/SaberPlus_guia_plantilla_y_clave_SP-M02.pdf`: guía y clave correspondientes a SP-M02.
+- `output/pdf/PLANTILLA_CUADERNILLOS.md`: especificación y límites del prototipo.
+- `tool/booklet_template_bank.json`: preguntas editables.
+- `tool/BOOKLET_BANK_SCHEMA.md`: mapa de páginas, grupos y campos editables.
+- `tool/generate_booklet_template.py`: generador de muestra.
+- `tool/validate_booklet_bank.py`: validación del banco sin crear PDF.
+- `tool/review_booklet_template.py`: renderizado y comprobación de límites de texto.
+- `references/`: copias de los 13 PDF aportados para estudiar su estructura.
+
+La revisión SP-M03 cambia la propuesta visual a escala de grises, incorpora reglas horizontales para separar preguntas, un separador vertical en la composición de dos columnas y soporte para imágenes propias mediante el campo opcional `image` del banco. No reproduce logotipos, marcas, códigos ni contenido oficial.
+
+- `output/pdf/SaberPlus_muestra_cuadernillo_SP-M03.pdf`: revisión monocromática de la muestra.
+- `output/pdf/SaberPlus_guia_plantilla_y_clave_SP-M03.pdf`: guía y clave correspondientes a SP-M03.
+
+## Ejecutar
+
+Con `uv` instalado, desde esta carpeta:
+
+```powershell
+uv run --with reportlab --with pymupdf python tool/validate_booklet_bank.py --bank tool/booklet_template_bank.json
+uv run --with reportlab --with pymupdf python tool/generate_booklet_template.py
+uv run --with reportlab --with pymupdf python tool/review_booklet_template.py
+```
+
+Para generar una revisión sin reemplazar los PDF anteriores, usar por ejemplo `--output-suffix SP-M02`.
+
+La primera ejecución puede descargar dependencias. Los PDF salen en `output/pdf/` y las imágenes de revisión en `tmp/pdfs/`. La regeneración reemplaza únicamente los dos PDF de muestra con esos nombres; guardar versiones aprobadas con otro nombre antes de regenerar.
+
+No requiere Flutter, backend, Docker ni USB. No está integrado con el banco de la app. No se ha inicializado Git ni publicado nada.

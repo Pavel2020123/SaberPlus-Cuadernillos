@@ -1,0 +1,151 @@
+{
+  "file_id": "USB-a170782eadcb",
+  "date": "2026-10-30",
+  "area": "Lectura crítica",
+  "scope": "Físicas11-12(impresas20-23)inspeccionadas visualmente,contextos completos y56-66. Lectura26-66cubierta inicialmente;no validación docente.",
+  "contexts": [
+    {
+      "id": "pobre",
+      "page": 11,
+      "title": "El miedo al pobre",
+      "description": "Aporofobia,Cortina,rechazo a migrantes pobres yexclusión;impresa20."
+    },
+    {
+      "id": "islam",
+      "page": 11,
+      "title": "Pensar el Islam",
+      "description": "Onfray2016,contraste de selecciones textuales violentas ypacíficas,comparación con cristianismo;impresa21."
+    },
+    {
+      "id": "nubia",
+      "page": 12,
+      "title": "Nubia Muñoz ylos antivacunas",
+      "description": "Relato dehallazgos,programaVPH,rumor ysíntomas,estudioINS;impresa22. No consejo médico."
+    },
+    {
+      "id": "sonrisa",
+      "page": 12,
+      "title": "La sonrisa",
+      "description": "Narradora yconcurso de belleza,papel de mujeres,caminata,exigencias ydeseo de retiro;impresa23."
+    }
+  ],
+  "items": [
+    {
+      "question": 56,
+      "page": 11,
+      "printed_page": 20,
+      "context": "pobre",
+      "topic": "Ejemplo que apoya explicación social",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "C",
+      "reason": "El contraste entre yates yembarcaciones de migrantes ejemplifica rechazo asociado a pobreza,no a extranjería por sí sola."
+    },
+    {
+      "question": 57,
+      "page": 11,
+      "printed_page": 20,
+      "context": "pobre",
+      "topic": "Continuación coherente de argumento",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "C",
+      "reason": "Cdesarrolla cómo el miedo se convierte en rechazo mediante anulación de empatía yculpabilización,coherente con crítica aaporofobia.",
+      "alert": "Alegitima prejuicio que texto critica;ByDcontradicen vulnerabilidad yresponsabilidad planteadas."
+    },
+    {
+      "question": 58,
+      "page": 11,
+      "printed_page": 21,
+      "context": "islam",
+      "topic": "Función de cita en argumento",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "B",
+      "reason": "El fragmento sobre espada apoya la tesis del autor de selecciones religiosas que permiten violencia,no que cristianismo sea exclusivamente pacífico.",
+      "alert": "Se atribuye al razonamiento del autor,no se valida una caracterización universal de creyentes."
+    },
+    {
+      "question": 59,
+      "page": 11,
+      "printed_page": 21,
+      "context": "islam",
+      "topic": "Relación entre tesis yevidencia textual",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "D",
+      "reason": "Las citas contrastadas sirven de razón a favor de la primera afirmación de dos formas de construir interpretación religiosa.",
+      "alert": "No son idénticas a la afirmación general:la sustentan con ejemplos."
+    },
+    {
+      "question": 60,
+      "page": 12,
+      "printed_page": 22,
+      "context": "nubia",
+      "topic": "Conclusión según relato periodístico",
+      "competency_proposal": "Reflexiona a partir de un texto y evalúa su contenido",
+      "answer_proposal": "C",
+      "reason": "El texto atribuye caída del programa al rumor de causalidad entre vacunación ysíntomas,relación no encontrada por estudio citado.",
+      "alert": "Conclusión sobre el relato,no evaluación clínica individual ni revisión actual de seguridad vacunal."
+    },
+    {
+      "question": 61,
+      "page": 12,
+      "printed_page": 22,
+      "context": "nubia",
+      "topic": "Estrategia de credibilidad",
+      "competency_proposal": "Reflexiona a partir de un texto y evalúa su contenido",
+      "answer_proposal": "D",
+      "reason": "El relato presenta trayectoria yhallazgos deMuñozfrente al origen anónimo/especulativo de la atribución causal;Desla opción más cercana.",
+      "alert": "La evidencia del estudio delINSesademás central;Ddescribe solo parte de la estrategia. Prestigio oanonimato no reemplazan evaluación de evidencia."
+    },
+    {
+      "question": 62,
+      "page": 12,
+      "printed_page": 22,
+      "context": "nubia",
+      "topic": "Relación entre hallazgos yaplicaciones preventivas",
+      "competency_proposal": "Identifica y entiende los contenidos locales que conforman un texto",
+      "answer_proposal": "D",
+      "reason": "El primer párrafo conecta investigación con desarrollo de test yprimera vacuna contraVPH."
+    },
+    {
+      "question": 63,
+      "page": 12,
+      "printed_page": 22,
+      "context": "nubia",
+      "topic": "Crítica de inferencia causal por sucesión",
+      "competency_proposal": "Reflexiona a partir de un texto y evalúa su contenido",
+      "answer_proposal": "A",
+      "reason": "Que síntomas aparezcan después de vacuna no demuestra que esta los cause. Aevita confundir posterioridad con causalidad.",
+      "alert": "No convierte ausencia de relación hallada en prueba de imposibilidad de cualquier evento adverso."
+    },
+    {
+      "question": 64,
+      "page": 12,
+      "printed_page": 23,
+      "context": "sonrisa",
+      "topic": "Sentido contextual de término",
+      "competency_proposal": "Identifica y entiende los contenidos locales que conforman un texto",
+      "answer_proposal": "B",
+      "reason": "Patulecas significa cojas en contexto de caminar ydificultad en piernas,no mancas."
+    },
+    {
+      "question": 65,
+      "page": 12,
+      "printed_page": 23,
+      "context": "sonrisa",
+      "topic": "Localización de cambio narrativo",
+      "competency_proposal": "Identifica y entiende los contenidos locales que conforman un texto",
+      "answer_proposal": "A",
+      "reason": "El padre se anima ycambia expectativa de funciones femeninas cuando llega invitación a selección de belleza."
+    },
+    {
+      "question": 66,
+      "page": 12,
+      "printed_page": 23,
+      "context": "sonrisa",
+      "topic": "Perspectiva de narradora sobre experiencia",
+      "competency_proposal": "Comprende cómo se articulan las partes de un texto para darle un sentido global",
+      "answer_proposal": "B",
+      "reason": "La narradora menciona hastío ydeseo de retirarse;Bdescribe evento probablemente agotador.",
+      "alert": "Aatribuye frustración aotra profesión,pero el texto no vincula directamente esa causa al deseo de retiro;mantener diferencia entre inferencia ydato."
+    }
+  ]
+}

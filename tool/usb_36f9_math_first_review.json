@@ -1,0 +1,38 @@
+{
+  "file_id": "USB-36f91aeae115",
+  "date": "2026-10-30",
+  "area": "Matemáticas",
+  "scope": "Física6, impresa11, preguntas26-28 inspeccionadas visualmente con tabla y figura. Sin identidad exacta verificada en fichas consultadas.",
+  "items": [
+    {
+      "question": 26,
+      "page": 6,
+      "printed_page": 11,
+      "topic": "Recuperar frecuencia absoluta desde porcentaje",
+      "competency_proposal": "Formulación y ejecución",
+      "answer_proposal": "D",
+      "reason": "55 % de20estudiantes es0,55×20=11, cantidad de aprobados.",
+      "alert": "Se distingue número de preguntas del examen de número de estudiantes."
+    },
+    {
+      "question": 27,
+      "page": 6,
+      "printed_page": 11,
+      "topic": "Cálculo de rango medio",
+      "competency_proposal": "Formulación y ejecución",
+      "answer_proposal": "B",
+      "reason": "Mínimo−2°C y máximo10°C: (−2+10)/2=4°C.",
+      "alert": "Rango medio no es amplitud(12°C) ni media de todos los datos(3,5°C)."
+    },
+    {
+      "question": 28,
+      "page": 6,
+      "printed_page": 11,
+      "topic": "Desigualdad triangular para construcción de cerca",
+      "competency_proposal": "Argumentación",
+      "answer_proposal": "C",
+      "reason": "Julián aporta80,160,50cm;80+50=130<160, por lo que no se puede formar triángulo no degenerado. Los demás conjuntos sí satisfacen desigualdad estricta.",
+      "alert": "Unir extremos requiere lados en plano y sin extensiones; figura no aporta medidas adicionales."
+    }
+  ]
+}
