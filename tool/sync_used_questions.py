@@ -43,6 +43,12 @@ def merge(ledger, project, session):
     return current, clashes
 
 
+def remaining_reservations(ledger, used):
+    active_codes = {(item['simulacro'], item.get('catalog_id')) for item in used if item.get('catalog_id')}
+    return [item for item in ledger.get('reservas', [])
+            if (item['simulacro'], item.get('catalog_id')) not in active_codes]
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('project', type=Path, help='JSON guardado del editor')
@@ -65,6 +71,7 @@ def main():
     if args.check_only:
         return
     ledger['preguntas'] = updated
+    ledger['reservas'] = remaining_reservations(ledger, updated)
     payload = json.dumps(ledger, ensure_ascii=False, indent=2) + '\n'
     with tempfile.NamedTemporaryFile(mode='w', encoding='utf-8', dir=args.ledger.parent, prefix='.uso-global-', suffix='.tmp', delete=False) as temp:
         temp.write(payload)
