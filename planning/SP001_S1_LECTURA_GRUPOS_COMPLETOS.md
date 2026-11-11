@@ -1,6 +1,6 @@
 # SP-001 · Lectura crítica por grupos completos
 
-Decisión del 11 de noviembre de 2026: cuando se selecciona una lectura, se incluyen todas las preguntas que su PDF original agrupa con ella. El proyecto local tiene **38 preguntas de Lectura**, numeradas 26–63; faltan tres para la meta editorial de 41. Los 11 grupos cargados se cotejaron con los grupos de `output/cotejo_30/fichas_academicas.json`. No se afirma que este catálogo descarte todas las variantes de otros PDF.
+Decisión del 11 de noviembre de 2026: cuando se selecciona una lectura, se incluyen todas las preguntas que su PDF original agrupa con ella. El proyecto local tiene **41 preguntas de Lectura**, numeradas 26–66, agrupadas en 12 lecturas. Los grupos se cotejaron con `output/cotejo_30/fichas_academicas.json`. No se afirma que este catálogo descarte todas las variantes de otros PDF.
 
 | Lectura | Fuente USB | Preguntas originales | Cantidad | Orden actual |
 | --- | --- | --- | ---: | --- |
@@ -15,8 +15,9 @@ Decisión del 11 de noviembre de 2026: cuando se selecciona una lectura, se incl
 | Los horóscopos y sus predicciones | `USB-d4e43db6988a` | 52–53 | 2 | 55–56 |
 | Filosofía en viñetas | `USB-04dc5257ed8b` | 35–36 | 2 | 57–58 |
 | Cuando los escritores hablan | `USB-a170782eadcb` | 51–55 | 5 | 59–63 |
+| Ética para Amador | `USB-04dc5257ed8b` | 43–45 | 3 | 64–66 |
 
-**Pendiente:** elegir un grupo completo que ocupe los tres puestos restantes. En la lista de fuentes ya localizadas, «Ética para Amador» (`USB-04dc5257ed8b-Q043` a `Q045`) contiene tres preguntas. También siguen reservados los pares «Frankenstein» (`USB-d4e43db6988a-Q065` y `Q066`), «Sofistas» (`USB-04dc5257ed8b-Q041` y `Q042`) y «Sesgo» (`USB-04dc5257ed8b-Q052` y `Q053`). Todavía no se ha elegido ni transcrito el último grupo. Los nueve códigos quedan reservados para SP-001 hasta resolver la selección; ninguno está disponible para SP-002/SP-003.
+**Grupo final:** «Ética para Amador» (`USB-04dc5257ed8b-Q043` a `Q045`) ocupa las preguntas 64–66. El texto completo se carga una sola vez como contexto compartido. Siguen reservados los pares «Frankenstein» (`USB-d4e43db6988a-Q065` y `Q066`), «Sofistas» (`USB-04dc5257ed8b-Q041` y `Q042`) y «Sesgo» (`USB-04dc5257ed8b-Q052` y `Q053`). Los seis códigos permanecen bloqueados para SP-002/SP-003 hasta decidir su destino.
 
 **Revisión editorial pendiente:** la clave D de `USB-a170782eadcb-Q026` (actual pregunta 28) es una interpretación propuesta de humildad y desapego. El catálogo la registró como condicionada; revisar esa clave antes de publicar el cuadernillo. Las demás claves transcritas también requieren la comprobación final habitual contra las páginas fuente.
 

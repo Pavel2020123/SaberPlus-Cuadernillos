@@ -821,6 +821,45 @@
       "inicio": "",
       "enunciado": "¿En cuál de los siguientes contextos es correcto ubicar el texto?",
       "huella_texto": "9d10a746769ea79902077bd88e755e6268bd6d7af4ca53886d4237254ecaa8fc"
+    },
+    {
+      "simulacro": "SP-001",
+      "sesion": "primera",
+      "area": "reading",
+      "numero_actual": 64,
+      "editor_id": "q-b16c29d9-2718-483b-b052-f5ef6739fa87",
+      "catalog_id": "USB-04dc5257ed8b-Q043",
+      "estado": "usada",
+      "tema": "Comprensión e interpretación textual",
+      "inicio": "",
+      "enunciado": "Entre las siguientes opciones, ¿cuál podría reemplazar, sin cambiar el sentido, la palabra “deslumbrar” que aparece en la frase: “Por medio del dinero se espera poder deslumbrar o comprar a los otros [...]”?",
+      "huella_texto": "03d14f2afbd7d250a9b76b4aace0336d2cb21f361d3c4fbaab04358186573bee"
+    },
+    {
+      "simulacro": "SP-001",
+      "sesion": "primera",
+      "area": "reading",
+      "numero_actual": 65,
+      "editor_id": "q-5eacedd5-bd98-47d2-b875-26aa3fbe714c",
+      "catalog_id": "USB-04dc5257ed8b-Q044",
+      "estado": "usada",
+      "tema": "Comprensión e interpretación textual",
+      "inicio": "",
+      "enunciado": "Lea el siguiente fragmento del texto:\n\n“Quieres darte la buena vida: estupendo. Pero también quieres que esa buena vida no sea la buena vida de una coliflor o de un escarabajo, con todo mi respeto para ambas especies, sino una buena vida hu",
+      "huella_texto": "c6245adb29956c00a8cb031ea950cdcb41827e9dc8f0280e74a5c9f55276dd1b"
+    },
+    {
+      "simulacro": "SP-001",
+      "sesion": "primera",
+      "area": "reading",
+      "numero_actual": 66,
+      "editor_id": "q-e9ee31c5-b32b-4a72-a0f8-534d26186a4e",
+      "catalog_id": "USB-04dc5257ed8b-Q045",
+      "estado": "usada",
+      "tema": "Comprensión e interpretación textual",
+      "inicio": "",
+      "enunciado": "¿Qué tipo de estrategia argumentativa utiliza el autor para convencer al lector de su posición?",
+      "huella_texto": "49c2e83d1b67b0282c8caee9ef0df009bb0e422296aa71e6b4572319feeac4ec"
     }
   ],
   "reservas": [
@@ -859,33 +898,6 @@
       "catalog_id": "USB-04dc5257ed8b-Q042",
       "estado": "reservada_pendiente_seleccion",
       "numero_planificado_antes": 61
-    },
-    {
-      "simulacro": "SP-001",
-      "sesion": "primera",
-      "area": "reading",
-      "numero_actual": null,
-      "catalog_id": "USB-04dc5257ed8b-Q043",
-      "estado": "reservada_pendiente_seleccion",
-      "numero_planificado_antes": 62
-    },
-    {
-      "simulacro": "SP-001",
-      "sesion": "primera",
-      "area": "reading",
-      "numero_actual": null,
-      "catalog_id": "USB-04dc5257ed8b-Q044",
-      "estado": "reservada_pendiente_seleccion",
-      "numero_planificado_antes": 63
-    },
-    {
-      "simulacro": "SP-001",
-      "sesion": "primera",
-      "area": "reading",
-      "numero_actual": null,
-      "catalog_id": "USB-04dc5257ed8b-Q045",
-      "estado": "reservada_pendiente_seleccion",
-      "numero_planificado_antes": 64
     },
     {
       "simulacro": "SP-001",
