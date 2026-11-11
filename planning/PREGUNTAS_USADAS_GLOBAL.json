@@ -886,6 +886,19 @@
       "inicio": "",
       "enunciado": "En una ciudad se discute cuál es la mejor manera de reducir el problema de la obesidad infantil, pues el número de casos de esta enfermedad ha ido aumentando significativamente en los últimos años. Al respecto, una organización internaciona",
       "huella_texto": "946abece2cf71fd38ea5750b13ef66242fcd287a714218b0638b2ffd778cf225"
+    },
+    {
+      "simulacro": "SP-001",
+      "sesion": "primera",
+      "area": "social",
+      "numero_actual": 69,
+      "editor_id": "q-8169ab66-79c5-4bd7-8169-6014ff652017",
+      "catalog_id": "USB-524d98b0a234-Q001",
+      "estado": "usada",
+      "tema": "Diversidad cultural y políticas educativas",
+      "inicio": "",
+      "enunciado": "Un grupo de mujeres está promoviendo ajustes curriculares al proyecto de educación sexual que se implementa en los colegios oficiales. Su objetivo es hacerlo más moderno y ajustado a las necesidades de los territorios. Como parte de los cam",
+      "huella_texto": "e667e9156481802ae8366a4e2ae74735d50407cb09b453ab498c7276f0284744"
     }
   ],
   "reservas": []
