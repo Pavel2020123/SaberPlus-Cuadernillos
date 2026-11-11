@@ -1,3 +1,5 @@
 tmp/
 .venv/
 __pycache__/
+assets/uploads/
+output/editor/

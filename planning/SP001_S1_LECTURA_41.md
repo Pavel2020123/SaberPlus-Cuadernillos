@@ -1,6 +1,6 @@
 # SP-001 · Primera sesión · 41 candidatas de Lectura crítica
 
-Estado: selección editorial propuesta, no cargada ni marcada como usada. Numeración prevista: 26–66, después de las 25 de Matemáticas. Metas: información local 10, sentido global 17, reflexión/evaluación 14. Son procesos/objetivos de una competencia lectora, no tres competencias oficiales.
+Estado: las preguntas 26–41 están cargadas en el proyecto local y marcadas como usadas en el registro compartido con sus códigos USB; 42–66 siguen siendo candidatas, sin reserva ni montaje confirmado. Metas: información local 10, sentido global 17, reflexión/evaluación 14. Son procesos/objetivos de una competencia lectora, no tres competencias oficiales.
 
 Se inspeccionaron las páginas físicas pertinentes de tres PDF escaneados. Las clasificaciones y claves son propuestas del catálogo que deben verificarse al transcribir. En las 41 fichas no hay alertas de clave, claves vacías, conflictos documentados de clave ni apariciones exactas repetidas dentro de esta selección. Aún hay cotejos de posibles variantes pendientes: esta lista no certifica unicidad absoluta.
 
@@ -52,7 +52,7 @@ Se inspeccionaron las páginas físicas pertinentes de tres PDF escaneados. Las 
 
 Crear una lectura/contexto por cada cambio de nombre en «Lectura compartida». Mantener juntas las preguntas y usar `{{desde}}`/`{{hasta}}` en el encabezado. Aunque se seleccionen solo algunas preguntas originales, conservar el texto o la infografía completos. «Petrícor» y el cómic de «filosofía» necesitan imágenes legibles; no copiar encabezados, marcas ni resaltados del PDF fuente.
 
-Las primeras cinco coinciden con `planning/SP001_S1_LECTURA_CANDIDATAS_05.md`. El registro global aún contiene solamente las 25 de Matemáticas; actualizarlo cuando estas candidatas estén cargadas y guardadas.
+Las primeras cinco coinciden con `planning/SP001_S1_LECTURA_CANDIDATAS_05.md`. El registro global incluye las primeras 16 preguntas de esta lista (26–41); los códigos se cotejaron por número y clave con el JSON guardado. El proyecto local solo tiene escrito el código USB de la pregunta 26; para las demás, el registro es la referencia compartida hasta completar el campo en el editor. No se han marcado como usadas las candidatas 42–66.
 
 ## Páginas inspeccionadas
 
