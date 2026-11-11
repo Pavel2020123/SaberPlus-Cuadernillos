@@ -4,33 +4,37 @@
 
 Objetivo editorial: 25 ítems, 9 interpretación/representación (IR), 11 formulación/ejecución (FE), 5 argumentación (ARG). Clasificaciones propuestas del catálogo, sujetas a contraste. No son cuotas oficiales por sesión.
 
-| Orden provisional | ID catálogo | Tema | Página física / pregunta original | Objetivo |
-|---|---|---|---|---|
-|1|USB-04dc5257ed8b-Q001|Tarifa de parqueadero|2 / 1|IR|
-|2|USB-91836110f48e-Q002|Sucesión geométrica|2 / 2|FE|
-|3|USB-d4e43db6988a-Q001|Media de edades|2 / 1|FE|
-|4|USB-91836110f48e-Q004|Semejanza y ángulos|3 / 4|ARG|
-|5|USB-b39f1fd42a79-Q001|Promedio e inferencia individual|2 / 1|ARG|
-|6|USB-d4e43db6988a-Q004|Conteo de grupos|3 / 4|FE|
-|7|USB-eee9960ca52a-Q002|Muestra y población|2 / 2|IR|
-|8|USB-1bc205e23b46-Q027|Distribución porcentual|7 / 27|IR|
-|9|USB-04dc5257ed8b-Q002|Volumen de prisma|2 / 2|FE|
-|10|USB-04dc5257ed8b-Q010|Ordenación de frecuencias|4 / 10|IR|
-|11|USB-1bc205e23b46-Q026|Procedimiento algebraico inválido|7 / 26|ARG|
-|12|USB-04dc5257ed8b-Q004|Porcentajes de ahorro|3 / 4|FE|
-|13|USB-1c6462bf5377-Q001|Valor fijo y variable de una donación|2 / 1|IR|
-|14|USB-1c44481d3d4a-Q026|Perímetro de polígonos regulares|11 / 26|FE|
-|15|USB-1bc205e23b46-Q045|Tipo de variable y desviación estándar|12 / 45|IR|
-|16|USB-1c44481d3d4a-Q028|Probabilidad por complemento|11 / 28|FE|
-|17|USB-1c44481d3d4a-Q034|Áreas compuestas y simetría|14 / 34|ARG|
-|18|USB-1c6462bf5377-Q021|Temperaturas positivas y negativas|11 / 21|IR|
-|19|USB-04dc5257ed8b-Q011|Teorema de Pitágoras|4 / 11|FE|
-|20|USB-1bc205e23b46-Q042|Representación algebraica de crecimiento|11 / 42|IR|
-|21|USB-1bc205e23b46-Q041|Tarifas bancarias anuales|11 / 41|FE|
-|22|USB-234fa4e3ddce-Q002|Representación de datos por ternas|2 / 2|IR|
-|23|USB-04dc5257ed8b-Q013|Presupuesto y cambio|5 / 13|FE|
-|24|USB-1c44481d3d4a-Q049|Dimensiones del volumen de pirámide|19 / 49|ARG|
-|25|USB-04dc5257ed8b-Q021|Algoritmo aritmético|7 / 21|FE|
+| Orden provisional | ID catálogo | Tema | Página física / pregunta original | Objetivo | Formato propuesto |
+|---|---|---|---|---|---|
+|1|USB-04dc5257ed8b-Q001|Tarifa de parqueadero|2 / 1|IR|Dos columnas|
+|2|USB-91836110f48e-Q002|Sucesión geométrica|2 / 2|FE|Ancho completo|
+|3|USB-d4e43db6988a-Q001|Media de edades|2 / 1|FE|Dos columnas|
+|4|USB-91836110f48e-Q004|Semejanza y ángulos|3 / 4|ARG|Dos columnas|
+|5|USB-b39f1fd42a79-Q001|Promedio e inferencia individual|2 / 1|ARG|Ancho completo|
+|6|USB-d4e43db6988a-Q004|Conteo de grupos|3 / 4|FE|Ancho completo|
+|7|USB-eee9960ca52a-Q002|Muestra y población|2 / 2|IR|Dos columnas|
+|8|USB-1bc205e23b46-Q027|Distribución porcentual|7 / 27|IR|Ancho completo|
+|9|USB-04dc5257ed8b-Q002|Volumen de prisma|2 / 2|FE|Dos columnas|
+|10|USB-04dc5257ed8b-Q010|Ordenación de frecuencias|4 / 10|IR|Dos columnas|
+|11|USB-1bc205e23b46-Q026|Procedimiento algebraico inválido|7 / 26|ARG|Dos columnas|
+|12|USB-04dc5257ed8b-Q004|Porcentajes de ahorro|3 / 4|FE|Dos columnas|
+|13|USB-1c6462bf5377-Q001|Valor fijo y variable de una donación|2 / 1|IR|Dos columnas|
+|14|USB-1c44481d3d4a-Q026|Perímetro de polígonos regulares|11 / 26|FE|Dos columnas|
+|15|USB-1bc205e23b46-Q045|Tipo de variable y desviación estándar|12 / 45|IR|Dos columnas|
+|16|USB-1c44481d3d4a-Q028|Probabilidad por complemento|11 / 28|FE|Dos columnas|
+|17|USB-1c44481d3d4a-Q034|Áreas compuestas y simetría|14 / 34|ARG|Ancho completo|
+|18|USB-1c6462bf5377-Q021|Temperaturas positivas y negativas|11 / 21|IR|Dos columnas|
+|19|USB-04dc5257ed8b-Q011|Teorema de Pitágoras|4 / 11|FE|Dos columnas|
+|20|USB-1bc205e23b46-Q042|Representación algebraica de crecimiento|11 / 42|IR|Dos columnas|
+|21|USB-1bc205e23b46-Q041|Tarifas bancarias anuales|11 / 41|FE|Ancho completo|
+|22|USB-234fa4e3ddce-Q002|Representación de datos por ternas|2 / 2|IR|Dos columnas|
+|23|USB-04dc5257ed8b-Q013|Presupuesto y cambio|5 / 13|FE|Dos columnas|
+|24|USB-1c44481d3d4a-Q049|Dimensiones del volumen de pirámide|19 / 49|ARG|Dos columnas|
+|25|USB-04dc5257ed8b-Q021|Algoritmo aritmético|7 / 21|FE|Dos columnas|
+
+## Revisión de distribución mixta
+
+Propuesta actual: 19 preguntas en dos columnas y 6 a ancho completo (2, 5, 6, 8, 17 y 21). No es una cuota obligatoria ni una maquetación ya validada. Los formatos 1–6 se proponen con las capturas vistas; 7–25 son tentativos hasta inspeccionar el original. La 4 tiene un procedimiento largo: probar en columna y mantenerlo entero; si no es legible o no cabe, sustituir la candidata por otra compacta de argumentación en lugar de forzar el texto. Las preguntas 5–6 pueden compartir una página a ancho completo; no significan una página por pregunta. No asignar distribución por alternancia mecánica. Se conservan IDs, números y objetivos, sin cambiar los datos guardados del editor. Ajustar 1 y 3 manualmente a «Dos columnas con separador» y revisar paginación antes de aprobar.
 
 ## Maquetación
 

@@ -8,6 +8,19 @@ from editor_pdf import Interior, H, BOTTOM, matching_descriptions, BubbleRow
 
 
 class IntegrityTests(unittest.TestCase):
+    def test_export_requires_exactly_one_allowed_answer_letter(self):
+        for value in ('',None,'AB','BCD','A ','a',[],False,1):
+            with self.subTest(value=value):
+                project=demo_project()
+                project['questions'][0]['correct']=value
+                with self.assertRaisesRegex(ValueError,'clave válida'):
+                    validate_project(project,exporting=True)
+
+    def test_missing_answer_remains_saveable_as_draft(self):
+        project=demo_project()
+        project['questions'][0]['correct']=''
+        validate_project(project,exporting=False)
+
     def test_order_types_rejected_without_changing_project(self):
         for value in ('1', None, -1, 1.5, True):
             with self.subTest(value=value):

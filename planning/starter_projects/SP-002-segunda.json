@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "revision": 0,
+  "code": "SP-002",
+  "session": "second",
+  "time": "4 horas y 30 minutos",
+  "column_flow": "balanced",
+  "targets": {"mathematics": 25, "reading": null, "social": 25, "science": 29, "english": 55},
+  "area_headers": {},
+  "contexts": [],
+  "questions": []
+}

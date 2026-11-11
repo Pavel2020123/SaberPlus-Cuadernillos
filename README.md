@@ -4,6 +4,10 @@ Proyecto independiente para diseñar y generar cuadernillos de práctica en PDF.
 
 ## Punto de continuación actual
 
+Trabajo en equipo SP-001/SP-002/SP-003: [prompt para compañeros](planning/PROMPT_COMPANEROS_SP002_SP003.md), [registro global de preguntas usadas](planning/PREGUNTAS_USADAS_GLOBAL.json) y [cuatro proyectos iniciales vacíos](planning/starter_projects/). Cada simulacro tiene 254 puestos en dos sesiones (120/134); las 25 preguntas incluidas de Matemáticas de SP-001 están marcadas como usadas. El código USB de esas 25 fuentes está pendiente de cotejo. El coordinador actualiza el registro desde un JSON guardado con `tool/sync_used_questions.py` y comparte el commit antes del siguiente lote.
+
+Ecuaciones y composición: [uso y límites del motor matemático](docs/ECUACIONES_Y_MAQUETACION.md). Fórmulas vectoriales con raíces, fracciones, índices y sucesiones; opciones en cuadrícula y controles manuales sin migrar preguntas. Instala el entorno con `uv sync` y ejecuta `uv run --offline python -B tool/editor_server.py`.
+
 10 de noviembre: [matriz editorial SP-001 de las dos sesiones](docs/SP001_MATRIZ_COBERTURA.md). Plan de 254 puestos académicos (120/134), cuotas por objetivo, cruce de Ciencias y adaptación explícita de Inglés. El archivo `planning/SP001_MATRIZ_COBERTURA.json` es planificación, no un banco importable: todavía no tiene preguntas seleccionadas. Comenzar con el lote de cinco candidatos de Matemáticas indicado en esa matriz. La muestra de tamaños y el editor de prueba separado se describen en [EDITOR_LOCAL.md](docs/EDITOR_LOCAL.md).
 
 31 de octubre: consultar primero [cotejo de preguntas y pendientes reales](docs/COTEJO_PREGUNTAS_ESTADO_ACTUAL.md). Se consolidaron 70 fichas adicionales: quedan 2764 fichas académicas y 723 apariciones académicas exactas enlazadas. El índice editorial está en `output/cotejo_30/INDICE.html`, con copia en la USB. Aún no se certifican preguntas únicas ni existe un banco importable completo: quedan cotejos visuales, transcripción de contenido, revisión docente y permisos. Los conteos de cierre anteriores son históricos.

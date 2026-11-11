@@ -17,6 +17,8 @@ from reportlab.platypus import Paragraph, Image, Table, TableStyle, Spacer, Flow
 from PIL import Image as PILImage, ImageChops
 from editor_model import ROOT, AREAS, SESSIONS, validate_project, selected_questions, blank_assessment, range_heading
 from assessment_metadata import STATUS_LABELS
+from editor_math import math_paragraph
+from column_planner import column_chunk
 
 W, H = A4
 M, GAP, BOTTOM = 38, 22, 48
@@ -27,6 +29,10 @@ GRAY = colors.HexColor('#87909A')
 
 
 def para(text, size=10, bold=False):
+    if any(delimiter in str(text) for delimiter in ('\\(','\\)','\\[','\\]')):
+        return math_paragraph(text,ParagraphStyle('math-body',
+            fontName='Helvetica-Bold' if bold else 'Helvetica',fontSize=size,
+            leading=size*1.33,textColor=INK,spaceAfter=0))
     # Convert Unicode superscripts into real raised text supported by Helvetica.
     # Escape first: editorial text must never become arbitrary ReportLab markup.
     superscripts = '⁰¹²³⁴⁵⁶⁷⁸⁹ⁿⁱ⁺⁻⁼⁽⁾'
@@ -301,6 +307,7 @@ class Interior:
 
     def question_flows(self, q, number, matching=False):
         compact = (q['area']=='english' and q['part'] in (4,7)
+                   and q.get('options_layout','vertical')=='vertical'
                    and not q.get('introduction') and not q.get('image') and not any(o.get('image') for o in q['options']))
         if compact:
             cells=[para(str(number)+'.',10,True)]+[TrackedOption([para(letter+'. '+o.get('text',''),10)],self,letter==q['correct']) for letter,o in zip('ABCD',q['options'])]
@@ -317,22 +324,69 @@ class Interior:
         if q.get('image'):
             # A full-width block need not contain a full-width illustration.
             # Preserve proportions, with a smaller default for stacked questions.
-            flows += [picture(q['image'], min(width-18,300) if full else width-18,
+            flows += [picture(q['image'], min(width-18,q.get('image_width',300 if full else width-18)),
                               q.get('image_height',110 if full else 190),trim=True), Spacer(1, 5)]
         flows += [para(stem if introduction or q.get('image') else f'{number}.  '+stem), Spacer(1, 5)]
         if matching:
             flows += [para('Respuesta: A   B   C   D   E   F   G', 9)]
         else:
+            grid=q.get('options_layout','vertical')=='grid2'
+            option_width=(width-18)/2-12 if grid else width-18
+            options=[]
             for letter, option in zip('ABCD', q['options']):
                 option_flows=[para(letter+'.  '+option.get('text', ''))]
                 if option.get('image'):
-                    option_flows += [Spacer(1,4),picture(option['image'], width-18, 100)]
-                flows += [TrackedOption(option_flows,self,letter==q['correct']),Spacer(1,2)]
+                    option_flows += [Spacer(1,4),picture(option['image'], option_width, 120 if grid else 100)]
+                options.append(TrackedOption(option_flows,self,letter==q['correct']))
+            if grid:
+                rows=[options[i:i+2]+([''] if len(options[i:i+2])==1 else []) for i in range(0,len(options),2)]
+                table=Table(rows,colWidths=[(width-18)/2]*2)
+                table.setStyle(TableStyle([('VALIGN',(0,0),(-1,-1),'TOP'),
+                    ('LEFTPADDING',(0,0),(-1,-1),6),('RIGHTPADDING',(0,0),(-1,-1),6),
+                    ('TOPPADDING',(0,0),(-1,-1),5),('BOTTOMPADDING',(0,0),(-1,-1),5)]))
+                flows.append(table)
+            else:
+                for option in options:
+                    flows += [option,Spacer(1,2)]
         return flows, full, False
 
     def question_height(self, q, number):
         flows, full, _ = self.question_flows(q, number)
         return measure(flows, (WIDTH if full else CW)-18)+(12 if full else 18)
+
+    def column_group(self,items,numbers):
+        """Buffer one consecutive run; close both columns on one common rule."""
+        prepared=[(q,self.question_flows(q,numbers[q['id']])[0]) for q in items]
+        heights=[measure(flows,CW-18)+12 for _,flows in prepared]
+        mapping={};offset=0
+        while offset<len(prepared):
+            top=self.flush()
+            plan=column_chunk(heights[offset:],top-BOTTOM)
+            if plan is None:
+                self.newpage()
+                top=self.flush()
+                plan=column_chunk(heights[offset:],top-BOTTOM)
+            if plan is None:
+                raise ValueError('La pregunta '+str(numbers[items[offset]['id']])+
+                    ' no cabe completa en una columna. Usa ancho completo o un contexto; no se reducirá la letra.')
+            count,split,left,right=plan
+            for col,start,end in ((0,offset,offset+split),(1,offset+split,offset+count)):
+                y=top
+                for index in range(start,end):
+                    question,flows=prepared[index]
+                    draw(flows,self.c,M+col*(CW+GAP)+9,y-6,CW-18)
+                    mapping[question['id']]=self.page
+                    y-=heights[index]+10
+            bottom=top-max(left,right)
+            self.c.setStrokeColor(GRAY);self.c.setLineWidth(.45)
+            if count>split:
+                self.c.line(W/2,top,W/2,bottom)
+            self.c.line(M,bottom,W-M,bottom)
+            self.reset(bottom-10)
+            offset+=count
+            if offset<len(prepared):
+                self.newpage()
+        return mapping
 
     def shared_context(self, flows, first_question, number):
         reserve = self.question_height(first_question, number)+14
@@ -341,7 +395,27 @@ class Interior:
                              'Divide el contexto o elige ancho completo para la pregunta: '+first_question['id'])
         self.full(flows, True, reserve=reserve)
 
+    def side_context(self, flows, first_question, number):
+        """Start a shared reading on the left and its questions on the right."""
+        height = measure(flows, CW-18)+18
+        reserve = self.question_height(first_question, number)
+        if height > H-83-BOTTOM:
+            raise ValueError('La lectura compartida no cabe en una columna. Divídela en dos contextos o usa ancho completo.')
+        if reserve > H-83-BOTTOM:
+            raise ValueError('La primera pregunta del contexto no cabe en una columna.')
+        top = self.flush()
+        if top-max(height,reserve) < BOTTOM:
+            self.newpage()
+            top = self.flush()
+        draw(flows, self.c, M+9, top-9, CW-18)
+        self.reset(top)
+        self.ys[0] = top-height
+        self.used[0] = True
+        self.col = 1
+
     def question(self, q, number, matching=False):
+        if q.get('page_break_before') and (any(self.used) or min(self.ys)<H-65):
+            self.newpage()
         flows, full, compact = self.question_flows(q, number, matching)
         width = WIDTH if full else CW
         height = measure(flows, width-18)+18
@@ -350,6 +424,10 @@ class Interior:
         if full:
             self.full(flows, separator=not compact)
             return
+        if q.get('column_break_before'):
+            if self.col==1 and self.used[1]:
+                self.newpage()
+            self.col=1
         if self.ys[self.col]-height < BOTTOM:
             if self.col == 0:
                 self.col = 1
@@ -382,7 +460,7 @@ def matching_descriptions(book, members, numbers):
     return flows
 
 
-def context_flows(ctx, members, numbers, show_words=True):
+def context_flows(ctx, members, numbers, show_words=True, column=False):
     flows = []
     first, last = numbers[members[0]['id']], numbers[members[-1]['id']]
     if ctx.get('part'):
@@ -398,11 +476,11 @@ def context_flows(ctx, members, numbers, show_words=True):
     if text:
         flows += [para(text), Spacer(1, 8)]
     if ctx.get('image'):
-        flows += [picture(ctx['image'], WIDTH-18, 220), Spacer(1, 8)]
+        flows += [picture(ctx['image'], (CW if column else WIDTH)-18, 220), Spacer(1, 8)]
     if ctx.get('table'):
         rows = [line.split(';') for line in ctx['table'].strip().splitlines()]
         ncols = max(map(len, rows))
-        table = Table([[para(cell, 9) for cell in row]+['']*(ncols-len(row)) for row in rows], colWidths=[(WIDTH-18)/ncols]*ncols)
+        table = Table([[para(cell, 9) for cell in row]+['']*(ncols-len(row)) for row in rows], colWidths=[((CW if column else WIDTH)-18)/ncols]*ncols)
         table.setStyle(TableStyle([('GRID',(0,0),(-1,-1),.5,GRAY),('VALIGN',(0,0),(-1,-1),'TOP'),('BACKGROUND',(0,0),(-1,0),colors.HexColor('#EEF1F4')),('TOPPADDING',(0,0),(-1,-1),7),('BOTTOMPADDING',(0,0),(-1,-1),7)]))
         flows += [table, Spacer(1, 8)]
     if ctx.get('words') and show_words:
@@ -460,8 +538,15 @@ def generate(project, out, preview=False):
     book = Interior(out/'interior.pdf', project)
     last_area, seen, last_part = None, set(), None
     page_map={}
+    pending_columns=[]
+    side_context_id=None
+    def flush_columns():
+        if pending_columns:
+            page_map.update(book.column_group(pending_columns,numbers))
+            pending_columns.clear()
     for q in selected:
         if q['area'] != last_area:
+            flush_columns()
             header=project.get('area_headers',{}).get(q['area'],{})
             book.content_area=True
             book.newpage(AREAS[q['area']].upper(),show_area=False,
@@ -472,6 +557,11 @@ def generate(project, out, preview=False):
                 book.full([para(range_heading(header['instructions'],first,last),10)],reserve=120)
             last_area, last_part = q['area'], None
         cid = q.get('context')
+        use_band=(project.get('column_flow','sequential')=='balanced' and not cid
+                  and q['area']!='english' and q['layout'] in ('columns','boxed')
+                  and not q.get('page_break_before') and not q.get('column_break_before'))
+        if not use_band:
+            flush_columns()
         if cid and cid not in seen:
             members = [item for item in selected if item.get('context')==cid]
             matching=q['area']=='english' and q['part']==1
@@ -487,16 +577,29 @@ def generate(project, out, preview=False):
                 book.full(flows,False)
                 page_map.update({item['id']:book.page for item in members})
             else:
-                context = context_flows(ctxs[cid],members,numbers)
-                book.shared_context(context,q,numbers[q['id']])
+                side = ctxs[cid].get('layout')=='side_by_side'
+                context = context_flows(ctxs[cid],members,numbers,column=side)
+                if side:
+                    book.side_context(context,q,numbers[q['id']])
+                    side_context_id=cid
+                else:
+                    book.shared_context(context,q,numbers[q['id']])
             seen.add(cid)
             last_part = q.get('part')
         elif q['area']=='english' and q['part']!=last_part:
             book.full([para('PARTE '+str(q['part']),11,True)],reserve=105)
             last_part=q['part']
         if not (q['area']=='english' and q['part']==1):
-            book.question(q,numbers[q['id']])
-            page_map[q['id']]=book.page
+            if use_band:
+                pending_columns.append(q)
+            else:
+                book.question(q,numbers[q['id']])
+                page_map[q['id']]=book.page
+        if side_context_id and cid==side_context_id and q is members[-1]:
+            bottom=book.flush()
+            book.reset(bottom-12)
+            side_context_id=None
+    flush_columns()
     answer_sheet(book,selected,numbers)
     book.close()
     merged=fitz.open()

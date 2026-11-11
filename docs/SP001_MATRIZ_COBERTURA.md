@@ -1,6 +1,6 @@
 # SP-001: matriz editorial de las dos sesiones
 
-Fecha: 10 de noviembre de 2026. Estado: planificación acordada, sin preguntas seleccionadas.
+Fecha: 10 de noviembre de 2026. Estado de este archivo de planificación: 254 puestos creados sin asignaciones en su JSON. La copia de trabajo posterior ya contiene 25 preguntas incluidas de Matemáticas de primera sesión; su uso está documentado en `planning/PREGUNTAS_USADAS_GLOBAL.json`. El plan y el proyecto del editor son archivos distintos.
 
 Decisión vigente del usuario: usar exclusivamente preguntas presentes en su colección de PDF. No redactar preguntas nuevas ni cambiar datos para crear variantes. Las cinco propuestas originales preparadas antes quedan retiradas del plan activo; se conservan solo como antecedente. Selección inicial de fuentes en [SP001_LOTE01_FUENTES_PDF.md](../planning/SP001_LOTE01_FUENTES_PDF.md).
 

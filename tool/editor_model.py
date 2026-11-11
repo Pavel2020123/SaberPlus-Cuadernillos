@@ -49,6 +49,8 @@ def selected_questions(project):
 
 
 def validate_project(project, exporting=False):
+    if isinstance(project,dict) and project.get('column_flow','sequential') not in ('sequential','balanced'):
+        raise ValueError('Modo de columnas desconocido.')
     if not isinstance(project, dict) or project.get('schema') != 1:
         raise ValueError('Formato de proyecto desconocido.')
     if project.get('session') not in SESSIONS:
@@ -92,6 +94,10 @@ def validate_project(project, exporting=False):
                 raise ValueError('Usa una imagen cargada desde el editor.')
     by_id = {ctx['id']: ctx for ctx in contexts}
     for ctx in contexts:
+        if ctx.get('layout', 'full') not in ('full', 'side_by_side'):
+            raise ValueError('Distribución de lectura compartida desconocida.')
+        if ctx.get('layout') == 'side_by_side' and ctx['area'] == 'english':
+            raise ValueError('La lectura en columna izquierda no se aplica a Inglés.')
         heading = ctx.get('range_heading', '')
         if not isinstance(heading, str) or len(heading)>600:
             raise ValueError('La indicación del grupo admite hasta 600 caracteres.')
@@ -101,6 +107,21 @@ def validate_project(project, exporting=False):
         if not isinstance(ctx.get('source',''), str) or len(ctx.get('source',''))>1500:
             raise ValueError('La fuente del contexto admite hasta 1500 caracteres.')
     for q in questions:
+        catalog_id = q.get('catalog_id', '')
+        if catalog_id is None:
+            catalog_id = ''
+        if not isinstance(catalog_id, str) or (catalog_id and not re.fullmatch(r'USB-[a-f0-9]{12}-Q[0-9]{3}', catalog_id)):
+            raise ValueError(f'Pregunta {q["id"]}: el código de catálogo debe tener formato USB-xxxxxxxxxxxx-Q001.')
+        if q.get('options_layout','vertical') not in ('vertical','grid2'):
+            raise ValueError('Distribución de opciones desconocida.')
+        if 'page_break_before' in q and type(q['page_break_before']) is not bool:
+            raise ValueError('El salto de página debe ser una casilla activada o desactivada.')
+        if 'column_break_before' in q and type(q['column_break_before']) is not bool:
+            raise ValueError('El salto de columna debe ser una casilla activada o desactivada.')
+        if q.get('column_break_before') and q.get('layout')=='full':
+            raise ValueError('El salto a columna derecha requiere una pregunta en dos columnas.')
+        if 'image_width' in q and (type(q['image_width']) not in (int,float) or not 40 <= q['image_width'] <= 500):
+            raise ValueError('El ancho máximo de imagen debe estar entre 40 y 500 puntos.')
         if 'image_height' in q and (type(q['image_height']) not in (int,float) or not 40 <= q['image_height'] <= 240):
             raise ValueError('La altura máxima de imagen debe estar entre 40 y 240 puntos.')
         if type(q.get('order', 0)) is not int or q.get('order', 0) < 0:
@@ -109,6 +130,8 @@ def validate_project(project, exporting=False):
             if not isinstance(q.get(field, ''), str):
                 raise ValueError(f'Pregunta {q["id"]}: {field} debe ser texto.')
         ctx = by_id.get(q.get('context'))
+        if ctx and ctx.get('layout') == 'side_by_side' and q.get('layout') == 'full':
+            raise ValueError('Las preguntas junto a una lectura deben usar distribución en columnas.')
         if q.get('context') and (not ctx or ctx['area'] != q['area']):
             raise ValueError('El contexto debe existir y pertenecer al área de la pregunta.')
         if q.get('layout') not in ('columns', 'boxed', 'full'):
@@ -173,7 +196,7 @@ def validate_project(project, exporting=False):
                 if len(q['options']) != count or any(not o.get('text', '').strip() and not o.get('image') for o in q['options']):
                     raise ValueError(title + f': completa sus {count} opciones con texto o imagen.')
                 letters = 'ABCD'[:count]
-            if q.get('correct') not in letters:
+            if not isinstance(q.get('correct'),str) or len(q['correct'])!=1 or q['correct'] not in letters:
                 raise ValueError(title + ': selecciona una clave válida.')
             if not q.get('explanation', '').strip():
                 raise ValueError(title + ': falta la explicación para el docente.')

@@ -77,6 +77,27 @@ class PreviewHTTPTests(unittest.TestCase):
         with self.assertRaises(HTTPError) as error:self.post('/api/preview',{'project':new_project()},token='bad')
         self.assertEqual(error.exception.code,403)
 
+    def test_math_preview_uses_same_pdf_engine_without_saving(self):
+        project=demo_project()
+        q=next(q for q in project['questions'] if q['area']=='mathematics')
+        q['stem']=r'Calcula \(\frac{1}{\sqrt{x_1^2+1}}\).'
+        result=self.post('/api/preview',{'project':project})
+        self.assertFalse(server.STATE.exists())
+        raw=server.PREVIEWS[result['id']]
+        with pymupdf.open(stream=raw,filetype='pdf') as doc:
+            page=doc[result['page_map'][q['id']]-1]
+            self.assertGreater(len(page.get_drawings()),0)
+        with urlopen(self.url+f'/previews/{result["id"]}/{result["page_map"][q["id"]]}.png') as response:
+            self.assertTrue(response.read().startswith(b'\x89PNG'))
+
+    def test_invalid_math_is_400_not_saved_or_reported_as_success(self):
+        project=demo_project()
+        next(q for q in project['questions'] if q['area']=='mathematics')['stem']=r'\(\frac{a}\)'
+        with self.assertRaises(HTTPError) as error:
+            self.post('/api/preview',{'project':project})
+        self.assertEqual(error.exception.code,400)
+        self.assertFalse(server.STATE.exists())
+
     def test_live_assets_available(self):
         with urlopen(self.url+'/live.css') as response:self.assertEqual(response.status,200)
 

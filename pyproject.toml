@@ -1,0 +1,10 @@
+[project]
+name = "saberplus-cuadernillos"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+  "reportlab>=4.5.1,<5",
+  "pymupdf>=1.26,<2",
+  "pillow>=11,<13",
+  "matplotlib>=3.10,<4",
+]
