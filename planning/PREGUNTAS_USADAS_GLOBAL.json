@@ -873,6 +873,19 @@
       "inicio": "",
       "enunciado": "Diversas organizaciones de mujeres han impulsado la propuesta de establecer una licencia menstrual remunerada en Colombia. Esta iniciativa busca que las mujeres que experimenten síntomas que afectan su bienestar físico o emocional durante e",
       "huella_texto": "1b0cad6778a6bd4430118bb0aec82a22e7b818dd2e5a2a640210145f2e91c14c"
+    },
+    {
+      "simulacro": "SP-001",
+      "sesion": "primera",
+      "area": "social",
+      "numero_actual": 68,
+      "editor_id": "q-1a2f475b-de4d-4d9c-a3b8-b00cabe138a8",
+      "catalog_id": "USB-04dc5257ed8b-Q060",
+      "estado": "usada",
+      "tema": "Problemáticas sociales y políticas públicas",
+      "inicio": "",
+      "enunciado": "En una ciudad se discute cuál es la mejor manera de reducir el problema de la obesidad infantil, pues el número de casos de esta enfermedad ha ido aumentando significativamente en los últimos años. Al respecto, una organización internaciona",
+      "huella_texto": "946abece2cf71fd38ea5750b13ef66242fcd287a714218b0638b2ffd778cf225"
     }
   ],
   "reservas": []
