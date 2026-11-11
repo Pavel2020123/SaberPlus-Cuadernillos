@@ -860,6 +860,19 @@
       "inicio": "",
       "enunciado": "¿Qué tipo de estrategia argumentativa utiliza el autor para convencer al lector de su posición?",
       "huella_texto": "49c2e83d1b67b0282c8caee9ef0df009bb0e422296aa71e6b4572319feeac4ec"
+    },
+    {
+      "simulacro": "SP-001",
+      "sesion": "primera",
+      "area": "social",
+      "numero_actual": 67,
+      "editor_id": "q-82320654-1f43-4be9-ac55-748029936368",
+      "catalog_id": "USB-524d98b0a234-Q003",
+      "estado": "usada",
+      "tema": "Estado colombiano y participación democrática",
+      "inicio": "",
+      "enunciado": "Diversas organizaciones de mujeres han impulsado la propuesta de establecer una licencia menstrual remunerada en Colombia. Esta iniciativa busca que las mujeres que experimenten síntomas que afectan su bienestar físico o emocional durante e",
+      "huella_texto": "1b0cad6778a6bd4430118bb0aec82a22e7b818dd2e5a2a640210145f2e91c14c"
     }
   ],
   "reservas": []
