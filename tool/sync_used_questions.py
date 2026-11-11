@@ -11,7 +11,12 @@ def merge(ledger, project, session):
     current = list(ledger['preguntas'])
     by_owner = {(r['simulacro'], r['sesion'], r['editor_id']): r for r in current}
     incoming = records(project, session)
+    reserved = {r['catalog_id']: r for r in ledger.get('reservas', [])}
+    clashes = []
     for item in incoming:
+        reservation = reserved.get(item.get('catalog_id'))
+        if reservation and reservation['simulacro'] != item['simulacro']:
+            clashes.append((reservation, item, 'código reservado para otro simulacro'))
         key = (item['simulacro'], item['sesion'], item['editor_id'])
         old = by_owner.get(key)
         if old:
@@ -24,7 +29,6 @@ def merge(ledger, project, session):
         else:
             current.append(item)
             by_owner[key] = item
-    clashes = []
     for i, left in enumerate(current):
         for right in current[i + 1:]:
             if (left['simulacro'], left['sesion'], left['editor_id']) == (right['simulacro'], right['sesion'], right['editor_id']):

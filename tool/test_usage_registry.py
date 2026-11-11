@@ -55,6 +55,17 @@ class UsageRegistryTests(unittest.TestCase):
         _, clashes = merge({'preguntas': existing}, second, 'primera')
         self.assertIn('mismo código de catálogo', clashes[0][2])
 
+    def test_reservation_blocks_other_simulacro_but_not_owner(self):
+        code = 'USB-123456789abc-Q002'
+        ledger = {'preguntas': [], 'reservas': [{
+            'simulacro': 'SP-001', 'sesion': 'primera', 'numero_actual': 42,
+            'catalog_id': code,
+        }]}
+        _, clashes = merge(ledger, project('SP-002', 'q-b', code), 'primera')
+        self.assertIn('código reservado', clashes[0][2])
+        _, clashes = merge(ledger, project('SP-001', 'q-a', code), 'primera')
+        self.assertFalse(clashes)
+
 
 if __name__ == '__main__':
     unittest.main()

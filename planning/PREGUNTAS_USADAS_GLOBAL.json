@@ -536,5 +536,207 @@
       "enunciado": "Considere los siguientes dos fragmentos del texto:\n\n1. “Una de las teorías para aclarar cómo se pasó de la nada al Big Bang sería la de la fluctuación cuántica, que apunta que el vacío es inestable y permite la formación espontánea de burbu",
       "huella_texto": "d84ff1658601fc395dda09c0c54c9061953ec0e0f3c2ed7cc76944ecb839f479"
     }
+  ],
+  "reservas": [
+    {
+      "simulacro": "SP-001",
+      "sesion": "primera",
+      "area": "reading",
+      "numero_actual": 42,
+      "catalog_id": "USB-a170782eadcb-Q034",
+      "estado": "reservada"
+    },
+    {
+      "simulacro": "SP-001",
+      "sesion": "primera",
+      "area": "reading",
+      "numero_actual": 43,
+      "catalog_id": "USB-d4e43db6988a-Q060",
+      "estado": "reservada"
+    },
+    {
+      "simulacro": "SP-001",
+      "sesion": "primera",
+      "area": "reading",
+      "numero_actual": 44,
+      "catalog_id": "USB-d4e43db6988a-Q061",
+      "estado": "reservada"
+    },
+    {
+      "simulacro": "SP-001",
+      "sesion": "primera",
+      "area": "reading",
+      "numero_actual": 45,
+      "catalog_id": "USB-d4e43db6988a-Q062",
+      "estado": "reservada"
+    },
+    {
+      "simulacro": "SP-001",
+      "sesion": "primera",
+      "area": "reading",
+      "numero_actual": 46,
+      "catalog_id": "USB-d4e43db6988a-Q063",
+      "estado": "reservada"
+    },
+    {
+      "simulacro": "SP-001",
+      "sesion": "primera",
+      "area": "reading",
+      "numero_actual": 47,
+      "catalog_id": "USB-d4e43db6988a-Q064",
+      "estado": "reservada"
+    },
+    {
+      "simulacro": "SP-001",
+      "sesion": "primera",
+      "area": "reading",
+      "numero_actual": 48,
+      "catalog_id": "USB-04dc5257ed8b-Q023",
+      "estado": "reservada"
+    },
+    {
+      "simulacro": "SP-001",
+      "sesion": "primera",
+      "area": "reading",
+      "numero_actual": 49,
+      "catalog_id": "USB-04dc5257ed8b-Q024",
+      "estado": "reservada"
+    },
+    {
+      "simulacro": "SP-001",
+      "sesion": "primera",
+      "area": "reading",
+      "numero_actual": 50,
+      "catalog_id": "USB-04dc5257ed8b-Q025",
+      "estado": "reservada"
+    },
+    {
+      "simulacro": "SP-001",
+      "sesion": "primera",
+      "area": "reading",
+      "numero_actual": 51,
+      "catalog_id": "USB-a170782eadcb-Q064",
+      "estado": "reservada"
+    },
+    {
+      "simulacro": "SP-001",
+      "sesion": "primera",
+      "area": "reading",
+      "numero_actual": 52,
+      "catalog_id": "USB-a170782eadcb-Q065",
+      "estado": "reservada"
+    },
+    {
+      "simulacro": "SP-001",
+      "sesion": "primera",
+      "area": "reading",
+      "numero_actual": 53,
+      "catalog_id": "USB-d4e43db6988a-Q052",
+      "estado": "reservada"
+    },
+    {
+      "simulacro": "SP-001",
+      "sesion": "primera",
+      "area": "reading",
+      "numero_actual": 54,
+      "catalog_id": "USB-d4e43db6988a-Q053",
+      "estado": "reservada"
+    },
+    {
+      "simulacro": "SP-001",
+      "sesion": "primera",
+      "area": "reading",
+      "numero_actual": 55,
+      "catalog_id": "USB-04dc5257ed8b-Q035",
+      "estado": "reservada"
+    },
+    {
+      "simulacro": "SP-001",
+      "sesion": "primera",
+      "area": "reading",
+      "numero_actual": 56,
+      "catalog_id": "USB-04dc5257ed8b-Q036",
+      "estado": "reservada"
+    },
+    {
+      "simulacro": "SP-001",
+      "sesion": "primera",
+      "area": "reading",
+      "numero_actual": 57,
+      "catalog_id": "USB-a170782eadcb-Q054",
+      "estado": "reservada"
+    },
+    {
+      "simulacro": "SP-001",
+      "sesion": "primera",
+      "area": "reading",
+      "numero_actual": 58,
+      "catalog_id": "USB-d4e43db6988a-Q065",
+      "estado": "reservada"
+    },
+    {
+      "simulacro": "SP-001",
+      "sesion": "primera",
+      "area": "reading",
+      "numero_actual": 59,
+      "catalog_id": "USB-d4e43db6988a-Q066",
+      "estado": "reservada"
+    },
+    {
+      "simulacro": "SP-001",
+      "sesion": "primera",
+      "area": "reading",
+      "numero_actual": 60,
+      "catalog_id": "USB-04dc5257ed8b-Q041",
+      "estado": "reservada"
+    },
+    {
+      "simulacro": "SP-001",
+      "sesion": "primera",
+      "area": "reading",
+      "numero_actual": 61,
+      "catalog_id": "USB-04dc5257ed8b-Q042",
+      "estado": "reservada"
+    },
+    {
+      "simulacro": "SP-001",
+      "sesion": "primera",
+      "area": "reading",
+      "numero_actual": 62,
+      "catalog_id": "USB-04dc5257ed8b-Q043",
+      "estado": "reservada"
+    },
+    {
+      "simulacro": "SP-001",
+      "sesion": "primera",
+      "area": "reading",
+      "numero_actual": 63,
+      "catalog_id": "USB-04dc5257ed8b-Q044",
+      "estado": "reservada"
+    },
+    {
+      "simulacro": "SP-001",
+      "sesion": "primera",
+      "area": "reading",
+      "numero_actual": 64,
+      "catalog_id": "USB-04dc5257ed8b-Q045",
+      "estado": "reservada"
+    },
+    {
+      "simulacro": "SP-001",
+      "sesion": "primera",
+      "area": "reading",
+      "numero_actual": 65,
+      "catalog_id": "USB-04dc5257ed8b-Q052",
+      "estado": "reservada"
+    },
+    {
+      "simulacro": "SP-001",
+      "sesion": "primera",
+      "area": "reading",
+      "numero_actual": 66,
+      "catalog_id": "USB-04dc5257ed8b-Q053",
+      "estado": "reservada"
+    }
   ]
 }
