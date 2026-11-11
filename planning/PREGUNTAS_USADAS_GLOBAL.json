@@ -899,6 +899,19 @@
       "inicio": "",
       "enunciado": "Un grupo de mujeres está promoviendo ajustes curriculares al proyecto de educación sexual que se implementa en los colegios oficiales. Su objetivo es hacerlo más moderno y ajustado a las necesidades de los territorios. Como parte de los cam",
       "huella_texto": "e667e9156481802ae8366a4e2ae74735d50407cb09b453ab498c7276f0284744"
+    },
+    {
+      "simulacro": "SP-001",
+      "sesion": "primera",
+      "area": "social",
+      "numero_actual": 70,
+      "editor_id": "q-6caad445-c857-4cb1-a473-7424a1b09b3d",
+      "catalog_id": "USB-91836110f48e-Q068",
+      "estado": "usada",
+      "tema": "Estado, justicia y función pública",
+      "inicio": "",
+      "enunciado": "Una jueza de la República es asignada para resolver un conflicto por la propiedad de un parque que forma parte de un barrio. Los vecinos interponen una demanda judicial alegando que el parque pertenece a la junta de acción comunal y que, po",
+      "huella_texto": "5d4b0453836b2f6119ac62d6bcb28b1e278aa85dedcc5f2f894306061b03b180"
     }
   ],
   "reservas": []

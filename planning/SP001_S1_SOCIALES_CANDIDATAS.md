@@ -1,6 +1,8 @@
 # SP-001 · Sociales, primera sesión: 25 candidatas
 
-Selección propuesta el 11 de noviembre de 2026 para los puestos 67–91. **Las preguntas 67–69 están cargadas y registradas como usadas; las otras 22 siguen como candidatas sin reservar.** Cuotas editoriales: pensamiento social 8, interpretación y análisis de perspectivas 10, pensamiento reflexivo y sistémico 7. La competencia de cada fila es una propuesta del catálogo, no una validación final.
+Selección propuesta el 11 de noviembre de 2026 para los puestos 67–91. **Las preguntas 67–70 están cargadas y registradas como usadas; las otras 21 siguen como candidatas sin reservar.** Cuotas editoriales: pensamiento social 8, interpretación y análisis de perspectivas 10, pensamiento reflexivo y sistémico 7. La competencia de cada fila es una propuesta del catálogo, no una validación final.
+
+La pregunta 70 (`USB-91836110f48e-Q068`) se guardó en la revisión 45 con clave A, ancho completo y pensamiento social. Conserva el caso y las cuatro opciones entregadas por el usuario; afirmación y evidencia sin seleccionar.
 
 La pregunta 69 (`USB-524d98b0a234-Q001`) se guardó en la revisión 44 con clave C, ancho completo y pensamiento reflexivo y sistémico. Conserva la referencia bibliográfica completa entre el caso y la pregunta, dentro del enunciado. Pendiente de plantilla: campo de fuente para preguntas individuales y tamaño menor para la cita; no se simula con HTML dentro del texto. Afirmación y evidencia quedan sin seleccionar.
 
