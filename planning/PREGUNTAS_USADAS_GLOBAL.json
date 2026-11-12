@@ -860,6 +860,58 @@
       "inicio": "",
       "enunciado": "¿Qué tipo de estrategia argumentativa utiliza el autor para convencer al lector de su posición?",
       "huella_texto": "49c2e83d1b67b0282c8caee9ef0df009bb0e422296aa71e6b4572319feeac4ec"
+    },
+    {
+      "simulacro": "SP-001",
+      "sesion": "primera",
+      "area": "social",
+      "numero_actual": 67,
+      "editor_id": "q-82320654-1f43-4be9-ac55-748029936368",
+      "catalog_id": "USB-524d98b0a234-Q003",
+      "estado": "usada",
+      "tema": "Estado colombiano y participación democrática",
+      "inicio": "",
+      "enunciado": "Diversas organizaciones de mujeres han impulsado la propuesta de establecer una licencia menstrual remunerada en Colombia. Esta iniciativa busca que las mujeres que experimenten síntomas que afectan su bienestar físico o emocional durante e",
+      "huella_texto": "1b0cad6778a6bd4430118bb0aec82a22e7b818dd2e5a2a640210145f2e91c14c"
+    },
+    {
+      "simulacro": "SP-001",
+      "sesion": "primera",
+      "area": "social",
+      "numero_actual": 68,
+      "editor_id": "q-1a2f475b-de4d-4d9c-a3b8-b00cabe138a8",
+      "catalog_id": "USB-04dc5257ed8b-Q060",
+      "estado": "usada",
+      "tema": "Problemáticas sociales y políticas públicas",
+      "inicio": "",
+      "enunciado": "En una ciudad se discute cuál es la mejor manera de reducir el problema de la obesidad infantil, pues el número de casos de esta enfermedad ha ido aumentando significativamente en los últimos años. Al respecto, una organización internaciona",
+      "huella_texto": "946abece2cf71fd38ea5750b13ef66242fcd287a714218b0638b2ffd778cf225"
+    },
+    {
+      "simulacro": "SP-001",
+      "sesion": "primera",
+      "area": "social",
+      "numero_actual": 69,
+      "editor_id": "q-8169ab66-79c5-4bd7-8169-6014ff652017",
+      "catalog_id": "USB-524d98b0a234-Q001",
+      "estado": "usada",
+      "tema": "Diversidad cultural y políticas educativas",
+      "inicio": "",
+      "enunciado": "Un grupo de mujeres está promoviendo ajustes curriculares al proyecto de educación sexual que se implementa en los colegios oficiales. Su objetivo es hacerlo más moderno y ajustado a las necesidades de los territorios. Como parte de los cam",
+      "huella_texto": "e667e9156481802ae8366a4e2ae74735d50407cb09b453ab498c7276f0284744"
+    },
+    {
+      "simulacro": "SP-001",
+      "sesion": "primera",
+      "area": "social",
+      "numero_actual": 70,
+      "editor_id": "q-6caad445-c857-4cb1-a473-7424a1b09b3d",
+      "catalog_id": "USB-91836110f48e-Q068",
+      "estado": "usada",
+      "tema": "Estado, justicia y función pública",
+      "inicio": "",
+      "enunciado": "Una jueza de la República es asignada para resolver un conflicto por la propiedad de un parque que forma parte de un barrio. Los vecinos interponen una demanda judicial alegando que el parque pertenece a la junta de acción comunal y que, po",
+      "huella_texto": "5d4b0453836b2f6119ac62d6bcb28b1e278aa85dedcc5f2f894306061b03b180"
     }
   ],
   "reservas": []
