@@ -1,6 +1,6 @@
 # SP-001 · Primera sesión · 41 candidatas de Lectura crítica
 
-Estado: las preguntas 26–41 están cargadas en el proyecto local y marcadas como usadas en el registro compartido con sus códigos USB. Por decisión del propietario, los códigos 42–66 están reservados para SP-001 aunque todavía no estén montados. Ninguno de los 41 códigos está disponible para SP-002 o SP-003. Metas: información local 10, sentido global 17, reflexión/evaluación 14. Son procesos/objetivos de una competencia lectora, no tres competencias oficiales.
+Estado histórico: esta fue la primera lista de 41 candidatas y sus números previos; no representa la selección final. La decisión posterior es incluir todos los ítems de cada lectura seleccionada. El proyecto local tiene ahora 41 preguntas de Lectura con numeración 26–66; el registro compartido marca 41 códigos como usados y no conserva las seis reservas descartadas. Consulta [grupos completos](SP001_S1_LECTURA_GRUPOS_COMPLETOS.md) para el estado vigente. Los códigos de esta lista que no están en el registro usado pueden proponerse de nuevo tras cotejo. Metas: información local 10, sentido global 17, reflexión/evaluación 14; son objetivos editoriales de una competencia lectora, no tres competencias oficiales.
 
 Se inspeccionaron las páginas físicas pertinentes de tres PDF escaneados. Las clasificaciones y claves son propuestas del catálogo que deben verificarse al transcribir. En las 41 fichas no hay alertas de clave, claves vacías, conflictos documentados de clave ni apariciones exactas repetidas dentro de esta selección. Aún hay cotejos de posibles variantes pendientes: esta lista no certifica unicidad absoluta.
 
@@ -52,7 +52,7 @@ Se inspeccionaron las páginas físicas pertinentes de tres PDF escaneados. Las 
 
 Crear una lectura/contexto por cada cambio de nombre en «Lectura compartida». Mantener juntas las preguntas y usar `{{desde}}`/`{{hasta}}` en el encabezado. Aunque se seleccionen solo algunas preguntas originales, conservar el texto o la infografía completos. «Petrícor» y el cómic de «filosofía» necesitan imágenes legibles; no copiar encabezados, marcas ni resaltados del PDF fuente.
 
-Las primeras cinco coinciden con `planning/SP001_S1_LECTURA_CANDIDATAS_05.md`. El registro global incluye las primeras 16 preguntas de esta lista (26–41) como usadas; los códigos se cotejaron por número y clave con el JSON guardado. Los 25 códigos restantes (42–66) figuran como reservas de SP-001, no como preguntas ya transcritas. El proyecto local solo tiene escrito el código USB de la pregunta 26; para las demás, el registro es la referencia compartida hasta completar el campo en el editor.
+Las primeras cinco coinciden con `planning/SP001_S1_LECTURA_CANDIDATAS_05.md`. Esta tabla conserva el orden de la primera selección y no debe usarse para numerar el proyecto actual: se insertaron seis preguntas que completan lecturas ya seleccionadas. El registro y el proyecto guardado contienen los códigos vigentes; el plan original quedó como antecedente.
 
 ## Páginas inspeccionadas
 

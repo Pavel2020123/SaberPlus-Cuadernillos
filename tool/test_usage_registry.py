@@ -2,7 +2,7 @@ import copy
 import unittest
 
 from editor_model import blank_assessment, new_project, validate_project
-from sync_used_questions import merge
+from sync_used_questions import merge, remaining_reservations
 
 
 def project(code, question_id, catalog_id=''):
@@ -65,6 +65,16 @@ class UsageRegistryTests(unittest.TestCase):
         self.assertIn('código reservado', clashes[0][2])
         _, clashes = merge(ledger, project('SP-001', 'q-a', code), 'primera')
         self.assertFalse(clashes)
+
+    def test_loaded_question_clears_only_its_own_reservation(self):
+        code = 'USB-123456789abc-Q002'
+        ledger = {'preguntas': [], 'reservas': [
+            {'simulacro': 'SP-001', 'catalog_id': code},
+            {'simulacro': 'SP-002', 'catalog_id': 'USB-123456789abc-Q003'},
+        ]}
+        used, clashes = merge(ledger, project('SP-001', 'q-a', code), 'primera')
+        self.assertFalse(clashes)
+        self.assertEqual(remaining_reservations(ledger, used), [ledger['reservas'][1]])
 
 
 if __name__ == '__main__':
