@@ -2,6 +2,31 @@
 
 Estado: primer editor funcional para pruebas editoriales, independiente de la app y el backend.
 
+## Trabajar al mismo tiempo · SP-003
+
+Dos ventanas del mismo proyecto no se sincronizan en vivo: cada guardado envía el JSON completo. Para que el usuario trabaje otra área mientras el asistente carga Matemáticas, se habilitó un segundo editor independiente:
+
+| Ventana | Uso acordado | Proyecto guardado |
+| --- | --- | --- |
+| http://127.0.0.1:4185/ | Proyecto principal; Matemáticas a cargo del asistente durante sus cargas. | `data/project.json` |
+| http://127.0.0.1:4186/ | Trabajo del usuario en Lectura, Sociales o Ciencias. | `data/parallel/SP-003-usuario-4186/project.json` |
+
+En 4186 aparece **TU ESPACIO · EDICIÓN PARALELA** y el título de pestaña «Tu trabajo paralelo». Se inició con el JSON vacío de SP-003, primera sesión, 270 minutos; no contiene copias de las 16 preguntas de Matemáticas ni ejemplos. Elegir el área en **Área del banco**, crear sus preguntas y usar **Guardar proyecto**. Descargar periódicamente el respaldo desde **Distribución prevista y respaldo del proyecto → Descargar proyecto JSON**.
+
+La numeración que aparece en ese editor corresponde a su selección local; la definitiva se recalcula al integrar las áreas. No hace falta añadir preguntas vacías de Matemáticas para que Lectura comience en 26. La integración posterior debe reunir preguntas y contextos de ambos proyectos, comprobar códigos/duplicados y revisar los PDF; **importar el JSON paralelo sobre el principal reemplazaría el proyecto**, no lo combina. El asistente no modifica la ventana del usuario mientras este trabaja allí.
+
+Para volver a abrir el segundo editor desde la raíz, si dejó de estar activo:
+
+```powershell
+uv run --offline python -B tool/editor_parallel.py --port 4186 --workspace SP-003-usuario
+```
+
+Al abrirlo de nuevo conserva el proyecto existente y sus respaldos. Cambiar el nombre del espacio o el puerto crea una ubicación distinta; conservar esos parámetros para continuar el mismo trabajo. No iniciar `editor_server.py --port 4186` para esta tarea: cambiar solamente el puerto mantiene el `data/project.json` principal y no aísla el guardado. No reiniciar el editor 4185 mientras haya ediciones sin guardar.
+
+El lanzador `tool/editor_parallel.py` solo escucha en loopback, limita los nombres de espacio y asigna carpetas distintas por espacio/puerto. Cada proceso mantiene su token local y revisión independientes. Sus respaldos se guardan dentro de su propia carpeta; `data/parallel/` está excluida de Git. Las imágenes y las exportaciones conservan el almacén habitual con nombres UUID independientes; los guardados no sustituyen recursos ajenos.
+
+Verificación: cuatro pruebas en `tool/test_editor_parallel.py` comprueban separación de rutas/revisiones/respaldos, conservación al reabrir y rechazo de plantillas con preguntas. Se comprobaron las dos rutas HTTP, el rótulo de la ventana paralela y el rechazo en 4186 del token de 4185 sin escribir datos. El principal mantuvo las 16 preguntas y su archivo no cambió. No se afirma una prueba completa de clics en navegador.
+
 ## Clasificación editorial sin requisito docente
 
 Decisión del usuario, 10 de noviembre de 2026: el equipo SaberPlus clasifica las preguntas. Se elimina del formulario el selector «Propuesta para revisión / Revisada por docente» y los campos de responsable/fecha de revisión. En su lugar, «Añadir clasificación por competencia» permite registrar competencia, afirmación/evidencia y justificación, sin aprobación externa obligatoria.
