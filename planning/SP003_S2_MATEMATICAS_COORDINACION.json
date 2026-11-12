@@ -103,6 +103,56 @@
       "numero_original": 32,
       "competencia": "interpretation",
       "estado": "seleccion_autorizada_para_revision_y_carga_por_lotes"
+    },
+    {
+      "numero_area": 11,
+      "numero_sesion": 36,
+      "catalog_id": "USB-578d9b20297e-Q043",
+      "pdf": "Referencia_Sesion-2_Ano-por-confirmar_Sin-portada_77322_USB-578d9b20297e.pdf",
+      "pagina_fisica": 16,
+      "numero_original": 43,
+      "competencia": "execution",
+      "estado": "seleccion_autorizada_para_revision_y_carga_por_lotes"
+    },
+    {
+      "numero_area": 12,
+      "numero_sesion": 37,
+      "catalog_id": "USB-524d98b0a234-Q040",
+      "pdf": "2026-2-ABJ2_USB-524d98b0a234.pdf",
+      "pagina_fisica": 15,
+      "numero_original": 40,
+      "competencia": "argumentation",
+      "estado": "seleccion_autorizada_para_revision_y_carga_por_lotes"
+    },
+    {
+      "numero_area": 13,
+      "numero_sesion": 38,
+      "catalog_id": "USB-578d9b20297e-Q037",
+      "pdf": "Referencia_Sesion-2_Ano-por-confirmar_Sin-portada_77322_USB-578d9b20297e.pdf",
+      "pagina_fisica": 13,
+      "numero_original": 37,
+      "competencia": "interpretation",
+      "estado": "seleccion_autorizada_para_revision_y_carga_por_lotes"
+    },
+    {
+      "numero_area": 14,
+      "numero_sesion": 39,
+      "catalog_id": "USB-e4489f150183-Q036",
+      "pdf": "2026-1_USB-e4489f150183.pdf",
+      "pagina_fisica": 14,
+      "numero_original": 36,
+      "competencia": "execution",
+      "estado": "seleccion_autorizada_para_revision_y_carga_por_lotes"
+    },
+    {
+      "numero_area": 15,
+      "numero_sesion": 40,
+      "catalog_id": "USB-524d98b0a234-Q043",
+      "pdf": "2026-2-ABJ2_USB-524d98b0a234.pdf",
+      "pagina_fisica": 16,
+      "numero_original": 43,
+      "competencia": "argumentation",
+      "estado": "seleccion_autorizada_para_revision_y_carga_por_lotes"
     }
   ]
 }

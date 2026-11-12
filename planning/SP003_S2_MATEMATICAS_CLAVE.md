@@ -14,3 +14,8 @@ Selección y razonamiento editorial SaberPlus. No entregar con el cuadernillo de
 | 8 / 33 | `USB-7882c8f9ae2f-Q026` | B | 1/4 + 2/4 = 3/4 = 0,75; el participante 2 también obtiene ese resultado. |
 | 9 / 34 | `USB-578d9b20297e-Q034` | B | (66 + 69 + 90)/300 × 100 = 75 %. |
 | 10 / 35 | `USB-578d9b20297e-Q032` | D | Perímetro × altura es área lateral; multiplicar por $1/cm² da el costo del cartón. |
+| 11 / 36 | `USB-578d9b20297e-Q043` | C | Entre H=(1,−2) y K=(0,0), m=(0+2)/(0−1)=−2. |
+| 12 / 37 | `USB-524d98b0a234-Q040` | B | La luz 2 ilumina solo 95 % del cuadro, por lo que no cumple la exigencia de totalidad. |
+| 13 / 38 | `USB-578d9b20297e-Q037` | C | La fórmula es 150(minutos) − 0,05(consumo); necesita minutos y consumo. |
+| 14 / 39 | `USB-e4489f150183-Q036` | A | 50 × 0,40 = 20 toneladas. |
+| 15 / 40 | `USB-524d98b0a234-Q043` | B | 2 × 10⁻⁷ es menor que 2 × 10⁻⁶; X tiene menor diámetro. |
