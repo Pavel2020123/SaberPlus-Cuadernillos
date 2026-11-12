@@ -19,3 +19,8 @@ Material separado del estudiante. Selección autorizada por el usuario; pendient
 | 13 | `USB-524d98b0a234-Q020` | D | Usuarios pierden acceso al servicio prohibido;taxistas tradicionales no pierden por esa prohibicion. |
 | 14 | `USB-578d9b20297e-Q002` | B | La mujer promueve asociacion, atencion psicosocial y restitucion; eso caracteriza liderazgo social, no partido o sindicato. |
 | 15 | `USB-578d9b20297e-Q003` | C | Bailarinas y actrices comparten trabajo corporal y destrezas escenicas invisibilizadas, mas directamente que las otras profesiones. |
+| 16 | `USB-7b48857ae6bc-Q067` | D | Pedro rechaza el exceso, que es la condicion de riesgo formulada en el contexto; los otros cambian la premisa. |
+| 17 | `USB-77cc8ac26d2c-Q073` | C | La Constitucion prohibe pena de muerte en supuesto del ejercicio;alcalde no puede volverla ley por utilidad. |
+| 18 | `USB-7882c8f9ae2f-Q001` | C | La reducción británica de emisiones aún incompleta conecta directamente con el reclamo de ir más allá de reducciones parciales. |
+| 19 | `USB-7882c8f9ae2f-Q003` | B | Atribuir formación en valores solo a madres presupone responsabilidad exclusiva de ellas y excluye otros cuidadores. |
+| 20 | `USB-1c44481d3d4a-Q016` | C | La participacion de muchos politicos no demuestra que todos deban ser corruptos. |

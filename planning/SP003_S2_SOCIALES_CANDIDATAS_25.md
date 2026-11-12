@@ -4,7 +4,7 @@
 
 El usuario confirmó la carga de las cinco iniciales y después pidió: «Encargate primero de un area completa». Se continúa exclusivamente Sociales, con meta de 25. La revisión individual del usuario queda para después de la carga; esta autorización no atribuye validación externa ni exclusividad automática frente al otro equipo.
 
-Este documento publica **15 selecciones** en lotes de cinco antes de transcribir cada nuevo lote. Estado actual del editor y entrega: consultar el informe de carga al finalizar; selección publicada no significa todavía carga terminada.
+Este documento publica **20 selecciones** en lotes de cinco antes de transcribir cada nuevo lote. Estado actual del editor y entrega: consultar el informe de carga al finalizar; selección publicada no significa todavía carga terminada.
 
 | Puesto de área y sesión | Código original | Fuente / física / n.º original | Tema y subtema de catálogo | Competencia propuesta y razón | Contexto / imagen |
 | --- | --- | --- | --- | --- | --- |
@@ -23,6 +23,11 @@ Este documento publica **15 selecciones** en lotes de cinco antes de transcribir
 | 13 | `USB-524d98b0a234-Q020` | `2026-2-ABJ2_USB-524d98b0a234.pdf` / 7 / 20 | Efecto de prohibicion de plataforma de transporte | Pensamiento reflexivo y sistemico: Usuarios pierden acceso al servicio prohibido;taxistas tradicionales no pierden por esa prohibicion. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
 | 14 | `USB-578d9b20297e-Q002` | `Referencia_Sesion-2_Ano-por-confirmar_Sin-portada_77322_USB-578d9b20297e.pdf` / 1 / 2 | Liderazgo social y derechos de victimas | Pensamiento social: La mujer promueve asociacion, atencion psicosocial y restitucion; eso caracteriza liderazgo social, no partido o sindicato. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
 | 15 | `USB-578d9b20297e-Q003` | `Referencia_Sesion-2_Ano-por-confirmar_Sin-portada_77322_USB-578d9b20297e.pdf` / 1 / 3 | Transferencia de argumento sobre desigualdad de genero | Interpretacion y analisis de perspectivas: Bailarinas y actrices comparten trabajo corporal y destrezas escenicas invisibilizadas, mas directamente que las otras profesiones. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
+| 16 | `USB-7b48857ae6bc-Q067` | `Referencia_Sesion-1_Ano-por-confirmar_Sin-portada_USB-7b48857ae6bc.pdf` / 22 / 67 | Afinidad entre argumentos sobre consumo moderado | Interpretacion y analisis de perspectivas: Pedro rechaza el exceso, que es la condicion de riesgo formulada en el contexto; los otros cambian la premisa. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
+| 17 | `USB-77cc8ac26d2c-Q073` | `2026-2-ACN1_USB-77cc8ac26d2c.pdf` / 34 / 73 | Limite constitucional a pena de muerte | Pensamiento social: La Constitucion prohibe pena de muerte en supuesto del ejercicio;alcalde no puede volverla ley por utilidad. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
+| 18 | `USB-7882c8f9ae2f-Q001` | `ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf` / 2 / 1 | Pertinencia de evidencia sobre mitigación climática | Interpretación y análisis de perspectivas: La reducción británica de emisiones aún incompleta conecta directamente con el reclamo de ir más allá de reducciones parciales. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
+| 19 | `USB-7882c8f9ae2f-Q003` | `ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf` / 2 / 3 | Prejuicio de género en explicación investigativa | Interpretación y análisis de perspectivas: Atribuir formación en valores solo a madres presupone responsabilidad exclusiva de ellas y excluye otros cuidadores. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
+| 20 | `USB-1c44481d3d4a-Q016` | `Referencia_2026-1-declarado_Sesion-2_ABV2_USB-1c44481d3d4a.pdf` / 7 / 16 | Limites de generalizacion desde casos de corrupcion | Interpretacion y analisis de perspectivas: La participacion de muchos politicos no demuestra que todos deban ser corruptos. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
 
 El enunciado completo, opciones y clasificación efectiva se guardan en el JSON local. Los temas de esta tabla son descriptores de localización, no afirmaciones o evidencias oficiales. Todos los recursos son texto; no se fabrican imágenes ni se reducen letras para ajustar páginas. Los puestos coinciden con 1–25 de la segunda sesión porque Sociales es el área inicial.
 
@@ -36,6 +41,8 @@ Las páginas originales se abrieron, se renderizaron y se leyeron; sus SHA-256 c
 | --- | --- |
 | `USB-1c44481d3d4a-Q018` | `USB-77cc8ac26d2c-Q074` |
 | `USB-91836110f48e-Q071` | `USB-295a0508d0cf-Q084` |
+| `USB-7b48857ae6bc-Q067` | `USB-b39f1fd42a79-Q067` |
+| `USB-1c44481d3d4a-Q016` | `USB-295a0508d0cf-Q087`, `USB-77cc8ac26d2c-Q071` |
 
 El par pendiente entre `USB-295a0508d0cf-Q087` y `USB-8e6cf8399239-Q077` se abrió y **no se consideró la misma pregunta**: el primero evalúa una generalización desde un caso transnacional y el segundo la pertinencia de un fragmento sobre el cartel de Cali para investigar corrupción. Comparten tema, pero difieren contexto, tarea y opciones. No se alteró el catálogo global.
 
