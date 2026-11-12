@@ -134,8 +134,9 @@ def validate_project(project, exporting=False):
             raise ValueError('El salto a columna derecha requiere una pregunta en dos columnas.')
         if 'image_width' in q and (type(q['image_width']) not in (int,float) or not 40 <= q['image_width'] <= 500):
             raise ValueError('El ancho máximo de imagen debe estar entre 40 y 500 puntos.')
-        if 'image_height' in q and (type(q['image_height']) not in (int,float) or not 40 <= q['image_height'] <= 240):
-            raise ValueError('La altura máxima de imagen debe estar entre 40 y 240 puntos.')
+        image_limit = 400 if q.get('layout') == 'full' else 240
+        if 'image_height' in q and (type(q['image_height']) not in (int,float) or not 40 <= q['image_height'] <= image_limit):
+            raise ValueError(f'La altura máxima de imagen debe estar entre 40 y {image_limit} puntos (hasta 400 con ancho completo).')
         if type(q.get('order', 0)) is not int or q.get('order', 0) < 0:
             raise ValueError(f'Pregunta {q["id"]}: el orden debe ser un entero no negativo.')
         for field in ('topic', 'subtopic', 'introduction'):

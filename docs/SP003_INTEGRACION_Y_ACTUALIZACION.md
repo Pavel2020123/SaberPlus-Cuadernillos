@@ -1,5 +1,7 @@
 # SP-003 · Integración y actualización · 12 de noviembre de 2026
 
+**Actualización posterior:** la primera sesión ya reúne **120 preguntas, revisión 23**. Ver [entrega actual, códigos y controles](../planning/SP003_S1_SESION_UNIFICADA.md). La integración de 66 y el paquete `handoff/SP003_primera/` descritos aquí son antecedentes: no importarlos para reemplazar el principal actual. El nuevo paquete completo con imágenes está en la carpeta local de exportación indicada en el informe.
+
 Se unificaron las 25 preguntas de Matemáticas del asistente y las 41 de Lectura crítica terminadas por el usuario. El principal local `data/project.json` tiene revisión 18, 66 preguntas y 13 contextos. Matemáticas ocupa 1–25 y Lectura 26–66. Se conservaron exactamente los registros de ambas áreas, incluidos textos, imágenes, opciones, claves, explicaciones, clasificación y orden. La pregunta 11 de Matemáticas permanece intacta.
 
 El original paralelo `data/parallel/SP-003-usuario-4186/project.json` conserva sus 41 preguntas, 13 contextos y revisión 3; su archivo no cambió. Hay copias de ambos originales en `tmp/sp003/integracion-20261112/`, además del respaldo automático del principal. El principal adopta las cantidades previstas y el flujo de columnas guardados por el usuario. Aún faltan las 25 de Sociales y las 29 de Ciencias para los 120 puestos de primera sesión.

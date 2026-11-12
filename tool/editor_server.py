@@ -53,6 +53,10 @@ def save(project, expected):
 
 
 class Handler(BaseHTTPRequestHandler):
+    # Content-Length is sent on every response. Keeping HTTP/1.1 connections
+    # open avoids a premature socket reset during large downloads on Windows.
+    protocol_version = 'HTTP/1.1'
+
     def response(self, value, status=200):
         raw=json.dumps(value,ensure_ascii=False).encode('utf-8')
         self.send_response(status)
@@ -116,11 +120,21 @@ class Handler(BaseHTTPRequestHandler):
         self.send_header('Cache-Control','no-store')
         self.send_header('X-Content-Type-Options','nosniff')
         self.end_headers()
-        self.wfile.write(raw)
+        for offset in range(0,len(raw),64*1024):
+            self.wfile.write(raw[offset:offset+64*1024])
 
     def do_POST(self):
         origin=self.headers.get('Origin')
         if not self.trusted() or self.headers.get('X-Local-Token')!=TOKEN or (origin and origin not in (f'http://127.0.0.1:{self.server.server_port}',f'http://localhost:{self.server.server_port}')):
+            # Do not leave the request body to be interpreted as a new request
+            # on a persistent connection. No unauthorised payload is processed.
+            self.close_connection = True
+            try:
+                size = int(self.headers.get('Content-Length','0'))
+                if 0 < size <= 8*1024*1024:
+                    self.rfile.read(size)
+            except ValueError:
+                pass
             return self.response({'error':'Petición local no autorizada. Recarga el editor.'},403)
         try:
             size=int(self.headers.get('Content-Length','0'))

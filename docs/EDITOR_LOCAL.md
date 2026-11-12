@@ -4,6 +4,8 @@ Estado: primer editor funcional para pruebas editoriales, independiente de la ap
 
 ## Trabajar al mismo tiempo · SP-003
 
+**Estado posterior a la reanudación del 12 de noviembre:** por autorización del usuario, el principal 4185 reúne ahora la primera sesión completa, **120 preguntas, revisión 23**, incluidas Ciencias 29 y Sociales 25. Los espacios 4186/4187 conservan sus archivos históricos independientes. Ver [entrega y pendientes](../planning/SP003_S1_SESION_UNIFICADA.md). Los repartos de trabajo que siguen son antecedentes.
+
 **Nuevo reparto del 12 de noviembre:** el usuario continúa Ciencias en el principal **4185**. El asistente terminó Sociales en un tercer espacio independiente, **http://127.0.0.1:4187/**, `data/parallel/SP-003-sociales-4187/project.json`, revisión 5, 25 preguntas. Para reabrirlo: `uv run --offline python -B tool/editor_parallel.py --port 4187 --workspace SP-003-sociales`. Su revisión y posterior integración están pendientes; no importar su JSON sobre el principal. El antiguo espacio 4186 conserva Lectura y no se modificó. Ver [informe de Sociales](../planning/SP003_S1_SOCIALES_CARGA.md).
 
 Dos ventanas del mismo proyecto no se sincronizan en vivo: cada guardado envía el JSON completo. Para que el usuario trabaje otra área mientras el asistente carga Matemáticas, se habilitó un segundo editor independiente:
@@ -119,7 +121,7 @@ Para experimentar con la muestra: abrir **Distribución prevista y respaldo del 
 - Desde una pregunta se puede **Crear y vincular lectura / contexto**, o **Editar contexto vinculado**. Las demás preguntas se vinculan al mismo contexto mediante el selector. No duplicar la lectura por cada pregunta.
 - Orden por perfil de sesión y por parte de inglés; contextos contiguos y numeración final automática. Perfil editorial basado en referencias, no garantía de distribución oficial vigente.
 - Asociación A–G con banco común; espacios con opciones A–C o A–D; lecturas compartidas. En huecos usar `{{h1}}` y asignar `h1` al ítem. Deben coincidir los huecos y los ítems incluidos.
-- Enunciados, opciones e imágenes se miden antes de dibujar. Un bloque que excede la página produce un aviso; hay que dividir el contexto o elegir ancho completo. No existe aún división automática de lecturas largas ni ajuste manual de saltos.
+- Enunciados, opciones e imágenes se miden antes de dibujar. Los párrafos de contextos de ancho completo que exceden una página se dividen al exportar, con aviso de continuación, sin modificar el contexto guardado ni sus vínculos. Las imágenes y otros recursos indivisibles excesivos producen un error explícito; las lecturas laterales conservan su límite de una columna. Las figuras de preguntas admiten 40–240 puntos de altura en columnas y hasta 400 en ancho completo; el bloque total debe caber sin recortes. Las fórmulas químicas aceptan subíndices Unicode como CO₂ y CO₃²⁻.
 - La previsualización tolera enunciados/opciones vacíos y clasificaciones a medio editar, pero no contextos incompatibles ni huecos sin vincular; conserva la última vista válida y explica el error.
 - La descarga exige opciones, clave y explicación completas; muestra advertencias de cantidades, tiempo y revisión pedagógica pendientes. Sigue marcada como borrador.
 - Catálogo de evidencias parcial. No asigna niveles oficiales ni puntajes ICFES, ni valida psicométricamente preguntas. La hoja de respuestas es de uso manual, no óptico.

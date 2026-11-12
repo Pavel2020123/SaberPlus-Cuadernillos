@@ -45,6 +45,9 @@ def para(text, size=10, bold=False):
         markup = escape(equation[1])+expression
     markup = re.sub('['+superscripts+']+',
                     lambda match: '<super>'+re.sub(r'[ni]',r'<i>\g<0></i>',match.group().translate(str.maketrans(superscripts, normal)))+'</super>', markup)
+    subscripts = '₀₁₂₃₄₅₆₇₈₉₊₋₌₍₎'
+    markup = re.sub('['+subscripts+']+',
+                    lambda match: '<sub>'+match.group().translate(str.maketrans(subscripts,'0123456789+-=()'))+'</sub>', markup)
     return Paragraph(markup, ParagraphStyle(
         'body', fontName='Times-Roman' if equation else 'Helvetica-Bold' if bold else 'Helvetica', fontSize=size,
         leading=size*1.33, textColor=INK, spaceAfter=0))
@@ -405,7 +408,38 @@ class Interior:
         context_height = measure(flows, WIDTH-18)+18
         available = H-83-BOTTOM
         if context_height > available:
-            raise ValueError('El contexto no cabe completo en una página. Divide el contexto: '+first_question['id'])
+            # Split printable paragraphs, leaving the stored context and its
+            # links intact. Images and other indivisible resources still fail
+            # explicitly if they exceed a page.
+            remaining = list(flows)
+            while measure(remaining, WIDTH-18)+18 > available:
+                chunk = []
+                budget = available-18
+                advanced = False
+                while remaining:
+                    flow = remaining[0]
+                    height = flow.wrap(WIDTH-18, H)[1]
+                    if height <= budget:
+                        chunk.append(remaining.pop(0))
+                        budget -= height
+                        if not getattr(flow, '_context_continuation', False) and not isinstance(flow, Spacer):
+                            advanced = True
+                        continue
+                    parts = flow.split(WIDTH-18, budget) if isinstance(flow, Paragraph) else []
+                    if parts:
+                        chunk.append(parts[0])
+                        remaining[:1] = parts[1:]
+                        advanced = True
+                    break
+                if not advanced:
+                    raise ValueError('Un recurso indivisible del contexto excede una página: '+first_question['id'])
+                self.full(chunk, True)
+                self.newpage()
+                heading = para('CONTINUACIÓN DE LA LECTURA', 9, True)
+                heading._context_continuation = True
+                remaining.insert(0, heading)
+                remaining.insert(1, Spacer(1, 7))
+            return self.shared_context(remaining, first_question, number)
         if context_height+reserve > available:
             # A long reading may occupy its own page; never shrink or omit it.
             self.full(flows, True)

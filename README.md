@@ -6,6 +6,8 @@ Proyecto independiente para diseñar y generar cuadernillos de práctica en PDF.
 
 ## Punto de continuación actual
 
+**SP-003 · Primera sesión unificada, revisión 23:** 120 preguntas (25 Matemáticas, 41 Lectura, 25 Sociales, 29 Ciencias), conservando los registros previos y el trabajo del usuario. Tres PDF y respaldo con imágenes en `output/editor/SP003-primera-unificada-rev23/`. [Entrega, códigos, controles y pendientes editoriales](planning/SP003_S1_SESION_UNIFICADA.md). El paquete histórico de 66 preguntas descrito a continuación es un antecedente; no reemplazar la sesión actual con él.
+
 SP-003: **66 preguntas guardadas y unificadas** en el principal, revisión 18: 25 de Matemáticas y las 41 de Lectura ingresadas por el usuario, con sus 13 contextos. Paquete transportable con JSON, 33 imágenes y hashes en `handoff/SP003_primera/`; ver [integración y actualización del equipo](docs/SP003_INTEGRACION_Y_ACTUALIZACION.md). El registro compartido incluye las 66 como usadas. La clasificación por procesos de Lectura sigue pendiente. La exportación completa todavía se detiene por la altura del contexto «De ratones y hombres»; no se recortó ni modificó su texto.
 
 SP-003 Ciencias: [29 candidatas con fuentes, páginas y recursos](planning/SP003_S1_CIENCIAS_CANDIDATAS_29.md), [códigos completos](planning/SP003_S1_CIENCIAS_CODIGOS.txt) y clave aparte. Propuesta publicada para coordinación; sin carga en los editores. Totales propuestos 9/9/11 por competencia y 9/9/8/3 por componente; cruce interno pendiente de revisión.
