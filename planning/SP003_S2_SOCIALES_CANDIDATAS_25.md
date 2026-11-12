@@ -23,7 +23,7 @@ Este documento publica **25 selecciones** en lotes de cinco antes de transcribir
 | 13 | `USB-524d98b0a234-Q020` | `2026-2-ABJ2_USB-524d98b0a234.pdf` / 7 / 20 | Efecto de prohibicion de plataforma de transporte | Pensamiento reflexivo y sistemico: Usuarios pierden acceso al servicio prohibido;taxistas tradicionales no pierden por esa prohibicion. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
 | 14 | `USB-578d9b20297e-Q002` | `Referencia_Sesion-2_Ano-por-confirmar_Sin-portada_77322_USB-578d9b20297e.pdf` / 1 / 2 | Liderazgo social y derechos de victimas | Pensamiento social: La mujer promueve asociacion, atencion psicosocial y restitucion; eso caracteriza liderazgo social, no partido o sindicato. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
 | 15 | `USB-578d9b20297e-Q003` | `Referencia_Sesion-2_Ano-por-confirmar_Sin-portada_77322_USB-578d9b20297e.pdf` / 1 / 3 | Transferencia de argumento sobre desigualdad de genero | Interpretacion y analisis de perspectivas: Bailarinas y actrices comparten trabajo corporal y destrezas escenicas invisibilizadas, mas directamente que las otras profesiones. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
-| 16 | `USB-7b48857ae6bc-Q067` | `Referencia_Sesion-1_Ano-por-confirmar_Sin-portada_USB-7b48857ae6bc.pdf` / 22 / 67 | Afinidad entre argumentos sobre consumo moderado | Interpretacion y analisis de perspectivas: Pedro rechaza el exceso, que es la condicion de riesgo formulada en el contexto; los otros cambian la premisa. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
+| 16 | `USB-1c44481d3d4a-Q007` | `Referencia_2026-1-declarado_Sesion-2_ABV2_USB-1c44481d3d4a.pdf` / 4 / 7 | Condiciones geograficas de ayuda alimentaria | Pensamiento reflexivo y sistemico: El aislamiento y transporte limitado dificultan entregar cinco toneladas. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
 | 17 | `USB-77cc8ac26d2c-Q073` | `2026-2-ACN1_USB-77cc8ac26d2c.pdf` / 34 / 73 | Limite constitucional a pena de muerte | Pensamiento social: La Constitucion prohibe pena de muerte en supuesto del ejercicio;alcalde no puede volverla ley por utilidad. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
 | 18 | `USB-7882c8f9ae2f-Q001` | `ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf` / 2 / 1 | Pertinencia de evidencia sobre mitigación climática | Interpretación y análisis de perspectivas: La reducción británica de emisiones aún incompleta conecta directamente con el reclamo de ir más allá de reducciones parciales. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
 | 19 | `USB-7882c8f9ae2f-Q003` | `ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf` / 2 / 3 | Prejuicio de género en explicación investigativa | Interpretación y análisis de perspectivas: Atribuir formación en valores solo a madres presupone responsabilidad exclusiva de ellas y excluye otros cuidadores. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
@@ -46,7 +46,7 @@ Las páginas originales se abrieron, se renderizaron y se leyeron; sus SHA-256 c
 | --- | --- |
 | `USB-1c44481d3d4a-Q018` | `USB-77cc8ac26d2c-Q074` |
 | `USB-91836110f48e-Q071` | `USB-295a0508d0cf-Q084` |
-| `USB-7b48857ae6bc-Q067` | `USB-b39f1fd42a79-Q067` |
+| `USB-1c44481d3d4a-Q007` | `USB-578d9b20297e-Q018`, `USB-eee9960ca52a-Q062` |
 | `USB-1c44481d3d4a-Q016` | `USB-295a0508d0cf-Q087`, `USB-77cc8ac26d2c-Q071` |
 | `USB-77cc8ac26d2c-Q063` | `USB-295a0508d0cf-Q073` |
 | `USB-1c44481d3d4a-Q022` | `USB-295a0508d0cf-Q080`, `USB-77cc8ac26d2c-Q077` |
@@ -61,7 +61,9 @@ El par pendiente entre `USB-295a0508d0cf-Q087` y `USB-8e6cf8399239-Q077` se abri
 - `USB-7882c8f9ae2f-Q004`: la clave de catálogo D no resulta inequívoca al comparar las alternativas; se excluye sin cambiar la clave o el contenido.
 - `USB-d4e43db6988a-Q082`: depende del contexto de 81–82; no seleccionar solo un ítem de ese grupo.
 
-Se conservan los dos fragmentos de grupos armados de la pregunta 8, ambos autores del contraste penal de la 11, todos los puntos de vista sobre carne roja de la 16 y el **NO** de la 25. Las referencias de casos históricos o sanitarios se transcriben como contenido del ejemplar, sin atribuir actualidad o validación externa.
+- `USB-7b48857ae6bc-Q067`: retirada de la posición 16 durante el control de cuotas; la primera carga sumaba 7/11/7. Se sustituye por un caso sistémico, sin reclasificar artificialmente la pregunta de argumentos. Su copia sigue recuperable en el respaldo de revisión 5.
+
+Se conservan los dos fragmentos de grupos armados de la pregunta 8, ambos autores del contraste penal de la 11, el relato completo de desplazamiento y ayuda alimentaria de la 16 y el **NO** de la 25. Las referencias de casos históricos o sanitarios se transcriben como contenido del ejemplar, sin atribuir actualidad o validación externa.
 
 Meta de clasificación: pensamiento social 7 / perspectivas 10 / sistémico 8. Afirmaciones, evidencias y niveles quedan vacíos. La coincidencia con la cuota se comprueba sobre el JSON cargado; no certifica dificultad ni validación psicométrica.
 
