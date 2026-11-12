@@ -1,5 +1,7 @@
 # SP-003 · Sociales y ciudadanas · Primera sesión · 25 candidatas
 
+**Estado posterior:** por autorización del usuario, las 25 ya se transcribieron y guardaron en el espacio independiente 4187, revisión 5. Pendientes de su revisión y de la unificación con Ciencias. Ver [informe de carga](SP003_S1_SOCIALES_CARGA.md) y [códigos utilizados](SP003_S1_SOCIALES_CODIGOS_USADOS.txt). Las referencias siguientes al estado anterior a la carga describen la selección inicial; no implican reserva confirmada ni actualización del registro maestro.
+
 Selección del 12 de noviembre de 2026 para los puestos **67–91 de la sesión**, Sociales **1–25**. Responsable: equipo SaberPlus / rama `trabajo/sp-003`. Estado de las 25: **propuesta pendiente de coordinación**, sin carga en el editor ni reserva confirmada.
 
 Se mantiene la distribución editorial acordada: **8 pensamiento social (PS), 10 interpretación y análisis de perspectivas (IP), 7 pensamiento reflexivo y sistémico (RS)**. Se revisaron las tareas visibles en las fuentes, sin completar afirmaciones, evidencias o niveles. La clasificación es propuesta interna de SaberPlus, no validación externa ni cuota oficial por sesión.

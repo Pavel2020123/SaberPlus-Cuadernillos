@@ -4,6 +4,8 @@ Estado: primer editor funcional para pruebas editoriales, independiente de la ap
 
 ## Trabajar al mismo tiempo · SP-003
 
+**Nuevo reparto del 12 de noviembre:** el usuario continúa Ciencias en el principal **4185**. El asistente terminó Sociales en un tercer espacio independiente, **http://127.0.0.1:4187/**, `data/parallel/SP-003-sociales-4187/project.json`, revisión 5, 25 preguntas. Para reabrirlo: `uv run --offline python -B tool/editor_parallel.py --port 4187 --workspace SP-003-sociales`. Su revisión y posterior integración están pendientes; no importar su JSON sobre el principal. El antiguo espacio 4186 conserva Lectura y no se modificó. Ver [informe de Sociales](../planning/SP003_S1_SOCIALES_CARGA.md).
+
 Dos ventanas del mismo proyecto no se sincronizan en vivo: cada guardado envía el JSON completo. Para que el usuario trabaje otra área mientras el asistente carga Matemáticas, se habilitó un segundo editor independiente:
 
 **Actualización del 12 de noviembre:** la integración ya se realizó. El principal tiene las 25 preguntas de Matemáticas y las 41 de Lectura, con 13 contextos, revisión 18. El paralelo conserva exactamente las 41 originales de Lectura, revisión 3. La creación vacía descrita abajo es histórica; reabrir conserva sus preguntas. Las siguientes ediciones no se sincronizan automáticamente. Paquete y límites en [integración y actualización](SP003_INTEGRACION_Y_ACTUALIZACION.md).
