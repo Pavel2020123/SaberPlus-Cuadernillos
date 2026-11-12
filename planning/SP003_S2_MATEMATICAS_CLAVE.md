@@ -23,4 +23,4 @@ Selección y razonamiento editorial SaberPlus. No entregar con el cuadernillo de
 | 17 / 42 | `USB-709bc037689b-Q026` | D | D usa parejas (número, letra) y conserva las casillas de barcos de longitudes 2, 3, 4 y 5. |
 | 18 / 43 | `USB-578d9b20297e-Q033` | A | Solo los grupos 3 y 4 tienen niñas=2×niños: dos de cuatro no son mayoría. |
 | 19 / 44 | `USB-77cc8ac26d2c-Q014` | A | Abril (7,16), octubre (10,18) y noviembre (5,12) cumplen ambos límites. El original indica 18 en octubre, aunque la ficha resumía 19. |
-| 20 / 45 | `USB-d4e43db6988a-Q009` | A | 700/2.000=35 %, 500/2.000=25 % y 800/2.000=40 %; A conserva las clases y proporciones. |
+| 20 / 45 | `USB-578d9b20297e-Q039` | C | En W y X se encuentran segmentos horizontales y verticales; las otras parejas incluyen uniones con segmentos oblicuos. |
