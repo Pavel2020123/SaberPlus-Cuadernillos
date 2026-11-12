@@ -16,3 +16,13 @@ Cada pregunta tiene caso propio; ninguna de las 25 depende de una lectura compar
 | 3 / 28 | `USB-f00a52c8b6f2-Q040` | `2025-1_USB-f00a52c8b6f2.pdf` / 13 / 40 | Álgebra / Modelo de costo fijo y variable | FE: Formula el costo sumando el valor fijo y el cargo por cada acompañamiento. | Independiente. Expresiones editables; columnas. |
 | 4 / 29 | `USB-524d98b0a234-Q049` | `2026-2-ABJ2_USB-524d98b0a234.pdf` / 18 / 49 | Probabilidad / Cálculo de una razón en un arreglo rectangular | FE: Aplica la fórmula dada a cada configuración de tarjetas, filas y columnas. | Independiente. Fracción vectorial larga; ancho completo. |
 | 5 / 30 | `USB-578d9b20297e-Q036` | `Referencia_Sesion-2_Ano-por-confirmar_Sin-portada_77322_USB-578d9b20297e.pdf` / 12 / 36 | Geometría analítica / Componentes de coordenadas tridimensionales | IR: Identifica las terceras componentes como alturas, sin confundirlas con coordenadas horizontales. | Independiente. Tres ternas editables; columnas. |
+
+## Lote 2 · Matemáticas 6–10
+
+| Área / sesión | Código | PDF / física / n.º | Tema y subtema | Competencia y justificación | Contexto y recursos |
+| --- | --- | --- | --- | --- | --- |
+| 6 / 31 | `USB-578d9b20297e-Q029` | `Referencia_Sesion-2_Ano-por-confirmar_Sin-portada_77322_USB-578d9b20297e.pdf` / 11 / 29 | Combinatoria / Permutaciones de cuatro personas | FE: Ejecuta el conteo de ordenaciones de cuatro personas distintas en una fila. | Independiente. Sin figura; columnas. |
+| 7 / 32 | `USB-524d98b0a234-Q042` | `2026-2-ABJ2_USB-524d98b0a234.pdf` / 16 / 42 | Magnitudes y medida / Interpretación dimensional de una razón | IR: Reconoce qué cantidad representa distancia dividida por perímetro. | Independiente. Sin figura; columnas. |
+| 8 / 33 | `USB-7882c8f9ae2f-Q026` | `ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf` / 9 / 26 | Números racionales / Equivalencia entre fracciones y decimales | ARG: Evalúa el veredicto comparando la equivalencia de dos procedimientos. | Independiente. Tres procedimientos con fracciones; ancho completo. |
+| 9 / 34 | `USB-578d9b20297e-Q034` | `Referencia_Sesion-2_Ano-por-confirmar_Sin-portada_77322_USB-578d9b20297e.pdf` / 12 / 34 | Estadística / Porcentaje acumulado en una tabla | FE: Ejecuta el procedimiento porcentual sobre los grupos que cumplen edad menor o igual a 18. | Independiente. Tabla 300 × 80 pt y cuatro pasos; ancho completo. |
+| 10 / 35 | `USB-578d9b20297e-Q032` | `Referencia_Sesion-2_Ano-por-confirmar_Sin-portada_77322_USB-578d9b20297e.pdf` / 11 / 32 | Geometría y medida / Interpretación de un procedimiento de costo | IR: Identifica el significado del producto perímetro por altura y precio por área. | Independiente. Tres pasos editables; columnas. |

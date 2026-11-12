@@ -9,3 +9,8 @@ Selección y razonamiento editorial SaberPlus. No entregar con el cuadernillo de
 | 3 / 28 | `USB-f00a52c8b6f2-Q040` | B | El costo se modela con 3.000 + 1.000n. |
 | 4 / 29 | `USB-524d98b0a234-Q049` | C | 6/(5 × 3) = 0,4. Las otras razones son 4/9, 10/40 y 12/20. |
 | 5 / 30 | `USB-578d9b20297e-Q036` | B | Las terceras componentes son 25, 20 y 15 m; las mismas alturas aparecen en B. |
+| 6 / 31 | `USB-578d9b20297e-Q029` | B | 4 × 3 × 2 × 1 = 24. |
+| 7 / 32 | `USB-524d98b0a234-Q042` | C | Cada giro recorre un perímetro de rueda; distancia/perímetro cuenta los giros. |
+| 8 / 33 | `USB-7882c8f9ae2f-Q026` | B | 1/4 + 2/4 = 3/4 = 0,75; el participante 2 también obtiene ese resultado. |
+| 9 / 34 | `USB-578d9b20297e-Q034` | B | (66 + 69 + 90)/300 × 100 = 75 %. |
+| 10 / 35 | `USB-578d9b20297e-Q032` | D | Perímetro × altura es área lateral; multiplicar por $1/cm² da el costo del cartón. |

@@ -53,6 +53,56 @@
       "numero_original": 36,
       "competencia": "interpretation",
       "estado": "seleccion_autorizada_para_revision_y_carga_por_lotes"
+    },
+    {
+      "numero_area": 6,
+      "numero_sesion": 31,
+      "catalog_id": "USB-578d9b20297e-Q029",
+      "pdf": "Referencia_Sesion-2_Ano-por-confirmar_Sin-portada_77322_USB-578d9b20297e.pdf",
+      "pagina_fisica": 11,
+      "numero_original": 29,
+      "competencia": "execution",
+      "estado": "seleccion_autorizada_para_revision_y_carga_por_lotes"
+    },
+    {
+      "numero_area": 7,
+      "numero_sesion": 32,
+      "catalog_id": "USB-524d98b0a234-Q042",
+      "pdf": "2026-2-ABJ2_USB-524d98b0a234.pdf",
+      "pagina_fisica": 16,
+      "numero_original": 42,
+      "competencia": "interpretation",
+      "estado": "seleccion_autorizada_para_revision_y_carga_por_lotes"
+    },
+    {
+      "numero_area": 8,
+      "numero_sesion": 33,
+      "catalog_id": "USB-7882c8f9ae2f-Q026",
+      "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
+      "pagina_fisica": 9,
+      "numero_original": 26,
+      "competencia": "argumentation",
+      "estado": "seleccion_autorizada_para_revision_y_carga_por_lotes"
+    },
+    {
+      "numero_area": 9,
+      "numero_sesion": 34,
+      "catalog_id": "USB-578d9b20297e-Q034",
+      "pdf": "Referencia_Sesion-2_Ano-por-confirmar_Sin-portada_77322_USB-578d9b20297e.pdf",
+      "pagina_fisica": 12,
+      "numero_original": 34,
+      "competencia": "execution",
+      "estado": "seleccion_autorizada_para_revision_y_carga_por_lotes"
+    },
+    {
+      "numero_area": 10,
+      "numero_sesion": 35,
+      "catalog_id": "USB-578d9b20297e-Q032",
+      "pdf": "Referencia_Sesion-2_Ano-por-confirmar_Sin-portada_77322_USB-578d9b20297e.pdf",
+      "pagina_fisica": 11,
+      "numero_original": 32,
+      "competencia": "interpretation",
+      "estado": "seleccion_autorizada_para_revision_y_carga_por_lotes"
     }
   ]
 }
