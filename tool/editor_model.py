@@ -48,6 +48,47 @@ def selected_questions(project):
     return result
 
 
+def inspect_project_import(project):
+    """Read-only preflight for JSON imports; does not normalize or save content."""
+    errors=[]
+    warnings=[]
+    try:
+        warnings=validate_project(project)
+    except (ValueError,KeyError,TypeError,AttributeError) as exc:
+        errors.append(str(exc))
+    questions=project.get('questions',[]) if isinstance(project,dict) else []
+    if not isinstance(questions,list):
+        questions=[]
+    questions=[q for q in questions if isinstance(q,dict)]
+    codes={}
+    for q in questions:
+        code=q.get('catalog_id')
+        if code:
+            if not isinstance(code,str):
+                errors.append('Código de catálogo inválido: '+str(code))
+                continue
+            if code in codes:
+                errors.append('Código USB repetido: '+str(code))
+            codes[code]=q.get('id')
+    contexts=project.get('contexts',[]) if isinstance(project,dict) else []
+    if not isinstance(contexts,list):
+        contexts=[]
+    for item in questions+[c for c in contexts if isinstance(c,dict)]:
+        options=item.get('options',[])
+        if not isinstance(options,list):
+            options=[]
+        for resource in [item]+[o for o in options if isinstance(o,dict)]:
+            path=resource.get('image')
+            if path and isinstance(path,str):
+                resolved=(ROOT/path).resolve()
+                if not resolved.is_relative_to((ROOT/'assets/uploads').resolve()) or not resolved.is_file():
+                    errors.append('Imagen no disponible en este equipo: '+path)
+    counts={a:sum(q.get('area')==a for q in questions) for a in AREAS}
+    return {'valid':not errors,'errors':list(dict.fromkeys(errors)),
+            'warnings':warnings,'questions':len(questions),'counts':counts,
+            'contexts':len(contexts)}
+
+
 def validate_project(project, exporting=False):
     if isinstance(project,dict) and project.get('column_flow','sequential') not in ('sequential','balanced'):
         raise ValueError('Modo de columnas desconocido.')
@@ -122,8 +163,8 @@ def validate_project(project, exporting=False):
             raise ValueError('El salto a columna derecha requiere una pregunta en dos columnas.')
         if 'image_width' in q and (type(q['image_width']) not in (int,float) or not 40 <= q['image_width'] <= 500):
             raise ValueError('El ancho máximo de imagen debe estar entre 40 y 500 puntos.')
-        if 'image_height' in q and (type(q['image_height']) not in (int,float) or not 40 <= q['image_height'] <= 240):
-            raise ValueError('La altura máxima de imagen debe estar entre 40 y 240 puntos.')
+        if 'image_height' in q and (type(q['image_height']) not in (int,float) or not 40 <= q['image_height'] <= 360):
+            raise ValueError('La altura máxima de imagen debe estar entre 40 y 360 puntos.')
         if type(q.get('order', 0)) is not int or q.get('order', 0) < 0:
             raise ValueError(f'Pregunta {q["id"]}: el orden debe ser un entero no negativo.')
         for field in ('topic', 'subtopic', 'introduction'):

@@ -11,11 +11,51 @@ from http.server import ThreadingHTTPServer
 from unittest.mock import patch
 import pymupdf
 import editor_server as server
-from editor_model import demo_project,new_project,blank_assessment
+from editor_model import demo_project,new_project,blank_assessment,selected_questions
 from editor_pdf import preview_project,generate
 
 
 class PreviewTests(unittest.TestCase):
+    def test_final_full_width_context_keeps_all_63_questions_before_answers(self):
+        project=new_project()
+        project['code']='SP-REGRESSION'
+        context_id='final-long-context'
+        project['contexts']=[{'id':context_id,'area':'reading','part':0,
+            'title':'LECTURA FINAL DE CONTROL',
+            'text':'\n'.join(f'Línea {i}: el argumento presenta una idea para su análisis.' for i in range(39)),
+            'source':'Fuente sintética de regresión.'}]
+        for number in range(1,64):
+            area='mathematics' if number<=25 else 'reading'
+            question={'id':f'q-{number}','area':area,'part':0,
+                'order':number if number<=25 else number-25,
+                'layout':'full','included':True,'stem':f'CONTROL-{number:03d}. Pregunta de prueba.',
+                'options':[{'text':f'Alternativa {letter}.'} for letter in 'ABCD'],
+                'correct':'B','explanation':'Explicación de prueba.',
+                'assessment':blank_assessment(area)}
+            if number>=60:
+                question['context']=context_id
+            if number==60:
+                question['stem']+=' '+('Indica qué conclusión resulta compatible con las ideas y las relaciones descritas en la lectura. '*3)
+            project['questions'].append(question)
+        original=copy.deepcopy(project)
+        for preview in (True,False):
+            with self.subTest(preview=preview),tempfile.TemporaryDirectory() as folder:
+                draft=preview_project(project)[0] if preview else copy.deepcopy(project)
+                result=generate(draft,folder,preview=preview)
+                self.assertEqual(result['questions'],63)
+                self.assertEqual(set(result['page_map']),{q['id'] for q in selected_questions(project)})
+                with pymupdf.open(Path(folder)/'cuadernillo.pdf') as doc:
+                    texts=[page.get_text() for page in doc]
+                    answers=next(i for i,text in enumerate(texts) if 'HOJA DE RESPUESTAS' in text)
+                    body='\n'.join(texts[:answers])
+                    self.assertEqual(body.count('LECTURA FINAL DE CONTROL'),1)
+                    for number in range(1,64):
+                        self.assertIn(f'CONTROL-{number:03d}.',body)
+                        self.assertLess(result['page_map'][f'q-{number}']-1,answers)
+                    self.assertEqual([body.index(f'CONTROL-{n:03d}.') for n in range(60,64)],
+                                     sorted(body.index(f'CONTROL-{n:03d}.') for n in range(60,64)))
+        self.assertEqual(project,original)
+
     def test_placeholders_leave_original_unchanged(self):
         p=demo_project();p['questions'][4]['stem']='';p['questions'][4]['options'][0]['text']=''
         original=copy.deepcopy(p)

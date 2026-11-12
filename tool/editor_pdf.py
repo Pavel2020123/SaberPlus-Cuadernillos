@@ -283,12 +283,17 @@ class Interior:
     def reset(self, top):
         self.segment, self.ys, self.used, self.col = top, [top, top], [False, False], 0
 
+    def page_capacity(self):
+        """Match the body top used by newpage() for a continuation page."""
+        top = H-(55 if getattr(self,'content_area',False) else 83)
+        return top-BOTTOM
+
     def full(self, flows, box=False, reserve=0, shaded=False, separator=False):
         top = self.flush()
         padding = 6 if separator else 9
         gap = 8 if separator else 14
         height = measure(flows, WIDTH-18)+2*padding
-        if height+reserve > H-83-BOTTOM:
+        if height+reserve > self.page_capacity():
             raise ValueError('Un bloque compartido excede una página. Divide el texto en contextos más breves o reduce su imagen.')
         if top-height-reserve < BOTTOM:
             self.newpage()
@@ -390,7 +395,7 @@ class Interior:
 
     def shared_context(self, flows, first_question, number):
         reserve = self.question_height(first_question, number)+14
-        if measure(flows, WIDTH-18)+18+reserve > H-83-BOTTOM:
+        if measure(flows, WIDTH-18)+18+reserve > self.page_capacity():
             raise ValueError('El contexto y su primera pregunta no caben juntos en una página. '
                              'Divide el contexto o elige ancho completo para la pregunta: '+first_question['id'])
         self.full(flows, True, reserve=reserve)

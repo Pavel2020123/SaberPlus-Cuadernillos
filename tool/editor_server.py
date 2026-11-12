@@ -16,7 +16,7 @@ from pathlib import Path
 from urllib.parse import urlsplit, unquote
 from PIL import Image, UnidentifiedImageError
 import pymupdf
-from editor_model import ROOT, AREAS, SESSIONS, CATALOG, new_project, demo_project, validate_project
+from editor_model import ROOT, AREAS, SESSIONS, CATALOG, new_project, demo_project, validate_project, inspect_project_import
 from editor_pdf import generate, preview_project
 
 DATA=ROOT/'data'
@@ -72,7 +72,8 @@ class Handler(BaseHTTPRequestHandler):
             return self.response({'error':'Host no permitido.'},403)
         path=unquote(urlsplit(self.path).path)
         if path=='/api/bootstrap':
-            return self.response({'project':load(),'catalog':CATALOG,'areas':AREAS,'sessions':SESSIONS,'token':TOKEN})
+            return self.response({'project':load(),'catalog':CATALOG,'areas':AREAS,'sessions':SESSIONS,'token':TOKEN,
+                                  'isolated':DATA.resolve()!=(ROOT/'data').resolve()})
         if path.startswith('/previews/'):
             parts=path.strip('/').split('/')
             if len(parts)!=3 or not parts[2].endswith('.png'):
@@ -143,6 +144,8 @@ class Handler(BaseHTTPRequestHandler):
                     pages=len(doc)
                 return self.response({'id':job,'pages':pages,'page_map':result['page_map'],
                     'warnings':notes+result['warnings']})
+            if self.path=='/api/import-check':
+                return self.response(inspect_project_import(payload.get('project')))
             if self.path=='/api/save':
                 project=save(payload['project'],payload.get('revision'))
                 return self.response({'project':project,'warnings':validate_project(project)})
@@ -187,6 +190,10 @@ class Handler(BaseHTTPRequestHandler):
 if __name__=='__main__':
     parser=argparse.ArgumentParser()
     parser.add_argument('--port',type=int,default=4185)
+    parser.add_argument('--data-dir',type=Path,help='Carpeta independiente para proyecto y respaldos; por defecto data/.')
     args=parser.parse_args()
+    if args.data_dir:
+        DATA=args.data_dir.resolve()
+        STATE=DATA/'project.json'
     print(f'Editor local: http://127.0.0.1:{args.port}',flush=True)
     ThreadingHTTPServer(('127.0.0.1',args.port),Handler).serve_forever()
