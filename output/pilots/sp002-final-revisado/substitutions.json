@@ -1,0 +1,683 @@
+[
+  {
+    "position": 92,
+    "old_code": "USB-524d98b0a234-Q051",
+    "new_code": "USB-2722e7c48dfd-Q049",
+    "reason": "used_by_SP001",
+    "source_pdf": "ICFES_2026_Cal-B-por-confirmar_Sesion-2_Cristo-Redentor_Ref029_USB-2722e7c48dfd.pdf",
+    "source_sha256": "0b44346f5e0c0bee4c0afe9136da06686b01bd056e96514410ba43db1c839677",
+    "physical_page": 18,
+    "original_question": 49,
+    "answer_verified": "A",
+    "status": "proposal_for_editorial_review",
+    "pending_unoccupied_equivalences": [
+      "USB-8e6cf8399239-Q112"
+    ],
+    "question": {
+      "code": "USB-2722e7c48dfd-Q049",
+      "page": 18,
+      "topic": "Química",
+      "subtopic": "Oxidación y formación de compuestos",
+      "introduction": "En clase de Ciencias el profesor explica que los elementos son un conjunto de átomos del mismo tipo que presentan las mismas características y los compuestos son la unión de dos o más elementos donde existe transformación de la materia; también explica que en las mezclas no hay transformación de la materia y estas pueden ser homogéneas si se observa una sola fase o heterogéneas si se observan dos o más fases. El profesor muestra la siguiente imagen con la transformación que tiene un candado de hierro (Fe) al ser expuesto al aire. Después de un tiempo, se observa un cambio en la coloración del candado.\n\nEl profesor indica que este proceso se puede explicar por medio de la siguiente reacción química: 4Fe + 3O₂ → 2Fe₂O₃.",
+      "stem": "Teniendo en cuenta la información anterior, ¿qué tipo de sustancia se forma?",
+      "options": [
+        "Un compuesto.",
+        "Una mezcla homogénea.",
+        "Un elemento.",
+        "Una mezcla heterogénea."
+      ],
+      "correct": "A",
+      "explanation": "El hierro se combina químicamente con oxígeno y produce óxido de hierro (Fe₂O₃), una sustancia formada por dos elementos en proporción definida. Es un compuesto.",
+      "competency": "knowledge",
+      "claim": "4",
+      "component": "chemical",
+      "rationale": "Distingue un compuesto de un elemento o una mezcla mediante la reacción de oxidación.",
+      "assets": [
+        {
+          "kind": "question",
+          "region": [
+            0.54,
+            0.216,
+            0.86,
+            0.311
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "position": 93,
+    "old_code": "USB-524d98b0a234-Q052",
+    "new_code": "USB-524d98b0a234-Q058",
+    "reason": "used_by_SP001",
+    "source_pdf": "2026-2-ABJ2_USB-524d98b0a234.pdf",
+    "source_sha256": "78c31d57f562a19c1f7f627c6ce2e42808fd0c8383e4391e0de2b02bc632d4e0",
+    "physical_page": 22,
+    "original_question": 58,
+    "answer_verified": "D",
+    "status": "proposal_for_editorial_review",
+    "pending_unoccupied_equivalences": [
+      "USB-04dc5257ed8b-Q101",
+      "USB-8e6cf8399239-Q102"
+    ],
+    "question": {
+      "code": "USB-524d98b0a234-Q058",
+      "page": 22,
+      "topic": "Química",
+      "subtopic": "Filtración y evaporación en la separación de mezclas",
+      "introduction": "En clase de Ciencias, Daniel desea realizar el proceso de separación de una mezcla de tres sustancias: dos sólidos (1 y 2) y un líquido. El sólido 1 es soluble en el líquido y el sólido 2 es insoluble; algunos métodos de separación consultados previamente por Daniel se muestran en la siguiente tabla:",
+      "stem": "Teniendo en cuenta lo anterior, si se desea separar el sólido 1, ¿cuáles de los métodos de separación se deben usar?",
+      "options": [
+        "Decantación para separar el sólido 2 y, luego, filtración para separar el líquido y obtener el sólido 1.",
+        "Destilación para separar el sólido 2 y, luego, filtración para separar el líquido y obtener el sólido 1.",
+        "Evaporación para separar los dos sólidos y, luego, decantación para separar el líquido y obtener el sólido 1.",
+        "Filtración para separar el sólido 2 y, luego, evaporación para separar el líquido y obtener el sólido 1."
+      ],
+      "correct": "D",
+      "explanation": "La filtración retiene el sólido 2 insoluble y deja pasar el líquido con el sólido 1 disuelto. Al evaporar ese líquido queda el sólido 1.",
+      "competency": "knowledge",
+      "claim": "4",
+      "component": "chemical",
+      "rationale": "Selecciona y ordena dos métodos de separación según la solubilidad de los componentes.",
+      "assets": [
+        {
+          "kind": "question",
+          "region": [
+            0.119,
+            0.517,
+            0.462,
+            0.666
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "position": 98,
+    "old_code": "USB-524d98b0a234-Q062",
+    "new_code": "USB-7882c8f9ae2f-Q063",
+    "reason": "used_by_SP001",
+    "source_pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
+    "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
+    "physical_page": 21,
+    "original_question": 63,
+    "answer_verified": "D",
+    "status": "proposal_for_editorial_review",
+    "pending_unoccupied_equivalences": [],
+    "question": {
+      "code": "USB-7882c8f9ae2f-Q063",
+      "page": 21,
+      "topic": "Química",
+      "subtopic": "Reacciones de neutralización ácido-base",
+      "introduction": "Una reacción de neutralización puede resultar a partir de la interacción de un ácido y una base, como se muestra en la siguiente fórmula general:\n\nHA + B(OH) → BA + H₂O\n\nÁcido + base → sal + agua. A: no metal; B: metal.",
+      "stem": "De acuerdo con la información anterior, ¿cuál de las siguientes reacciones corresponde a una neutralización?",
+      "options": [
+        "6HCl + 2Fe → 2FeCl₃ + 3H₂",
+        "8HNO₃ + 2Al → 2Al(NO₃)₃ + 2NO + 4H₂O",
+        "CaO + H₂O → Ca(OH)₂",
+        "HCl + NaOH → NaCl + H₂O"
+      ],
+      "correct": "D",
+      "explanation": "En la opción D, el ácido clorhídrico reacciona con la base hidróxido de sodio y se obtienen una sal (NaCl) y agua. Las demás reacciones no corresponden al patrón ácido más base que produce sal y agua.",
+      "competency": "knowledge",
+      "claim": "4",
+      "component": "chemical",
+      "rationale": "Identifica una neutralización mediante las clases de reactivos y productos.",
+      "assets": []
+    }
+  },
+  {
+    "position": 99,
+    "old_code": "USB-524d98b0a234-Q066",
+    "new_code": "USB-77cc8ac26d2c-Q098",
+    "reason": "used_by_SP001",
+    "source_pdf": "2026-2-ACN1_USB-77cc8ac26d2c.pdf",
+    "source_sha256": "4e72bb9a8b43bab5a66189cef655479f6df52a32c137afe407906405842fa88a",
+    "physical_page": 24,
+    "original_question": 98,
+    "answer_verified": "B",
+    "status": "proposal_for_editorial_review",
+    "pending_unoccupied_equivalences": [
+      "USB-578d9b20297e-Q071"
+    ],
+    "question": {
+      "code": "USB-77cc8ac26d2c-Q098",
+      "page": 24,
+      "topic": "Biología",
+      "subtopic": "Reproducción ovípara en vertebrados",
+      "introduction": "A Pedro le gusta estudiar las características generales y particulares de los animales. Él tiene en cuenta la manera en que regulan su temperatura corporal, su alimentación y la forma en que se reproducen; actualmente se encuentra investigando los siguientes animales:",
+      "stem": "¿Qué característica tienen en común el grupo de animales que está estudiando Pedro?",
+      "options": [
+        "No regulan su temperatura corporal, son ectotermos.",
+        "Las crías nacen de huevos puestos por la madre.",
+        "Regulan su temperatura corporal, son endotermos.",
+        "Las crías nacen del vientre fecundado de la madre."
+      ],
+      "correct": "B",
+      "explanation": "Las imágenes muestran cocodrilo, ornitorrinco, pingüino, serpiente y avestruz, todos asociados con huevos. Aunque difieren en la regulación de la temperatura corporal, todos los animales representados se reproducen mediante huevos puestos por la madre.",
+      "competency": "knowledge",
+      "claim": "5",
+      "component": "biological",
+      "rationale": "Compara características de animales de grupos diferentes e identifica la reproducción ovípara compartida.",
+      "assets": [
+        {
+          "kind": "question",
+          "region": [
+            0.116,
+            0.095,
+            0.906,
+            0.207
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "position": 104,
+    "old_code": "USB-524d98b0a234-Q075",
+    "new_code": "USB-2722e7c48dfd-Q052",
+    "reason": "used_by_SP001",
+    "source_pdf": "ICFES_2026_Cal-B-por-confirmar_Sesion-2_Cristo-Redentor_Ref029_USB-2722e7c48dfd.pdf",
+    "source_sha256": "0b44346f5e0c0bee4c0afe9136da06686b01bd056e96514410ba43db1c839677",
+    "physical_page": 19,
+    "original_question": 52,
+    "answer_verified": "A",
+    "status": "proposal_for_editorial_review",
+    "pending_unoccupied_equivalences": [
+      "USB-8e6cf8399239-Q115"
+    ],
+    "question": {
+      "code": "USB-2722e7c48dfd-Q052",
+      "page": 19,
+      "topic": "Física",
+      "subtopic": "Potencia eléctrica y capacidad de un circuito",
+      "introduction": "Un taco eléctrico es un dispositivo que limita la corriente eléctrica que circula por un circuito. En muchas ocasiones, la red eléctrica de una casa cuenta con un taco central que corta la corriente si esta sobrepasa un cierto límite. En una casa se cuenta con los siguientes electrodomésticos de alta potencia, es decir, de alto consumo de energía por unidad de tiempo.",
+      "stem": "Si el taco de una casa puede soportar una potencia hasta de 3.500 vatios, ¿cuál de los siguientes pares de aparatos harían que se corte la corriente, si se usan al mismo tiempo?",
+      "options": [
+        "El horno microondas y el aire acondicionado.",
+        "El horno microondas y el ventilador.",
+        "El ventilador y el aire acondicionado.",
+        "La licuadora y el ventilador."
+      ],
+      "correct": "A",
+      "explanation": "El horno microondas consume 1.000 W y el aire acondicionado 3.000 W. Juntos suman 4.000 W y superan el límite de 3.500 W. Los otros pares suman 1.200, 3.200 y 600 W.",
+      "competency": "knowledge",
+      "claim": "4",
+      "component": "physical",
+      "rationale": "Suma potencias de aparatos y compara el resultado con la capacidad indicada del circuito.",
+      "assets": [
+        {
+          "kind": "question",
+          "region": [
+            0.55,
+            0.168,
+            0.9,
+            0.255
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "position": 105,
+    "old_code": "USB-524d98b0a234-Q076",
+    "new_code": "USB-7882c8f9ae2f-Q066",
+    "reason": "used_by_SP001",
+    "source_pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
+    "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
+    "physical_page": 21,
+    "original_question": 66,
+    "answer_verified": "C",
+    "status": "proposal_for_editorial_review",
+    "pending_unoccupied_equivalences": [
+      "USB-1bc205e23b46-Q052"
+    ],
+    "question": {
+      "code": "USB-7882c8f9ae2f-Q066",
+      "page": 21,
+      "topic": "Física",
+      "subtopic": "Masa, peso y gravedad lunar",
+      "introduction": "De no ser por la fuerza de fricción, todos los cuerpos que caen cerca de la superficie terrestre lo harían con la misma aceleración gravitacional, g = 10 m/s², aproximadamente. En este aspecto, la aceleración gravitacional en la Luna es aproximadamente una sexta parte de la de la Tierra. Por esto, un objeto que tiene 6 kg de masa y que en la Tierra pesa 60 N, en la Luna solamente pesa 10 N.",
+      "stem": "Teniendo en cuenta la información anterior, ¿qué masa tendrá un objeto que pesa 50 N en la Luna?",
+      "options": [
+        "50/6 kg.",
+        "50 kg.",
+        "30 kg.",
+        "30/6 kg."
+      ],
+      "correct": "C",
+      "explanation": "La gravedad lunar es 10/6 m/s². Al aplicar peso = masa × gravedad, la masa es 50 N ÷ (10/6 m/s²) = 30 kg. La masa no cambia por estar en la Luna.",
+      "competency": "knowledge",
+      "claim": "4",
+      "component": "physical",
+      "rationale": "Distingue masa de peso y usa la aceleración gravitacional para calcular la masa.",
+      "assets": []
+    }
+  },
+  {
+    "position": 108,
+    "old_code": "USB-709bc037689b-Q053",
+    "new_code": "USB-77cc8ac26d2c-Q086",
+    "reason": "used_by_SP001",
+    "source_pdf": "2026-2-ACN1_USB-77cc8ac26d2c.pdf",
+    "source_sha256": "4e72bb9a8b43bab5a66189cef655479f6df52a32c137afe407906405842fa88a",
+    "physical_page": 32,
+    "original_question": 86,
+    "answer_verified": "B",
+    "status": "proposal_for_editorial_review",
+    "pending_unoccupied_equivalences": [
+      "USB-709bc037689b-Q072",
+      "USB-7b48857ae6bc-Q113",
+      "USB-b39f1fd42a79-Q113",
+      "USB-d4e43db6988a-Q005"
+    ],
+    "question": {
+      "code": "USB-77cc8ac26d2c-Q086",
+      "page": 32,
+      "topic": "Biología",
+      "subtopic": "Extrapolación de crecimiento bacteriano",
+      "introduction": "En la gráfica, se muestra el crecimiento de un cultivo de bacterias en función del tiempo. Este cultivo se mantiene en condiciones constantes de laboratorio y en presencia de recursos ilimitados.",
+      "stem": "Considerando que este cultivo de bacterias continúa en las mismas condiciones experimentales, ¿aproximadamente cuántas bacterias habrá en el cultivo transcurridas 11 horas?",
+      "options": [
+        "Entre 200 y 300 millones.",
+        "Entre 400 y 600 millones.",
+        "Entre 800 y 900 millones.",
+        "Entre 0 y 100 millones."
+      ],
+      "correct": "B",
+      "explanation": "La gráfica muestra un crecimiento aproximadamente exponencial: cerca de 50 millones a las 8 horas, 105 millones a las 9 y 218 millones a las 10. Al duplicarse de nuevo, a las 11 horas se esperan alrededor de 440 millones, dentro del intervalo de 400 a 600 millones.",
+      "competency": "inquiry",
+      "claim": "8",
+      "component": "biological",
+      "rationale": "Identifica el patrón de crecimiento de una serie temporal y lo extrapola una hora.",
+      "assets": [
+        {
+          "kind": "question",
+          "region": [
+            0.298,
+            0.075,
+            0.73,
+            0.266
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "position": 109,
+    "old_code": "USB-709bc037689b-Q054",
+    "new_code": "USB-7882c8f9ae2f-Q078",
+    "reason": "used_by_SP001",
+    "source_pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
+    "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
+    "physical_page": 26,
+    "original_question": 78,
+    "answer_verified": "A",
+    "status": "proposal_for_editorial_review",
+    "pending_unoccupied_equivalences": [
+      "USB-e58ef5771b78-Q065"
+    ],
+    "question": {
+      "code": "USB-7882c8f9ae2f-Q078",
+      "page": 26,
+      "topic": "Física",
+      "subtopic": "Velocidad del sonido y refracción",
+      "introduction": "Un músico está tocando su trompeta cerca de un lago en el que un buzo hace sus prácticas cotidianas, pero el buzo percibe el sonido como si proviniera de otro lugar debido al fenómeno de la refracción, como se modela en la imagen:",
+      "stem": "¿Cuál de las siguientes opciones es una característica del sonido que se altera al cambiar del aire al agua?",
+      "options": [
+        "La velocidad.",
+        "La fuente.",
+        "La profundidad.",
+        "La densidad."
+      ],
+      "correct": "A",
+      "explanation": "La velocidad de propagación del sonido depende del medio; al pasar del aire al agua cambia la velocidad y la dirección de propagación. La fuente no cambia, y profundidad y densidad no son propiedades del sonido mencionadas como alternativas válidas.",
+      "competency": "knowledge",
+      "claim": "4",
+      "component": "physical",
+      "rationale": "Relaciona la refracción de una onda sonora con el cambio de medio de propagación.",
+      "assets": [
+        {
+          "kind": "question",
+          "region": [
+            0.525,
+            0.122,
+            0.905,
+            0.365
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "position": 110,
+    "old_code": "USB-709bc037689b-Q055",
+    "new_code": "USB-7882c8f9ae2f-Q061",
+    "reason": "used_by_SP001",
+    "source_pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
+    "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
+    "physical_page": 20,
+    "original_question": 61,
+    "answer_verified": "B",
+    "status": "proposal_for_editorial_review",
+    "pending_unoccupied_equivalences": [
+      "USB-709bc037689b-Q052"
+    ],
+    "question": {
+      "code": "USB-7882c8f9ae2f-Q061",
+      "page": 20,
+      "topic": "Ciencias ambientales",
+      "subtopic": "Origen de los combustibles fósiles",
+      "introduction": "El carbón y el petróleo son combustibles fósiles que se formaron hace millones de años. El petróleo se formó a partir de restos vegetales y animales marinos que se transformaron por acción bacteriana, incremento de temperatura y presión. El carbón, por su parte, se formó a partir de la acumulación de restos vegetales y esporas que se comprimieron en pantanos poco profundos y ciénagas, en ausencia de oxígeno.",
+      "stem": "Teniendo en cuenta la información anterior, ¿cuál de las siguientes afirmaciones indica una similitud existente entre el carbón y el petróleo?",
+      "options": [
+        "El petróleo y el carbón son combustibles fósiles a base de carbono e hidrógeno que solo se presentan en estado sólido.",
+        "El petróleo y el carbón se formaron a partir de materia orgánica que se transformó por condiciones físicas específicas.",
+        "El petróleo y el carbón son combustibles a base de carbono e hidrógeno que presentan estado tanto sólido como líquido.",
+        "El petróleo y el carbón se formaron a partir de la materia inorgánica en descomposición desde hace millones de años."
+      ],
+      "correct": "B",
+      "explanation": "Ambos se originan en restos de seres vivos que cambiaron bajo condiciones ambientales durante millones de años. Las otras opciones confunden sus estados físicos o afirman que proceden de materia inorgánica.",
+      "competency": "knowledge",
+      "claim": "4",
+      "component": "cts",
+      "rationale": "Reconoce una propiedad común de dos combustibles fósiles a partir de sus procesos de formación.",
+      "assets": []
+    }
+  },
+  {
+    "position": 111,
+    "old_code": "USB-709bc037689b-Q056",
+    "new_code": "USB-e4489f150183-Q061",
+    "reason": "used_by_SP001",
+    "source_pdf": "2026-1_USB-e4489f150183.pdf",
+    "source_sha256": "173c729eb0d5215e4c0b19bed77c2942187ba867a9669fb4b03365a121cd6547",
+    "physical_page": 24,
+    "original_question": 61,
+    "answer_verified": "C",
+    "status": "proposal_for_editorial_review",
+    "pending_unoccupied_equivalences": [
+      "USB-234fa4e3ddce-Q069"
+    ],
+    "question": {
+      "code": "USB-e4489f150183-Q061",
+      "page": 24,
+      "topic": "Química",
+      "subtopic": "Selección de materiales por densidad y maleabilidad",
+      "introduction": "La siguiente tabla muestra las propiedades físicas y químicas de diferentes materiales usados en la industria.",
+      "stem": "Si se desea elegir un material con baja densidad que pueda ser usado para la elaboración de láminas que serán utilizadas en latas de gaseosa, ¿cuál sería el más adecuado?",
+      "options": [
+        "Cobre, porque tiene mayor conductividad y es maleable.",
+        "Acero inoxidable, porque tiene el mayor punto de ebullición y alta densidad.",
+        "Aluminio, porque posee la menor densidad y es maleable.",
+        "Hierro, porque tiene la menor conductividad eléctrica y la mayor densidad."
+      ],
+      "correct": "C",
+      "explanation": "Entre los materiales maleables de la tabla, el aluminio tiene la menor densidad (2,70 g/cm³); por ello permite fabricar láminas ligeras. Las otras opciones no satisfacen mejor ese criterio.",
+      "competency": "knowledge",
+      "claim": "4",
+      "component": "chemical",
+      "rationale": "Compara propiedades físicas de materiales y selecciona el que cumple dos condiciones de uso.",
+      "assets": [
+        {
+          "kind": "question",
+          "region": [
+            0.182,
+            0.099,
+            0.782,
+            0.223
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "position": 112,
+    "old_code": "USB-709bc037689b-Q058",
+    "new_code": "USB-e4489f150183-Q048",
+    "reason": "used_by_SP001",
+    "source_pdf": "2026-1_USB-e4489f150183.pdf",
+    "source_sha256": "173c729eb0d5215e4c0b19bed77c2942187ba867a9669fb4b03365a121cd6547",
+    "physical_page": 19,
+    "original_question": 48,
+    "answer_verified": "B",
+    "status": "proposal_for_editorial_review",
+    "pending_unoccupied_equivalences": [
+      "USB-1c44481d3d4a-Q070",
+      "USB-234fa4e3ddce-Q070",
+      "USB-2543b7a34fb2-Q057",
+      "USB-d4e43db6988a-Q113"
+    ],
+    "question": {
+      "code": "USB-e4489f150183-Q048",
+      "page": 19,
+      "topic": "Biología",
+      "subtopic": "Metamorfosis completa de mariposas",
+      "introduction": "La metamorfosis en los insectos puede seguir uno de los dos modelos descritos a continuación:\n\n• Modelo 1 de crecimiento gradual: en el cual el insecto, en sus primeras etapas de vida, es muy similar a los adultos.\n• Modelo 2 con transformaciones bruscas: en el cual las larvas son diferentes a los adultos y existe una fase intermedia o pupal entre la larva y el adulto.\n\nA continuación, se muestran los dos modelos:",
+      "stem": "¿A qué modelo pertenece el tipo de metamorfosis que tienen las mariposas?",
+      "options": [
+        "Al modelo 1, porque la mariposa mantiene su forma en todas las etapas del ciclo de vida.",
+        "Al modelo 2, porque en el ciclo de vida de la mariposa existen transformaciones drásticas.",
+        "Al modelo 1, porque las alas de la mariposa aparecen en estadios intermedios.",
+        "Al modelo 2, porque el ciclo de vida de la mariposa inicia con la fase de huevo."
+      ],
+      "correct": "B",
+      "explanation": "La mariposa pasa por larva y pupa, etapas con forma muy distinta de la adulta. Corresponde al modelo 2 de transformaciones bruscas; comenzar en huevo no distingue a los dos modelos.",
+      "competency": "knowledge",
+      "claim": "5",
+      "component": "biological",
+      "rationale": "Relaciona las etapas observadas del ciclo de vida con los modelos de metamorfosis presentados.",
+      "assets": [
+        {
+          "kind": "question",
+          "region": [
+            0.191,
+            0.21,
+            0.51,
+            0.645
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "position": 113,
+    "old_code": "USB-709bc037689b-Q061",
+    "new_code": "USB-77cc8ac26d2c-Q087",
+    "reason": "reserved_by_SP001",
+    "source_pdf": "2026-2-ACN1_USB-77cc8ac26d2c.pdf",
+    "source_sha256": "4e72bb9a8b43bab5a66189cef655479f6df52a32c137afe407906405842fa88a",
+    "physical_page": 32,
+    "original_question": 87,
+    "answer_verified": "A",
+    "status": "proposal_for_editorial_review",
+    "pending_unoccupied_equivalences": [
+      "USB-709bc037689b-Q073"
+    ],
+    "question": {
+      "code": "USB-77cc8ac26d2c-Q087",
+      "page": 32,
+      "topic": "Indagación científica",
+      "subtopic": "Contraste de hipótesis con nueva información",
+      "introduction": "Un estudiante mancha una camisa accidentalmente con aceite y se pregunta cómo puede limpiarla; él tiene la hipótesis de que «la mancha se puede quitar únicamente usando detergente de uso común y agua hirviendo sobre la camisa». El estudiante consulta un artículo científico y encuentra que existe una nueva clase de detergentes enzimáticos que contienen un tipo de enzimas que actúan directamente en los enlaces de las sustancias causantes de la suciedad, debilitando estos enlaces y eliminando las manchas y la suciedad de forma rápida y sin el uso de altas temperaturas.",
+      "stem": "Teniendo en cuenta la información anterior, ¿la nueva información apoya o contradice la hipótesis planteada por el estudiante?",
+      "options": [
+        "Contradice la hipótesis, porque presenta una alternativa basada en el uso de detergentes enzimáticos que aceleran el proceso de limpieza, eliminando la mancha en menor tiempo y sin usar altas temperaturas.",
+        "Apoya la hipótesis porque reafirma la idea de que es necesario dejar actuar toda la noche el detergente y agregar agua hirviendo para quitar la mancha.",
+        "Contradice la hipótesis, porque presenta información que no está relacionada con el fenómeno descrito, ya que las enzimas solo actúan en las reacciones que ocurren al interior de nuestro organismo.",
+        "Apoya la hipótesis, porque presenta la información que permite comparar el mecanismo de acción del detergente de uso común y el detergente enzimático, lo que permite elegir el más efectivo."
+      ],
+      "correct": "A",
+      "explanation": "La hipótesis afirma que solo funcionan el detergente común y el agua hirviendo. La nueva información presenta un detergente enzimático que elimina la suciedad sin altas temperaturas, por lo que contradice esa exclusividad.",
+      "competency": "inquiry",
+      "claim": "7",
+      "component": "chemical",
+      "rationale": "Evalúa si una evidencia nueva respalda o refuta una hipótesis formulada con carácter exclusivo.",
+      "assets": []
+    }
+  },
+  {
+    "position": 114,
+    "old_code": "USB-709bc037689b-Q064",
+    "new_code": "USB-2722e7c48dfd-Q050",
+    "reason": "used_by_SP001",
+    "source_pdf": "ICFES_2026_Cal-B-por-confirmar_Sesion-2_Cristo-Redentor_Ref029_USB-2722e7c48dfd.pdf",
+    "source_sha256": "0b44346f5e0c0bee4c0afe9136da06686b01bd056e96514410ba43db1c839677",
+    "physical_page": 18,
+    "original_question": 50,
+    "answer_verified": "C",
+    "status": "proposal_for_editorial_review",
+    "pending_unoccupied_equivalences": [
+      "USB-8e6cf8399239-Q113"
+    ],
+    "question": {
+      "code": "USB-2722e7c48dfd-Q050",
+      "page": 18,
+      "topic": "Indagación científica",
+      "subtopic": "Conclusiones a partir de tendencias experimentales",
+      "introduction": "Para la clase de Ciencias, Juan investiga sobre la variación de la temperatura de ebullición del agua en ciudades ubicadas a distintas alturas sobre el nivel del mar (m s. n. m.). Él encuentra datos para cinco ciudades y los registra en la siguiente tabla.\n\nCon base en los datos obtenidos, Juan afirma que «a medida que aumenta la altitud, disminuye la temperatura de ebullición del agua».",
+      "stem": "¿Esta afirmación puede considerarse una evidencia o una conclusión basada en los datos experimentales?",
+      "options": [
+        "Una conclusión, porque da una posible explicación al fenómeno observado.",
+        "Una evidencia, porque tiene en cuenta las variables del experimento.",
+        "Una conclusión, porque evalúa la tendencia de los datos contenidos en la tabla.",
+        "Una evidencia, porque los datos obtenidos proceden de diferentes experimentos."
+      ],
+      "correct": "C",
+      "explanation": "La afirmación resume la relación observada en los cinco pares de datos: a mayor altitud, menor temperatura de ebullición. Es una conclusión sobre la tendencia, mientras que las mediciones de la tabla son la evidencia.",
+      "competency": "inquiry",
+      "claim": "7",
+      "component": "physical",
+      "rationale": "Diferencia una conclusión de los datos experimentales usados para sustentarla.",
+      "assets": [
+        {
+          "kind": "question",
+          "region": [
+            0.535,
+            0.581,
+            0.895,
+            0.68
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "position": 116,
+    "old_code": "USB-e4489f150183-Q064",
+    "new_code": "USB-2722e7c48dfd-Q055",
+    "reason": "used_by_SP001",
+    "source_pdf": "ICFES_2026_Cal-B-por-confirmar_Sesion-2_Cristo-Redentor_Ref029_USB-2722e7c48dfd.pdf",
+    "source_sha256": "0b44346f5e0c0bee4c0afe9136da06686b01bd056e96514410ba43db1c839677",
+    "physical_page": 20,
+    "original_question": 55,
+    "answer_verified": "D",
+    "status": "proposal_for_editorial_review",
+    "pending_unoccupied_equivalences": [
+      "USB-8e6cf8399239-Q118"
+    ],
+    "question": {
+      "code": "USB-2722e7c48dfd-Q055",
+      "page": 20,
+      "topic": "Química",
+      "subtopic": "Carga de iones y número atómico",
+      "introduction": "Los iones se caracterizan por tener distinto número de electrones (carga negativa) y protones (carga positiva); el número atómico indica el número de protones que tiene un elemento. A continuación, se presenta el número atómico y el número de electrones de un átomo de platino.",
+      "stem": "Teniendo en cuenta la información anterior, ¿este átomo de platino corresponde a un ion o a un átomo neutro?",
+      "options": [
+        "Es un átomo neutro porque tiene el mismo número de protones y de electrones.",
+        "Es un ion negativo porque tiene más electrones que protones.",
+        "Es un átomo neutro porque solo tiene electrones y protones.",
+        "Es un ion positivo porque tiene menos electrones que protones."
+      ],
+      "correct": "D",
+      "explanation": "El platino tiene número atómico 78, por lo que posee 78 protones. La tabla muestra 76 electrones: hay dos cargas positivas más que negativas y se trata de un ion positivo.",
+      "competency": "knowledge",
+      "claim": "4",
+      "component": "chemical",
+      "rationale": "Relaciona número atómico, protones y electrones para determinar la carga del átomo.",
+      "assets": [
+        {
+          "kind": "question",
+          "region": [
+            0.15,
+            0.316,
+            0.47,
+            0.36
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "position": 119,
+    "old_code": "USB-d4e43db6988a-Q092",
+    "new_code": "USB-524d98b0a234-Q072",
+    "reason": "used_by_SP001",
+    "source_pdf": "2026-2-ABJ2_USB-524d98b0a234.pdf",
+    "source_sha256": "78c31d57f562a19c1f7f627c6ce2e42808fd0c8383e4391e0de2b02bc632d4e0",
+    "physical_page": 29,
+    "original_question": 72,
+    "answer_verified": "C",
+    "status": "proposal_for_editorial_review",
+    "pending_unoccupied_equivalences": [
+      "USB-e58ef5771b78-Q053"
+    ],
+    "question": {
+      "code": "USB-524d98b0a234-Q072",
+      "page": 29,
+      "topic": "Química",
+      "subtopic": "Mezclas homogéneas y sustancias puras",
+      "introduction": "Un estudiante debe buscar un ejemplo de un producto de uso diario y clasificarlo según sea una sustancia pura o una mezcla. Él sabe que las sustancias puras están conformadas por elementos, que son una parte de la materia formada por átomos de la misma clase, y por compuestos, que son sustancias formadas por la unión de elementos diferentes en una proporción específica. Además, sabe que las mezclas se dan por la combinación de dos o más sustancias, donde no se altera la composición química de estas, y que se dividen en mezclas homogéneas, donde no se pueden diferenciar las fases que la componen, y en mezclas heterogéneas, donde se pueden diferenciar sus fases a simple vista.\n\nEl estudiante lee la etiqueta del aceite que usan en su casa para cocinar y encuentra la siguiente información:\n\n• Está compuesto por aceite de girasol y aceite de maíz.\n• Presenta color amarillo sin sedimentos ni partículas en suspensión.\n• Presenta un valor energético de 900 kcal.",
+      "stem": "Según la información anterior, ¿qué tipo de sustancia es el aceite mencionado?",
+      "options": [
+        "Es un elemento.",
+        "Es una mezcla heterogénea.",
+        "Es una mezcla homogénea.",
+        "Es un compuesto."
+      ],
+      "correct": "C",
+      "explanation": "Contiene aceites de dos orígenes, de modo que es una mezcla; al presentar una sola fase visible y no tener sedimentos ni partículas en suspensión, se clasifica como homogénea.",
+      "competency": "knowledge",
+      "claim": "4",
+      "component": "chemical",
+      "rationale": "Aplica criterios de composición y número de fases para clasificar un producto cotidiano.",
+      "assets": []
+    }
+  },
+  {
+    "position": 120,
+    "old_code": "USB-d4e43db6988a-Q093",
+    "new_code": "USB-77cc8ac26d2c-Q088",
+    "reason": "used_by_SP001",
+    "source_pdf": "2026-2-ACN1_USB-77cc8ac26d2c.pdf",
+    "source_sha256": "4e72bb9a8b43bab5a66189cef655479f6df52a32c137afe407906405842fa88a",
+    "physical_page": 32,
+    "original_question": 88,
+    "answer_verified": "D",
+    "status": "proposal_for_editorial_review",
+    "pending_unoccupied_equivalences": [
+      "USB-709bc037689b-Q074"
+    ],
+    "question": {
+      "code": "USB-77cc8ac26d2c-Q088",
+      "page": 32,
+      "topic": "Química",
+      "subtopic": "Estequiometría y relación molar",
+      "introduction": "El ácido nítrico (HNO₃) empleado en el proceso industrial para la producción del acero inoxidable se obtiene mediante la siguiente reacción:\n\n3NO₂ + H₂O → 2HNO₃ + NO",
+      "stem": "Si en condiciones ambientales se hacen reaccionar 15 moles de NO₂ con suficiente agua (H₂O), ¿cuántos moles de HNO₃ se producirán?",
+      "options": [
+        "2 moles de HNO₃.",
+        "5 moles de HNO₃.",
+        "15 moles de HNO₃.",
+        "10 moles de HNO₃."
+      ],
+      "correct": "D",
+      "explanation": "La ecuación establece que tres moles de NO₂ producen dos moles de HNO₃. Con 15 moles de NO₂ y agua suficiente se forman 15 × 2/3 = 10 moles de HNO₃.",
+      "competency": "knowledge",
+      "claim": "4",
+      "component": "chemical",
+      "rationale": "Interpreta los coeficientes de una reacción balanceada para calcular la cantidad de producto.",
+      "assets": []
+    }
+  }
+]
