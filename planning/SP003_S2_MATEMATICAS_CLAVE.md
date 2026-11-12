@@ -19,3 +19,8 @@ Selección y razonamiento editorial SaberPlus. No entregar con el cuadernillo de
 | 13 / 38 | `USB-578d9b20297e-Q037` | C | La fórmula es 150(minutos) − 0,05(consumo); necesita minutos y consumo. |
 | 14 / 39 | `USB-e4489f150183-Q036` | A | 50 × 0,40 = 20 toneladas. |
 | 15 / 40 | `USB-524d98b0a234-Q043` | B | 2 × 10⁻⁷ es menor que 2 × 10⁻⁶; X tiene menor diámetro. |
+| 16 / 41 | `USB-77cc8ac26d2c-Q007` | B | 8 × 21,5 cm = 172 cm. |
+| 17 / 42 | `USB-709bc037689b-Q026` | D | D usa parejas (número, letra) y conserva las casillas de barcos de longitudes 2, 3, 4 y 5. |
+| 18 / 43 | `USB-578d9b20297e-Q033` | A | Solo los grupos 3 y 4 tienen niñas=2×niños: dos de cuatro no son mayoría. |
+| 19 / 44 | `USB-77cc8ac26d2c-Q014` | A | Abril (7,16), octubre (10,18) y noviembre (5,12) cumplen ambos límites. El original indica 18 en octubre, aunque la ficha resumía 19. |
+| 20 / 45 | `USB-d4e43db6988a-Q009` | A | 700/2.000=35 %, 500/2.000=25 % y 800/2.000=40 %; A conserva las clases y proporciones. |

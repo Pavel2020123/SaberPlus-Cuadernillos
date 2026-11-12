@@ -153,6 +153,56 @@
       "numero_original": 43,
       "competencia": "argumentation",
       "estado": "seleccion_autorizada_para_revision_y_carga_por_lotes"
+    },
+    {
+      "numero_area": 16,
+      "numero_sesion": 41,
+      "catalog_id": "USB-77cc8ac26d2c-Q007",
+      "pdf": "2026-2-ACN1_USB-77cc8ac26d2c.pdf",
+      "pagina_fisica": 4,
+      "numero_original": 7,
+      "competencia": "execution",
+      "estado": "seleccion_autorizada_para_revision_y_carga_por_lotes"
+    },
+    {
+      "numero_area": 17,
+      "numero_sesion": 42,
+      "catalog_id": "USB-709bc037689b-Q026",
+      "pdf": "2026-1-ACC2_USB-709bc037689b.pdf",
+      "pagina_fisica": 11,
+      "numero_original": 26,
+      "competencia": "interpretation",
+      "estado": "seleccion_autorizada_para_revision_y_carga_por_lotes"
+    },
+    {
+      "numero_area": 18,
+      "numero_sesion": 43,
+      "catalog_id": "USB-578d9b20297e-Q033",
+      "pdf": "Referencia_Sesion-2_Ano-por-confirmar_Sin-portada_77322_USB-578d9b20297e.pdf",
+      "pagina_fisica": 12,
+      "numero_original": 33,
+      "competencia": "argumentation",
+      "estado": "seleccion_autorizada_para_revision_y_carga_por_lotes"
+    },
+    {
+      "numero_area": 19,
+      "numero_sesion": 44,
+      "catalog_id": "USB-77cc8ac26d2c-Q014",
+      "pdf": "2026-2-ACN1_USB-77cc8ac26d2c.pdf",
+      "pagina_fisica": 6,
+      "numero_original": 14,
+      "competencia": "execution",
+      "estado": "seleccion_autorizada_para_revision_y_carga_por_lotes"
+    },
+    {
+      "numero_area": 20,
+      "numero_sesion": 45,
+      "catalog_id": "USB-d4e43db6988a-Q009",
+      "pdf": "ICFES_2026_Cal-B_Sesion-1_Condor-Andino_Ref001_USB-d4e43db6988a.pdf",
+      "pagina_fisica": 4,
+      "numero_original": 9,
+      "competencia": "interpretation",
+      "estado": "seleccion_autorizada_para_revision_y_carga_por_lotes"
     }
   ]
 }
