@@ -4,7 +4,7 @@ Proyecto independiente para diseñar y generar cuadernillos de práctica en PDF.
 
 ## Punto de continuación actual
 
-SP-003: [41 candidatas de Lectura crítica en 13 grupos completos](planning/SP003_S1_LECTURA_CANDIDATAS_41.md), con [códigos completos para copiar](planning/SP003_S1_LECTURA_CODIGOS.txt) y clave aparte. Sin carga en los editores; clasificación por procesos y coordinación pendientes. Matemáticas 17–25 queda en espera por petición del usuario.
+SP-003: Matemáticas tiene **25 preguntas guardadas**, revisión 17 del editor principal; ver [carga de 17–25 y límites de verificación](planning/SP003_LOTE_17_25_CARGA.md). Lectura dispone de [41 candidatas en 13 grupos completos](planning/SP003_S1_LECTURA_CANDIDATAS_41.md), con [códigos completos para copiar](planning/SP003_S1_LECTURA_CODIGOS.txt) y clave aparte; su clasificación por procesos y coordinación siguen pendientes.
 
 Edición simultánea de SP-003: el principal de Matemáticas permanece en http://127.0.0.1:4185/ y el usuario dispone de http://127.0.0.1:4186/ con proyecto vacío y guardado independiente para otra área. El segundo se abre con `uv run --offline python -B tool/editor_parallel.py --port 4186 --workspace SP-003-usuario`. Ver [trabajo simultáneo y posterior integración](docs/EDITOR_LOCAL.md#trabajar-al-mismo-tiempo--sp-003).
 
