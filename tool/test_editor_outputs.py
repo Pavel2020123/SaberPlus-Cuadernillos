@@ -9,10 +9,30 @@ import pymupdf
 from PIL import Image as PillowImage
 from reportlab.platypus import Image as PdfImage
 from editor_model import demo_project,selected_questions
-from editor_pdf import generate,letters_for
+from editor_pdf import generate,letters_for,preview_project
 
 
 class OutputTests(unittest.TestCase):
+    def test_question_written_in_introduction_exports_without_placeholder_or_mutation(self):
+        project=demo_project()
+        project['questions']=[next(q for q in project['questions'] if q['area']=='mathematics')]
+        project['contexts']=[]
+        question=project['questions'][0]
+        question.update(stem='',introduction='¿Cuál de las opciones responde a la pregunta?',context=None)
+        original=copy.deepcopy(project)
+        draft,notes=preview_project(project)
+        self.assertFalse(any('enunciados pendientes' in note.lower() for note in notes))
+        with tempfile.TemporaryDirectory() as folder:
+            generate(project,folder)
+            with pymupdf.open(Path(folder)/'cuadernillo.pdf') as doc:
+                text=''.join(page.get_text() for page in doc)
+                self.assertEqual(text.count(question['introduction']),1)
+                self.assertNotIn('[Enunciado pendiente]',text)
+            generate(draft,folder,preview=True)
+            with pymupdf.open(Path(folder)/'cuadernillo.pdf') as doc:
+                self.assertNotIn('[Enunciado pendiente]',''.join(page.get_text() for page in doc))
+        self.assertEqual(project,original)
+
     @classmethod
     def setUpClass(cls):
         cls.temp=tempfile.TemporaryDirectory()

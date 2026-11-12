@@ -6,6 +6,8 @@ Estado: primer editor funcional para pruebas editoriales, independiente de la ap
 
 Dos ventanas del mismo proyecto no se sincronizan en vivo: cada guardado envía el JSON completo. Para que el usuario trabaje otra área mientras el asistente carga Matemáticas, se habilitó un segundo editor independiente:
 
+**Actualización del 12 de noviembre:** la integración ya se realizó. El principal tiene las 25 preguntas de Matemáticas y las 41 de Lectura, con 13 contextos, revisión 18. El paralelo conserva exactamente las 41 originales de Lectura, revisión 3. La creación vacía descrita abajo es histórica; reabrir conserva sus preguntas. Las siguientes ediciones no se sincronizan automáticamente. Paquete y límites en [integración y actualización](SP003_INTEGRACION_Y_ACTUALIZACION.md).
+
 | Ventana | Uso acordado | Proyecto guardado |
 | --- | --- | --- |
 | http://127.0.0.1:4185/ | Proyecto principal; Matemáticas a cargo del asistente durante sus cargas. | `data/project.json` |
@@ -108,6 +110,7 @@ Para experimentar con la muestra: abrir **Distribución prevista y respaldo del 
 
 ## Reglas y límites actuales
 
+- Un enunciado escrito íntegramente en **Introducción**, con **Enunciado** vacío, se conserva y se imprime una sola vez. La vista previa no añade un aviso de enunciado pendiente en ese caso; sigue siendo obligatorio que exista texto en al menos uno de los dos campos. Las fórmulas permiten espacios o saltos de línea junto a sus delimitadores, sin reescribir el texto guardado.
 - **Encabezados y cambio de área** permite editar título (hasta 120 caracteres) e indicaciones iniciales (hasta 1500) de cada área. Cada área comienza en página nueva, con el título una sola vez en la banda gris; no repite el nombre arriba ni añade conteos. El nombre habitual permanece como encabezado en las páginas siguientes. Los rangos de preguntas se reservan para los contextos, salvo que el editor los escriba voluntariamente en las indicaciones.
 - En **Contextos**, el campo **Encabezado del grupo** admite texto libre con `{{desde}}`, `{{hasta}}` y `{{cantidad}}`. Estos se sustituyen por el rango real después de ordenar y seleccionar. Los botones Según el texto / información / gráfica son modelos editables. Dejar vacío activa la frase automática, singular si solo hay una pregunta. No escribir números fijos si se desea actualización automática.
 - El contexto incluye un crédito opcional **Fuente** visible en el cuadernillo. El editor no verifica permisos de uso: ingresarlos no concede derechos sobre material ajeno.

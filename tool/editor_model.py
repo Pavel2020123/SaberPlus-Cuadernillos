@@ -194,7 +194,7 @@ def validate_project(project, exporting=False):
             raise ValueError('Selecciona al menos una pregunta de esta sesión.')
         for q in active:
             title = f'Pregunta {q["id"]}'
-            if not q.get('stem', '').strip():
+            if not q.get('stem', '').strip() and not q.get('introduction', '').strip():
                 raise ValueError(title + ': falta el enunciado.')
             matching = q['area'] == 'english' and q['part'] == 1
             ctx = by_id.get(q.get('context'))

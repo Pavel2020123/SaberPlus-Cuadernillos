@@ -947,7 +947,7 @@ def preview_project(project):
     warnings=[]
     for q in draft.get('questions',[]):
         q['assessment']=blank_assessment(q['area'])
-        if not q.get('stem','').strip():
+        if not q.get('stem','').strip() and not q.get('introduction','').strip():
             q['stem']='[Enunciado pendiente]'
             warnings.append('Hay enunciados pendientes.')
         matching=q['area']=='english' and q.get('part')==1

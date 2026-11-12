@@ -46,6 +46,16 @@ class EditorMathTests(unittest.TestCase):
         validate_project(project,exporting=True)
         self.assertEqual(before,project)
 
+    def test_display_equation_with_delimiters_on_separate_lines(self):
+        expression=r'A_{\text{pintar}}=A_{\text{cuadrado}}-A_{\text{hexágono}}'
+        paragraph=para('Matemáticamente:\n\\[\n'+expression+'\n\\]')
+        paragraph.wrap(WIDTH,700)
+        data=BytesIO();c=canvas.Canvas(data)
+        paragraph.drawOn(c,40,600);c.save()
+        with pymupdf.open(stream=data.getvalue(),filetype='pdf') as doc:
+            self.assertIn('Matemáticamente:',doc[0].get_text())
+            self.assertGreater(len(doc[0].get_drawings()),0)
+
     def test_wide_formula_is_not_silently_shrunk(self):
         p=para('\\('+'+'.join(['x_1']*40)+'\\)')
         with self.assertRaisesRegex(ValueError,'excede el ancho'):p.wrap(100,700)
