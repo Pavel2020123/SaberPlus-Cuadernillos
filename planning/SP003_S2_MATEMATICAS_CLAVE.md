@@ -24,3 +24,8 @@ Selección y razonamiento editorial SaberPlus. No entregar con el cuadernillo de
 | 18 / 43 | `USB-578d9b20297e-Q033` | A | Solo los grupos 3 y 4 tienen niñas=2×niños: dos de cuatro no son mayoría. |
 | 19 / 44 | `USB-77cc8ac26d2c-Q014` | A | Abril (7,16), octubre (10,18) y noviembre (5,12) cumplen ambos límites. El original indica 18 en octubre, aunque la ficha resumía 19. |
 | 20 / 45 | `USB-578d9b20297e-Q039` | C | En W y X se encuentran segmentos horizontales y verticales; las otras parejas incluyen uniones con segmentos oblicuos. |
+| 21 / 46 | `USB-7882c8f9ae2f-Q043` | C | 60×40 − 2(10×20/2) − 2(50×20/2) = 1.200 m². |
+| 22 / 47 | `USB-d4e43db6988a-Q019` | A | El paso 4 repite la operación ya realizada en el paso 3; la justificación correcta está en A. |
+| 23 / 48 | `USB-f00a52c8b6f2-Q042` | A | La moda es el número de kilómetros con mayor frecuencia durante los 30 días. |
+| 24 / 49 | `USB-e4489f150183-Q030` | C | Hay cinco dígitos y cuatro posiciones con repetición permitida: 5⁴=625. |
+| 25 / 50 | `USB-2543b7a34fb2-Q032` | B | 12,7 − 0,3 = 12,4 °C. |

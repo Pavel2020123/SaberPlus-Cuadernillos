@@ -203,6 +203,56 @@
       "numero_original": 39,
       "competencia": "interpretation",
       "estado": "seleccion_autorizada_para_revision_y_carga_por_lotes"
+    },
+    {
+      "numero_area": 21,
+      "numero_sesion": 46,
+      "catalog_id": "USB-7882c8f9ae2f-Q043",
+      "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
+      "pagina_fisica": 14,
+      "numero_original": 43,
+      "competencia": "execution",
+      "estado": "seleccion_autorizada_para_revision_y_carga_por_lotes"
+    },
+    {
+      "numero_area": 22,
+      "numero_sesion": 47,
+      "catalog_id": "USB-d4e43db6988a-Q019",
+      "pdf": "ICFES_2026_Cal-B_Sesion-1_Condor-Andino_Ref001_USB-d4e43db6988a.pdf",
+      "pagina_fisica": 7,
+      "numero_original": 19,
+      "competencia": "argumentation",
+      "estado": "seleccion_autorizada_para_revision_y_carga_por_lotes"
+    },
+    {
+      "numero_area": 23,
+      "numero_sesion": 48,
+      "catalog_id": "USB-f00a52c8b6f2-Q042",
+      "pdf": "2025-1_USB-f00a52c8b6f2.pdf",
+      "pagina_fisica": 13,
+      "numero_original": 42,
+      "competencia": "interpretation",
+      "estado": "seleccion_autorizada_para_revision_y_carga_por_lotes"
+    },
+    {
+      "numero_area": 24,
+      "numero_sesion": 49,
+      "catalog_id": "USB-e4489f150183-Q030",
+      "pdf": "2026-1_USB-e4489f150183.pdf",
+      "pagina_fisica": 11,
+      "numero_original": 30,
+      "competencia": "execution",
+      "estado": "seleccion_autorizada_para_revision_y_carga_por_lotes"
+    },
+    {
+      "numero_area": 25,
+      "numero_sesion": 50,
+      "catalog_id": "USB-2543b7a34fb2-Q032",
+      "pdf": "Referencia_2026-1-declarado_Sesion-2_ABU2_USB-2543b7a34fb2.pdf",
+      "pagina_fisica": 13,
+      "numero_original": 32,
+      "competencia": "execution",
+      "estado": "seleccion_autorizada_para_revision_y_carga_por_lotes"
     }
   ]
 }
