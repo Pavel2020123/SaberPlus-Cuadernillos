@@ -6,6 +6,8 @@ Proyecto independiente para diseñar y generar cuadernillos de práctica en PDF.
 
 ## Punto de continuación actual
 
+**SP-003 · Segunda sesión, primeros lotes por área:** [19 candidatas y códigos para revisión individual](planning/SP003_S2_INICIO_AREAS.md): 5 Sociales, 5 Matemáticas, 4 Ciencias y 5 Inglés (bloque completo de parte 1). Páginas originales consultadas; propuestas pendientes de coordinación, **sin carga en 4188**. Matemáticas requiere además el cotejo visual completo frente a las 25 finales de SP-001. La primera sesión se consultó en revisión 26, con 120 preguntas, sin escribir en ella.
+
 **SP-003 · Segunda sesión iniciada:** editor independiente **http://127.0.0.1:4188/**, `data/parallel/SP-003-segunda-4188/project.json`, 134 puestos previstos y sin preguntas cargadas. [Primer lote propuesto de cinco de Sociales, fuentes y coordinación](planning/SP003_S2_SOCIALES_LOTE01.md). La primera sesión sigue en 4185, revisión 25 al comenzar esta fase; no se sustituyó su JSON.
 
 **SP-003 · Primera sesión unificada, revisión 23:** 120 preguntas (25 Matemáticas, 41 Lectura, 25 Sociales, 29 Ciencias), conservando los registros previos y el trabajo del usuario. Tres PDF y respaldo con imágenes en `output/editor/SP003-primera-unificada-rev23/`. [Entrega, códigos, controles y pendientes editoriales](planning/SP003_S1_SESION_UNIFICADA.md). El paquete histórico de 66 preguntas descrito a continuación es un antecedente; no reemplazar la sesión actual con él.
