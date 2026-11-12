@@ -1,0 +1,9 @@
+{
+  "visual_confirmed": [
+    {"codes": ["USB-8e6cf8399239-Q072", "USB-45e476387c60-Q017"], "evidence": "Mismo programa juvenil, requisitos y alternativas; páginas físicas 24 y 7."},
+    {"codes": ["USB-8e6cf8399239-Q083", "USB-4d0661231ca3-Q006", "USB-7882c8f9ae2f-Q006"], "evidence": "Mismo caso de pesca industrial y cuatro alternativas; páginas físicas 27, 3 y 3."},
+    {"codes": ["USB-a170782eadcb-Q081", "USB-7c1a96cf7ade-Q004"], "evidence": "Misma infografía de páramos, enunciado y alternativas; páginas físicas 15 y 3."},
+    {"codes": ["USB-e4489f150183-Q012", "USB-d4e43db6988a-Q081"], "evidence": "Mismo contexto amazónico, pregunta de conflicto y alternativas; páginas físicas 5 y 28."},
+    {"codes": ["USB-e4489f150183-Q013", "USB-d4e43db6988a-Q082"], "evidence": "Mismo contexto amazónico, pregunta de respuesta omitida y alternativas; páginas físicas 5 y 28."}
+  ]
+}

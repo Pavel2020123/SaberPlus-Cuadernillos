@@ -1,0 +1,30 @@
+{
+  "expected_base_questions": 71,
+  "expected_total": 91,
+  "contexts": [
+    {"key":"amazonas-aislamiento", "area":"social", "source_catalog_id":"USB-e4489f150183-Q012", "region":[0.14,0.085,0.49,0.69], "title":"Selva amazónica y pueblos aislados", "verified":false}
+  ],
+  "questions": [
+    {"catalog_id":"USB-1bc205e23b46-Q003","order":6,"region":[0.06,0.68,0.96,0.96]},
+    {"catalog_id":"USB-1bc205e23b46-Q008","order":7,"region":[0.06,0.03,0.96,0.37]},
+    {"catalog_id":"USB-1bc205e23b46-Q009","order":8,"region":[0.06,0.37,0.96,0.73]},
+    {"catalog_id":"USB-1bc205e23b46-Q010","order":9,"region":[0.06,0.73,0.96,0.97]},
+    {"catalog_id":"USB-1bc205e23b46-Q011","order":10,"region":[0.06,0.035,0.49,0.50]},
+    {"catalog_id":"USB-1bc205e23b46-Q013","order":11,"region":[0.52,0.035,0.96,0.61]},
+    {"catalog_id":"USB-1bc205e23b46-Q014","order":12,"region":[0.52,0.61,0.96,0.95]},
+    {"catalog_id":"USB-2722e7c48dfd-Q001","order":13,"region":[0.05,0.01,0.91,0.35]},
+    {"catalog_id":"USB-2722e7c48dfd-Q002","order":14,"region":[0.05,0.34,0.47,0.91]},
+    {"catalog_id":"USB-2722e7c48dfd-Q003","order":15,"region":[0.49,0.34,0.91,0.91]},
+    {"catalog_id":"USB-2722e7c48dfd-Q004","order":16,"region":[0.05,0.04,0.91,0.29]},
+    {"catalog_id":"USB-2722e7c48dfd-Q007","order":17,"region":[0.05,0.01,0.91,0.30]},
+    {"catalog_id":"USB-2722e7c48dfd-Q008","order":18,"region":[0.08,0.29,0.48,0.90]},
+    {"catalog_id":"USB-2722e7c48dfd-Q009","order":19,"region":[0.49,0.29,0.91,0.90]},
+    {"catalog_id":"USB-2722e7c48dfd-Q011","order":20,"region":[0.08,0.44,0.91,0.95]},
+    {"catalog_id":"USB-234fa4e3ddce-Q053","order":21,"region":[0.10,0.30,0.49,0.90]},
+    {"catalog_id":"USB-234fa4e3ddce-Q064","order":22,"region":[0.52,0.29,0.91,0.92]},
+    {"catalog_id":"USB-e4489f150183-Q012","order":23,"region":[0.14,0.68,0.50,0.86],"context_key":"amazonas-aislamiento"},
+    {"catalog_id":"USB-e4489f150183-Q013","order":24,"region":[0.52,0.07,0.90,0.42],"context_key":"amazonas-aislamiento"},
+    {"catalog_id":"USB-a170782eadcb-Q081","order":25,"region":[0.55,0.06,0.96,0.95],"visual_required":true,"image_height":240,
+      "assets":[{"region":[0.607,0.070,0.915,0.642],"verified_unmarked":true}]}
+  ]
+}

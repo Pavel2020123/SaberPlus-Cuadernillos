@@ -1,0 +1,598 @@
+{
+  "expected_base_questions": 71,
+  "expected_total": 91,
+  "contexts": [
+    {
+      "key": "amazonas-aislamiento",
+      "area": "social",
+      "source_catalog_id": "USB-e4489f150183-Q012",
+      "region": [
+        0.14,
+        0.085,
+        0.49,
+        0.69
+      ],
+      "title": "Selva amazónica y pueblos aislados",
+      "verified": true,
+      "text": "Representantes de los gremios minero y petrolero han enviado un comunicado al Gobierno con la intención de obtener los permisos necesarios para intervenir la selva amazónica. Estos gremios argumentan que esta intervención les permitiría mejorar la competitividad de este sector del mercado y generar empleos para las comunidades de la región del Amazonas. Por otra parte, los líderes de algunos pueblos indígenas del Amazonas llevan varios meses pidiendo la ayuda del Gobierno para proteger los territorios de sus “hermanos aislados”, pueblos indígenas que han decidido voluntariamente aislarse en las selvas huyendo de la esclavitud, la violencia y las enfermedades que la civilización occidental ha traído consigo durante los últimos cinco siglos. La amenaza para estos pueblos aún sigue latente; por ejemplo, en el último año varias comunidades indígenas se han visto seriamente afectadas por cuenta de contagios de gripa y sarampión, producto de encuentros imprevistos con leñadores de grupos madereros ilegales en el Amazonas.\nPara tomar una decisión informada sobre este tema, el Gobierno ha pedido la colaboración, tanto de su Ministerio de Minas y Energía, como de los académicos estudiosos de la cultura y la cosmovisión de estos pueblos indígenas del Amazonas. Los académicos argumentan que, teniendo en cuenta la gran vulnerabilidad que estos pueblos antiguos presentan frente a las enfermedades más comunes de Occidente, es necesario crear estructuras legales que protejan los territorios en donde podrían habitar los pueblos indígenas en aislamiento voluntario, respetando su autodeterminación a no ser contactados y protegiendo el gran patrimonio cultural, espiritual y natural que ellos poseen. Por otra parte, desde el Ministerio de Minas y Energía se argumenta que la solución está en que se reúnan los gremios minero, petrolero y maderero con las comunidades indígenas del Amazonas, incluyendo a las comunidades indígenas en aislamiento voluntario, para así poder negociar qué partes de la selva amazónica pueden ser explotadas legalmente para beneficio del desarrollo económico del país.",
+      "source": "Tomado y adaptado de: Calle, H. (2017, 2 de noviembre). Una política de buen vecino para los pueblos aislados colombianos. El Espectador."
+    }
+  ],
+  "questions": [
+    {
+      "catalog_id": "USB-1bc205e23b46-Q003",
+      "order": 6,
+      "region": [
+        0.06,
+        0.68,
+        0.96,
+        0.96
+      ],
+      "page": 2,
+      "area": "social",
+      "topic": "Consecuencia no deseada de actividad extractiva",
+      "subtopic": "Consecuencia no deseada de actividad extractiva",
+      "competency": "systems",
+      "correct": "A",
+      "rationale": "La explotación de carbón puede aumentar contaminación del aire y riesgos respiratorios,distintos al beneficio laboral esperado.",
+      "explanation": "La explotación de carbón puede aumentar contaminación del aire y riesgos respiratorios,distintos al beneficio laboral esperado.",
+      "verified": true,
+      "reviewed_text": {
+        "stem": "Los habitantes de una pequeña población les reclaman a sus dirigentes la falta de empeño para llevar empleo e inversión a su territorio. Luego de varias promesas incumplidas, se logró un acuerdo para la construcción de una central termoeléctrica, que aprovechará las enormes reservas de carbón mineral presentes en el municipio y asegurará la consecución de puestos de trabajo para un pequeño porcentaje de los habitantes, así como otros beneficios para los dueños de restaurantes, tiendas y hoteles.\n¿Qué efecto NO deseado podría traer la construcción de la central termoeléctrica en el municipio?",
+        "options": [
+          "El aumento de las enfermedades respiratorias asociadas a la contaminación del aire por la explotación de carbón.",
+          "Una disminución de la capacidad adquisitiva de los habitantes por el aumento de los precios de los productos.",
+          "La deforestación de las zonas boscosas del municipio para extraer el petróleo que necesita la planta.",
+          "Una sobreoferta de puestos de trabajo que provoque el abandono de otras actividades económicas."
+        ]
+      }
+    },
+    {
+      "catalog_id": "USB-1bc205e23b46-Q008",
+      "order": 7,
+      "region": [
+        0.06,
+        0.03,
+        0.96,
+        0.37
+      ],
+      "page": 3,
+      "area": "social",
+      "topic": "Complementariedad de medidas de movilidad",
+      "subtopic": "Complementariedad de medidas de movilidad",
+      "competency": "systems",
+      "correct": "C",
+      "rationale": "Infraestructura,control,tecnología y educación pueden articular entidades estatales para enfrentar el problema.",
+      "explanation": "Infraestructura,control,tecnología y educación pueden articular entidades estatales para enfrentar el problema.",
+      "verified": true,
+      "reviewed_text": {
+        "stem": "De acuerdo con un estudio de una organización no gubernamental experta en temas de movilidad, uno de los principales problemas de las grandes ciudades de Colombia es el exceso de vehículos particulares que sobrepasa la capacidad de las vías construidas. Este fenómeno se presenta principalmente por el aumento de la población, el crecimiento de la economía y la expansión de la ciudad. Para disminuir los efectos de esta problemática que produce, además, contaminación del aire urbano, se proponen las siguientes estrategias:\n1. Estudio por parte de la Secretaría de Planeación para el mejoramiento de la malla vial.\n2. Aumento de la cantidad y capacidad de policías de tránsito para facilitar el flujo de vehículos.\n3. Implementación de tecnología avanzada para mejorar la coordinación de los semáforos.\n4. Realización de campañas pedagógicas con servidores públicos para desestimular el uso de carros y motos particulares.\n¿Qué tipo de relación encontramos entre las cuatro estrategias para mejorar la movilidad?",
+        "options": [
+          "Complementariedad, porque permite que organizaciones no gubernamentales participen activamente en el mejoramiento de la movilidad.",
+          "Incompatibilidad, porque no es posible aumentar la presencia de la policía de tránsito y al mismo tiempo implementar tecnología avanzada.",
+          "Complementariedad, porque permite que diferentes entidades del Estado se articulen para la implementación de las estrategias propuestas.",
+          "Incompatibilidad, porque no es posible mejorar la calidad del aire y al mismo tiempo desestimular el uso de los vehículos motorizados."
+        ]
+      }
+    },
+    {
+      "catalog_id": "USB-1bc205e23b46-Q009",
+      "order": 8,
+      "region": [
+        0.06,
+        0.37,
+        0.96,
+        0.73
+      ],
+      "page": 3,
+      "area": "social",
+      "topic": "Aplicación de realismo en relaciones internacionales",
+      "subtopic": "Aplicación de realismo en relaciones internacionales",
+      "competency": "social_thinking",
+      "correct": "D",
+      "rationale": "Competencia hegemónica y carrera armamentista de GuerraFría ejemplifican búsqueda de poder y seguridad estatal.",
+      "explanation": "Competencia hegemónica y carrera armamentista de GuerraFría ejemplifican búsqueda de poder y seguridad estatal.",
+      "verified": true,
+      "reviewed_text": {
+        "stem": "El realismo es un modelo teórico sobre las relaciones internacionales que se caracteriza por cuatro postulados principales:\n• Los países coexisten en un escenario concebido como el sistema internacional, cuya principal característica es la ausencia de una autoridad central.\n• Los Estados actúan según intereses egoístas, con el fin último de incrementar su poder material.\n• Ningún Estado tiene garantizada su supervivencia. Para disminuir la posibilidad de ser atacados, los Estados pretenden hacer cada vez mayor su capacidad militar.\n• Los Estados son propensos a la guerra.\nTomado y adaptado de: Dougherty, J. y Pfaltzgraff, R. (1981). Contending Theories of International Relations. New York: Harper & Row Publishers.\nDe acuerdo con estos postulados, ¿cuál de los siguientes procesos históricos es un ejemplo en el que se aplica el modelo realista?",
+        "options": [
+          "El movimiento pacifista liderado por Mahatma Gandhi, que culminó con la salida de Gran Bretaña de la India y el reconocimiento de la independencia de ese país en 1947.",
+          "El apoyo internacional que ha recibido Colombia para combatir el narcotráfico y los grupos armados ilegales formados en el marco de un conflicto interno de más de medio siglo.",
+          "La Gran Recesión de 2008, en la cual los organismos de control impusieron millonarias multas a bancos internacionales por delitos financieros cometidos antes y durante la crisis.",
+          "La Guerra Fría, en la que Estados Unidos y la Unión Soviética compitieron por la hegemonía mundial, lo cual llevó a una carrera armamentista entre ambas potencias."
+        ]
+      }
+    },
+    {
+      "catalog_id": "USB-1bc205e23b46-Q010",
+      "order": 9,
+      "region": [
+        0.06,
+        0.73,
+        0.96,
+        0.97
+      ],
+      "page": 3,
+      "area": "social",
+      "topic": "Autonomía y protección territorial indígena",
+      "subtopic": "Autonomía y protección territorial indígena",
+      "competency": "social_thinking",
+      "correct": "B",
+      "rationale": "Legislación especial sobre tierras protege autonomía y diversidad frente a intervenciones externas.",
+      "explanation": "Legislación especial sobre tierras protege autonomía y diversidad frente a intervenciones externas.",
+      "verified": true,
+      "reviewed_text": {
+        "stem": "De acuerdo con la Constitución Política de Colombia, el Estado reconoce y protege la diversidad étnica y cultural de la Nación colombiana. Por ello, se crean mecanismos y leyes especiales para defender a los grupos étnicos, su gobierno y la consolidación de sus propias legislaciones, bajo el principio de la autonomía y la autodeterminación.\n¿Cuál es una de las medidas implementadas por el Estado para hacer posibles estas garantías?",
+        "options": [
+          "Militarizar las zonas donde habitan las comunidades indígenas, para que no se violente su autonomía ni se limiten sus garantías.",
+          "Consolidar una legislación especial sobre la tierra donde habitan las comunidades indígenas, para protegerlas de intervención externa.",
+          "Asignar funciones especiales a las gobernaciones para usar los recursos de los territorios de las comunidades indígenas de su departamento.",
+          "Regular las actividades que se llevan a cabo en los territorios de las comunidades indígenas por medio del uso legítimo de la fuerza del Estado."
+        ]
+      }
+    },
+    {
+      "catalog_id": "USB-1bc205e23b46-Q011",
+      "order": 10,
+      "region": [
+        0.06,
+        0.035,
+        0.49,
+        0.5
+      ],
+      "page": 4,
+      "area": "social",
+      "topic": "Condición material para recoger agua lluvia",
+      "subtopic": "Condición material para recoger agua lluvia",
+      "competency": "systems",
+      "correct": "D",
+      "rationale": "Se requiere infraestructura de recolección;alto estrato o grupos ambientalistas no son condición necesaria.",
+      "explanation": "Se requiere infraestructura de recolección;alto estrato o grupos ambientalistas no son condición necesaria.",
+      "verified": true,
+      "reviewed_text": {
+        "stem": "La alcaldía de una ciudad contempla diferentes alternativas para promover el ahorro y uso responsable del agua potable. Para esto, decide fomentar la recolección de aguas lluvias para que sean utilizadas en la descarga de los sanitarios o inodoros, en lugar del agua potable que podría destinarse al consumo humano o preparación de alimentos. La medida resulta un éxito, pues las grandes empresas públicas y privadas de la ciudad adoptaron la medida, y con ello redujeron hasta en un 50 % su consumo de agua potable.\n¿Cuál de las siguientes sería una condición necesaria para que esta medida pueda aplicarse satisfactoriamente en otra ciudad?",
+        "options": [
+          "Que cuente con un sistema de acueducto que llegue a todos sus habitantes, con agua apta para el consumo humano.",
+          "Que cuente con barrios de estratos altos en los que ya se utilicen sistemas alternativos de distribución de agua.",
+          "Que tenga un gran grupo de ciudadanos ambientalistas para que cada uno lleve a cabo la recolección por su cuenta.",
+          "Que tenga entidades con la infraestructura necesaria para implementar el sistema de recolección de aguas lluvias."
+        ]
+      }
+    },
+    {
+      "catalog_id": "USB-1bc205e23b46-Q013",
+      "order": 11,
+      "region": [
+        0.52,
+        0.035,
+        0.96,
+        0.61
+      ],
+      "page": 4,
+      "area": "social",
+      "topic": "Límite de inferencia a partir de fuente histórica",
+      "subtopic": "Límite de inferencia a partir de fuente histórica",
+      "competency": "perspectives",
+      "correct": "B",
+      "rationale": "Un relato de utilización política de un incendio no demuestra conjunto de distintas estrategias;la fuente no basta para esa generalización.",
+      "explanation": "Un relato de utilización política de un incendio no demuestra conjunto de distintas estrategias;la fuente no basta para esa generalización.",
+      "verified": true,
+      "reviewed_text": {
+        "stem": "Lea atentamente el siguiente fragmento:\n«En la tarde del 27 de febrero de 1933, hace ya 75 años, las llamas devoraron el edificio del Reichstag, en un oscuro preludio de la definitiva toma del poder por parte del régimen nazi, un siniestro cuyas circunstancias aún hoy no han sido aclaradas. Aquel desastroso incidente precipitó el ascenso al poder de Adolf Hitler, quien había sido nombrado canciller en enero, si bien todavía hoy sigue sin estar clara la autoría que, por otra parte, se suele atribuir al excomunista holandés Marinus van der Lubbe. Sin embargo, muchos se resisten a creer que el devastador incendio fuera obra de una sola persona; lo que a nadie se le escapa es que el episodio le sirvió a Hitler de pretexto para acusar a los comunistas del incendio, pedir mayores poderes al presidente del Reich, Paul von Hindenburg, y derogar las garantías constitucionales».\n(2008, 27 de febrero). El día en que la democracia alemana fue pasto de las llamas. El País. Recuperado de https://elpais.com/internacional/2008/02/27/actualidad/1204066814_850215.html\nUna persona que ha leído este fragmento ha inferido que el partido Nazi utilizó diferentes estrategias para desequilibrar la balanza política y, así, tomar el poder del gobierno alemán. Al respecto, es posible afirmar que la inferencia hecha por esta persona no se puede deducir de la información presentada porque",
+        "options": [
+          "no es posible conocer si la quema del Reichstag realmente ocurrió.",
+          "la fuente no presenta información suficiente para hacer esta inferencia.",
+          "fueron otras las estrategias que utilizó el partido Nazi para desequilibrar la balanza política.",
+          "la fuente presentada en el texto es una opinión, no una fuente histórica o periodística."
+        ]
+      }
+    },
+    {
+      "catalog_id": "USB-1bc205e23b46-Q014",
+      "order": 12,
+      "region": [
+        0.52,
+        0.61,
+        0.96,
+        0.95
+      ],
+      "page": 4,
+      "area": "social",
+      "topic": "Validez de justificación de conducta",
+      "subtopic": "Validez de justificación de conducta",
+      "competency": "perspectives",
+      "correct": "D",
+      "rationale": "Admitir conducta o afirmar que otros la realizan no la convierte en correcta.",
+      "explanation": "Admitir conducta o afirmar que otros la realizan no la convierte en correcta.",
+      "verified": true,
+      "reviewed_text": {
+        "stem": "En un país está establecido que ningún empleado estatal puede promover o intervenir en campañas políticas ni valerse de la autoridad de su cargo para favorecer o perjudicar candidaturas o partidos políticos. Sin embargo, en una entrevista, un candidato al Congreso admite que las actividades que realizó cuando ejercía como funcionario público estuvieron encaminadas a hacer campaña para el Congreso. Ante las críticas por su manera de proceder, el candidato se defendió afirmando que «todo el mundo estaba en campaña, yo nunca lo oculté».\nCon relación a lo anterior, ¿el argumento presentado por el candidato es válido para justificar el uso de su cargo público para hacer campaña política?",
+        "options": [
+          "No, porque la información declarada en las entrevistas no es de carácter oficial.",
+          "Sí, porque al no ocultar que estaba en campaña, su manera de actuar fue transparente.",
+          "Sí, porque el candidato actuó conforme a como los demás candidatos estaban procediendo.",
+          "No, porque admitir públicamente sus acciones no implica que no sean incorrectas."
+        ]
+      }
+    },
+    {
+      "catalog_id": "USB-2722e7c48dfd-Q001",
+      "order": 13,
+      "region": [
+        0.05,
+        0.01,
+        0.91,
+        0.35
+      ],
+      "page": 2,
+      "area": "social",
+      "topic": "Impactos sociales omitidos en reforma urbana",
+      "subtopic": "Impactos sociales omitidos en reforma urbana",
+      "competency": "systems",
+      "correct": "A",
+      "rationale": "Demoler viviendas para ampliar vías omite necesidades económicas y habitacionales de sus residentes, aunque atienda circulación y hacinamiento.",
+      "explanation": "Demoler viviendas para ampliar vías omite necesidades económicas y habitacionales de sus residentes, aunque atienda circulación y hacinamiento.",
+      "verified": true,
+      "reviewed_text": {
+        "stem": "En la segunda mitad del siglo XIX, la situación política en París era inestable, ya que las jóvenes repúblicas procuraban definir y delimitar sus formas de gobierno. Esta inestabilidad generó diversas problemáticas, una de ellas, el hacinamiento en las calles. París, la ciudad medieval, era en ese entonces una ciudad de calles angostas que, según las autoridades de la época, fomentaban la suciedad, la inseguridad y la obstrucción de las vías. Un prefecto de París, conocido como el barón Haussmann, propuso una serie de modificaciones urbanas para facilitar el tráfico de personas, bienes y servicios en la ciudad y para evitar, según él, las aglomeraciones de gente, basura y pobreza. Las políticas de modificación consistieron en ensanchar las vías, demoler varias viviendas y establecer anchas calles, conocidas como bulevares.\nTeniendo en cuenta la anterior propuesta para solucionar la problemática del hacinamiento en el París del siglo XIX, ¿qué aspectos no fueron tenidos en cuenta en la propuesta del barón Haussmann?",
+        "options": [
+          "La situación económica y las necesidades de las personas que vivían en las zonas de la ciudad que fueron demolidas.",
+          "La cantidad de tráfico que pasaba por determinadas zonas de la ciudad en los horarios laborales.",
+          "La situación política en constante cambio que vivía París durante la segunda mitad del siglo XIX.",
+          "La velocidad de la vida cotidiana y la necesidad de una ciudad apta para estos cambios del día a día de las personas."
+        ]
+      }
+    },
+    {
+      "catalog_id": "USB-2722e7c48dfd-Q002",
+      "order": 14,
+      "region": [
+        0.05,
+        0.34,
+        0.47,
+        0.91
+      ],
+      "page": 2,
+      "area": "social",
+      "topic": "Consecuencia no prevista de redistribución de tierras",
+      "subtopic": "Consecuencia no prevista de redistribución de tierras",
+      "competency": "systems",
+      "correct": "B",
+      "rationale": "Recibir tierra sin recursos de inversión puede llevar a venderla, frustrando el objetivo de producción campesina.",
+      "explanation": "Recibir tierra sin recursos de inversión puede llevar a venderla, frustrando el objetivo de producción campesina.",
+      "verified": true,
+      "reviewed_text": {
+        "stem": "Cuando se habla de los orígenes de la violencia y la pobreza en las zonas rurales de Colombia, una de las causas que se menciona para explicarlos es la concentración de la tierra en unas pocas personas, conocidas como terratenientes. Por esta razón, algunos líderes políticos han propuesto que en Colombia se implemente una reforma agraria, que permita una redistribución de la tierra, para que las familias pobres accedan a terrenos que no han puesto a producir los terratenientes, con el objetivo de que puedan invertir y trabajar en ellos, y se fortalezca la producción agropecuaria del país. La propuesta implica que el Gobierno nacional les compre las tierras improductivas a los terratenientes y se las adjudique a campesinos de escasos recursos.\nDe acuerdo con el contexto anterior, ¿qué efecto NO esperado podría tener una política de reforma agraria?",
+        "options": [
+          "Que los terratenientes a los que se les compren las tierras improductivas se incentiven para poner a producir todos sus terrenos.",
+          "Que los campesinos a los que se les entregue tierras, terminen vendiéndolas por carecer de recursos necesarios para invertir en ellas.",
+          "Que los terratenientes a los que se les compren las tierras improductivas acuerden con el Gobierno los precios de sus terrenos.",
+          "Que los campesinos a los que se les entregue tierras utilicen sus fincas como garantía en la solicitud de créditos para invertir en ellas."
+        ]
+      }
+    },
+    {
+      "catalog_id": "USB-2722e7c48dfd-Q003",
+      "order": 15,
+      "region": [
+        0.49,
+        0.34,
+        0.91,
+        0.91
+      ],
+      "page": 2,
+      "area": "social",
+      "topic": "Dimensiones de conflicto por restricción vehicular",
+      "subtopic": "Dimensiones de conflicto por restricción vehicular",
+      "competency": "systems",
+      "correct": "C",
+      "rationale": "Se contraponen beneficios ambientales y posibles pérdidas económicas del comercio.",
+      "explanation": "Se contraponen beneficios ambientales y posibles pérdidas económicas del comercio.",
+      "verified": true,
+      "reviewed_text": {
+        "stem": "En una ciudad capital, un grupo de ambientalistas radicó una propuesta ante el órgano legislativo correspondiente, con la que se busca prohibir la circulación de todo tipo de vehículos particulares con motor de combustión —incluyendo las motos—, una vez a la semana, con el fin de reducir la contaminación y promover el uso de medios de transporte con energías limpias.\nAlgunas concejalas han visto con buenos ojos la propuesta, al considerar que las ventajas para la calidad del aire son significativas, y también se reducirían considerablemente los índices de inseguridad y accidentalidad. Sin embargo, muchos gremios, empresarios y líderes ciudadanos han manifestado su rechazo a la medida, porque consideran que ese día se afectarían las ventas de miles de negocios, debido a que la gente no se movilizaría por la ciudad.\nDe acuerdo con lo planteado, ¿cuáles dimensiones de esta problemática se encuentran en conflicto?",
+        "options": [
+          "Cultural y económica, porque promover una cultura alternativa que modifique los comportamientos ciudadanos afecta negativamente los ingresos de las empresas.",
+          "Ambiental y política, porque el Concejo de la ciudad se está inmiscuyendo en temas ambientales que solo le corresponden a la ciudadanía.",
+          "Ambiental y económica, porque dependiendo de las medidas que se tomen para mejorar la calidad del ambiente, estas podrían impactar la economía de la ciudad.",
+          "Cultural y política, porque los cambios culturales con relación al transporte implican decisiones políticas que pueden ser controversiales para las personas."
+        ]
+      }
+    },
+    {
+      "catalog_id": "USB-2722e7c48dfd-Q004",
+      "order": 16,
+      "region": [
+        0.05,
+        0.04,
+        0.91,
+        0.29
+      ],
+      "page": 3,
+      "area": "social",
+      "topic": "Jerarquía colonial y clasificación racial",
+      "subtopic": "Jerarquía colonial y clasificación racial",
+      "competency": "social_thinking",
+      "correct": "B",
+      "rationale": "Los privilegios y privaciones descritos dependen del origen y color de piel, ligando clasificación racial y orden social.",
+      "explanation": "Los privilegios y privaciones descritos dependen del origen y color de piel, ligando clasificación racial y orden social.",
+      "verified": true,
+      "reviewed_text": {
+        "stem": "Durante el periodo colonial, el estatus legal de una persona dependía de su origen y color de piel. Así, los blancos españoles tenían ciertos privilegios como portar armas y montar a caballo, los indígenas tenían derecho a la tierra y el deber de tributar, y las personas de origen africano podían ser esclavizadas y privadas de su libertad.\nDe acuerdo con esta información, se puede afirmar que, en la Colonia, la clasificación de las personas reflejaba una estrecha relación determinista entre",
+        "options": [
+          "el género y el poder adquisitivo.",
+          "la raza y el orden social.",
+          "la economía y el derecho al trabajo.",
+          "la educación y el acceso a bienes."
+        ]
+      }
+    },
+    {
+      "catalog_id": "USB-2722e7c48dfd-Q007",
+      "order": 17,
+      "region": [
+        0.05,
+        0.01,
+        0.91,
+        0.3
+      ],
+      "page": 4,
+      "area": "social",
+      "topic": "Identificación histórica de una fuente",
+      "subtopic": "Identificación histórica de una fuente",
+      "competency": "social_thinking",
+      "correct": "D",
+      "rationale": "La referencia a disturbios tras la muerte de Gaitán y ataques a la radiodifusora corresponde al contexto del Bogotazo; no dice que el liberalismo iniciara toda violencia nacional.",
+      "explanation": "La referencia a disturbios tras la muerte de Gaitán y ataques a la radiodifusora corresponde al contexto del Bogotazo; no dice que el liberalismo iniciara toda violencia nacional.",
+      "verified": true,
+      "reviewed_text": {
+        "stem": "El siguiente fragmento presenta un acontecimiento de la historia reciente de Colombia:\n«Según se dice, el Gobierno, en vista de la situación, dispone declarar a Bogotá un estado de sitio, y no sería difícil que la medida se extendiera a todo el país, en vista de que en todas partes, de acuerdo con noticias que comienzan a recibirse, el liberalismo se ha lanzado a las calles pidiendo venganza [...] Por ejemplo, el pueblo apedreó el edificio de la radiodifusora nacional, por la cual se estuvo anunciando repetidamente que Gaitán no había muerto, en un intento por evitar la turbación del orden público, y algunos penetraron a los estudios de la estación y la silenciaron, al darse cuenta de lo que estaba haciéndose».\nTomado y adaptado de: Bautista, D. (9 de abril de 1948). Suspendida la Sesión de la Conferencia Panamericana. El Diario, p. 4A.\nDe acuerdo con lo presentado en el fragmento, ¿se puede afirmar que esta fuente se refiere al Bogotazo?",
+        "options": [
+          "No, porque, según la radiodifusora, Gaitán no murió y el Bogotazo se desencadenó con su muerte.",
+          "Sí, porque el liberalismo inició la violencia en el país a raíz del asesinato de Jorge Eliécer Gaitán.",
+          "No, porque, según el relato, los acontecimientos no ocurrieron en Bogotá sino a nivel nacional.",
+          "Sí, porque relata algunos hechos que se desencadenaron luego del asesinato de Jorge Eliécer Gaitán."
+        ]
+      }
+    },
+    {
+      "catalog_id": "USB-2722e7c48dfd-Q008",
+      "order": 18,
+      "region": [
+        0.08,
+        0.29,
+        0.48,
+        0.9
+      ],
+      "page": 4,
+      "area": "social",
+      "topic": "Identificación de prejuicio en discurso político",
+      "subtopic": "Identificación de prejuicio en discurso político",
+      "competency": "perspectives",
+      "correct": "C",
+      "rationale": "El discurso asocia refugiados y población musulmana con amenaza a la seguridad, generalización que la pregunta pide reconocer sin adoptarla.",
+      "explanation": "El discurso asocia refugiados y población musulmana con amenaza a la seguridad, generalización que la pregunta pide reconocer sin adoptarla.",
+      "verified": true,
+      "reviewed_text": {
+        "stem": "Lea el siguiente discurso del presidente de los Estados Unidos, con motivo de la prohibición, durante 90 días, de expedir visas a ciudadanos de países como Libia, Sudán, Somalia, Siria, Irak, Yemen e Irán.\n«Hemos tomado medidas de escrutinio extremo para mantener fuera de los Estados Unidos a los terroristas islamistas radicales. Nos queremos asegurar de que no admitiremos en el país a la misma amenaza que nuestros soldados combaten en el extranjero. Solo queremos admitir a aquellos que apoyan a nuestro país y aman profundamente a nuestro pueblo. Por eso, proclamo que la entrada de nacionales de Siria como refugiados va en detrimento de los intereses de Estados Unidos y, por lo tanto, suspendo tal entrada. De aquí en adelante, todos los programas de inmigración deben incluir preguntas para evaluar la probabilidad de que el solicitante se convierta en un miembro que contribuya positivamente a la sociedad».\nTomado y adaptado de: Redacción BBC Mundo (27 de enero de 2017). [...]. BBC Mundo. https://www.bbc.com/mundo/noticias-internacional-38776156\nDe acuerdo con lo planteado en su discurso, el presidente tiene prejuicios contra la población musulmana porque",
+        "options": [
+          "insiste en la necesidad de proteger a los ciudadanos norteamericanos de los terroristas islámicos.",
+          "destaca los aportes de la comunidad islámica al progreso y al desarrollo de los Estados Unidos.",
+          "insinúa que los refugiados y la población musulmana son una amenaza para la seguridad nacional.",
+          "asume que todos los musulmanes son peligrosos, por el hecho de que los refugiados sirios lo sean."
+        ]
+      }
+    },
+    {
+      "catalog_id": "USB-2722e7c48dfd-Q009",
+      "order": 19,
+      "region": [
+        0.49,
+        0.29,
+        0.91,
+        0.9
+      ],
+      "page": 4,
+      "area": "social",
+      "topic": "Favoritismo e interferencia en contratación pública",
+      "subtopic": "Favoritismo e interferencia en contratación pública",
+      "competency": "social_thinking",
+      "correct": "B",
+      "rationale": "El alcalde pide omitir requisitos para favorecer una empresa vinculada familiar y políticamente, no simplemente supervisar el proceso.",
+      "explanation": "El alcalde pide omitir requisitos para favorecer una empresa vinculada familiar y políticamente, no simplemente supervisar el proceso.",
+      "verified": true,
+      "reviewed_text": {
+        "stem": "Un alcalde que ha sido reconocido por los medios de comunicación como uno de los mandatarios más responsables del país, ha estado muy atento a una licitación pública para la compra de una maquinaria que su municipio necesita. Su asesor jurídico, quien está al frente del proceso de la licitación, recibió la orden del alcalde de informarle sobre todos los pormenores del proceso licitatorio. El asesor encuentra que una de las empresas que participa en la licitación no cumple con varios requisitos y le cuenta al alcalde que le va a «notificar» a la empresa que no podrá participar en este proceso. En respuesta, el alcalde le sugiere a su asesor que omita el incumplimiento de esos requisitos porque, por el bien de la licitación, se necesita que muchas empresas participen. Además le informa que, aunque esa empresa no cumple los requisitos, él conoce de primera mano a sus dueños porque estuvieron en su campaña y, lo más importante, sabe que son empresarios responsables que cumplirán a «cabalidad» si les es adjudicado el contrato para comprar la maquinaria.\nDe acuerdo con lo anterior, ¿el alcalde está actuando indebidamente?",
+        "options": [
+          "No, porque, como alcalde, su deber es estar al tanto de las licitaciones del municipio para asegurar que los recursos públicos se usen correctamente.",
+          "Sí, porque está influenciando a un subalterno para favorecer a una empresa en la adjudicación de un contrato para ejecutar recursos públicos.",
+          "No, porque los asesores jurídicos de una alcaldía deben apegarse al conducto regular cumpliendo las órdenes de los mandatarios municipales.",
+          "Sí, porque, como alcalde, está obligado a mantenerse al margen de los asuntos relacionados con las compras que necesita el municipio."
+        ]
+      }
+    },
+    {
+      "catalog_id": "USB-2722e7c48dfd-Q011",
+      "order": 20,
+      "region": [
+        0.08,
+        0.44,
+        0.91,
+        0.95
+      ],
+      "page": 5,
+      "area": "social",
+      "topic": "Intereses en reubicación escolar",
+      "subtopic": "Intereses en reubicación escolar",
+      "competency": "perspectives",
+      "correct": "D",
+      "rationale": "Usar solo disponibilidad de cupos no garantiza conservar hermanos o compañeros juntos; cercanía y nuevas instalaciones sí atienden rectora y docentes.",
+      "explanation": "Usar solo disponibilidad de cupos no garantiza conservar hermanos o compañeros juntos; cercanía y nuevas instalaciones sí atienden rectora y docentes.",
+      "verified": true,
+      "reviewed_text": {
+        "stem": "Las instalaciones de una institución educativa deben cerrarse por tres meses para realizar unas reparaciones indispensables. Como consecuencia, es necesario reubicar temporalmente a los estudiantes, lo cual ha generado varias discusiones:\n• La rectora de la institución solicitó a la Secretaría de Educación que los niños sean ubicados temporalmente en colegios cercanos.\n• Un grupo de padres de familia afirmó que no importa dónde sean reubicados sus hijos, siempre y cuando se les asigne la misma institución que a sus hermanos.\n• Los docentes solicitaron que los estudiantes sean ubicados en colegios que tengan instalaciones físicas en buen estado.\n• Los estudiantes afirmaron que no importa dónde los reubiquen, siempre y cuando queden en el mismo colegio que sus compañeros de curso.\nFrente a esta situación, la Secretaría de Educación del municipio decidió reubicar temporalmente a los estudiantes en tres colegios nuevos, construidos cerca al colegio en reparación. Al hacerlo, tuvo como único criterio la disponibilidad de cupos existente en cada una de las instituciones educativas.\n¿Contra los intereses de quiénes choca esta medida de la Secretaría de Educación?",
+        "options": [
+          "De la rectora y de los padres de familia.",
+          "De los estudiantes y de los docentes.",
+          "De la rectora y de los docentes.",
+          "De los estudiantes y de los padres de familia."
+        ]
+      }
+    },
+    {
+      "catalog_id": "USB-234fa4e3ddce-Q053",
+      "order": 21,
+      "region": [
+        0.1,
+        0.3,
+        0.49,
+        0.9
+      ],
+      "page": 19,
+      "area": "social",
+      "topic": "Estereotipo de genero en reconocimiento deportivo",
+      "subtopic": "Estereotipo de genero en reconocimiento deportivo",
+      "competency": "perspectives",
+      "correct": "C",
+      "rationale": "Se elogia tecnica de varones y belleza de mujeres,desplazando reconocimiento de sus capacidades deportivas.",
+      "explanation": "Se elogia tecnica de varones y belleza de mujeres,desplazando reconocimiento de sus capacidades deportivas.",
+      "verified": true,
+      "reviewed_text": {
+        "stem": "La alcaldía de un municipio organizó un evento denominado «La semana deportiva», en el cual participaron todos los colegios de la comunidad, compitiendo en diferentes categorías en una amplia variedad de deportes. La apertura de esta actividad se realizó con un partido de baloncesto entre los dos equipos de los colegios con el mejor rendimiento deportivo durante el año anterior. Los colegios escogidos fueron el colegio masculino A y el colegio femenino B.\nDurante el discurso de apertura, el alcalde de la ciudad saludó a los asistentes de la siguiente manera: «Bienvenidos todos al juego de baloncesto del año. Hoy veremos lo mejor de la juventud de nuestra comunidad: la calidad técnica del equipo del colegio A y la belleza del equipo del colegio B. Animen al equipo que más les guste, ¡y que gane el mejor!».\n¿Cuál de las siguientes podría ser una consecuencia negativa derivada directamente de lo que dijo el alcalde?",
+        "options": [
+          "Que los integrantes del equipo de baloncesto del colegio A piensen que el alcalde solo anima al otro equipo y quiere que ellos no ganen.",
+          "Que los jóvenes del municipio sientan que, si se interesan por otros deportes distintos al baloncesto, la alcaldía no los va a apoyar.",
+          "Que las integrantes del equipo de baloncesto del colegio B no sean valoradas por sus capacidades deportivas.",
+          "Que los asistentes al evento piensen que el alcalde no se interesa por otros asuntos de la comunidad, sino solo en el deporte."
+        ]
+      }
+    },
+    {
+      "catalog_id": "USB-234fa4e3ddce-Q064",
+      "order": 22,
+      "region": [
+        0.52,
+        0.29,
+        0.91,
+        0.92
+      ],
+      "page": 23,
+      "area": "social",
+      "topic": "Alcance del movimiento por derechos civiles",
+      "subtopic": "Alcance del movimiento por derechos civiles",
+      "competency": "social_thinking",
+      "correct": "C",
+      "rationale": "C vincula conciencia de derechos con carencias raciales y socioeconomicas,no aislamiento del resto de grupos ni oposicion a segunda guerra.",
+      "explanation": "C vincula conciencia de derechos con carencias raciales y socioeconomicas,no aislamiento del resto de grupos ni oposicion a segunda guerra.",
+      "verified": true,
+      "reviewed_text": {
+        "stem": "Del Movimiento por los Derechos Civiles se ha dicho que «Ningún otro movimiento en la historia norteamericana de la posguerra hizo tanto por elevar la conciencia de los derechos en general —entre las mujeres, los pobres y otros grupos en situación desventajosa— y por transformar la sociedad y la cultura de los Estados Unidos».\nPatterson, J. y Vann Woodward, C. (1996): Grand Expectations. The United States, 1945-1974, p. 385. New York: Oxford University Press.\n¿Cuál de las siguientes afirmaciones complementa lo dicho en el fragmento anterior?",
+        "options": [
+          "El Movimiento por los Derechos Civiles, si se mira en contraste con colectivos como las organizaciones estudiantiles universitarias o el feminismo, fue básicamente un fenómeno débil de corta duración e impacto limitado.",
+          "El Movimiento por los Derechos Civiles denunció la discriminación a la que eran sometidas las comunidades afrodescendientes de los Estados Unidos, ignorando la situación similar que afrontaban otras minorías en el país.",
+          "El Movimiento por los Derechos Civiles puso en evidencia que una gran parte de la población estadounidense carecía de derechos básicos como el voto, la salud digna y la educación por motivo de su condición racial o socioeconómica.",
+          "El Movimiento por los Derechos Civiles funcionó como catalizador del descontento que sentía gran parte de la sociedad estadounidense hacia la participación del país en la Segunda Guerra Mundial."
+        ]
+      }
+    },
+    {
+      "catalog_id": "USB-e4489f150183-Q012",
+      "order": 23,
+      "region": [
+        0.14,
+        0.68,
+        0.5,
+        0.86
+      ],
+      "context_key": "amazonas-aislamiento",
+      "page": 5,
+      "area": "social",
+      "topic": "Conflicto de intereses sobre selva amazonica",
+      "subtopic": "Conflicto de intereses sobre selva amazonica",
+      "competency": "perspectives",
+      "correct": "B",
+      "rationale": "Interes extractivo del gremio minero se opone a proteccion territorial y aislamiento indigena.",
+      "explanation": "Interes extractivo del gremio minero se opone a proteccion territorial y aislamiento indigena.",
+      "verified": true,
+      "reviewed_text": {
+        "stem": "De acuerdo con los intereses involucrados en la situación descrita, ¿entre quiénes sería más probable que se genere un conflicto?",
+        "options": [
+          "Entre los pueblos indígenas y los académicos.",
+          "Entre el gremio minero y los pueblos indígenas.",
+          "Entre el Ministerio de Minas y Energía y el gremio petrolero.",
+          "Entre los grupos madereros ilegales y el gremio petrolero."
+        ]
+      }
+    },
+    {
+      "catalog_id": "USB-e4489f150183-Q013",
+      "order": 24,
+      "region": [
+        0.52,
+        0.07,
+        0.9,
+        0.42
+      ],
+      "context_key": "amazonas-aislamiento",
+      "page": 5,
+      "area": "social",
+      "topic": "Perspectiva omitida en negociacion",
+      "subtopic": "Perspectiva omitida en negociacion",
+      "competency": "perspectives",
+      "correct": "C",
+      "rationale": "Invitar a comunidades aisladas a negociar omite su voluntad de no mantener contacto.",
+      "explanation": "Invitar a comunidades aisladas a negociar omite su voluntad de no mantener contacto.",
+      "verified": true,
+      "reviewed_text": {
+        "stem": "En relación con la propuesta planteada por el Ministerio de Minas y Energía, ¿cuál de las siguientes opciones describe una posible reacción o respuesta que NO se tuvo en cuenta en dicha propuesta?",
+        "options": [
+          "Que los gremios petroleros y mineros solo quieran beneficiarse de la extracción ilegal de la mayor cantidad de recursos del Amazonas.",
+          "Que los académicos no tengan en cuenta los beneficios que conlleva el modelo extractivo legal que busca el desarrollo económico del país.",
+          "Que los pueblos indígenas aislados voluntariamente no acepten entablar ningún tipo de relación con la sociedad occidental.",
+          "Que los grupos madereros ilegales no tengan las vías para poder negociar la explotación legal de los bosques amazónicos."
+        ]
+      }
+    },
+    {
+      "catalog_id": "USB-a170782eadcb-Q081",
+      "order": 25,
+      "region": [
+        0.55,
+        0.06,
+        0.96,
+        0.95
+      ],
+      "visual_required": true,
+      "image_height": 360,
+      "assets": [
+        {
+          "region": [
+            0.607,
+            0.07,
+            0.915,
+            0.642
+          ],
+          "verified_unmarked": true
+        }
+      ],
+      "page": 15,
+      "area": "social",
+      "topic": "Evidencia gráfica contra idealización ambiental",
+      "subtopic": "Evidencia gráfica contra idealización ambiental",
+      "competency": "perspectives",
+      "correct": "B",
+      "rationale": "Agricultura,ganadería y350000habitantes muestran intervención humana en parte de páramos,contradiciendo aislamiento absoluto.",
+      "explanation": "Agricultura,ganadería y350000habitantes muestran intervención humana en parte de páramos,contradiciendo aislamiento absoluto.",
+      "verified": true,
+      "reviewed_text": {
+        "stem": "Algunas personas interesadas en defender la riqueza natural del agua consideran que los páramos son lugares sagrados y que todos ellos, por ser sitios de reserva, están aislados de las ciudades y de la influencia del ser humano y conservan gran cantidad de riqueza en fauna y flora. Por otro lado, algunas fuentes como el IGAC (Instituto Geográfico Agustín Codazzi) indican que esta idea no se ajusta a la realidad de todos estos ecosistemas, como se puede ver en la gráfica.\nTomado y adaptado de: https://img.lalr.co/cms/2016/02/10221435/paramos0211-1000.jpg\n¿Cuál de las siguientes afirmaciones se puede deducir de la información contenida en la gráfica y permite apoyar la idea planteada por este instituto de investigación?",
+        "options": [
+          "No todos los páramos están ubicados a la misma altura, ya que, generalmente, se encuentran en cordilleras cuyas características ambientales son muy variables.",
+          "Algunos ecosistemas de páramo, a pesar de estar en zonas de reserva, se han utilizado parcialmente en actividades que implican intervención humana.",
+          "Los páramos, a pesar de su vulnerabilidad, tienen suelos especiales que son capaces de acumular gran cantidad de agua que puede alimentar otros ecosistemas.",
+          "En las zonas de páramo, se deben fortalecer actividades que no afecten el desarrollo de la fauna y la flora ni alteren el equilibrio ambiental."
+        ]
+      }
+    }
+  ]
+}
