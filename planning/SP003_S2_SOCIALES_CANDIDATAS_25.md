@@ -4,7 +4,7 @@
 
 El usuario confirmó la carga de las cinco iniciales y después pidió: «Encargate primero de un area completa». Se continúa exclusivamente Sociales, con meta de 25. La revisión individual del usuario queda para después de la carga; esta autorización no atribuye validación externa ni exclusividad automática frente al otro equipo.
 
-Este documento publica **20 selecciones** en lotes de cinco antes de transcribir cada nuevo lote. Estado actual del editor y entrega: consultar el informe de carga al finalizar; selección publicada no significa todavía carga terminada.
+Este documento publica **25 selecciones** en lotes de cinco antes de transcribir cada nuevo lote. Estado actual del editor y entrega: consultar el informe de carga al finalizar; selección publicada no significa todavía carga terminada.
 
 | Puesto de área y sesión | Código original | Fuente / física / n.º original | Tema y subtema de catálogo | Competencia propuesta y razón | Contexto / imagen |
 | --- | --- | --- | --- | --- | --- |
@@ -28,6 +28,11 @@ Este documento publica **20 selecciones** en lotes de cinco antes de transcribir
 | 18 | `USB-7882c8f9ae2f-Q001` | `ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf` / 2 / 1 | Pertinencia de evidencia sobre mitigación climática | Interpretación y análisis de perspectivas: La reducción británica de emisiones aún incompleta conecta directamente con el reclamo de ir más allá de reducciones parciales. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
 | 19 | `USB-7882c8f9ae2f-Q003` | `ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf` / 2 / 3 | Prejuicio de género en explicación investigativa | Interpretación y análisis de perspectivas: Atribuir formación en valores solo a madres presupone responsabilidad exclusiva de ellas y excluye otros cuidadores. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
 | 20 | `USB-1c44481d3d4a-Q016` | `Referencia_2026-1-declarado_Sesion-2_ABV2_USB-1c44481d3d4a.pdf` / 7 / 16 | Limites de generalizacion desde casos de corrupcion | Interpretacion y analisis de perspectivas: La participacion de muchos politicos no demuestra que todos deban ser corruptos. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
+| 21 | `USB-91836110f48e-Q069` | `Referencia_2026-1-declarado_Sesion-1_ACC1_Incompleto-131-de-143_USB-91836110f48e.pdf` / 22 / 69 | Concepto analitico de diferencias socioeconomicas | Pensamiento social: La interpretacion relaciona usos de plaza con diferencias sociales entre residentes de altos estratos y personas sin hogar: clase social. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
+| 22 | `USB-77cc8ac26d2c-Q063` | `2026-2-ACN1_USB-77cc8ac26d2c.pdf` / 22 / 63 | Microplasticos y ambiente sano | Pensamiento reflexivo y sistemico: Fragmentacion que deja particulas contaminantes no resuelve riesgo para agua y alimentos. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
+| 23 | `USB-e4489f150183-Q020` | `2026-1_USB-e4489f150183.pdf` / 7 / 20 | Organizacion de rama judicial | Pensamiento social: Fiscalia pertenece a rama judicial y ejerce investigacion/acusacion penal entre entidades propuestas. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
+| 24 | `USB-1c44481d3d4a-Q022` | `Referencia_2026-1-declarado_Sesion-2_ABV2_USB-1c44481d3d4a.pdf` / 9 / 22 | Conflicto economico y ambiental en pesca de arrastre | Pensamiento reflexivo y sistemico: Competencia y perdidas de pesca artesanal se relacionan con captura incidental y disminucion de especies. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
+| 25 | `USB-524d98b0a234-Q022` | `2026-2-ABJ2_USB-524d98b0a234.pdf` / 8 / 22 | Efecto social de proteccion patrimonial | Pensamiento reflexivo y sistemico: Prohibir modificaciones sin atender seguridad y condiciones de habitantes omite necesidades sociales. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
 
 El enunciado completo, opciones y clasificación efectiva se guardan en el JSON local. Los temas de esta tabla son descriptores de localización, no afirmaciones o evidencias oficiales. Todos los recursos son texto; no se fabrican imágenes ni se reducen letras para ajustar páginas. Los puestos coinciden con 1–25 de la segunda sesión porque Sociales es el área inicial.
 
@@ -43,6 +48,9 @@ Las páginas originales se abrieron, se renderizaron y se leyeron; sus SHA-256 c
 | `USB-91836110f48e-Q071` | `USB-295a0508d0cf-Q084` |
 | `USB-7b48857ae6bc-Q067` | `USB-b39f1fd42a79-Q067` |
 | `USB-1c44481d3d4a-Q016` | `USB-295a0508d0cf-Q087`, `USB-77cc8ac26d2c-Q071` |
+| `USB-77cc8ac26d2c-Q063` | `USB-295a0508d0cf-Q073` |
+| `USB-1c44481d3d4a-Q022` | `USB-295a0508d0cf-Q080`, `USB-77cc8ac26d2c-Q077` |
+| `USB-524d98b0a234-Q022` | `USB-295a0508d0cf-Q075` |
 
 El par pendiente entre `USB-295a0508d0cf-Q087` y `USB-8e6cf8399239-Q077` se abrió y **no se consideró la misma pregunta**: el primero evalúa una generalización desde un caso transnacional y el segundo la pertinencia de un fragmento sobre el cartel de Cali para investigar corrupción. Comparten tema, pero difieren contexto, tarea y opciones. No se alteró el catálogo global.
 

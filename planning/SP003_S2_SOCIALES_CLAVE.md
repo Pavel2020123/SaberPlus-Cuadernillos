@@ -24,3 +24,8 @@ Material separado del estudiante. Selección autorizada por el usuario; pendient
 | 18 | `USB-7882c8f9ae2f-Q001` | C | La reducción británica de emisiones aún incompleta conecta directamente con el reclamo de ir más allá de reducciones parciales. |
 | 19 | `USB-7882c8f9ae2f-Q003` | B | Atribuir formación en valores solo a madres presupone responsabilidad exclusiva de ellas y excluye otros cuidadores. |
 | 20 | `USB-1c44481d3d4a-Q016` | C | La participacion de muchos politicos no demuestra que todos deban ser corruptos. |
+| 21 | `USB-91836110f48e-Q069` | D | La interpretacion relaciona usos de plaza con diferencias sociales entre residentes de altos estratos y personas sin hogar: clase social. |
+| 22 | `USB-77cc8ac26d2c-Q063` | C | Fragmentacion que deja particulas contaminantes no resuelve riesgo para agua y alimentos. |
+| 23 | `USB-e4489f150183-Q020` | B | Fiscalia pertenece a rama judicial y ejerce investigacion/acusacion penal entre entidades propuestas. |
+| 24 | `USB-1c44481d3d4a-Q022` | A | Competencia y perdidas de pesca artesanal se relacionan con captura incidental y disminucion de especies. |
+| 25 | `USB-524d98b0a234-Q022` | B | Prohibir modificaciones sin atender seguridad y condiciones de habitantes omite necesidades sociales. |
