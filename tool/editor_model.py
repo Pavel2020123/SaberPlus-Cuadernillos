@@ -106,6 +106,18 @@ def validate_project(project, exporting=False):
             raise ValueError('En la indicación usa solo {{desde}}, {{hasta}} o {{cantidad}}. Los huecos {{h1}} pertenecen al texto.')
         if not isinstance(ctx.get('source',''), str) or len(ctx.get('source',''))>1500:
             raise ValueError('La fuente del contexto admite hasta 1500 caracteres.')
+        if ctx.get('notice_layout'):
+            if ctx['area']!='english' or ctx.get('part')!=2 or ctx['notice_layout']!='paired':
+                raise ValueError('La composición de avisos corresponde a Inglés, parte 2.')
+            choices=ctx.get('example_options',[])
+            if (not isinstance(ctx.get('example_notice'),str) or not ctx['example_notice'].strip()
+                    or not isinstance(choices,list) or len(choices)!=3
+                    or any(not isinstance(value,str) or not value.strip() for value in choices)
+                    or ctx.get('example_answer') not in ('A','B','C')):
+                raise ValueError('El ejemplo de avisos necesita su texto, tres opciones y una clave A-C.')
+        if ctx.get('dialogue_layout'):
+            if ctx['area']!='english' or ctx.get('part')!=3 or ctx['dialogue_layout']!='paired':
+                raise ValueError('La composición de conversaciones corresponde a Inglés, parte 3.')
     for q in questions:
         catalog_id = q.get('catalog_id', '')
         if catalog_id is None:

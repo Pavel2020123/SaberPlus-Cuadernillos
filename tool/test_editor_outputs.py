@@ -75,8 +75,10 @@ class OutputTests(unittest.TestCase):
         self.assertEqual(letters_for(next(q for q in selected if q.get('part')==2)),'ABC')
         self.assertEqual(letters_for(next(q for q in selected if q.get('part')==6)),'ABCD')
         number=self.result['page_map']['q-demo-11']-1
-        with pymupdf.open(self.out/'cuadernillo_resuelto.pdf') as solved:
-            marks=[d for d in solved[number].get_drawings() if d.get('fill') and max(d['fill'])<.5 and 12<=d['rect'].width<=14]
+        with pymupdf.open(self.out/'cuadernillo.pdf') as student,pymupdf.open(self.out/'cuadernillo_resuelto.pdf') as solved:
+            inline_circles=[d for d in student[number].get_drawings() if 12<=d['rect'].width<=14 and 12<=d['rect'].height<=14]
+            self.assertEqual(inline_circles,[])
+            marks=[d for d in solved[number].get_drawings() if d.get('fill') and d['fill'][0]>.9 and .8<d['fill'][1]<1 and d['fill'][2]<.6]
             self.assertGreaterEqual(len(marks),3)
 
     def test_appendix_keeps_resolved_header_and_notice(self):
@@ -134,7 +136,7 @@ class OutputTests(unittest.TestCase):
                 self.assertEqual(context_pages,[result['page_map'][question['id']]])
                 self.assertIn('Question line',doc[context_pages[0]-1].get_text())
 
-    def test_oversized_context_and_question_are_rejected_not_separated(self):
+    def test_long_context_and_question_are_preserved_on_separate_pages(self):
         project=copy.deepcopy(self.project)
         question=next(q for q in project['questions'] if q['id']=='q-demo-5')
         context=next(c for c in project['contexts'] if c['id']==question['context'])
@@ -142,8 +144,14 @@ class OutputTests(unittest.TestCase):
         context.pop('table',None)
         question['stem']='\n'.join(['Question line']*20)
         with tempfile.TemporaryDirectory() as folder:
-            with self.assertRaisesRegex(ValueError,'primera pregunta no caben juntos'):
-                generate(project,folder)
+            result=generate(project,folder)
+            with pymupdf.open(Path(folder)/'cuadernillo.pdf') as doc:
+                reading=[i+1 for i,page in enumerate(doc) if 'Context line' in page.get_text()]
+                self.assertEqual(len(reading),1)
+                self.assertEqual(doc[reading[0]-1].get_text().count('Context line'),30)
+                question_page=result['page_map'][question['id']]
+                self.assertGreater(question_page,reading[0])
+                self.assertEqual(doc[question_page-1].get_text().count('Question line'),20)
 
 
 if __name__=='__main__':unittest.main()
