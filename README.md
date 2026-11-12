@@ -1,10 +1,12 @@
-> **Estado vigente · 12/11/2026:** inglés de segunda sesión completo (55 preguntas), códigos registrados y paquete JSON con imágenes. Leer [cambios e instrucciones para el equipo](docs/ACTUALIZACION_INGLES_EQUIPO.md) antes de actualizar o importar. Los estados y repartos anteriores son antecedentes.
+> **SP-001 · 12/11/2026:** inglés de segunda sesión completo (55 preguntas), códigos registrados y paquete JSON con imágenes. Leer [cambios e instrucciones para el equipo](docs/ACTUALIZACION_INGLES_EQUIPO.md) antes de actualizar o importar. Este estado de inglés corresponde a SP-001.
 
 # SaberPlus - Cuadernillos
 
 Proyecto independiente para diseñar y generar cuadernillos de práctica en PDF.
 
 ## Punto de continuación actual
+
+**SP-003 · Segunda sesión iniciada:** editor independiente **http://127.0.0.1:4188/**, `data/parallel/SP-003-segunda-4188/project.json`, 134 puestos previstos y sin preguntas cargadas. [Primer lote propuesto de cinco de Sociales, fuentes y coordinación](planning/SP003_S2_SOCIALES_LOTE01.md). La primera sesión sigue en 4185, revisión 25 al comenzar esta fase; no se sustituyó su JSON.
 
 **SP-003 · Primera sesión unificada, revisión 23:** 120 preguntas (25 Matemáticas, 41 Lectura, 25 Sociales, 29 Ciencias), conservando los registros previos y el trabajo del usuario. Tres PDF y respaldo con imágenes en `output/editor/SP003-primera-unificada-rev23/`. [Entrega, códigos, controles y pendientes editoriales](planning/SP003_S1_SESION_UNIFICADA.md). El paquete histórico de 66 preguntas descrito a continuación es un antecedente; no reemplazar la sesión actual con él.
 

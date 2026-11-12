@@ -4,6 +4,8 @@ Estado: primer editor funcional para pruebas editoriales, independiente de la ap
 
 ## Trabajar al mismo tiempo · SP-003
 
+**Segunda sesión iniciada:** se abrió **http://127.0.0.1:4188/**, independiente de la primera de 4185 y de los espacios antiguos. Se conserva en `data/parallel/SP-003-segunda-4188/project.json`, con plantilla de 134 puestos, revisión inicial 0 y sin preguntas cargadas. Reabrir: `uv run --offline python -B tool/editor_parallel.py --port 4188 --workspace SP-003-segunda --template planning/starter_projects/SP-003-segunda.json`. [Primer lote propuesto y estado](../planning/SP003_S2_SOCIALES_LOTE01.md).
+
 **Estado posterior a la reanudación del 12 de noviembre:** por autorización del usuario, el principal 4185 reúne ahora la primera sesión completa, **120 preguntas, revisión 23**, incluidas Ciencias 29 y Sociales 25. Los espacios 4186/4187 conservan sus archivos históricos independientes. Ver [entrega y pendientes](../planning/SP003_S1_SESION_UNIFICADA.md). Los repartos de trabajo que siguen son antecedentes.
 
 **Nuevo reparto del 12 de noviembre:** el usuario continúa Ciencias en el principal **4185**. El asistente terminó Sociales en un tercer espacio independiente, **http://127.0.0.1:4187/**, `data/parallel/SP-003-sociales-4187/project.json`, revisión 5, 25 preguntas. Para reabrirlo: `uv run --offline python -B tool/editor_parallel.py --port 4187 --workspace SP-003-sociales`. Su revisión y posterior integración están pendientes; no importar su JSON sobre el principal. El antiguo espacio 4186 conserva Lectura y no se modificó. Ver [informe de Sociales](../planning/SP003_S1_SOCIALES_CARGA.md).
