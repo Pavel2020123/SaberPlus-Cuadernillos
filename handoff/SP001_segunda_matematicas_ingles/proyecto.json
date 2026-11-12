@@ -1,0 +1,4034 @@
+{
+  "schema": 1,
+  "revision": 38,
+  "code": "SP-001",
+  "session": "second",
+  "time": "4 horas y 30 minutos",
+  "targets": {
+    "mathematics": 25,
+    "reading": null,
+    "social": 25,
+    "science": 29,
+    "english": 55
+  },
+  "area_headers": {},
+  "contexts": [
+    {
+      "id": "ctx-a0898c9f-0dd7-464e-a7eb-eb91e57b415d",
+      "area": "english",
+      "part": 1,
+      "title": "Places",
+      "layout": "full",
+      "range_heading": "RESPONDA LAS PREGUNTAS {{desde}} A {{hasta}} DE ACUERDO CON EL EJEMPLO",
+      "instructions": "Las descripciones de la columna de la izquierda corresponden a palabras de la columna de la derecha (A–G). ¿Cuál palabra concuerda con cada descripción?\n\nLa opción H se usa para el ejemplo. Sobran dos palabras más.\nMarque la letra correcta A–G en su hoja de respuestas.",
+      "text": "",
+      "table": "",
+      "source": "",
+      "words": [
+        "beach",
+        "forest",
+        "garden",
+        "lake",
+        "mountain",
+        "park",
+        "street"
+      ],
+      "example": "0. This area with countryside houses is smaller than a town. Respuesta: H. village.",
+      "image": null
+    },
+    {
+      "id": "ctx-cf5ea12e-a27b-49eb-a899-78ca1f9af606",
+      "area": "english",
+      "part": 2,
+      "title": "",
+      "layout": "full",
+      "range_heading": "RESPONDA LAS PREGUNTAS {{desde}} A {{hasta}} DE ACUERDO CON EL EJEMPLO",
+      "instructions": "¿Dónde puede ver estos avisos?\nEn las preguntas {{desde}}–{{hasta}}, marque A, B o C en su hoja de respuestas.",
+      "text": "",
+      "words": [],
+      "table": "",
+      "source": "",
+      "example": "",
+      "notice_layout": "paired",
+      "example_notice": "Clever cats:\nThe best food\nfor your pet",
+      "example_options": [
+        "in a supermarket",
+        "in an elevator",
+        "in a hospital"
+      ],
+      "example_answer": "A"
+    },
+    {
+      "id": "ctx-75d95705-8543-4372-9589-ce298608503b",
+      "area": "english",
+      "part": 3,
+      "title": "",
+      "layout": "full",
+      "dialogue_layout": "paired",
+      "range_heading": "RESPONDA LAS PREGUNTAS {{desde}} A {{hasta}} DE ACUERDO CON EL EJEMPLO",
+      "instructions": "Complete las cinco conversaciones.\nEn las preguntas {{desde}}–{{hasta}}, marque A, B o C en su hoja de respuestas.",
+      "text": "",
+      "image": "assets/uploads/a1ce01d8273a4b45be9ca9a59694f10a.png",
+      "table": "",
+      "words": [],
+      "source": "",
+      "example": ""
+    },
+    {
+      "id": "ctx-85557f21-7f90-4f1f-9394-3eca881b05ef",
+      "area": "english",
+      "part": 4,
+      "title": "Salento",
+      "layout": "full",
+      "cloze_layout": "rows",
+      "range_heading": "RESPONDA LAS PREGUNTAS {{desde}} A {{hasta}} DE ACUERDO CON EL SIGUIENTE TEXTO",
+      "instructions": "Lea el texto y seleccione la palabra correcta para cada espacio.\nEn las preguntas {{desde}}–{{hasta}}, marque A, B o C en su hoja de respuestas.",
+      "text": "Salento, Colombia, is a town that (0)_____ to the department of Quindio. The coffee, the wonderful Cocora Valley, and its {{h95}} people make it an attractive place for tourists. It is now one of Colombia’s favorite places to visit {{h96}} both foreign and local people.\n\nTourists love Salento {{h97}} it has a “magic from the past”. It also has a relaxing environment, {{h98}} is why Colombians love visiting this town as tourists themselves! It is {{h99}} a very small town, so you can walk everywhere. Street markets are {{h100}} in the principal plaza. There are shops selling all sorts of gifts and cafes where you can taste {{h101}} the amazing desserts of the region.\n\nI still haven’t met {{h102}} who didn’t like Salento.",
+      "image": null,
+      "table": "",
+      "words": [],
+      "source": "",
+      "example": "",
+      "example_options": [
+        "belongs",
+        "belonging",
+        "belong"
+      ]
+    },
+    {
+      "id": "ctx-365cc052-4f0c-49d3-b04d-76f33764b605",
+      "area": "english",
+      "part": 5,
+      "title": "The British Museum",
+      "layout": "full",
+      "reading_layout": "paired",
+      "range_heading": "RESPONDA LAS PREGUNTAS {{desde}} A {{hasta}} DE ACUERDO CON EL SIGUIENTE TEXTO",
+      "instructions": "Lea el texto y responda las preguntas.\nEn las preguntas {{desde}}–{{hasta}}, marque A, B o C en su hoja de respuestas.",
+      "text": "A wonderful event happened in 2009: The British Museum celebrated its 250th birthday. Since 1759, when it opened, the museum has brought things from all over the world, which are carefully kept and shown to the public. These objects are from people around the world who have made them over the centuries. The first exhibition was organized by Sir Hans Sloane, a doctor whose love for nature and art began when he spent some lovely time in the West Indies, as he explains in his book about the history of Jamaica.\n\nSloane used most of his money on fantastic trips far from home where he got unusual objects for the museum. He clearly wanted to make sure that, for a low price, everybody could see what he thought were the most wonderful things he collected from other countries. Today's exhibition includes some of the most famous objects from around the world. They're organized in several huge rooms where visitors always look for explanations with the latest information about those cultural groups and future events; sometimes visitors must pay for special exhibitions.\n\nThe museum’s goals today are to be the center of international cultural studies and to teach people about world cultures. To do this, there are interesting exhibitions and excellent courses on culture. University students are also invited to become full members, which allows them to enter to the museum's library.",
+      "image": null,
+      "table": "",
+      "words": [],
+      "source": "",
+      "example": "",
+      "example_prompt": "The event celebrated at the museum in 2009 was",
+      "example_options": [
+        "amazing.",
+        "usual.",
+        "pleasant."
+      ]
+    },
+    {
+      "id": "ctx-70b20b72-1a4c-45dd-b7d8-c2c532531c8e",
+      "area": "english",
+      "part": 6,
+      "title": "",
+      "layout": "full",
+      "inference_layout": "stacked",
+      "range_heading": "RESPONDA LAS PREGUNTAS {{desde}} A {{hasta}} DE ACUERDO CON EL SIGUIENTE TEXTO",
+      "instructions": "Lea el texto y responda las preguntas.\nEn las preguntas {{desde}}–{{hasta}}, marque A, B, C o D en su hoja de respuestas.",
+      "text": "I know people who will do anything to avoid looking after their children at a playground. They will ask their friends to go with them so they don’t have to do it alone, so they can listen to music and remain mentally absent.\n\nI should say that, in general, I am very good at “doing nothing”. I could sit looking at the wood on a table for a long time and be pleased. These days, there is a lot of literature on the necessity for children to “do nothing”, which is mentioned in the context of warnings about giving children too much to do and the use of screens. However, there is less talk about the value of “doing nothing” for adults although this habit often helps to develop thinking abilities to be active and efficient.\n\nLazy periods may seem useless; however, they can be valuable. Once, I had to wait in a row for an hour. This was actually a relaxing moment that made me think what life is all about. It will be a moment that I’ll remember with the deepest nostalgia. On another occasion, I forgot my phone at home when I went out, and it was amazing! I learnt a lot from that “accident”. I was able to take a breath and enjoy the simple things when I sat in the sunshine while my children rode their bikes up and down and then left them to play in the sand.\n\nThe funny thing about the two experiences of “doing nothing”, passively waiting for something to end and going out without my phone, were the greatest moments of active and efficient activities which I’ve done with my time.",
+      "image": null,
+      "table": "",
+      "words": [],
+      "source": "",
+      "example": ""
+    },
+    {
+      "id": "ctx-17a21d53-3de0-4141-b81a-3eee7382a7d2",
+      "area": "english",
+      "part": 7,
+      "title": "A SPIDER-WEDDING",
+      "layout": "full",
+      "illustrated_cloze_layout": "rows",
+      "range_heading": "RESPONDA LAS PREGUNTAS {{desde}} A {{hasta}} DE ACUERDO CON EL SIGUIENTE TEXTO",
+      "instructions": "Lea el texto y seleccione la palabra correcta para cada espacio.\nEn las preguntas {{desde}}–{{hasta}}, marque A, B, C o D en su hoja de respuestas.",
+      "text": "What’s more (0)_____ and romantic than a wedding? A wedding between two of the most admired comic-book characters: Spider-Man and Mary Jane. This celebration took {{h115}} in the comics in 1987, but did you know their wedding was {{h116}} in real life, too?\n\nFans {{h117}} a ceremony that came straight from the pages of the famous comic in Queens Stadium on June 5, 1987. In {{h118}}, it served as an ad for the story of the same name published some days later. A very {{h119}} number of comics about the wedding was printed.\n\nStan Lee, a famous comic-book writer, carried out the wedding of these characters; this {{h120}} seemed convenient since he created them. Stan took advantage of this {{h121}} to get creative. He asked the {{h122}}:\n\n“Do you, Spider-Man, {{h123}} to never leave spider-webs in the corners or ceilings of your home?”\n\nOf course, the {{h124}} was “Yes!”",
+      "image": "assets/uploads/ed1bc149539d4b2db5e73825f0018b05.png",
+      "table": "",
+      "words": [],
+      "source": "",
+      "example": "",
+      "example_options": [
+        "charming",
+        "casual",
+        "ordinary",
+        "generous"
+      ]
+    },
+    {
+      "id": "ctx-19351cc7-1555-4bc7-9342-31dd18a271ad",
+      "area": "english",
+      "part": 7,
+      "part_label": "PARTE 7",
+      "title": "Chinua Achebe",
+      "layout": "full",
+      "image_side": "right",
+      "illustrated_cloze_layout": "rows",
+      "range_heading": "RESPONDA LAS PREGUNTAS {{desde}} A {{hasta}} DE ACUERDO CON EL SIGUIENTE TEXTO",
+      "instructions": "Lea el texto y seleccione la palabra correcta para cada espacio.\nEn las preguntas {{desde}}–{{hasta}}, marque A, B, C o D en su hoja de respuestas.",
+      "text": "Chinua Achebe is one of Nigeria's greatest writers. His novels are written mainly for an African (0)_____. However, having been {{h125}} into forty languages, they have many international readers.\n\nAchebe was unhappy with books about Africa written by British authors because he felt the {{h126}} of African people weren't accurate. He believed Africans should be represented in a more {{h127}} way. While working for television he {{h128}} Things Fall Apart. It's the story of a traditional local hero who at {{h129}} was unable to follow British rules, but then gave up trying. {{h130}} after being published, it won prizes and became the inspiration for a theater play. Years later, Performance Studio {{h131}} the play produced in the US.\n\nDuring the 70s, {{h132}} he kept writing, he also traveled and discussed the problems of his people. But he stopped writing novels, and he {{h133}} in an interview: “Even if I wanted I {{h134}}”. So he started writing poetry.",
+      "image": "assets/uploads/c85f8982609e474880c338f0bc821868.png",
+      "table": "",
+      "words": [],
+      "source": "",
+      "example": "",
+      "example_options": [
+        "audience",
+        "crowd",
+        "collection",
+        "crew"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q-6f9a4e09-4749-49ab-8890-6bd71bbc40fe",
+      "area": "english",
+      "part": 1,
+      "order": 80,
+      "catalog_id": "USB-524d98b0a234-Q080",
+      "topic": "Vocabulario de lugares",
+      "subtopic": "Asociación de descripciones con nombres de lugares",
+      "introduction": "",
+      "image": null,
+      "stem": "This beautiful private place next to a house has grass and flowers.",
+      "options": [],
+      "options_layout": "vertical",
+      "correct": "C",
+      "explanation": "Garden significa jardín: un lugar privado junto a una casa con césped y flores.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-a0898c9f-0dd7-464e-a7eb-eb91e57b415d",
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 1,
+        "rationale": "Conocimiento lexical: relacionar la descripción de un lugar con su nombre en un banco compartido A–G. Cotejado con las capturas aportadas por el usuario y la página física 32 del cuadernillo USB-524d98b0a234; original 80.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-4c9ea7cd-55ab-48a1-a9a8-21745ad8e44a",
+      "area": "english",
+      "part": 1,
+      "order": 81,
+      "catalog_id": "USB-524d98b0a234-Q081",
+      "topic": "Vocabulario de lugares",
+      "subtopic": "Asociación de descripciones con nombres de lugares",
+      "introduction": "",
+      "image": null,
+      "stem": "Children can play basketball or baseball with their friends here.",
+      "options": [],
+      "options_layout": "vertical",
+      "correct": "F",
+      "explanation": "Park significa parque: entre las palabras del banco es el lugar donde los niños pueden practicar deportes con sus amigos.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-a0898c9f-0dd7-464e-a7eb-eb91e57b415d",
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 1,
+        "rationale": "Conocimiento lexical: relacionar la descripción de un lugar con su nombre en un banco compartido A–G. Cotejado con las capturas aportadas por el usuario y la página física 32 del cuadernillo USB-524d98b0a234; original 81.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-3cdfd0fa-e8d3-4c76-8955-643e37c39309",
+      "area": "english",
+      "part": 1,
+      "order": 82,
+      "catalog_id": "USB-524d98b0a234-Q082",
+      "topic": "Vocabulario de lugares",
+      "subtopic": "Asociación de descripciones con nombres de lugares",
+      "introduction": "",
+      "image": null,
+      "stem": "People go there to enjoy the sand and the sea.",
+      "options": [],
+      "options_layout": "vertical",
+      "correct": "A",
+      "explanation": "Beach significa playa, un lugar asociado con la arena y el mar.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-a0898c9f-0dd7-464e-a7eb-eb91e57b415d",
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 1,
+        "rationale": "Conocimiento lexical: relacionar la descripción de un lugar con su nombre en un banco compartido A–G. Cotejado con las capturas aportadas por el usuario y la página física 32 del cuadernillo USB-524d98b0a234; original 82.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-1a72b389-879a-4aac-bf8c-e314775cb85e",
+      "area": "english",
+      "part": 1,
+      "order": 83,
+      "catalog_id": "USB-524d98b0a234-Q083",
+      "topic": "Vocabulario de lugares",
+      "subtopic": "Asociación de descripciones con nombres de lugares",
+      "introduction": "",
+      "image": null,
+      "stem": "This is a big area with many plants and many huge trees.",
+      "options": [],
+      "options_layout": "vertical",
+      "correct": "B",
+      "explanation": "Forest significa bosque: una zona extensa con muchas plantas y árboles grandes.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-a0898c9f-0dd7-464e-a7eb-eb91e57b415d",
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 1,
+        "rationale": "Conocimiento lexical: relacionar la descripción de un lugar con su nombre en un banco compartido A–G. Cotejado con las capturas aportadas por el usuario y la página física 32 del cuadernillo USB-524d98b0a234; original 83.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-d12d8029-f60e-4600-aeef-be047c1b11ff",
+      "area": "english",
+      "part": 1,
+      "order": 84,
+      "catalog_id": "USB-524d98b0a234-Q084",
+      "topic": "Vocabulario de lugares",
+      "subtopic": "Asociación de descripciones con nombres de lugares",
+      "introduction": "",
+      "image": null,
+      "stem": "People usually fish and swim in this quiet place.",
+      "options": [],
+      "options_layout": "vertical",
+      "correct": "D",
+      "explanation": "Lake significa lago, un lugar de agua donde se puede pescar y nadar.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-a0898c9f-0dd7-464e-a7eb-eb91e57b415d",
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 1,
+        "rationale": "Conocimiento lexical: relacionar la descripción de un lugar con su nombre en un banco compartido A–G. Cotejado con las capturas aportadas por el usuario y la página física 32 del cuadernillo USB-524d98b0a234; original 84.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-467d8261-4de4-4c8c-a312-4554821b742c",
+      "area": "english",
+      "part": 2,
+      "order": 85,
+      "catalog_id": "USB-709bc037689b-Q090",
+      "topic": "Interpretación de avisos y señales",
+      "subtopic": "Lugar de uso de mensajes cotidianos",
+      "introduction": "",
+      "image": null,
+      "stem": "3D glasses here\nThank you",
+      "notice_style": "dark",
+      "options": [
+        {
+          "text": "in a restaurant"
+        },
+        {
+          "text": "in a cinema"
+        },
+        {
+          "text": "in a home store"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "B",
+      "explanation": "El aviso se refiere a las gafas 3D utilizadas en una sala de cine. Por eso, entre las opciones presentadas, corresponde a in a cinema. La respuesta correcta es B.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-cf5ea12e-a27b-49eb-a899-78ca1f9af606",
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 2,
+        "rationale": "Conocimiento pragmático: identificar el lugar de uso de un aviso a partir de su propósito y contenido. Cotejado con las capturas del usuario y la página física 35 de USB-709bc037689b; original 90.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-60986bf8-c35d-41cf-8209-64f71b40305e",
+      "area": "english",
+      "part": 2,
+      "order": 86,
+      "catalog_id": "USB-709bc037689b-Q091",
+      "topic": "Interpretación de avisos y señales",
+      "subtopic": "Lugar de uso de mensajes cotidianos",
+      "introduction": "",
+      "image": null,
+      "stem": "Small pets\ncan play here",
+      "notice_style": "light",
+      "options": [
+        {
+          "text": "in a children’s playground"
+        },
+        {
+          "text": "in a swimming pool"
+        },
+        {
+          "text": "in a dog park"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "C",
+      "explanation": "El aviso permite que mascotas pequeñas jueguen en ese lugar. Entre las alternativas, un parque canino corresponde a ese uso. La respuesta correcta es C.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-cf5ea12e-a27b-49eb-a899-78ca1f9af606",
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 2,
+        "rationale": "Conocimiento pragmático: identificar el lugar de uso de un aviso a partir de su propósito y contenido. Cotejado con las capturas del usuario y la página física 35 de USB-709bc037689b; original 91.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-13c91a5a-616e-4a39-a6d6-e605c09c99cf",
+      "area": "english",
+      "part": 2,
+      "order": 87,
+      "catalog_id": "USB-709bc037689b-Q092",
+      "topic": "Interpretación de avisos y señales",
+      "subtopic": "Lugar de uso de mensajes cotidianos",
+      "introduction": "",
+      "image": null,
+      "stem": "Enjoy your favorite\nfruit and green drinks\n2x1\nToday",
+      "notice_style": "light",
+      "options": [
+        {
+          "text": "in a juice store"
+        },
+        {
+          "text": "in a meat store"
+        },
+        {
+          "text": "in a candy store"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "A",
+      "explanation": "El anuncio ofrece bebidas de frutas y bebidas verdes con una promoción 2x1. Corresponde a una tienda de jugos. La respuesta correcta es A.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-cf5ea12e-a27b-49eb-a899-78ca1f9af606",
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 2,
+        "rationale": "Conocimiento pragmático: identificar el lugar de uso de un aviso a partir de su propósito y contenido. Cotejado con las capturas del usuario y la página física 35 de USB-709bc037689b; original 92.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-ef9bdd19-3cf7-480c-a847-f9e645987df8",
+      "area": "english",
+      "part": 2,
+      "order": 88,
+      "catalog_id": "USB-709bc037689b-Q093",
+      "topic": "Interpretación de avisos y señales",
+      "subtopic": "Lugar de uso de mensajes cotidianos",
+      "introduction": "",
+      "image": null,
+      "stem": "New\n40x50 cm\nPerfect for your bedroom walls",
+      "notice_style": "light",
+      "options": [
+        {
+          "text": "on a doll box"
+        },
+        {
+          "text": "on a watch box"
+        },
+        {
+          "text": "on a mirror box"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "C",
+      "explanation": "Las dimensiones de 40x50 cm y el uso en las paredes de un dormitorio describen, entre las opciones, un espejo. El aviso podría estar en su caja. La respuesta correcta es C.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-cf5ea12e-a27b-49eb-a899-78ca1f9af606",
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 2,
+        "rationale": "Conocimiento pragmático: identificar el lugar de uso de un aviso a partir de su propósito y contenido. Cotejado con las capturas del usuario y la página física 35 de USB-709bc037689b; original 93.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-8918f87e-cffc-4418-b67e-268c0c074be3",
+      "area": "english",
+      "part": 2,
+      "order": 89,
+      "catalog_id": "USB-709bc037689b-Q094",
+      "topic": "Interpretación de avisos y señales",
+      "subtopic": "Lugar de uso de mensajes cotidianos",
+      "introduction": "",
+      "image": null,
+      "stem": "Don’t run in the halls",
+      "notice_style": "dark",
+      "options": [
+        {
+          "text": "in a square"
+        },
+        {
+          "text": "in a hospital"
+        },
+        {
+          "text": "in an apartment"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "B",
+      "explanation": "El aviso pide no correr en los pasillos. Entre los lugares propuestos, un hospital es el espacio donde esa instrucción resulta más pertinente. La respuesta correcta es B.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-cf5ea12e-a27b-49eb-a899-78ca1f9af606",
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 2,
+        "rationale": "Conocimiento pragmático: identificar el lugar de uso de un aviso a partir de su propósito y contenido. Cotejado con las capturas del usuario y la página física 35 de USB-709bc037689b; original 94.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-2efc91b7-1426-4e0e-9d0c-7d45db1e450d",
+      "area": "english",
+      "part": 3,
+      "order": 90,
+      "catalog_id": "USB-7882c8f9ae2f-Q095",
+      "topic": "Conversaciones cotidianas",
+      "subtopic": "Coherencia de respuestas e intención comunicativa",
+      "introduction": "",
+      "image": null,
+      "stem": "Why didn’t you put your new coat on yesterday?",
+      "options": [
+        {
+          "text": "I liked jeans."
+        },
+        {
+          "text": "Let’s dress up."
+        },
+        {
+          "text": "It was too warm."
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "C",
+      "explanation": "La pregunta pide explicar por qué la persona no se puso el abrigo nuevo el día anterior. It was too warm indica que hacía demasiado calor y ofrece una razón pertinente. La respuesta correcta es C.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-75d95705-8543-4372-9589-ce298608503b",
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 3,
+        "rationale": "Conocimiento comunicativo: seleccionar la intervención que continúa coherentemente una conversación cotidiana. Cotejado con las capturas aportadas y la página física 30 de USB-7882c8f9ae2f; original 95.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-a9c3f7ad-b319-476b-9a64-40b582a21e83",
+      "area": "english",
+      "part": 3,
+      "order": 91,
+      "catalog_id": "USB-7882c8f9ae2f-Q096",
+      "topic": "Conversaciones cotidianas",
+      "subtopic": "Coherencia de respuestas e intención comunicativa",
+      "introduction": "",
+      "image": null,
+      "stem": "This movie is about a really big family.",
+      "options": [
+        {
+          "text": "Is it good?"
+        },
+        {
+          "text": "Is that a lot?"
+        },
+        {
+          "text": "Is your mom OK?"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "A",
+      "explanation": "La primera persona comenta de qué trata una película. Is it good? pregunta por su calidad y continúa naturalmente la conversación. Las otras respuestas no se refieren de forma pertinente a la película. La respuesta correcta es A.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-75d95705-8543-4372-9589-ce298608503b",
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 3,
+        "rationale": "Conocimiento comunicativo: seleccionar la intervención que continúa coherentemente una conversación cotidiana. Cotejado con las capturas aportadas y la página física 30 de USB-7882c8f9ae2f; original 96.",
+        "reviewer": null,
+        "reviewed_at": null
+      },
+      "option_drafts": {}
+    },
+    {
+      "id": "q-6cfa2837-08ea-44b8-a1d6-b41f3afb650b",
+      "area": "english",
+      "part": 3,
+      "order": 92,
+      "catalog_id": "USB-7882c8f9ae2f-Q097",
+      "topic": "Conversaciones cotidianas",
+      "subtopic": "Coherencia de respuestas e intención comunicativa",
+      "introduction": "",
+      "image": null,
+      "stem": "Why are they hiding?",
+      "options": [
+        {
+          "text": "Come here now!"
+        },
+        {
+          "text": "I’ve got no idea."
+        },
+        {
+          "text": "Is it near?"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "B",
+      "explanation": "La pregunta pide conocer el motivo por el que unas personas se esconden. I’ve got no idea expresa que no se sabe la respuesta. Las otras opciones no responden a ese motivo. La respuesta correcta es B.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-75d95705-8543-4372-9589-ce298608503b",
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 3,
+        "rationale": "Conocimiento comunicativo: seleccionar la intervención que continúa coherentemente una conversación cotidiana. Cotejado con las capturas aportadas y la página física 30 de USB-7882c8f9ae2f; original 97.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-c2a4b918-41e0-4ea9-a886-23d3de760620",
+      "area": "english",
+      "part": 3,
+      "order": 93,
+      "catalog_id": "USB-7882c8f9ae2f-Q098",
+      "topic": "Conversaciones cotidianas",
+      "subtopic": "Coherencia de respuestas e intención comunicativa",
+      "introduction": "",
+      "image": null,
+      "stem": "Everyone bought tickets for the rock concert.",
+      "options": [
+        {
+          "text": "Is it on Saturday?"
+        },
+        {
+          "text": "There was noise."
+        },
+        {
+          "text": "It is fair!"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "A",
+      "explanation": "El comentario se refiere a entradas para un concierto de rock. Preguntar Is it on Saturday? solicita información sobre la fecha del mismo evento y mantiene la coherencia de la conversación. La respuesta correcta es A.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-75d95705-8543-4372-9589-ce298608503b",
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 3,
+        "rationale": "Conocimiento comunicativo: seleccionar la intervención que continúa coherentemente una conversación cotidiana. Cotejado con las capturas aportadas y la página física 30 de USB-7882c8f9ae2f; original 98.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-78250db3-61fc-4d85-90c0-312c50b0deb5",
+      "area": "english",
+      "part": 3,
+      "order": 94,
+      "catalog_id": "USB-7882c8f9ae2f-Q099",
+      "topic": "Conversaciones cotidianas",
+      "subtopic": "Coherencia de respuestas e intención comunicativa",
+      "introduction": "",
+      "image": null,
+      "stem": "It seems I’ll be the new boss of the business department.",
+      "options": [
+        {
+          "text": "Excuse me!"
+        },
+        {
+          "text": "It’s ready!"
+        },
+        {
+          "text": "Congratulations!"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "C",
+      "explanation": "La persona anuncia que posiblemente será la nueva jefa o el nuevo jefe del departamento. Congratulations! es una reacción apropiada para felicitar por ese logro. La respuesta correcta es C.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-75d95705-8543-4372-9589-ce298608503b",
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 3,
+        "rationale": "Conocimiento comunicativo: seleccionar la intervención que continúa coherentemente una conversación cotidiana. Cotejado con las capturas aportadas y la página física 30 de USB-7882c8f9ae2f; original 99.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-fbd6062f-d28d-4d30-b18d-18a078900f9f",
+      "area": "english",
+      "part": 4,
+      "order": 95,
+      "catalog_id": "USB-2543b7a34fb2-Q097",
+      "topic": "Uso del inglés en contexto",
+      "subtopic": "Gramática y vocabulario: Salento",
+      "introduction": "",
+      "image": null,
+      "stem": "Seleccione la palabra correcta para el espacio (95).",
+      "options": [
+        {
+          "text": "friendly"
+        },
+        {
+          "text": "friendlier"
+        },
+        {
+          "text": "friendliest"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "A",
+      "explanation": "Friendly describe a las personas sin una comparación. La respuesta correcta es A.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-85557f21-7f90-4f1f-9394-3eca881b05ef",
+      "slot": "h95",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 4,
+        "rationale": "Seleccionar recursos gramaticales y léxicos adecuados dentro de un texto. Cotejado con captura original de Salento.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-1edc6323-d184-4394-a462-7dee8b4ae4aa",
+      "area": "english",
+      "part": 4,
+      "order": 96,
+      "catalog_id": "USB-2543b7a34fb2-Q098",
+      "topic": "Uso del inglés en contexto",
+      "subtopic": "Gramática y vocabulario: Salento",
+      "introduction": "",
+      "image": null,
+      "stem": "Seleccione la palabra correcta para el espacio (96).",
+      "options": [
+        {
+          "text": "since"
+        },
+        {
+          "text": "among"
+        },
+        {
+          "text": "through"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "B",
+      "explanation": "Among expresa que el lugar es popular entre visitantes extranjeros y locales. La respuesta correcta es B.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-85557f21-7f90-4f1f-9394-3eca881b05ef",
+      "slot": "h96",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 4,
+        "rationale": "Seleccionar recursos gramaticales y léxicos adecuados dentro de un texto. Cotejado con captura original de Salento.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-f9a16d4d-4d66-458d-af2b-283cee29abe4",
+      "area": "english",
+      "part": 4,
+      "order": 97,
+      "catalog_id": "USB-2543b7a34fb2-Q099",
+      "topic": "Uso del inglés en contexto",
+      "subtopic": "Gramática y vocabulario: Salento",
+      "introduction": "",
+      "image": null,
+      "stem": "Seleccione la palabra correcta para el espacio (97).",
+      "options": [
+        {
+          "text": "after"
+        },
+        {
+          "text": "than"
+        },
+        {
+          "text": "because"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "C",
+      "explanation": "Because introduce la razón por la que los turistas aman Salento. La respuesta correcta es C.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-85557f21-7f90-4f1f-9394-3eca881b05ef",
+      "slot": "h97",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 4,
+        "rationale": "Seleccionar recursos gramaticales y léxicos adecuados dentro de un texto. Cotejado con captura original de Salento.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-55ee7d41-6511-43a2-a1a3-e6ee4aa03dde",
+      "area": "english",
+      "part": 4,
+      "order": 98,
+      "catalog_id": "USB-2543b7a34fb2-Q100",
+      "topic": "Uso del inglés en contexto",
+      "subtopic": "Gramática y vocabulario: Salento",
+      "introduction": "",
+      "image": null,
+      "stem": "Seleccione la palabra correcta para el espacio (98).",
+      "options": [
+        {
+          "text": "who"
+        },
+        {
+          "text": "which"
+        },
+        {
+          "text": "where"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "B",
+      "explanation": "Which retoma la idea del ambiente relajante. La respuesta correcta es B.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-85557f21-7f90-4f1f-9394-3eca881b05ef",
+      "slot": "h98",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 4,
+        "rationale": "Seleccionar recursos gramaticales y léxicos adecuados dentro de un texto. Cotejado con captura original de Salento.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-6d046e14-cbd1-41fc-a52f-a1be75e023ad",
+      "area": "english",
+      "part": 4,
+      "order": 99,
+      "catalog_id": "USB-2543b7a34fb2-Q101",
+      "topic": "Uso del inglés en contexto",
+      "subtopic": "Gramática y vocabulario: Salento",
+      "introduction": "",
+      "image": null,
+      "stem": "Seleccione la palabra correcta para el espacio (99).",
+      "options": [
+        {
+          "text": "also"
+        },
+        {
+          "text": "else"
+        },
+        {
+          "text": "much"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "A",
+      "explanation": "Also añade otra característica de la población. La respuesta correcta es A.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-85557f21-7f90-4f1f-9394-3eca881b05ef",
+      "slot": "h99",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 4,
+        "rationale": "Seleccionar recursos gramaticales y léxicos adecuados dentro de un texto. Cotejado con captura original de Salento.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-dcadeb3f-f362-41f4-bc39-fca75cdfeb7d",
+      "area": "english",
+      "part": 4,
+      "order": 100,
+      "catalog_id": "USB-2543b7a34fb2-Q102",
+      "topic": "Uso del inglés en contexto",
+      "subtopic": "Gramática y vocabulario: Salento",
+      "introduction": "",
+      "image": null,
+      "stem": "Seleccione la palabra correcta para el espacio (100).",
+      "options": [
+        {
+          "text": "find"
+        },
+        {
+          "text": "found"
+        },
+        {
+          "text": "finding"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "B",
+      "explanation": "Are found es una construcción pasiva: los mercados se encuentran en la plaza. La respuesta correcta es B.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-85557f21-7f90-4f1f-9394-3eca881b05ef",
+      "slot": "h100",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 4,
+        "rationale": "Seleccionar recursos gramaticales y léxicos adecuados dentro de un texto. Cotejado con captura original de Salento.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-177fbda8-9399-4c77-a59f-2c1a14424a5d",
+      "area": "english",
+      "part": 4,
+      "order": 101,
+      "catalog_id": "USB-2543b7a34fb2-Q103",
+      "topic": "Uso del inglés en contexto",
+      "subtopic": "Gramática y vocabulario: Salento",
+      "introduction": "",
+      "image": null,
+      "stem": "Seleccione la palabra correcta para el espacio (101).",
+      "options": [
+        {
+          "text": "any"
+        },
+        {
+          "text": "every"
+        },
+        {
+          "text": "all"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "C",
+      "explanation": "All the amazing desserts se refiere al conjunto de postres. La respuesta correcta es C.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-85557f21-7f90-4f1f-9394-3eca881b05ef",
+      "slot": "h101",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 4,
+        "rationale": "Seleccionar recursos gramaticales y léxicos adecuados dentro de un texto. Cotejado con captura original de Salento.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-f3086ce0-b2c3-4769-a26b-829426c9a916",
+      "area": "english",
+      "part": 4,
+      "order": 102,
+      "catalog_id": "USB-2543b7a34fb2-Q104",
+      "topic": "Uso del inglés en contexto",
+      "subtopic": "Gramática y vocabulario: Salento",
+      "introduction": "",
+      "image": null,
+      "stem": "Seleccione la palabra correcta para el espacio (102).",
+      "options": [
+        {
+          "text": "anything"
+        },
+        {
+          "text": "anybody"
+        },
+        {
+          "text": "anywhere"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "B",
+      "explanation": "Anybody se refiere a personas y concuerda con who. La respuesta correcta es B.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-85557f21-7f90-4f1f-9394-3eca881b05ef",
+      "slot": "h102",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 4,
+        "rationale": "Seleccionar recursos gramaticales y léxicos adecuados dentro de un texto. Cotejado con captura original de Salento.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-4a4ee86c-7c2b-4d4d-8c81-750fefc02c5a",
+      "area": "english",
+      "part": 5,
+      "order": 103,
+      "catalog_id": "USB-524d98b0a234-Q103",
+      "topic": "Comprensión lectora en inglés",
+      "subtopic": "The British Museum: información y sentido global",
+      "introduction": "",
+      "image": null,
+      "stem": "Since its earliest days, everything the museum has brought comes from",
+      "options": [
+        {
+          "text": "a Jamaican explorer."
+        },
+        {
+          "text": "different cultures."
+        },
+        {
+          "text": "well-known artists."
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "B",
+      "explanation": "El texto indica que los objetos provienen de personas de todo el mundo y de distintas culturas. La respuesta correcta es B.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-365cc052-4f0c-49d3-b04d-76f33764b605",
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 5,
+        "rationale": "Comprensión de información explícita y sentido global de un texto en inglés. Cotejado con las capturas aportadas.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-bf880597-2a19-4edb-b524-fa95f5e5c15f",
+      "area": "english",
+      "part": 5,
+      "order": 104,
+      "catalog_id": "USB-524d98b0a234-Q104",
+      "topic": "Comprensión lectora en inglés",
+      "subtopic": "The British Museum: información y sentido global",
+      "introduction": "",
+      "image": null,
+      "stem": "Sloane organized an exhibition soon after he",
+      "options": [
+        {
+          "text": "made a journey."
+        },
+        {
+          "text": "studied medicine."
+        },
+        {
+          "text": "became a writer."
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "A",
+      "explanation": "El texto relaciona el inicio del interés de Sloane y la primera exhibición con su estancia en las Indias Occidentales. La respuesta correcta es A.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-365cc052-4f0c-49d3-b04d-76f33764b605",
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 5,
+        "rationale": "Comprensión de información explícita y sentido global de un texto en inglés. Cotejado con las capturas aportadas.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-53f4efb9-3a48-4668-9b72-68ded667f5d7",
+      "area": "english",
+      "part": 5,
+      "order": 105,
+      "catalog_id": "USB-524d98b0a234-Q105",
+      "topic": "Comprensión lectora en inglés",
+      "subtopic": "The British Museum: información y sentido global",
+      "introduction": "",
+      "image": null,
+      "stem": "What did Sloane spend his money on?",
+      "options": [
+        {
+          "text": "useful guidebooks."
+        },
+        {
+          "text": "large building areas."
+        },
+        {
+          "text": "exciting adventures."
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "C",
+      "explanation": "Sloane gastó la mayor parte de su dinero en viajes extraordinarios lejos de casa. La respuesta correcta es C.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-365cc052-4f0c-49d3-b04d-76f33764b605",
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 5,
+        "rationale": "Comprensión de información explícita y sentido global de un texto en inglés. Cotejado con las capturas aportadas.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-edc341fe-4b6f-4056-a8cc-a87031d0fb19",
+      "area": "english",
+      "part": 5,
+      "order": 106,
+      "catalog_id": "USB-524d98b0a234-Q106",
+      "topic": "Comprensión lectora en inglés",
+      "subtopic": "The British Museum: información y sentido global",
+      "introduction": "",
+      "image": null,
+      "stem": "Sloane believed that what he collected for the museum was",
+      "options": [
+        {
+          "text": "quite modern."
+        },
+        {
+          "text": "certainly popular."
+        },
+        {
+          "text": "actually awesome."
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "C",
+      "explanation": "Consideraba sus objetos las cosas más maravillosas; actually awesome expresa esa valoración. La respuesta correcta es C.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-365cc052-4f0c-49d3-b04d-76f33764b605",
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 5,
+        "rationale": "Comprensión de información explícita y sentido global de un texto en inglés. Cotejado con las capturas aportadas.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-7fc45433-4ebc-488e-92a0-0834e3204ecd",
+      "area": "english",
+      "part": 5,
+      "order": 107,
+      "catalog_id": "USB-524d98b0a234-Q107",
+      "topic": "Comprensión lectora en inglés",
+      "subtopic": "The British Museum: información y sentido global",
+      "introduction": "",
+      "image": null,
+      "stem": "Visitors to the museum today are interested in the",
+      "options": [
+        {
+          "text": "new spaces for exhibitions."
+        },
+        {
+          "text": "details in cultural descriptions."
+        },
+        {
+          "text": "free tickets for all activities."
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "B",
+      "explanation": "Los visitantes buscan explicaciones con información actualizada sobre los grupos culturales. La respuesta correcta es B.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-365cc052-4f0c-49d3-b04d-76f33764b605",
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 5,
+        "rationale": "Comprensión de información explícita y sentido global de un texto en inglés. Cotejado con las capturas aportadas.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-d3e42359-97fe-40c2-bdb6-0d481641070f",
+      "area": "english",
+      "part": 5,
+      "order": 108,
+      "catalog_id": "USB-524d98b0a234-Q108",
+      "topic": "Comprensión lectora en inglés",
+      "subtopic": "The British Museum: información y sentido global",
+      "introduction": "",
+      "image": null,
+      "stem": "A clear objective for the museum today is to",
+      "options": [
+        {
+          "text": "start a library’s project."
+        },
+        {
+          "text": "have better college textbooks."
+        },
+        {
+          "text": "offer attractive education programs."
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "C",
+      "explanation": "Enseñar sobre culturas del mundo mediante exhibiciones y cursos es uno de los objetivos actuales. La respuesta correcta es C.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-365cc052-4f0c-49d3-b04d-76f33764b605",
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 5,
+        "rationale": "Comprensión de información explícita y sentido global de un texto en inglés. Cotejado con las capturas aportadas.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-996c83a5-71fd-4eec-acf0-8e35c0b46658",
+      "area": "english",
+      "part": 5,
+      "order": 109,
+      "catalog_id": "USB-524d98b0a234-Q109",
+      "topic": "Comprensión lectora en inglés",
+      "subtopic": "The British Museum: información y sentido global",
+      "introduction": "",
+      "image": null,
+      "stem": "The text is especially about the British Museum and",
+      "options": [
+        {
+          "text": "facts about its history."
+        },
+        {
+          "text": "the visitors’ reviews."
+        },
+        {
+          "text": "exhibitions people prefer."
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "A",
+      "explanation": "El texto presenta el origen, las colecciones y los objetivos del museo, con información sobre su historia. La respuesta correcta es A.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-365cc052-4f0c-49d3-b04d-76f33764b605",
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 5,
+        "rationale": "Comprensión de información explícita y sentido global de un texto en inglés. Cotejado con las capturas aportadas.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-2cec229a-57e6-4df4-8c6f-a44dcf0addca",
+      "area": "english",
+      "part": 6,
+      "order": 110,
+      "catalog_id": "USB-7882c8f9ae2f-Q115",
+      "topic": "Comprensión inferencial en inglés",
+      "subtopic": "Valor de los momentos cotidianos",
+      "introduction": "",
+      "image": null,
+      "stem": "What is the writer trying to do in the text?",
+      "options": [
+        {
+          "text": "explore new activities to have fun and attract your children"
+        },
+        {
+          "text": "convince people to leave their electronic objects at work"
+        },
+        {
+          "text": "recommend doing relaxing outdoor activities and living in nature"
+        },
+        {
+          "text": "encourage people to value lazy periods"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "D",
+      "explanation": "El propósito central es invitar a valorar los periodos aparentemente inactivos, que permiten reflexionar y disfrutar experiencias cotidianas. La respuesta correcta es D.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-70b20b72-1a4c-45dd-b7d8-c2c532531c8e",
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 6,
+        "rationale": "Comprensión inferencial: intención del autor, propósito, ideas y consejo coherente con el texto. Cotejado con las capturas aportadas.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-42f2a30e-d258-41d1-a42d-5c31e7262f40",
+      "area": "english",
+      "part": 6,
+      "order": 111,
+      "catalog_id": "USB-7882c8f9ae2f-Q116",
+      "topic": "Comprensión inferencial en inglés",
+      "subtopic": "Valor de los momentos cotidianos",
+      "introduction": "",
+      "image": null,
+      "stem": "What can the reader find out from this article?",
+      "options": [
+        {
+          "text": "difficulties that you could avoid when you decide to give up technology"
+        },
+        {
+          "text": "chances to develop your ideas, dreams and abilities when you are outdoors"
+        },
+        {
+          "text": "regrets about the writer’s active life without his electronic objects"
+        },
+        {
+          "text": "benefits that you could receive from doing routine activities"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "D",
+      "explanation": "El artículo describe beneficios de actividades ordinarias como esperar y acompañar a los hijos: relajación, reflexión y disfrute de cosas sencillas. No se limita a estar al aire libre. La respuesta correcta es D.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-70b20b72-1a4c-45dd-b7d8-c2c532531c8e",
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 6,
+        "rationale": "Comprensión inferencial: intención del autor, propósito, ideas y consejo coherente con el texto. Cotejado con las capturas aportadas.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-18b70668-5b41-4071-b094-d573c3c33c01",
+      "area": "english",
+      "part": 6,
+      "order": 112,
+      "catalog_id": "USB-7882c8f9ae2f-Q117",
+      "topic": "Comprensión inferencial en inglés",
+      "subtopic": "Valor de los momentos cotidianos",
+      "introduction": "",
+      "image": null,
+      "stem": "According to the author, “lazy periods” are",
+      "options": [
+        {
+          "text": "moments that make people avoid using their time, money and skills in the best way."
+        },
+        {
+          "text": "unimportant daily life decisions that people forget very quickly."
+        },
+        {
+          "text": "ordinary activities that can provide amazing and relaxing feelings."
+        },
+        {
+          "text": "silent moments that can make your life stressful."
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "C",
+      "explanation": "El autor presenta momentos cotidianos que producen sensaciones agradables, relajación y oportunidades para pensar. La respuesta correcta es C.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-70b20b72-1a4c-45dd-b7d8-c2c532531c8e",
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 6,
+        "rationale": "Comprensión inferencial: intención del autor, propósito, ideas y consejo coherente con el texto. Cotejado con las capturas aportadas.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-a112470d-9cf8-4b24-9889-c4d0f3f14d08",
+      "area": "english",
+      "part": 6,
+      "order": 113,
+      "catalog_id": "USB-7882c8f9ae2f-Q118",
+      "topic": "Comprensión inferencial en inglés",
+      "subtopic": "Valor de los momentos cotidianos",
+      "introduction": "",
+      "image": null,
+      "stem": "The most suitable title for the reading could be “One day I",
+      "options": [
+        {
+          "text": "decided to pay attention to normal events, it was a surprising experience”."
+        },
+        {
+          "text": "admitted that I was absent when I played with my children”."
+        },
+        {
+          "text": "forgot my cellphone, and it was an awful and stressful experience”."
+        },
+        {
+          "text": "decided to give up my phone to avoid unimportant and unusual calls”."
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "A",
+      "explanation": "El título sintetiza el descubrimiento del valor de prestar atención a acontecimientos normales. Las otras opciones atribuyen experiencias negativas o propósitos que el texto no afirma. La respuesta correcta es A.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-70b20b72-1a4c-45dd-b7d8-c2c532531c8e",
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 6,
+        "rationale": "Comprensión inferencial: intención del autor, propósito, ideas y consejo coherente con el texto. Cotejado con las capturas aportadas.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-332d80ec-092b-4f42-ad0c-1c40cf52e23c",
+      "area": "english",
+      "part": 6,
+      "order": 114,
+      "catalog_id": "USB-7882c8f9ae2f-Q119",
+      "topic": "Comprensión inferencial en inglés",
+      "subtopic": "Valor de los momentos cotidianos",
+      "introduction": "",
+      "image": null,
+      "stem": "What advice would the writer give his readers?",
+      "options": [
+        {
+          "text": "Leave always your electronic objects at home. It’ll let you breathe and relax."
+        },
+        {
+          "text": "Cancel your stressful work activities. They might seriously damage your health."
+        },
+        {
+          "text": "Consider simple daily routines. They could develop your thinking abilities."
+        },
+        {
+          "text": "Carry on with your routine. It may prevent accidents in your life."
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "C",
+      "explanation": "El consejo coherente es valorar las rutinas sencillas como oportunidades para desarrollar el pensamiento. El autor no propone abandonar siempre el teléfono ni cancelar el trabajo. La respuesta correcta es C.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-70b20b72-1a4c-45dd-b7d8-c2c532531c8e",
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 6,
+        "rationale": "Comprensión inferencial: intención del autor, propósito, ideas y consejo coherente con el texto. Cotejado con las capturas aportadas.",
+        "reviewer": null,
+        "reviewed_at": null
+      },
+      "answer_cards": true
+    },
+    {
+      "id": "q-9c9a2bcc-9325-4382-a3f2-2b68dd33a92b",
+      "area": "english",
+      "part": 7,
+      "order": 115,
+      "catalog_id": "USB-524d98b0a234-Q125",
+      "topic": "Uso del inglés en contexto",
+      "subtopic": "A SPIDER-WEDDING: vocabulario y colocaciones",
+      "introduction": "",
+      "image": null,
+      "stem": "Seleccione la palabra correcta para el espacio (115).",
+      "options": [
+        {
+          "text": "up"
+        },
+        {
+          "text": "care"
+        },
+        {
+          "text": "away"
+        },
+        {
+          "text": "place"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "D",
+      "explanation": "La expresión take place significa tener lugar; en pasado, took place. La respuesta correcta es D.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-17a21d53-3de0-4141-b81a-3eee7382a7d2",
+      "slot": "h115",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 7,
+        "rationale": "Seleccionar vocabulario y expresiones que conservan la coherencia gramatical y semántica de un texto. Cotejado con la captura y el original físico 39 de USB-524d98b0a234.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-f2e6330f-956e-423b-9976-200b04b37087",
+      "area": "english",
+      "part": 7,
+      "order": 116,
+      "catalog_id": "USB-524d98b0a234-Q126",
+      "topic": "Uso del inglés en contexto",
+      "subtopic": "A SPIDER-WEDDING: vocabulario y colocaciones",
+      "introduction": "",
+      "image": null,
+      "stem": "Seleccione la palabra correcta para el espacio (116).",
+      "options": [
+        {
+          "text": "held"
+        },
+        {
+          "text": "dealt"
+        },
+        {
+          "text": "achieved"
+        },
+        {
+          "text": "managed"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "A",
+      "explanation": "Was held es la construcción pasiva utilizada para decir que una ceremonia se celebró. La respuesta correcta es A.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-17a21d53-3de0-4141-b81a-3eee7382a7d2",
+      "slot": "h116",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 7,
+        "rationale": "Seleccionar vocabulario y expresiones que conservan la coherencia gramatical y semántica de un texto. Cotejado con la captura y el original físico 39 de USB-524d98b0a234.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-2b258503-5bcb-42b2-8e6d-56869f372b35",
+      "area": "english",
+      "part": 7,
+      "order": 117,
+      "catalog_id": "USB-524d98b0a234-Q127",
+      "topic": "Uso del inglés en contexto",
+      "subtopic": "A SPIDER-WEDDING: vocabulario y colocaciones",
+      "introduction": "",
+      "image": null,
+      "stem": "Seleccione la palabra correcta para el espacio (117).",
+      "options": [
+        {
+          "text": "tasted"
+        },
+        {
+          "text": "checked"
+        },
+        {
+          "text": "connected"
+        },
+        {
+          "text": "experienced"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "D",
+      "explanation": "Experienced significa que los aficionados vivieron o experimentaron la ceremonia. La respuesta correcta es D.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-17a21d53-3de0-4141-b81a-3eee7382a7d2",
+      "slot": "h117",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 7,
+        "rationale": "Seleccionar vocabulario y expresiones que conservan la coherencia gramatical y semántica de un texto. Cotejado con la captura y el original físico 39 de USB-524d98b0a234.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-a211285e-02a0-485a-971d-53c4c56d457c",
+      "area": "english",
+      "part": 7,
+      "order": 118,
+      "catalog_id": "USB-524d98b0a234-Q128",
+      "topic": "Uso del inglés en contexto",
+      "subtopic": "A SPIDER-WEDDING: vocabulario y colocaciones",
+      "introduction": "",
+      "image": null,
+      "stem": "Seleccione la palabra correcta para el espacio (118).",
+      "options": [
+        {
+          "text": "time"
+        },
+        {
+          "text": "fact"
+        },
+        {
+          "text": "order"
+        },
+        {
+          "text": "advance"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "B",
+      "explanation": "In fact introduce una aclaración: de hecho, la ceremonia sirvió como anuncio. La respuesta correcta es B.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-17a21d53-3de0-4141-b81a-3eee7382a7d2",
+      "slot": "h118",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 7,
+        "rationale": "Seleccionar vocabulario y expresiones que conservan la coherencia gramatical y semántica de un texto. Cotejado con la captura y el original físico 39 de USB-524d98b0a234.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-626f262d-d1ce-447e-a1d9-f68f9a63ad78",
+      "area": "english",
+      "part": 7,
+      "order": 119,
+      "catalog_id": "USB-524d98b0a234-Q129",
+      "topic": "Uso del inglés en contexto",
+      "subtopic": "A SPIDER-WEDDING: vocabulario y colocaciones",
+      "introduction": "",
+      "image": null,
+      "stem": "Seleccione la palabra correcta para el espacio (119).",
+      "options": [
+        {
+          "text": "brief"
+        },
+        {
+          "text": "tight"
+        },
+        {
+          "text": "worth"
+        },
+        {
+          "text": "limited"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "D",
+      "explanation": "A limited number expresa una cantidad limitada de ejemplares. La respuesta correcta es D.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-17a21d53-3de0-4141-b81a-3eee7382a7d2",
+      "slot": "h119",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 7,
+        "rationale": "Seleccionar vocabulario y expresiones que conservan la coherencia gramatical y semántica de un texto. Cotejado con la captura y el original físico 39 de USB-524d98b0a234.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-8b57d37c-5810-471d-ac19-f94c017c4e79",
+      "area": "english",
+      "part": 7,
+      "order": 120,
+      "catalog_id": "USB-524d98b0a234-Q130",
+      "topic": "Uso del inglés en contexto",
+      "subtopic": "A SPIDER-WEDDING: vocabulario y colocaciones",
+      "introduction": "",
+      "image": null,
+      "stem": "Seleccione la palabra correcta para el espacio (120).",
+      "options": [
+        {
+          "text": "indeed"
+        },
+        {
+          "text": "nearly"
+        },
+        {
+          "text": "otherwise"
+        },
+        {
+          "text": "meanwhile"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "A",
+      "explanation": "Indeed refuerza la afirmación de que era apropiado que el creador oficiara la boda. La respuesta correcta es A.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-17a21d53-3de0-4141-b81a-3eee7382a7d2",
+      "slot": "h120",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 7,
+        "rationale": "Seleccionar vocabulario y expresiones que conservan la coherencia gramatical y semántica de un texto. Cotejado con la captura y el original físico 39 de USB-524d98b0a234.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-5c8befcb-efc6-494a-93c9-2666516be466",
+      "area": "english",
+      "part": 7,
+      "order": 121,
+      "catalog_id": "USB-524d98b0a234-Q131",
+      "topic": "Uso del inglés en contexto",
+      "subtopic": "A SPIDER-WEDDING: vocabulario y colocaciones",
+      "introduction": "",
+      "image": null,
+      "stem": "Seleccione la palabra correcta para el espacio (121).",
+      "options": [
+        {
+          "text": "period"
+        },
+        {
+          "text": "term"
+        },
+        {
+          "text": "occasion"
+        },
+        {
+          "text": "season"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "C",
+      "explanation": "Take advantage of this occasion significa aprovechar esta ocasión. La respuesta correcta es C.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-17a21d53-3de0-4141-b81a-3eee7382a7d2",
+      "slot": "h121",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 7,
+        "rationale": "Seleccionar vocabulario y expresiones que conservan la coherencia gramatical y semántica de un texto. Cotejado con la captura y el original físico 39 de USB-524d98b0a234.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-a53c6a1a-d7de-4a06-b6ba-90f35e50fca5",
+      "area": "english",
+      "part": 7,
+      "order": 122,
+      "catalog_id": "USB-524d98b0a234-Q132",
+      "topic": "Uso del inglés en contexto",
+      "subtopic": "A SPIDER-WEDDING: vocabulario y colocaciones",
+      "introduction": "",
+      "image": null,
+      "stem": "Seleccione la palabra correcta para el espacio (122).",
+      "options": [
+        {
+          "text": "lover"
+        },
+        {
+          "text": "groom"
+        },
+        {
+          "text": "partner"
+        },
+        {
+          "text": "boyfriend"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "B",
+      "explanation": "Groom significa novio en una ceremonia de boda; se refiere a Spider-Man. La respuesta correcta es B.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-17a21d53-3de0-4141-b81a-3eee7382a7d2",
+      "slot": "h122",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 7,
+        "rationale": "Seleccionar vocabulario y expresiones que conservan la coherencia gramatical y semántica de un texto. Cotejado con la captura y el original físico 39 de USB-524d98b0a234.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-827c36fc-7277-401d-aedb-a5d995f27ba2",
+      "area": "english",
+      "part": 7,
+      "order": 123,
+      "catalog_id": "USB-524d98b0a234-Q133",
+      "topic": "Uso del inglés en contexto",
+      "subtopic": "A SPIDER-WEDDING: vocabulario y colocaciones",
+      "introduction": "",
+      "image": null,
+      "stem": "Seleccione la palabra correcta para el espacio (123).",
+      "options": [
+        {
+          "text": "argue"
+        },
+        {
+          "text": "say"
+        },
+        {
+          "text": "enquire"
+        },
+        {
+          "text": "promise"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "D",
+      "explanation": "Promise to introduce una promesa, coherente con los votos de boda. La respuesta correcta es D.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-17a21d53-3de0-4141-b81a-3eee7382a7d2",
+      "slot": "h123",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 7,
+        "rationale": "Seleccionar vocabulario y expresiones que conservan la coherencia gramatical y semántica de un texto. Cotejado con la captura y el original físico 39 de USB-524d98b0a234.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-2f76d5bd-879d-4601-a841-6cd884a2e3f3",
+      "area": "english",
+      "part": 7,
+      "order": 124,
+      "catalog_id": "USB-524d98b0a234-Q134",
+      "topic": "Uso del inglés en contexto",
+      "subtopic": "A SPIDER-WEDDING: vocabulario y colocaciones",
+      "introduction": "",
+      "image": null,
+      "stem": "Seleccione la palabra correcta para el espacio (124).",
+      "options": [
+        {
+          "text": "reply"
+        },
+        {
+          "text": "solution"
+        },
+        {
+          "text": "comment"
+        },
+        {
+          "text": "explanation"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "A",
+      "explanation": "Reply significa respuesta y se corresponde con Yes. La respuesta correcta es A.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-17a21d53-3de0-4141-b81a-3eee7382a7d2",
+      "slot": "h124",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 7,
+        "rationale": "Seleccionar vocabulario y expresiones que conservan la coherencia gramatical y semántica de un texto. Cotejado con la captura y el original físico 39 de USB-524d98b0a234.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-1002bfc8-172c-46cd-9306-7eb2ddb6a565",
+      "area": "english",
+      "part": 7,
+      "order": 125,
+      "catalog_id": "USB-2543b7a34fb2-Q125",
+      "topic": "Uso del inglés en contexto",
+      "subtopic": "Chinua Achebe: vocabulario y gramática",
+      "introduction": "",
+      "image": null,
+      "stem": "Seleccione la palabra correcta para el espacio (125).",
+      "options": [
+        {
+          "text": "informed"
+        },
+        {
+          "text": "translated"
+        },
+        {
+          "text": "researched"
+        },
+        {
+          "text": "communicated"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "B",
+      "explanation": "La expresión translated into forty languages significa traducidas a cuarenta idiomas. La respuesta correcta es B.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-19351cc7-1555-4bc7-9342-31dd18a271ad",
+      "slot": "h125",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 7,
+        "rationale": "Selección léxica, conectores y estructuras gramaticales en un texto biográfico. Cotejado con capturas y original físico 39 de USB-2543b7a34fb2.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-56f863eb-40fd-4f97-a0a3-bd57b6b0f085",
+      "area": "english",
+      "part": 7,
+      "order": 126,
+      "catalog_id": "USB-2543b7a34fb2-Q126",
+      "topic": "Uso del inglés en contexto",
+      "subtopic": "Chinua Achebe: vocabulario y gramática",
+      "introduction": "",
+      "image": null,
+      "stem": "Seleccione la palabra correcta para el espacio (126).",
+      "options": [
+        {
+          "text": "reports"
+        },
+        {
+          "text": "meanings"
+        },
+        {
+          "text": "explanations"
+        },
+        {
+          "text": "descriptions"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "D",
+      "explanation": "Descriptions se refiere a las representaciones de las personas africanas en los libros, cuya exactitud cuestionaba Achebe. La respuesta correcta es D.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-19351cc7-1555-4bc7-9342-31dd18a271ad",
+      "slot": "h126",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 7,
+        "rationale": "Selección léxica, conectores y estructuras gramaticales en un texto biográfico. Cotejado con capturas y original físico 39 de USB-2543b7a34fb2.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-2aa81353-cafb-4bf2-99f2-058d6ba6cda9",
+      "area": "english",
+      "part": 7,
+      "order": 127,
+      "catalog_id": "USB-2543b7a34fb2-Q127",
+      "topic": "Uso del inglés en contexto",
+      "subtopic": "Chinua Achebe: vocabulario y gramática",
+      "introduction": "",
+      "image": null,
+      "stem": "Seleccione la palabra correcta para el espacio (127).",
+      "options": [
+        {
+          "text": "realistic"
+        },
+        {
+          "text": "generous"
+        },
+        {
+          "text": "impressed"
+        },
+        {
+          "text": "challenging"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "A",
+      "explanation": "A more realistic way significa una representación más realista y se opone a las descripciones inexactas. La respuesta correcta es A.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-19351cc7-1555-4bc7-9342-31dd18a271ad",
+      "slot": "h127",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 7,
+        "rationale": "Selección léxica, conectores y estructuras gramaticales en un texto biográfico. Cotejado con capturas y original físico 39 de USB-2543b7a34fb2.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-163de4ae-dbba-492e-971a-97367d83f293",
+      "area": "english",
+      "part": 7,
+      "order": 128,
+      "catalog_id": "USB-2543b7a34fb2-Q128",
+      "topic": "Uso del inglés en contexto",
+      "subtopic": "Chinua Achebe: vocabulario y gramática",
+      "introduction": "",
+      "image": null,
+      "stem": "Seleccione la palabra correcta para el espacio (128).",
+      "options": [
+        {
+          "text": "arranged"
+        },
+        {
+          "text": "improved"
+        },
+        {
+          "text": "inspired"
+        },
+        {
+          "text": "developed"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "D",
+      "explanation": "Developed significa desarrolló la obra; las otras opciones no encajan con la acción expresada en el pasaje. La respuesta correcta es D.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-19351cc7-1555-4bc7-9342-31dd18a271ad",
+      "slot": "h128",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 7,
+        "rationale": "Selección léxica, conectores y estructuras gramaticales en un texto biográfico. Cotejado con capturas y original físico 39 de USB-2543b7a34fb2.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-72048020-a206-4de1-8858-bbaa29153f0a",
+      "area": "english",
+      "part": 7,
+      "order": 129,
+      "catalog_id": "USB-2543b7a34fb2-Q129",
+      "topic": "Uso del inglés en contexto",
+      "subtopic": "Chinua Achebe: vocabulario y gramática",
+      "introduction": "",
+      "image": null,
+      "stem": "Seleccione la palabra correcta para el espacio (129).",
+      "options": [
+        {
+          "text": "all"
+        },
+        {
+          "text": "first"
+        },
+        {
+          "text": "last"
+        },
+        {
+          "text": "least"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "B",
+      "explanation": "At first significa al principio y contrasta con but then, después. La respuesta correcta es B.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-19351cc7-1555-4bc7-9342-31dd18a271ad",
+      "slot": "h129",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 7,
+        "rationale": "Selección léxica, conectores y estructuras gramaticales en un texto biográfico. Cotejado con capturas y original físico 39 de USB-2543b7a34fb2.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-df1b96c0-0601-415b-a715-8af3f368a975",
+      "area": "english",
+      "part": 7,
+      "order": 130,
+      "catalog_id": "USB-2543b7a34fb2-Q130",
+      "topic": "Uso del inglés en contexto",
+      "subtopic": "Chinua Achebe: vocabulario y gramática",
+      "introduction": "",
+      "image": null,
+      "stem": "Seleccione la palabra correcta para el espacio (130).",
+      "options": [
+        {
+          "text": "Shortly"
+        },
+        {
+          "text": "Lately"
+        },
+        {
+          "text": "Nowadays"
+        },
+        {
+          "text": "Meanwhile"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "A",
+      "explanation": "Shortly after significa poco después y sitúa los premios tras la publicación. La respuesta correcta es A.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-19351cc7-1555-4bc7-9342-31dd18a271ad",
+      "slot": "h130",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 7,
+        "rationale": "Selección léxica, conectores y estructuras gramaticales en un texto biográfico. Cotejado con capturas y original físico 39 de USB-2543b7a34fb2.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-cf6a819b-9059-4efc-90d8-c5f762bb4b5a",
+      "area": "english",
+      "part": 7,
+      "order": 131,
+      "catalog_id": "USB-2543b7a34fb2-Q131",
+      "topic": "Uso del inglés en contexto",
+      "subtopic": "Chinua Achebe: vocabulario y gramática",
+      "introduction": "",
+      "image": null,
+      "stem": "Seleccione la palabra correcta para el espacio (131).",
+      "options": [
+        {
+          "text": "let"
+        },
+        {
+          "text": "put"
+        },
+        {
+          "text": "had"
+        },
+        {
+          "text": "made"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "C",
+      "explanation": "Had the play produced es una construcción causativa: hizo que la obra se produjera. La respuesta correcta es C.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-19351cc7-1555-4bc7-9342-31dd18a271ad",
+      "slot": "h131",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 7,
+        "rationale": "Selección léxica, conectores y estructuras gramaticales en un texto biográfico. Cotejado con capturas y original físico 39 de USB-2543b7a34fb2.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-3a817993-da6d-4cdd-b7e6-40b6d486479f",
+      "area": "english",
+      "part": 7,
+      "order": 132,
+      "catalog_id": "USB-2543b7a34fb2-Q132",
+      "topic": "Uso del inglés en contexto",
+      "subtopic": "Chinua Achebe: vocabulario y gramática",
+      "introduction": "",
+      "image": null,
+      "stem": "Seleccione la palabra correcta para el espacio (132).",
+      "options": [
+        {
+          "text": "finally"
+        },
+        {
+          "text": "therefore"
+        },
+        {
+          "text": "although"
+        },
+        {
+          "text": "wherever"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "C",
+      "explanation": "Although introduce la concesión entre continuar escribiendo y realizar también otras actividades. La respuesta correcta es C.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-19351cc7-1555-4bc7-9342-31dd18a271ad",
+      "slot": "h132",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 7,
+        "rationale": "Selección léxica, conectores y estructuras gramaticales en un texto biográfico. Cotejado con capturas y original físico 39 de USB-2543b7a34fb2.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-ac291948-1880-402a-ada3-90f6a10c3be8",
+      "area": "english",
+      "part": 7,
+      "order": 133,
+      "catalog_id": "USB-2543b7a34fb2-Q133",
+      "topic": "Uso del inglés en contexto",
+      "subtopic": "Chinua Achebe: vocabulario y gramática",
+      "introduction": "",
+      "image": null,
+      "stem": "Seleccione la palabra correcta para el espacio (133).",
+      "options": [
+        {
+          "text": "joked"
+        },
+        {
+          "text": "delivered"
+        },
+        {
+          "text": "wondered"
+        },
+        {
+          "text": "mentioned"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "D",
+      "explanation": "Mentioned introduce lo que expresó en la entrevista; el contexto no permite afirmar que fuera una broma. La respuesta correcta es D.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-19351cc7-1555-4bc7-9342-31dd18a271ad",
+      "slot": "h133",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 7,
+        "rationale": "Selección léxica, conectores y estructuras gramaticales en un texto biográfico. Cotejado con capturas y original físico 39 de USB-2543b7a34fb2.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-4686db3a-3f7a-40c1-999f-dc2519b200ee",
+      "area": "english",
+      "part": 7,
+      "order": 134,
+      "catalog_id": "USB-2543b7a34fb2-Q134",
+      "topic": "Uso del inglés en contexto",
+      "subtopic": "Chinua Achebe: vocabulario y gramática",
+      "introduction": "",
+      "image": null,
+      "stem": "Seleccione la palabra correcta para el espacio (134).",
+      "options": [
+        {
+          "text": "couldn’t"
+        },
+        {
+          "text": "needn’t"
+        },
+        {
+          "text": "won’t"
+        },
+        {
+          "text": "wouldn’t"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "A",
+      "explanation": "Even if I wanted I couldn’t expresa que, aunque quisiera, no podría; se refiere a la imposibilidad de continuar escribiendo novelas. La respuesta correcta es A.",
+      "layout": "full",
+      "included": true,
+      "context": "ctx-19351cc7-1555-4bc7-9342-31dd18a271ad",
+      "slot": "h134",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "english",
+        "status": "proposed",
+        "competency": "communication",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": 7,
+        "rationale": "Selección léxica, conectores y estructuras gramaticales en un texto biográfico. Cotejado con capturas y original físico 39 de USB-2543b7a34fb2.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-68922bce-7ca7-4d9e-99d2-d48faa8ea7ac",
+      "area": "mathematics",
+      "part": null,
+      "order": 26,
+      "catalog_id": "USB-04dc5257ed8b-Q005",
+      "topic": "Estadística y representación de datos",
+      "subtopic": "Conversión de porcentajes a frecuencias y gráficas de barras",
+      "introduction": "",
+      "image": null,
+      "stem": "En una biblioteca virtual se registraron 100 consultas en un día. Del total de consultas de ese día, el 30 % fueron de Biología, el 20 % de Inglés, el 40 % de Sociales y el 10 % de Matemáticas. ¿Cuál de las siguientes gráficas corresponde al número de consultas, por materia, hechas ese día en la biblioteca virtual?",
+      "options": [
+        {
+          "text": "",
+          "image": "assets/uploads/b30e54cbaa4b43568f416d1fd5044ed6.png"
+        },
+        {
+          "text": "",
+          "image": "assets/uploads/c912a928a64944deb01401e1a444e327.png"
+        },
+        {
+          "text": "",
+          "image": "assets/uploads/70f0443f8d564b25aca30d2bb9541fba.png"
+        },
+        {
+          "text": "",
+          "image": "assets/uploads/b00711601abd4fdebc03722e1c5ab593.png"
+        }
+      ],
+      "options_layout": "grid2",
+      "correct": "A",
+      "explanation": "Como se registraron 100 consultas, el 30 % corresponde a 30 de Biología; el 20 %, a 20 de Inglés; el 40 %, a 40 de Sociales; y el 10 %, a 10 de Matemáticas. La gráfica A conserva estos cuatro valores y su correspondencia con las materias. Las demás gráficas intercambian las cantidades entre materias. La respuesta correcta es A.",
+      "layout": "full",
+      "included": true,
+      "context": null,
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "mathematics",
+        "status": "proposed",
+        "competency": "interpretation",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "Interpretación y representación: convertir porcentajes de un total de 100 consultas en frecuencias y seleccionar la gráfica de barras equivalente.",
+        "reviewer": null,
+        "reviewed_at": null
+      },
+      "option_drafts": {}
+    },
+    {
+      "id": "q-b7b7ef9f-3958-48d8-8c16-a809d6be3870",
+      "area": "mathematics",
+      "part": null,
+      "order": 27,
+      "catalog_id": "USB-04dc5257ed8b-Q014",
+      "topic": "Estadística y análisis de datos",
+      "subtopic": "Validación de tablas de frecuencias",
+      "introduction": "Un profesor preguntó a seis estudiantes cuánto dinero traían al colegio diariamente para comprar refrigerio. Los resultados aparecen en la lista:\n\n$2.000, $2.000, $3.000, $4.000, $4.000 y $4.000.\n\nUno de los estudiantes observó la lista y elaboró la siguiente tabla de frecuencias:",
+      "image": "assets/uploads/8c1656e93b3e4adeaae31aac9ca9a526.png",
+      "image_width": 390,
+      "image_height": 115,
+      "stem": "Respecto a la tabla, ¿cuál de las siguientes afirmaciones es verdadera?",
+      "options": [
+        {
+          "text": "La tabla es válida porque aparecen todos los montos de dinero que llevan los estudiantes."
+        },
+        {
+          "text": "La tabla no es válida porque no muestra la cantidad de estudiantes a los que se les hizo la pregunta."
+        },
+        {
+          "text": "La tabla es válida porque indica la cantidad de estudiantes que llevan cada monto de dinero."
+        },
+        {
+          "text": "La tabla no es válida porque los números de la segunda columna están en orden incorrecto."
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "D",
+      "explanation": "En la lista, $2.000 aparece dos veces; $3.000, una vez; y $4.000, tres veces. Las frecuencias correspondientes son 2, 1 y 3. La tabla del estudiante muestra 1, 2 y 3, por lo que intercambia las frecuencias de $2.000 y $3.000. Aunque las frecuencias suman seis, no corresponden correctamente con los montos de dinero. La respuesta correcta es D.",
+      "layout": "full",
+      "included": true,
+      "context": null,
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "mathematics",
+        "status": "proposed",
+        "competency": "argumentation",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "Argumentación: contrastar una tabla de frecuencias con la lista original y justificar por qué sus frecuencias no son válidas.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-693f0035-a83e-4505-b455-871a4e57ceb9",
+      "area": "mathematics",
+      "part": null,
+      "order": 28,
+      "catalog_id": "USB-04dc5257ed8b-Q018",
+      "topic": "Estadística y representación de datos",
+      "subtopic": "Porcentajes y frecuencias absolutas",
+      "introduction": "",
+      "image": null,
+      "stem": "Se realizó una encuesta a 50 estudiantes de un colegio para determinar cuál es el género musical más popular entre estos jóvenes. Los resultados obtenidos fueron:\n\n• Al 25 % de los estudiantes les gusta la salsa.\n• Al 60 % de los estudiantes les gusta el vallenato.\n• Al 10 % de los estudiantes le gusta el pop.\n• Al 5 % de los estudiantes le gusta el hip hop.\n\n¿Cuál de las siguientes gráficas representa correctamente la cantidad de estudiantes a quienes les gusta el vallenato?",
+      "options": [
+        {
+          "text": "",
+          "image": "assets/uploads/0c557f7e576e49c984dae79c695a6ee3.png"
+        },
+        {
+          "text": "",
+          "image": "assets/uploads/bc3d358924ea44efac6f12bef79a76f6.png"
+        },
+        {
+          "text": "",
+          "image": "assets/uploads/b3dc29b5839e447f97da5c0acc493623.png"
+        },
+        {
+          "text": "",
+          "image": "assets/uploads/50a662abf9514a7684796638eb9e8d51.png"
+        }
+      ],
+      "options_layout": "grid2",
+      "correct": "C",
+      "explanation": "Para determinar cuántos estudiantes prefieren el vallenato, se calcula el 60 % de 50: 60 × 50 ÷ 100 = 30. La gráfica C muestra una barra de 30 estudiantes. La opción A confunde el porcentaje 60 con el número de estudiantes; B representa 20 y D representa 50. La respuesta correcta es C.",
+      "layout": "full",
+      "included": true,
+      "context": null,
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "mathematics",
+        "status": "proposed",
+        "competency": "interpretation",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "Interpretación y representación: relacionar un porcentaje con su frecuencia absoluta y reconocer la gráfica de barras que representa esa cantidad.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-4c53162a-316d-47e0-9bff-8994374825d5",
+      "area": "mathematics",
+      "part": null,
+      "order": 29,
+      "catalog_id": "USB-1c44481d3d4a-Q030",
+      "topic": "Funciones y representaciones gráficas",
+      "subtopic": "Crecimiento estricto y tramos constantes",
+      "introduction": "Se dice que una función \\(f(x)\\) es estrictamente creciente cuando \\(x_1 < x_2\\) implica \\(f(x_1) < f(x_2)\\).",
+      "image": "assets/uploads/ddef251f0da14bb1bd41800ea94c5225.png",
+      "image_width": 400,
+      "image_height": 225,
+      "stem": "Un estudiante asegura que la gráfica anterior corresponde a una función estrictamente creciente. ¿Es verdadera esta afirmación?",
+      "options": [
+        {
+          "text": "Sí, pues la función no decrece en ningún intervalo."
+        },
+        {
+          "text": "Sí, pues la función crece a lo largo de todo el intervalo."
+        },
+        {
+          "text": "No, pues existe un intervalo en que el que la función es constante."
+        },
+        {
+          "text": "No, pues la función no crece de forma lineal en el intervalo."
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "C",
+      "explanation": "Una función es estrictamente creciente si para dos valores cualesquiera \\(x_1\\) < \\(x_2\\) de su dominio se cumple f(\\(x_1\\)) < f(\\(x_2\\)). En la gráfica hay un tramo horizontal entre x = 7 y x = 9, en el que la función vale 7. Por ejemplo, f(7) = f(9), aunque 7 < 9. Esto contradice la definición de crecimiento estricto. No decrecer no es suficiente, y una función estrictamente creciente no tiene que ser lineal. La respuesta correcta es C.",
+      "layout": "full",
+      "included": true,
+      "context": null,
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "mathematics",
+        "status": "proposed",
+        "competency": "argumentation",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "Argumentación: contrastar la definición de crecimiento estricto con un tramo constante visible en la gráfica y justificar un contraejemplo.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-937b631c-bb0d-458d-bbfb-5fe86163188f",
+      "area": "mathematics",
+      "part": null,
+      "order": 30,
+      "catalog_id": "USB-1c44481d3d4a-Q031",
+      "topic": "Porcentajes y proporcionalidad",
+      "subtopic": "Cálculo de un porcentaje de una cantidad",
+      "introduction": "",
+      "image": null,
+      "stem": "En un centro de reciclaje se recibieron en el último mes 50 toneladas de aluminio, de las cuales, el 40 % fue utilizado para la fabricación de señales de tránsito.\n\n¿Cuántas toneladas de aluminio fueron utilizadas por el centro de reciclaje para la fabricación de señales de tránsito?",
+      "options": [
+        {
+          "text": "20"
+        },
+        {
+          "text": "50"
+        },
+        {
+          "text": "10"
+        },
+        {
+          "text": "40"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "A",
+      "explanation": "Se calcula el 40 % de las 50 toneladas recibidas: 50 × 40 ÷ 100 = 20 toneladas. Por tanto, se utilizaron 20 toneladas de aluminio para fabricar señales de tránsito. La respuesta correcta es A.",
+      "layout": "columns",
+      "included": true,
+      "context": null,
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "mathematics",
+        "status": "proposed",
+        "competency": "execution",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "Formulación y ejecución: calcular el porcentaje de una cantidad y expresar el resultado en la unidad de masa del contexto.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-94a27337-734c-4473-9717-747b38fdc28f",
+      "area": "mathematics",
+      "part": null,
+      "order": 31,
+      "catalog_id": "USB-1c44481d3d4a-Q032",
+      "topic": "Estadística y representación de datos",
+      "subtopic": "Gráficas circulares y proporciones",
+      "introduction": "La tabla muestra la cantidad de fichas que tienen 4 jugadores P, Q, R y S al iniciar un juego.",
+      "image": "assets/uploads/0e24cf88e0724c11bfb86456e7a81c2e.png",
+      "image_width": 270,
+      "image_height": 85,
+      "stem": "Los jugadores Q y S son eliminados y quedan P y R con la misma cantidad de fichas que empezaron. ¿Cuál de los siguientes diagramas representa la distribución de fichas en el juego para P y R?",
+      "options": [
+        {
+          "text": "",
+          "image": "assets/uploads/2df451f0b9af4ce5b8abb215a3344bf8.png"
+        },
+        {
+          "text": "",
+          "image": "assets/uploads/16883b4f6ca6432383e7f399f8295297.png"
+        },
+        {
+          "text": "",
+          "image": "assets/uploads/2d98fd47c5f84a82b93343d8be07821b.png"
+        },
+        {
+          "text": "",
+          "image": "assets/uploads/ba86357fff154e30853e9a749014c2e3.png"
+        }
+      ],
+      "options_layout": "grid2",
+      "correct": "C",
+      "explanation": "Al eliminar a Q y S, permanecen P con 1 ficha y R con 3 fichas. El nuevo total es 4 fichas. Por tanto, P representa 1/4 del total (25 %) y R representa 3/4 (75 %). El diagrama C muestra un cuarto con la trama de P y tres cuartos con la trama de R. La respuesta correcta es C.",
+      "layout": "full",
+      "included": true,
+      "context": null,
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "mathematics",
+        "status": "proposed",
+        "competency": "interpretation",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "Interpretación y representación: actualizar el total tras excluir categorías y reconocer las proporciones 1/4 y 3/4 respetando la leyenda del gráfico circular.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-768deccc-91b9-414a-9d60-c9937ee03fc1",
+      "area": "mathematics",
+      "part": null,
+      "order": 32,
+      "catalog_id": "USB-1c44481d3d4a-Q033",
+      "topic": "Operaciones y proporcionalidad",
+      "subtopic": "Ejecución de procedimientos y reparto equitativo",
+      "introduction": "",
+      "image": null,
+      "stem": "Seis habitantes de un edificio deciden hacerse cargo del aseo de la entrada, el cual se realiza dos veces al día de lunes a sábado y, para saber cuántas veces al año cada uno de los seis habitantes se hará cargo del aseo, se efectúa el siguiente procedimiento:\n\nPaso 1. Se considera que se debe realizar el aseo 26 días durante el mes.\n\nPaso 2. Se multiplica la cantidad de días considerada en el paso anterior por los meses del año.\n\nPaso 3. Se divide el resultado anterior entre el total de habitantes que se encargarán de realizar el aseo.\n\nPaso 4. Se multiplica el resultado anterior por la cantidad de veces que se realiza el aseo cada día.\n\nDe esta manera, ¿cuántas veces deberá cada habitante encargado realizar el aseo de la entrada del edificio?",
+      "options": [
+        {
+          "text": "13 veces."
+        },
+        {
+          "text": "52 veces."
+        },
+        {
+          "text": "104 veces."
+        },
+        {
+          "text": "312 veces."
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "C",
+      "explanation": "Siguiendo el procedimiento del enunciado, se consideran 26 días de aseo por mes. En 12 meses son 26 × 12 = 312 días. Al repartirlos entre seis habitantes se obtiene 312 ÷ 6 = 52. Como el aseo se realiza dos veces al día, cada habitante debe hacerlo 52 × 2 = 104 veces al año. La respuesta correcta es C.",
+      "layout": "full",
+      "included": true,
+      "context": null,
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "mathematics",
+        "status": "proposed",
+        "competency": "execution",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "Formulación y ejecución: aplicar una secuencia de multiplicaciones y una división para distribuir equitativamente una tarea periódica.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-97d449ff-90e8-4b76-9b55-d8c1476c3773",
+      "area": "mathematics",
+      "part": null,
+      "order": 33,
+      "catalog_id": "USB-1c44481d3d4a-Q035",
+      "topic": "Álgebra y expresiones numéricas",
+      "subtopic": "Sustitución en fórmulas con raíces cuadradas",
+      "introduction": "",
+      "image": null,
+      "stem": "La relación de Mosteller es una fórmula que se utiliza en medicina para calcular el área de la superficie corporal (ASC) de una persona. Si una persona tiene una estatura de 144 cm y su masa corporal es \\(w\\), medida en kilogramos, el valor nominal del ASC, medido en \\(\\mathrm{m}^{2}\\), se puede calcular por medio de la fórmula:\n\n\\[ ASC=\\sqrt{\\frac{144w}{3600}}=\\frac{\\sqrt{w}}{5} \\]\n\n¿Cuál es el ASC de un paciente con estatura de 144 cm y con una masa corporal de 100 kilogramos?",
+      "options": [
+        {
+          "text": "\\(\\frac{50\\ \\mathrm{m}^{2}}{5}\\)"
+        },
+        {
+          "text": "\\(\\frac{44\\ \\mathrm{m}^{2}}{5}\\)"
+        },
+        {
+          "text": "\\(\\frac{10\\ \\mathrm{m}^{2}}{5}\\)"
+        },
+        {
+          "text": "\\(\\frac{12\\ \\mathrm{m}^{2}}{5}\\)"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "C",
+      "explanation": "Se sustituye \\(w=100\\) en la fórmula: \\(ASC=\\frac{\\sqrt{100}}{5}=\\frac{10}{5}=2\\). Por tanto, el área de superficie corporal es \\(2\\ \\mathrm{m}^{2}\\), equivalente a la expresión \\(\\frac{10\\ \\mathrm{m}^{2}}{5}\\) de la opción C. La respuesta correcta es C.",
+      "layout": "full",
+      "included": true,
+      "context": null,
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "mathematics",
+        "status": "proposed",
+        "competency": "execution",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "Formulación y ejecución: sustituir una masa en una fórmula algebraica, calcular una raíz cuadrada y reconocer una fracción equivalente.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-d641ad40-958a-4830-891d-8939ba769847",
+      "area": "mathematics",
+      "part": null,
+      "order": 34,
+      "catalog_id": "USB-1c44481d3d4a-Q037",
+      "topic": "Funciones y expresiones algebraicas",
+      "subtopic": "Validación de procedimientos con potencias",
+      "introduction": "",
+      "image": null,
+      "stem": "En clase de Física se está aprendiendo sobre el movimiento uniformemente acelerado (MUA). El profesor menciona que la posición de un cuerpo que sigue este movimiento puede modelarse por medio de la siguiente función cuadrática:\n\n\\[ f(x)=5x^{2}+1 \\]\n\ndonde \\(x\\) representa el tiempo transcurrido en segundos, y \\(f(x)\\) la posición en dicho tiempo.\n\nPara conocer la posición del cuerpo en \\(x=3\\) segundos, un estudiante propone el siguiente procedimiento:\n\nPaso 1. En la función, cambiar la x por el valor del tiempo dado.\nPaso 2. Multiplicar el valor del tiempo por 2.\nPaso 3. Multiplicar por 5 el resultado del paso 2.\nPaso 4. Sumar 1 al resultado del paso 3.\n\nEl docente le comunica al estudiante que hay un error en los pasos propuestos. ¿Cuál de los pasos propuestos contiene el error?",
+      "options": [
+        {
+          "text": "El paso 1, porque la variable tiempo se debe reemplazar en los dos términos de la función."
+        },
+        {
+          "text": "El paso 2, porque el tiempo dado se debe multiplicar por sí mismo."
+        },
+        {
+          "text": "El paso 3, porque primero se debe sumar uno, y luego se debe multiplicar por cinco."
+        },
+        {
+          "text": "El paso 4, porque los términos de la función no son semejantes, y, por tanto, no se pueden sumar."
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "B",
+      "explanation": "El exponente 2 indica que el valor de la variable debe multiplicarse por sí mismo. Para \\(x=3\\), se calcula \\(3^{2}=3\\times3=9\\), no \\(3\\times2=6\\). Por eso, el error está en el paso 2. El procedimiento correcto continúa con \\(5\\times9+1=46\\). La respuesta correcta es B.",
+      "layout": "full",
+      "included": true,
+      "context": null,
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "mathematics",
+        "status": "proposed",
+        "competency": "argumentation",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "Argumentación: evaluar un procedimiento de sustitución en una función cuadrática e identificar la confusión entre elevar al cuadrado y multiplicar por dos.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-5b87551d-77ec-4323-9528-3e4a44f813ec",
+      "area": "mathematics",
+      "part": null,
+      "order": 35,
+      "catalog_id": "USB-1c44481d3d4a-Q039",
+      "topic": "Estadística y análisis de datos",
+      "subtopic": "Alcance de la información porcentual y promedio",
+      "introduction": "En la tabla, se encuentra la información sobre el porcentaje de acierto en cada una de las 5 pruebas realizadas durante un semestre por Roberto, donde cada prueba tiene el mismo peso en la calificación final.",
+      "image": "assets/uploads/3f405cb922ef4b72b68a20cab6ba2aa8.png",
+      "image_width": 430,
+      "image_height": 100,
+      "stem": "Con la información de la tabla, ¿cuál de los siguientes valores es posible encontrar?",
+      "options": [
+        {
+          "text": "La cantidad de aciertos en cada una de las pruebas."
+        },
+        {
+          "text": "El peso de las preguntas en cada una de las pruebas."
+        },
+        {
+          "text": "El promedio del porcentaje de acierto en las pruebas."
+        },
+        {
+          "text": "La calificación obtenida al finalizar todas las pruebas."
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "C",
+      "explanation": "Los cinco porcentajes permiten calcular su promedio aritmético: (60 + 58 + 75 + 80 + 92) ÷ 5 = 365 ÷ 5 = 73 %. No se conoce el número de preguntas de cada prueba para hallar cantidades de aciertos, ni el peso de las preguntas. Aunque las pruebas tienen el mismo peso, no se proporciona una escala o regla que convierta esos porcentajes en una calificación final. La respuesta correcta es C.",
+      "layout": "full",
+      "included": true,
+      "context": null,
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "mathematics",
+        "status": "proposed",
+        "competency": "interpretation",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "Interpretación y representación: identificar qué información puede calcularse a partir de porcentajes de acierto, distinguiéndola de cantidades absolutas y escalas de calificación no dadas.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-2b8a777f-229b-498a-a4aa-3ed560cfc6af",
+      "area": "mathematics",
+      "part": null,
+      "order": 36,
+      "catalog_id": "USB-1c44481d3d4a-Q040",
+      "topic": "Estadística descriptiva",
+      "subtopic": "Validación de media, mediana, moda y rango",
+      "introduction": "Un ciclista registró el número de kilómetros que recorrió durante siete días en la Tabla 1. Luego, a partir de estos datos, hizo un análisis estadístico, el cual aparece representado en la Tabla 2.",
+      "image": "assets/uploads/efaf23c1174b496d986641e07eab057b.png",
+      "image_width": 470,
+      "image_height": 185,
+      "stem": "¿Cuál es el error que hay en la Tabla 2?",
+      "options": [
+        {
+          "text": "La moda es un número diferente al valor máximo de kilómetros recorridos en un día."
+        },
+        {
+          "text": "La mediana es un número diferente al valor mínimo de kilómetros recorridos en un día."
+        },
+        {
+          "text": "El rango es un valor menor que los valores de los kilómetros recorridos de la Tabla 1."
+        },
+        {
+          "text": "El promedio es el valor mínimo de kilómetros recorridos de la Tabla 1."
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "D",
+      "explanation": "Los datos son 11, 12, 13, 14, 15, 15 y 16 km. La moda es 15 km porque es el valor que más se repite; la mediana es 14 km porque ocupa la posición central; y el rango es 16 − 11 = 5 km. Esos tres valores son correctos. La suma es 96 km, por lo que el promedio es 96 ÷ 7, aproximadamente 13,71 km. La Tabla 2 presenta erróneamente 11 km, que es el mínimo y no el promedio. La respuesta correcta es D.",
+      "layout": "full",
+      "included": true,
+      "context": null,
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "mathematics",
+        "status": "proposed",
+        "competency": "argumentation",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "Argumentación: evaluar un resumen estadístico y justificar la incompatibilidad de la media propuesta con los datos originales.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-643858ac-ddb4-4606-9ba2-8978140eb358",
+      "area": "mathematics",
+      "part": null,
+      "order": 37,
+      "catalog_id": "USB-1c44481d3d4a-Q041",
+      "topic": "Funciones y modelación",
+      "subtopic": "Modelo lineal aproximado de crecimiento",
+      "introduction": "Un biólogo trabaja describiendo la forma en la que crece el tallo de una planta a lo largo del tiempo y recoge los datos que se muestran en la gráfica.",
+      "image": "assets/uploads/64b068e302664961b319cb7b3c0f0f1d.png",
+      "image_width": 390,
+      "image_height": 240,
+      "stem": "Si \\(T\\) representa el tiempo en días y \\(L\\) la longitud del tallo, ¿cuál de las siguientes relaciones se ajusta mejor a los datos del experimento?",
+      "options": [
+        {
+          "text": "\\(L=4T\\)"
+        },
+        {
+          "text": "\\(4T=5L\\)"
+        },
+        {
+          "text": "\\(L=T+4\\)"
+        },
+        {
+          "text": "\\(T=L+4\\)"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "C",
+      "explanation": "En la gráfica, cuando \\(T=0\\), la longitud del tallo es aproximadamente 4 mm. Además, el crecimiento general es cercano a 1 mm por día: hacia el día 16 alcanza unos 20 mm. El modelo \\(L=T+4\\) combina ese valor inicial y esa tasa de crecimiento. Los puntos presentan pequeñas variaciones, por lo que se busca el mejor ajuste entre las opciones, no una igualdad exacta para todos los datos. La respuesta correcta es C.",
+      "layout": "full",
+      "included": true,
+      "context": null,
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "mathematics",
+        "status": "proposed",
+        "competency": "execution",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "Formulación y ejecución: seleccionar un modelo lineal aproximado a partir del valor inicial y la tasa de crecimiento observados en una gráfica experimental.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-8f7f3b0d-42c6-4059-9c28-621e4ddb9848",
+      "area": "mathematics",
+      "part": null,
+      "order": 38,
+      "catalog_id": "USB-1c44481d3d4a-Q042",
+      "topic": "Álgebra y operaciones",
+      "subtopic": "Suma de fracciones algebraicas",
+      "introduction": "",
+      "image": null,
+      "stem": "En clase de Matemáticas el profesor planteó la siguiente suma de fracciones:\n\n\\[ \\frac{x}{3}+\\frac{x}{6} \\]\n\nY explicó que, para que ambas fracciones tengan el mismo denominador y se puedan sumar más fácil, se puede multiplicar por 2 el numerador y el denominador de la primera fracción. Con eso se obtiene una fracción equivalente con denominador 6:\n\n\\[ \\frac{x}{3}=\\frac{2x}{2(3)}=\\frac{2x}{6} \\]\n\nDe esta manera la suma de fracciones se resuelve así:\n\n\\[ \\frac{x}{3}+\\frac{x}{6}=\\frac{2x}{6}+\\frac{x}{6}=\\frac{3x}{6} \\]\n\nSiguiendo la explicación del profesor, ¿cuál es el resultado obtenido al realizar la suma de fracciones \\(\\frac{x}{2}+\\frac{x}{6}\\)?",
+      "options": [
+        {
+          "text": "\\(\\frac{5x}{6}\\)"
+        },
+        {
+          "text": "\\(\\frac{4x}{6}\\)"
+        },
+        {
+          "text": "\\(\\frac{3x}{6}\\)"
+        },
+        {
+          "text": "\\(\\frac{2x}{6}\\)"
+        }
+      ],
+      "options_layout": "grid2",
+      "correct": "B",
+      "explanation": "Para llevar \\(\\frac{x}{2}\\) al denominador 6, se multiplican el numerador y el denominador por 3: \\(\\frac{x}{2}=\\frac{3x}{6}\\). Entonces, \\(\\frac{x}{2}+\\frac{x}{6}=\\frac{3x}{6}+\\frac{x}{6}=\\frac{4x}{6}\\). Se conserva el denominador común y se suman los numeradores. La respuesta correcta es B.",
+      "layout": "full",
+      "included": true,
+      "context": null,
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "mathematics",
+        "status": "proposed",
+        "competency": "execution",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "Formulación y ejecución: aplicar el procedimiento de fracciones equivalentes para sumar expresiones algebraicas con diferente denominador.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-f8192056-2d3c-4c59-af68-91b8f82763c1",
+      "area": "mathematics",
+      "part": null,
+      "order": 39,
+      "catalog_id": "USB-1c44481d3d4a-Q043",
+      "topic": "Magnitudes y proporcionalidad",
+      "subtopic": "Volumen, conversión de unidades y tasas",
+      "introduction": "La imagen muestra un tanque de base rectangular con las siguientes medidas: 25 cm de largo, 10 cm de ancho y 20 cm de alto.",
+      "image": "assets/uploads/16118943cd0f4f4eaac59ddcaa2a33f2.png",
+      "image_width": 290,
+      "image_height": 200,
+      "stem": "El tanque recibe agua continuamente por una manguera pero el tanque tiene una fuga. Para calcular la cantidad de agua que se pierde durante un día, una persona efectúa el siguiente procedimiento:\n\nPaso 1. Calcula la capacidad máxima del tanque, que es de 5 litros.\nPaso 2. Llena el tanque totalmente usando la manguera.\nPaso 3. Retira la manguera, y observa que, debido a la fuga, el tanque se desocupa totalmente en 30 minutos.\nPaso 4. Por último, multiplica 10 por 24 y concluye que en un día se perderían 240 litros de agua debido a la fuga.\n\n¿Es correcto el procedimiento realizado?",
+      "options": [
+        {
+          "text": "No, porque la capacidad del tanque debe ser de 5.000 centímetros cúbicos."
+        },
+        {
+          "text": "Sí, porque del paso 3 se obtiene que se pierden 10 litros de agua por hora, y como el día tiene 24 horas, en total se pierden 240 litros de agua al día."
+        },
+        {
+          "text": "No, porque en el paso 4 está obteniendo litros por horas en lugar de litros solamente."
+        },
+        {
+          "text": "Sí, porque al realizar las conversiones de unidades desde el principio, al final obtiene una cantidad en litros 48 veces mayor que la capacidad del tanque."
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "B",
+      "explanation": "El volumen del tanque es 25 × 10 × 20 = 5.000 centímetros cúbicos, equivalentes a 5 litros. Si se pierden 5 litros en 30 minutos, la tasa media es de 10 litros por hora. Suponiendo que esa tasa se mantiene constante y que la manguera repone el agua, en 24 horas se perderían 10 × 24 = 240 litros. La opción B explica directamente la conversión de tiempo que fundamenta el procedimiento. La D expresa una relación numérica equivalente, 48 capacidades de 5 litros, pero no justifica cómo se obtiene la tasa a partir de los 30 minutos. Sin suponer una tasa constante, la extrapolación diaria no se determina solo con el tiempo de vaciado. La respuesta prevista es B.",
+      "layout": "full",
+      "included": true,
+      "context": null,
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "mathematics",
+        "status": "proposed",
+        "competency": "argumentation",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "Argumentación: validar un procedimiento que relaciona volumen, conversión de unidades y tasa de pérdida por unidad de tiempo, bajo el modelo de fuga constante del ejercicio.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-bb1930dc-2f41-448d-8e1b-a274a047acc9",
+      "area": "mathematics",
+      "part": null,
+      "order": 40,
+      "catalog_id": "USB-1c44481d3d4a-Q044",
+      "topic": "Procedimientos aritméticos",
+      "subtopic": "Identificación de pasos innecesarios",
+      "introduction": "La siguiente tabla presenta el número de boletas vendidas y sin vender por cada zona, general y preferencial, en una de las salas de un cinema:",
+      "image": "assets/uploads/a8778d1ad3194b5a8f6a8ff5f3b19677.png",
+      "image_width": 480,
+      "image_height": 110,
+      "stem": "La tarifa propuesta para la ubicación general es de $20.000 y para la ubicación preferencial es de $30.000. Con el fin de determinar el total de dinero que dejó de recaudar el cinema en esa sala, el cajero planteó el siguiente procedimiento:\n\nPaso 1. Determinar el número de boletas sin vender.\nPaso 2. Multiplicar el número de boletas sin vender en la zona general por $20.000.\nPaso 3. Multiplicar el número de boletas sin vender en la zona preferencial por $30.000.\nPaso 4. Sumar los resultados de los pasos 2 y 3.\n\n¿Qué paso es innecesario en el procedimiento planteado?",
+      "options": [
+        {
+          "text": "El paso 4, porque el cajero está determinando el total de dinero que dejó de recaudar el cinema en esta sala."
+        },
+        {
+          "text": "El paso 2, porque el cajero debe determinar el total de dinero que dejó de recaudar el cinema en la zona preferencial."
+        },
+        {
+          "text": "El paso 1, porque el cajero está determinando el total de dinero al sumar el dinero recaudado en cada zona."
+        },
+        {
+          "text": "El paso 3, porque el cajero debe determinar el total de dinero que dejó de recaudar el cinema en la zona general."
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "C",
+      "explanation": "La tabla ya informa que quedaron sin vender 80 boletas de general y 50 de preferencial. Para hallar el dinero no recaudado se calcula 80 × $20.000 = $1.600.000 y 50 × $30.000 = $1.500.000; luego se suman ambos valores y se obtiene $3.100.000. No se requiere calcular previamente el total de boletas sin vender, pues las tarifas de las zonas son distintas. Por eso, el paso 1 es innecesario y la respuesta prevista es C. La redacción original de esa opción dice dinero recaudado, aunque el objetivo del ejercicio es el dinero que se dejó de recaudar; se conserva el original y se registra esta imprecisión editorial.",
+      "layout": "full",
+      "included": true,
+      "context": null,
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "mathematics",
+        "status": "proposed",
+        "competency": "argumentation",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "Argumentación: analizar un procedimiento de cálculo de ingresos no percibidos e identificar un paso redundante cuando se conservan las cantidades por categoría.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-3f2b7324-104a-44c9-bd32-f3da245d9982",
+      "area": "mathematics",
+      "part": null,
+      "order": 41,
+      "catalog_id": "USB-1c44481d3d4a-Q045",
+      "topic": "Porcentajes y estadística",
+      "subtopic": "Conversión de porcentajes a frecuencias",
+      "introduction": "La gráfica muestra los resultados de una encuesta realizada a 200 personas, en la que se preguntaba si un nuevo medicamento había tenido efectos positivos en su salud.",
+      "image": "assets/uploads/58af80311468474f8e0efdfbcdd69dca.png",
+      "image_width": 400,
+      "image_height": 215,
+      "stem": "¿Cuál de las siguientes tablas muestra la cantidad correcta de personas de acuerdo con las respuestas de la encuesta?",
+      "options": [
+        {
+          "text": "",
+          "image": "assets/uploads/07d509089b154a36b72ba7b6e7f01544.png"
+        },
+        {
+          "text": "",
+          "image": "assets/uploads/cd0098a1d0344959ba21dcacfc4561fd.png"
+        },
+        {
+          "text": "",
+          "image": "assets/uploads/e872db04c17d463fb9cf0206f99a726f.png"
+        },
+        {
+          "text": "",
+          "image": "assets/uploads/ac5d444d70bb437680099e883269fc26.png"
+        }
+      ],
+      "options_layout": "grid2",
+      "correct": "A",
+      "explanation": "Se calcula cada porcentaje sobre las 200 personas encuestadas: 40 % de 200 = 80 respondieron Sí; 35 % de 200 = 70 respondieron No; y 25 % de 200 = 50 respondieron No sabe. Las cantidades suman 200 y corresponden a la tabla A. La opción B copia los porcentajes sin convertirlos a cantidades; las otras tablas no conservan las frecuencias indicadas por la gráfica. La respuesta correcta es A.",
+      "layout": "full",
+      "included": true,
+      "context": null,
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "mathematics",
+        "status": "proposed",
+        "competency": "execution",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "Formulación y ejecución: convertir porcentajes representados en una gráfica en frecuencias absolutas para una población de 200 personas.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-52ae2f1b-ba2e-4afc-8f13-cf8f4e55484e",
+      "area": "mathematics",
+      "part": null,
+      "order": 42,
+      "catalog_id": "USB-1c44481d3d4a-Q046",
+      "topic": "Estadística descriptiva",
+      "subtopic": "Variables cuantitativas y media aritmética",
+      "introduction": "Walter fabrica zapatos en la casa y los vende en una tienda en la que trabajan cuatro vendedores. La siguiente tabla muestra información básica sobre los vendedores y el desempeño de cada uno la semana pasada:",
+      "image": "assets/uploads/158c05cf1baa4946bf3f96bd7b4fc180.png",
+      "image_width": 480,
+      "image_height": 140,
+      "stem": "Walter decidió que es importante calcular el promedio de algunos datos de la tabla porque eso le permite tomar decisiones para mejorar. Para ello, toma los datos, los suma y ese resultado lo divide por la cantidad de datos que sumó.\n\n¿A cuáles conjuntos de datos se les puede calcular el promedio?",
+      "options": [
+        {
+          "text": "Estado civil y horas trabajadas."
+        },
+        {
+          "text": "Horas trabajadas y nacionalidad."
+        },
+        {
+          "text": "Pares de zapatos vendidos y horas trabajadas."
+        },
+        {
+          "text": "Nacionalidad y pares de zapatos vendidos."
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "C",
+      "explanation": "Las horas trabajadas y los pares de zapatos vendidos son cantidades numéricas que se pueden sumar y dividir entre los cuatro vendedores. El promedio de horas es (40 + 42 + 42 + 40) ÷ 4 = 41 horas; el de pares vendidos es (15 + 10 + 20 + 15) ÷ 4 = 15 pares. Estado civil y nacionalidad son variables cualitativas, por lo que no tienen una media aritmética con sentido. La respuesta correcta es C.",
+      "layout": "full",
+      "included": true,
+      "context": null,
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "mathematics",
+        "status": "proposed",
+        "competency": "interpretation",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "Interpretación y representación: distinguir variables cuantitativas y cualitativas para identificar cuáles admiten el cálculo de una media aritmética.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-de986f13-1eac-49c2-8e3d-1b2b32a5eba8",
+      "area": "mathematics",
+      "part": null,
+      "order": 43,
+      "catalog_id": "USB-1c44481d3d4a-Q047",
+      "topic": "Geometría y medición",
+      "subtopic": "Relación entre radio y diámetro",
+      "introduction": "La imagen muestra el diseño de una tapa circular para alcantarilla y su diámetro.",
+      "image": "assets/uploads/26ed10146c364d77add3df05dac4422c.png",
+      "image_width": 150,
+      "image_height": 150,
+      "stem": "¿Cuál es la longitud del radio de esta tapa?",
+      "options": [
+        {
+          "text": "618 cm"
+        },
+        {
+          "text": "10 cm"
+        },
+        {
+          "text": "200 cm"
+        },
+        {
+          "text": "50 cm"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "D",
+      "explanation": "El diámetro de una circunferencia equivale a dos radios. Como el diámetro de la tapa es de 100 cm, el radio mide 100 ÷ 2 = 50 cm. La respuesta correcta es D.",
+      "layout": "columns",
+      "included": true,
+      "context": null,
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "mathematics",
+        "status": "proposed",
+        "competency": "execution",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "Formulación y ejecución: aplicar la relación entre diámetro y radio de una circunferencia para determinar una longitud.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-a4f5e47f-f610-4efa-a379-d0930af76db9",
+      "area": "mathematics",
+      "part": null,
+      "order": 44,
+      "catalog_id": "USB-1c44481d3d4a-Q048",
+      "topic": "Geometría y medición",
+      "subtopic": "Área de figuras compuestas",
+      "introduction": "Para una celebración, los habitantes de un barrio desean pintar en una calle figuras con cuatro hojas como la que muestra la figura.",
+      "image": "assets/uploads/6fd45c7f56be45e8a986b4c44e20bf09.png",
+      "image_width": 230,
+      "image_height": 230,
+      "stem": "Para estimar la cantidad de pintura que utilizarán, calculan el área de una de las hojas, realizando el siguiente procedimiento.\n\nPaso 1. Calcular el área del cuadrado que se dibuja con las líneas punteadas.\nPaso 2. Calcular el área de tres cuartas partes de una circunferencia de radio \\(r\\).\nPaso 3. Sumar las dos áreas encontradas en el paso 1 y 2.\n\nDe acuerdo con lo anterior, ¿cuál es el área de una de las hojas?",
+      "options": [
+        {
+          "text": "\\(\\frac{3}{2}\\pi r+r^{2}\\)"
+        },
+        {
+          "text": "\\(\\frac{3}{2}\\pi r+2r\\)"
+        },
+        {
+          "text": "\\(\\frac{3}{4}\\pi r^{2}+r^{2}\\)"
+        },
+        {
+          "text": "\\(\\frac{3}{4}\\pi r^{2}+4r\\)"
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "C",
+      "explanation": "Una hoja está formada por un cuadrado de lado \\(r\\), cuya área es \\(r^{2}\\), y tres cuartas partes de un círculo de radio \\(r\\), cuya área es \\(\\frac{3}{4}\\pi r^{2}\\). Al sumar ambas áreas se obtiene \\(\\frac{3}{4}\\pi r^{2}+r^{2}\\). Se pide el área de una sola hoja, no de las cuatro. La respuesta correcta es C.",
+      "layout": "full",
+      "included": true,
+      "context": null,
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "mathematics",
+        "status": "proposed",
+        "competency": "execution",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "Formulación y ejecución: calcular el área de una figura compuesta sumando un cuadrado de lado r y un sector circular de tres cuartos de círculo de radio r.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-227bd043-09d4-4e3c-8f6a-d0fb07328a16",
+      "area": "mathematics",
+      "part": null,
+      "order": 45,
+      "catalog_id": "USB-1c44481d3d4a-Q050",
+      "topic": "Estadística descriptiva",
+      "subtopic": "Mediana y moda de un conjunto de datos",
+      "introduction": "Una empresa promotora de salud realizó una encuesta a sus afiliados, en la cual se indagaba sobre la cantidad de horas que duermen al día. El siguiente cuadro muestra las respuestas obtenidas.",
+      "image": "assets/uploads/a30245dbd6ad49bd9c655bb5f84b92ca.png",
+      "image_width": 450,
+      "image_height": 65,
+      "stem": "En correspondencia con lo anterior, se quiere encontrar un número que represente la tendencia central de estos datos y, para ello, se propone tener en cuenta los siguientes valores:\n\nMediana: es el número que se encuentra en la mitad al organizar los datos de menor a mayor o de mayor a menor.\nModa: es el número que más se repite dentro del conjunto.\n\n¿Qué puede decirse en cuanto a la mediana y la moda del conjunto de datos obtenidos en la encuesta?",
+      "options": [
+        {
+          "text": "La moda y la mediana no son números enteros."
+        },
+        {
+          "text": "La mediana del conjunto es mayor que la moda."
+        },
+        {
+          "text": "La mediana y la moda del conjunto son iguales."
+        },
+        {
+          "text": "La moda del conjunto es mayor que la mediana."
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "C",
+      "explanation": "Al ordenar los doce datos se obtiene: 0, 1, 5, 5, 6, 6, 6, 6, 7, 8, 9, 9. Como hay una cantidad par de datos, la mediana es el promedio de los valores en las posiciones 6 y 7: (6 + 6) ÷ 2 = 6. La moda también es 6, pues es el valor que más se repite, cuatro veces. Por tanto, ambas medidas son iguales. La respuesta correcta es C.",
+      "layout": "full",
+      "included": true,
+      "context": null,
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "mathematics",
+        "status": "proposed",
+        "competency": "execution",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "Formulación y ejecución: ordenar un conjunto de datos, calcular su mediana para una cantidad par de observaciones e identificar su moda.",
+        "reviewer": null,
+        "reviewed_at": null
+      },
+      "option_drafts": {}
+    },
+    {
+      "id": "q-b1608e03-07a4-431c-908c-60602f67d397",
+      "area": "mathematics",
+      "part": null,
+      "order": 46,
+      "catalog_id": "USB-234fa4e3ddce-Q005",
+      "topic": "Porcentajes y proporcionalidad",
+      "subtopic": "Procedimiento para calcular una comisión",
+      "introduction": "",
+      "image": null,
+      "stem": "Una empresa paga a cada uno de los vendedores $900.000 como salario básico mensual, más el 2 % de comisión por sus ventas reportadas en el mes. Si un vendedor registra en un mes ventas por un valor de $30.000.000, ¿cuál de los siguientes procedimientos permite calcular correctamente el valor de la comisión por ventas que la empresa debe pagar a este vendedor?",
+      "options": [
+        {
+          "text": "Paso 1. Multiplicar $30.000.000 por 2.\nPaso 2. Dividir el resultado del paso 1 entre 10."
+        },
+        {
+          "text": "Paso 1. Multiplicar $900.000 por 2.\nPaso 2. Dividir el resultado del paso 1 entre 100."
+        },
+        {
+          "text": "Paso 1. Multiplicar $900.000 por 2.\nPaso 2. Dividir el resultado del paso 1 entre 10."
+        },
+        {
+          "text": "Paso 1. Multiplicar $30.000.000 por 2.\nPaso 2. Dividir el resultado del paso 1 entre 100."
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "D",
+      "explanation": "La comisión corresponde al 2 % de las ventas, no del salario básico. Se multiplica $30.000.000 por 2 y se divide entre 100: $60.000.000 ÷ 100 = $600.000. El salario básico de $900.000 no forma parte del cálculo de la comisión solicitada. Dividir entre 10 calcularía un porcentaje diferente. La respuesta correcta es D.",
+      "layout": "full",
+      "included": true,
+      "context": null,
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "mathematics",
+        "status": "proposed",
+        "competency": "execution",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "Formulación y ejecución: seleccionar el procedimiento para calcular una comisión porcentual sobre las ventas, distinguiendo la base del porcentaje del salario fijo.",
+        "reviewer": null,
+        "reviewed_at": null
+      },
+      "option_drafts": {}
+    },
+    {
+      "id": "q-942d5b6f-ccea-4b6b-9bc8-f7184ac2d68f",
+      "area": "mathematics",
+      "part": null,
+      "order": 47,
+      "catalog_id": "USB-234fa4e3ddce-Q006",
+      "topic": "Funciones y modelación",
+      "subtopic": "Composición de funciones",
+      "introduction": "Armando va a invertir dinero en la bolsa de valores, y le ofrecen las dos modalidades de riesgo: alto y bajo.",
+      "image": "assets/uploads/918c609d121e402cb6548ec717b296fc.png",
+      "image_width": 380,
+      "image_height": 125,
+      "stem": "En las funciones de la tabla, \\(x\\) representa la cantidad de millones de pesos invertidos.\n\nArmando invirtió dinero durante dos trimestres consecutivos. Primero invirtió 10 millones en la modalidad de bajo riesgo, y todo el dinero recibido al finalizar el primer trimestre lo invirtió en la modalidad alto riesgo. ¿Cuánto dinero recibió Armando al término del segundo trimestre?",
+      "options": [
+        {
+          "text": "40 millones."
+        },
+        {
+          "text": "31 millones."
+        },
+        {
+          "text": "22 millones."
+        },
+        {
+          "text": "12 millones."
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "C",
+      "explanation": "Primero se aplica la función de bajo riesgo a los 10 millones iniciales: \\(g(10)=10+1=11\\). Luego se invierten esos 11 millones en la modalidad de alto riesgo: \\(f(11)=2\\times11=22\\). El resultado del primer trimestre es la entrada del segundo; no se suman dos rendimientos calculados sobre el capital inicial. La respuesta correcta es C: 22 millones de pesos.",
+      "layout": "full",
+      "included": true,
+      "context": null,
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "mathematics",
+        "status": "proposed",
+        "competency": "execution",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "Formulación y ejecución: aplicar dos funciones sucesivamente, utilizando el resultado del primer trimestre como entrada del segundo.",
+        "reviewer": null,
+        "reviewed_at": null
+      },
+      "option_drafts": {}
+    },
+    {
+      "id": "q-04039787-26cf-487f-98b7-9ca858bd25c8",
+      "area": "mathematics",
+      "part": null,
+      "order": 48,
+      "catalog_id": "USB-234fa4e3ddce-Q009",
+      "topic": "Estadística y organización de datos",
+      "subtopic": "Ordenamiento por puntajes acumulados",
+      "introduction": "En un torneo deportivo participan tres atletas que acumulan puntos durante cuatro intentos. El puntaje definitivo por atleta se obtiene al sumar los puntajes de los cuatro intentos. La información sobre los puntos obtenidos en cada intento por las atletas aparece en la tabla.",
+      "image": "assets/uploads/6d644348435a4505b9fa3d7fcb845db4.png",
+      "image_width": 380,
+      "image_height": 175,
+      "stem": "Teniendo en cuenta el resultado definitivo, ¿cuál de las siguientes opciones ordena a las atletas de mayor a menor puntaje?",
+      "options": [
+        {
+          "text": "Andrea, Catalina, Mariana."
+        },
+        {
+          "text": "Catalina, Mariana, Andrea."
+        },
+        {
+          "text": "Catalina, Andrea, Mariana."
+        },
+        {
+          "text": "Mariana, Andrea, Catalina."
+        }
+      ],
+      "options_layout": "vertical",
+      "correct": "B",
+      "explanation": "Se suman los cuatro intentos de cada atleta: Andrea obtiene 4 + 1 + 1 + 3 = 9 puntos; Mariana, 3 + 2 + 4 + 2 = 11 puntos; y Catalina, 2 + 3 + 4 + 4 = 13 puntos. El orden de mayor a menor es Catalina, Mariana, Andrea. La respuesta correcta es B.",
+      "layout": "full",
+      "included": true,
+      "context": null,
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "mathematics",
+        "status": "proposed",
+        "competency": "interpretation",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "Interpretación y representación: leer una tabla de puntajes, obtener los totales por atleta y ordenar las categorías de mayor a menor según el resultado.",
+        "reviewer": null,
+        "reviewed_at": null
+      },
+      "option_drafts": {}
+    },
+    {
+      "id": "q-13d4d543-5364-41be-ba20-5461ea2195c6",
+      "area": "mathematics",
+      "part": null,
+      "order": 49,
+      "catalog_id": "USB-234fa4e3ddce-Q011",
+      "topic": "Estadística y representación de datos",
+      "subtopic": "Correlación positiva en diagramas de dispersión",
+      "introduction": "",
+      "image": null,
+      "stem": "Un entrenador personal le propone a su alumno realizar un seguimiento, en el que se registre la cantidad de horas de entrenamiento y la cantidad de calorías quemadas por día, durante diez días consecutivos, obteniendo una correlación positiva entre la cantidad de horas y el número de calorías quemadas. ¿Cuál de los siguientes diagramas representa la conclusión obtenida?",
+      "options": [
+        {
+          "text": "",
+          "image": "assets/uploads/232232eed508415394c747ab1ac5c60a.png"
+        },
+        {
+          "text": "",
+          "image": "assets/uploads/ec2cd57d50a9465b9868582a07e8a079.png"
+        },
+        {
+          "text": "",
+          "image": "assets/uploads/e4461d668d7e4cfdacdc9cf38cd30d57.png"
+        },
+        {
+          "text": "",
+          "image": "assets/uploads/33c2ce8ca1784157b524c0d445df1d12.png"
+        }
+      ],
+      "options_layout": "grid2",
+      "correct": "D",
+      "explanation": "Una correlación positiva se representa mediante una tendencia ascendente: al aumentar las horas de entrenamiento, tiende a aumentar la cantidad de calorías quemadas. El diagrama D muestra esa línea de tendencia ascendente. Las líneas de A y C son decrecientes y la de B es horizontal. La respuesta prevista es D. Observación editorial: la nube de puntos de B también presenta una asociación visual positiva, aunque la línea horizontal dibujada no la representa; esta inconsistencia del original debe revisarse antes de cerrar el cuadernillo.",
+      "layout": "full",
+      "included": true,
+      "context": null,
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "mathematics",
+        "status": "proposed",
+        "competency": "interpretation",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "Interpretación y representación: reconocer una tendencia positiva en un diagrama de dispersión y distinguirla de tendencias decrecientes u horizontales. Opciones extraídas del original sin reconstruir puntos.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    },
+    {
+      "id": "q-b5f54b62-64dc-4a8f-903d-477d3fe92b45",
+      "area": "mathematics",
+      "part": null,
+      "order": 50,
+      "catalog_id": "USB-234fa4e3ddce-Q014",
+      "topic": "Probabilidad y representación de datos",
+      "subtopic": "Probabilidades por intervalos",
+      "introduction": "En la gráfica se muestra la probabilidad de que la variable aleatoria \\(x\\) tome valores en cada uno de tres intervalos en que se ha dividido la curva.",
+      "image": "assets/uploads/d8427d7d8f504ee39e031ca3de6a807c.png",
+      "image_width": 430,
+      "image_height": 195,
+      "stem": "¿Cuál de las siguientes tablas representa la probabilidad de que la variable aleatoria \\(x\\) tome los valores en el intervalo indicado?",
+      "options": [
+        {
+          "text": "",
+          "image": "assets/uploads/dc2b79e7c58b489dabc59b5218a33021.png"
+        },
+        {
+          "text": "",
+          "image": "assets/uploads/539abeebc5f84f2aa6b2b6c5923f9ac5.png"
+        },
+        {
+          "text": "",
+          "image": "assets/uploads/b4eefb2ff0574e8794865a2601cb790e.png"
+        },
+        {
+          "text": "",
+          "image": "assets/uploads/50dd8be372a14aa48d66a7b5afce2703.png"
+        }
+      ],
+      "options_layout": "grid2",
+      "correct": "C",
+      "explanation": "La gráfica asigna una probabilidad de 0,27 al intervalo \\(0\\leq x\\leq5\\), de 0,46 al intervalo \\(5<x\\leq9\\) y de 0,27 al intervalo \\(9<x\\leq14\\). La tabla C conserva estos límites y probabilidades. Las tres probabilidades suman 1. La opción A usa valores acumulados en filas de intervalos disjuntos, y B y D cambian los límites de los intervalos. La respuesta correcta es C.",
+      "layout": "full",
+      "included": true,
+      "context": null,
+      "slot": "",
+      "page_break_before": false,
+      "column_break_before": false,
+      "assessment": {
+        "framework": "icfes-guia-2026-2",
+        "area": "mathematics",
+        "status": "proposed",
+        "competency": "interpretation",
+        "process": null,
+        "claim": null,
+        "evidence": null,
+        "component": null,
+        "part": null,
+        "rationale": "Interpretación y representación: relacionar las probabilidades de tres intervalos disjuntos señalados en una gráfica con su representación tabular, distinguiendo probabilidades por intervalo de acumuladas.",
+        "reviewer": null,
+        "reviewed_at": null
+      }
+    }
+  ],
+  "column_flow": "balanced"
+}

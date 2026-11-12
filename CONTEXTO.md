@@ -1,3 +1,5 @@
+> **Último cierre de carga · 12/11/2026:**25 Matemáticas y55 Inglés de segunda sesión,80 preguntas. Ver [cierre y observaciones](planning/SP001_S2_MAT_CIERRE_CARGA.md). Paquete portable en `handoff/SP001_segunda_matematicas_ingles/`. Aún faltan Sociales y Ciencias y la revisión final de los PDF.
+
 > **Estado vigente · 12/11/2026:** inglés de segunda sesión completo (55 preguntas), códigos registrados y paquete JSON con imágenes. Leer [cambios e instrucciones para el equipo](docs/ACTUALIZACION_INGLES_EQUIPO.md) antes de actualizar o importar. Los estados y repartos anteriores son antecedentes.
 
 # Relevo de conversación - 28 de octubre de 2026
