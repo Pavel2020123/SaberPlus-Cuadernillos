@@ -13,7 +13,7 @@ from reportlab.pdfgen import canvas
 from reportlab.lib import colors
 from reportlab.lib.pagesizes import A4
 from reportlab.lib.styles import ParagraphStyle
-from reportlab.platypus import Paragraph, Image, Table, TableStyle, Spacer, Flowable
+from reportlab.platypus import Paragraph, Image, Table, TableStyle, Spacer, Flowable, ParagraphAndImage, HRFlowable
 from PIL import Image as PILImage, ImageChops
 from editor_model import ROOT, AREAS, SESSIONS, validate_project, selected_questions, blank_assessment, range_heading
 from assessment_metadata import STATUS_LABELS
@@ -169,13 +169,17 @@ def answer_sheet(book,questions,numbers,teacher=False):
            para('El círculo lleno indica la respuesta correcta. No entregar antes de finalizar la prueba.' if teacher else 'Rellene un solo círculo por pregunta. Las letras disponibles dependen del tipo de ejercicio.',9)]
     book.full(intro)
     previous=None
+    compact_english=all(q['area']=='english' for q in questions) and len(questions)<=55
     for q in questions:
         flows=[]
         if q['area']!=previous:
             flows=[Spacer(1,5),para(AREAS[q['area']],9,True),Spacer(1,5)]
             previous=q['area']
-        flows.append(BubbleRow(letters_for(q),numbers[q['id']],marked=q['correct'] if teacher else None,
-                              book=None if teacher else book,answer=q['correct']))
+        row=BubbleRow(letters_for(q),numbers[q['id']],marked=q['correct'] if teacher else None,
+                      book=None if teacher else book,answer=q['correct'])
+        if compact_english:
+            row.height=21
+        flows.append(row)
         column_block(book,flows)
 
 
@@ -203,6 +207,14 @@ def solved_copy(student_path,out,project,questions,numbers,marks):
             page.draw_circle((x,y),6.5,color=(.09,.15,.23),fill=(.09,.15,.23),width=.65)
             text_width=fitz.get_text_length(mark['letter'],fontname='hebo',fontsize=7)
             page.insert_text((x-text_width/2,y+2.4),mark['letter'],fontname='hebo',fontsize=7,color=(1,1,1))
+    for q in questions:
+        if q['area']=='english' and q['part']==1:
+            for page in doc:
+                matches=page.search_for(q['stem'])
+                if matches:
+                    rect=matches[-1]
+                    page.insert_text((rect.x0,rect.y1+12),'Respuesta: '+q['correct'],fontname='hebo',fontsize=8,color=(.09,.15,.23))
+                    break
     for page in doc:
         page.insert_text((M,H-10),'CUADERNILLO RESUELTO - COMPARTIR DESPUES DE LA APLICACION',fontsize=6,color=(.3,.3,.3))
     explanations=Interior(out/'explicaciones.pdf',project,start_page=len(doc)+1,resolved=True)
@@ -390,9 +402,15 @@ class Interior:
 
     def shared_context(self, flows, first_question, number):
         reserve = self.question_height(first_question, number)+14
-        if measure(flows, WIDTH-18)+18+reserve > H-83-BOTTOM:
-            raise ValueError('El contexto y su primera pregunta no caben juntos en una página. '
-                             'Divide el contexto o elige ancho completo para la pregunta: '+first_question['id'])
+        context_height = measure(flows, WIDTH-18)+18
+        available = H-83-BOTTOM
+        if context_height > available:
+            raise ValueError('El contexto no cabe completo en una página. Divide el contexto: '+first_question['id'])
+        if context_height+reserve > available:
+            # A long reading may occupy its own page; never shrink or omit it.
+            self.full(flows, True)
+            self.newpage()
+            return
         self.full(flows, True, reserve=reserve)
 
     def side_context(self, flows, first_question, number):
@@ -456,7 +474,434 @@ def matching_descriptions(book, members, numbers):
         if item.get('image'):
             flows += [picture(item['image'], (WIDTH-18)*.64-20, 100), Spacer(1,5)]
         flows += [para(item['stem'] if introduction or item.get('image') else str(numbers[item['id']])+'. '+item['stem']),Spacer(1,5)]
-        flows += [BubbleRow('ABCDEFG',book=book,answer=item['correct']),Spacer(1,10)]
+        flows += [Spacer(1,22)]
+    return flows
+
+
+def matching_example(ctx):
+    """Read the saved worked example; never infer it from a scored answer."""
+    value=ctx.get('example','').strip()
+    match=re.fullmatch(r'0\.\s*(.*?)\s*(?:Respuesta:\s*|→\s*)([A-H])\.\s*(.+)',value,re.S)
+    if not match:
+        return None
+    return match[1].strip(),match[2],match[3].strip().rstrip('.')
+
+
+class MatchingExample(Flowable):
+    """The single worked row 0, drawn sharply without importing a marked scan."""
+    def __init__(self,prompt,answer):
+        super().__init__()
+        self.prompt,self.answer=prompt,answer
+
+    def wrap(self,width,height):
+        self.width=width
+        self.line=para('0.   '+self.prompt,10)
+        self.line_height=self.line.wrap(width,H)[1]
+        self.height=22+self.line_height+49
+        return width,self.height
+
+    def draw(self):
+        c=self.canv
+        draw([para('Ejemplo:',10,True)],c,0,self.height,self.width)
+        draw([self.line],c,0,self.height-22,self.width)
+        box_width=min(316,self.width)
+        x=self.width-box_width
+        c.saveState()
+        c.setStrokeColor(INK);c.setLineWidth(.65)
+        c.setFillColor(colors.HexColor('#E9E9E9'))
+        c.roundRect(x,3,box_width,35,4,stroke=1,fill=1)
+        c.setFillColor(INK);c.setFont('Helvetica-Bold',10)
+        c.drawString(x+8,16,'Respuesta:')
+        c.setFillColor(colors.white)
+        c.roundRect(x+73,6,box_width-77,29,4,stroke=1,fill=1)
+        c.setFillColor(INK);c.drawString(x+81,16,'0.')
+        for i,letter in enumerate('ABCDEFGH'):
+            cx=x+110+i*25;cy=20
+            c.setFillColor(colors.HexColor('#BDBDBD') if letter==self.answer else colors.white)
+            c.circle(cx,cy,8,stroke=1,fill=1)
+            c.setFillColor(INK);c.setFont('Helvetica-Bold' if letter==self.answer else 'Helvetica',9)
+            c.drawCentredString(cx,cy-3,letter)
+        c.restoreState()
+
+
+class MatchingColumns(Flowable):
+    """Descriptions left, one shared word bank right; answers only on the sheet."""
+    def __init__(self,book,members,numbers,ctx):
+        super().__init__()
+        self.book,self.members,self.numbers,self.ctx=book,members,numbers,ctx
+
+    def wrap(self,width,height):
+        self.width=width
+        self.split=width*.64
+        self.left_width=self.split-24
+        self.right_width=width-self.split-24
+        self.descriptions=[]
+        for item in self.members:
+            # Keep images and introductions, but no inline answer row.
+            flows=matching_descriptions(self.book,[item],self.numbers)[2:]
+            flows=flows[:-1]  # spacing is measured between descriptions below
+            self.descriptions.append(flows)
+        heights=[measure(flows,self.left_width) for flows in self.descriptions]
+        tallest=max(heights,default=0)
+        self.height=max(350,58+tallest+(len(heights)-1)*max(52,tallest+12))
+        self.words=[(letter,word) for letter,word in zip('ABCDEFG',self.ctx['words'])]
+        example=matching_example(self.ctx)
+        if example and example[1]=='H':
+            self.words.append(('H',example[2]))
+        self.tallest=tallest
+        return width,self.height
+
+    def draw(self):
+        c=self.canv;c.saveState()
+        c.setStrokeColor(GRAY);c.setLineWidth(.5)
+        c.line(0,self.height-29,self.width,self.height-29)
+        c.line(self.split,self.height, self.split,0)
+        c.setFillColor(INK);c.setFont('Helvetica-Bold',11)
+        c.drawCentredString(self.split/2,self.height-16,'Descripciones')
+        c.drawCentredString(self.split+(self.width-self.split)/2,self.height-16,'Palabras')
+        step=(self.height-48-self.tallest)/max(1,len(self.descriptions)-1)
+        for i,flows in enumerate(self.descriptions):
+            draw(flows,c,10,self.height-42-i*step,self.left_width)
+        word_step=(self.height-62)/max(1,len(self.words)-1)
+        correct={item['correct'] for item in self.members}
+        for i,(letter,word) in enumerate(self.words):
+            row=TrackedOption([para(letter+'.   '+word,10,letter=='H')],self.book,letter in correct)
+            _,row_height=row.wrap(self.right_width,H)
+            row.drawOn(c,self.split+14,self.height-42-i*word_step-row_height)
+        c.restoreState()
+
+
+def matching_flows(book,ctx,members,numbers):
+    """Part 1 uses its own book layout, not the generic shared-context box."""
+    center=lambda text,size,bold=False:Paragraph(escape(text),ParagraphStyle(
+        'matching-center',fontName='Helvetica-Bold' if bold else 'Helvetica',
+        fontSize=size,leading=size*1.33,textColor=INK,alignment=1))
+    first,last=numbers[members[0]['id']],numbers[members[-1]['id']]
+    flows=[center('PARTE 1',11,True),Spacer(1,9),
+           center(range_heading(ctx.get('range_heading'),first,last),9,True),Spacer(1,9)]
+    if ctx.get('instructions'):
+        flows += [para(ctx['instructions']),Spacer(1,14)]
+    if ctx.get('title'):
+        flows += [center(ctx['title'],16,True),Spacer(1,16)]
+    if ctx.get('text'):
+        flows += [para(ctx['text']),Spacer(1,8)]
+    example=matching_example(ctx)
+    if example:
+        flows += [MatchingExample(example[0],example[1]),Spacer(1,18)]
+    elif ctx.get('example'):
+        flows += [para('Ejemplo resuelto: '+ctx['example'],9),Spacer(1,18)]
+    flows.append(MatchingColumns(book,members,numbers,ctx))
+    if ctx.get('source'):
+        flows += [Spacer(1,8),para('Fuente: '+ctx['source'],8)]
+    return flows
+
+
+class NoticeCard(Flowable):
+    """Printable text-only notice: preserve its words without scan noise."""
+    def __init__(self,text,dark=False):
+        super().__init__()
+        self.text,self.dark=text,dark
+
+    def wrap(self,width,height):
+        self.width=min(width,236)
+        self.content=Paragraph(escape(self.text).replace('\n','<br/>'),ParagraphStyle(
+            'notice',fontName='Helvetica-Bold' if self.dark else 'Times-Bold',
+            fontSize=13,leading=15.6,alignment=1,
+            textColor=colors.white if self.dark else INK))
+        self.content_height=self.content.wrap(self.width-24,H)[1]
+        self.height=max(56,self.content_height+22)
+        return self.width,self.height
+
+    def draw(self):
+        c=self.canv;c.saveState()
+        c.setLineWidth(.8);c.setStrokeColor(INK)
+        c.setFillColor(INK if self.dark else colors.white)
+        c.roundRect(0,0,self.width,self.height,8,stroke=1,fill=1)
+        c.setStrokeColor(colors.white if self.dark else GRAY)
+        c.roundRect(3,3,self.width-6,self.height-6,6,stroke=1,fill=0)
+        # Each original notice has its own visual language, kept in grayscale.
+        if '3D glasses' in self.text:
+            c.setLineWidth(2);c.roundRect(6,6,self.width-12,self.height-12,4,fill=0)
+            for x in (9,self.width-9):
+                for y in (9,self.height-9):
+                    c.setFillColor(colors.white);c.circle(x,y,1.3,fill=1,stroke=0)
+        elif 'Small pets' in self.text:
+            c.setStrokeColor(INK);c.setLineWidth(1.4)
+            c.roundRect(6,6,self.width-12,self.height-12,10,fill=0)
+            for x in (8,self.width-8):
+                for y in (8,self.height-8):
+                    c.circle(x,y,2.6,fill=0)
+        elif 'fruit and green' in self.text:
+            c.setFillColor(colors.HexColor('#EEEEEE'))
+            c.roundRect(5,5,self.width-10,self.height-10,5,fill=1,stroke=0)
+            c.setFillColor(INK)
+            for x in (7,self.width-7):
+                c.roundRect(x-3,self.height-8,6,6,1,fill=1,stroke=0)
+                c.roundRect(x-3,2,6,5,1,fill=1,stroke=0)
+        elif '40x50' in self.text:
+            c.setStrokeColor(INK);c.setLineWidth(.6)
+            c.roundRect(6,6,self.width-12,self.height-12,4,fill=0)
+            for x in range(13,int(self.width)-10,12):
+                c.arc(x,self.height-8,x+8,self.height-2,0,180)
+                c.arc(x,2,x+8,8,180,180)
+        elif 'run in the halls' in self.text:
+            c.setFillColor(colors.HexColor('#DDDDDD'))
+            c.roundRect(3,3,self.width-6,7,2,fill=1,stroke=0)
+            c.roundRect(3,self.height-10,self.width-6,7,2,fill=1,stroke=0)
+        self.content.drawOn(c,12,(self.height-self.content_height)/2)
+        c.restoreState()
+
+
+class NoticeRow(Flowable):
+    """One notice left and its A-C choices right, without answer bubbles."""
+    def __init__(self,book,item,number,track=True,plain=False):
+        super().__init__()
+        self.book,self.item,self.number,self.track=book,item,number,track
+        self.plain=plain
+
+    def wrap(self,width,height):
+        self.width=width;self.split=width*.61
+        self.card=(picture(self.item['image'],self.split-48,90,trim=True)
+                   if self.item.get('image') else para(self.item['stem']) if self.plain
+                   else NoticeCard(self.item['stem'],self.item.get('notice_style')=='dark'))
+        self.card_width,self.card_height=self.card.wrap(self.split-48,H)
+        self.options=[]
+        for letter,option in zip('ABC',self.item['options']):
+            flows=[para(letter+'.   '+option.get('text',''))]
+            if option.get('image'):
+                flows += [picture(option['image'],width-self.split-12,80)]
+            row=TrackedOption(flows,self.book,self.track and letter==self.item['correct'])
+            row.wrap(width-self.split-12,H)
+            self.options.append(row)
+        self.options_height=sum(r.height+4 for r in self.options)-4
+        self.height=max(78 if self.plain else 87,self.card_height+15,self.options_height+15)
+        return width,self.height
+
+    def draw(self):
+        c=self.canv;c.saveState();c.setFillColor(INK);c.setFont('Helvetica-Bold',10)
+        c.drawString(0,self.height-16,str(self.number)+'.')
+        self.card.drawOn(c,26,self.height-8-self.card_height)
+        top=self.height-10
+        for row in self.options:
+            row.drawOn(c,self.split,top-row.height)
+            top-=row.height+4
+        c.restoreState()
+
+
+class NoticeExample(Flowable):
+    def __init__(self,ctx):
+        super().__init__()
+        self.ctx=ctx
+
+    def wrap(self,width,height):
+        self.width=width
+        item={'stem':self.ctx['example_notice'],'options':[{'text':t} for t in self.ctx['example_options']],
+              'correct':self.ctx['example_answer']}
+        self.row=NoticeRow(None,item,0,track=False)
+        self.row.wrap(width,H)
+        self.height=self.row.height+43
+        return width,self.height
+
+    def draw(self):
+        c=self.canv
+        draw([para('Ejemplo:',10,True)],c,0,self.height,self.width)
+        self.row.drawOn(c,0,25)
+        c.saveState()
+        x=self.width-214
+        c.setStrokeColor(INK);c.setLineWidth(.7);c.setFillColor(colors.HexColor('#E9E9E9'))
+        c.roundRect(x,0,214,30,3,stroke=1,fill=1)
+        c.setFillColor(INK);c.setFont('Helvetica-Bold',10);c.drawString(x+7,11,'Respuesta:')
+        c.setFillColor(colors.white);c.roundRect(x+72,3,138,24,3,stroke=1,fill=1)
+        c.setFillColor(INK);c.drawString(x+80,11,'0.')
+        for i,letter in enumerate('ABC'):
+            cx=x+108+i*33
+            c.setFillColor(colors.HexColor('#BDBDBD') if letter==self.ctx['example_answer'] else colors.white)
+            c.circle(cx,15,8,stroke=1,fill=1)
+            c.setFillColor(INK);c.setFont('Helvetica-Bold' if letter==self.ctx['example_answer'] else 'Helvetica',9)
+            c.drawCentredString(cx,12,letter)
+        c.restoreState()
+
+
+def notice_flows(book,ctx,members,numbers):
+    first,last=numbers[members[0]['id']],numbers[members[-1]['id']]
+    centered=lambda t:Paragraph(escape(t),ParagraphStyle('notice-heading',fontName='Helvetica-Bold',
+                                                       fontSize=10,leading=13.3,textColor=INK,alignment=1))
+    flows=[centered('PARTE 2'),Spacer(1,9),
+           centered(range_heading(ctx.get('range_heading'),first,last)),Spacer(1,9)]
+    if ctx.get('instructions'):
+        flows += [para(range_heading(ctx['instructions'],first,last)),Spacer(1,12)]
+    if ctx.get('example_notice') and len(ctx.get('example_options',[]))==3 and ctx.get('example_answer') in 'ABC':
+        flows += [NoticeExample(ctx),Spacer(1,18)]
+    for item in members:
+        flows.append(NoticeRow(book,item,numbers[item['id']]))
+    return flows
+
+
+def dialogue_flows(book,ctx,members,numbers):
+    first,last=numbers[members[0]['id']],numbers[members[-1]['id']]
+    centered=lambda t:Paragraph(escape(t),ParagraphStyle('dialogue-heading',fontName='Helvetica-Bold',
+                                                       fontSize=10,leading=13.3,textColor=INK,alignment=1))
+    flows=[centered('PARTE 3'),Spacer(1,9),
+           centered(range_heading(ctx.get('range_heading'),first,last)),Spacer(1,9)]
+    if ctx.get('instructions'):
+        flows += [para(range_heading(ctx['instructions'],first,last)),Spacer(1,12)]
+    if ctx.get('image'):
+        flows += [para('Ejemplo:',10,True),Spacer(1,6),picture(ctx['image'],WIDTH-30,170,trim=True),Spacer(1,22)]
+    elif ctx.get('example'):
+        flows += [para('Ejemplo: '+ctx['example']),Spacer(1,22)]
+    for item in members:
+        flows.append(NoticeRow(book,item,numbers[item['id']],plain=True))
+    return flows
+
+
+class ClozeExampleAnswer(Flowable):
+    def __init__(self,letters='ABC'):
+        super().__init__();self.letters=letters
+    def wrap(self,width,height):
+        self.width=width
+        return width,34
+    def draw(self):
+        c=self.canv
+        box_width=181+25*(len(self.letters)-3)
+        x=self.width-box_width
+        c.saveState()
+        c.setStrokeColor(INK)
+        c.setFillColor(colors.HexColor('#EEEEEE'))
+        c.roundRect(x,2,box_width,29,4,fill=1)
+        c.setFillColor(INK);c.setFont('Helvetica-Bold',10)
+        c.drawString(x+6,12,'Respuesta:');c.drawString(x+72,12,'0.')
+        for i,letter in enumerate(self.letters):
+            cx=x+111+i*25
+            c.setFillColor(GRAY if i==0 else colors.white)
+            c.circle(cx,16,10,fill=1)
+            c.setFillColor(INK);c.drawCentredString(cx,12,letter)
+        c.restoreState()
+
+
+class ReadingPanel(Flowable):
+    def __init__(self,title,text):
+        super().__init__()
+        self.flows=([Paragraph(escape(title),ParagraphStyle('reading-title',fontName='Helvetica-Bold',fontSize=17,leading=22,alignment=1)),Spacer(1,8)] if title else [])+[para(text,9.5)]
+        if title:
+            self.flows[-1].style.leading=11.2
+    def wrap(self,width,height):
+        self.width=width;self.height=measure(self.flows,width-28)+26
+        return width,self.height
+    def draw(self):
+        self.canv.saveState();self.canv.setStrokeColor(INK);self.canv.setLineWidth(1.2)
+        self.canv.roundRect(0,0,self.width,self.height,16,fill=0)
+        draw(self.flows,self.canv,14,self.height-12,self.width-28)
+        self.canv.restoreState()
+
+
+def reading_flows(book,ctx,members,numbers):
+    first,last=numbers[members[0]['id']],numbers[members[-1]['id']]
+    centered=lambda text:Paragraph(escape(text),ParagraphStyle('reading-heading',fontName='Helvetica-Bold',fontSize=10,leading=13,alignment=1,textColor=INK))
+    flows=[centered('PARTE 5'),Spacer(1,4),centered(range_heading(ctx['range_heading'],first,last)),Spacer(1,4),para(range_heading(ctx['instructions'],first,last)),Spacer(1,6),ReadingPanel(ctx['title'],ctx['text']),Spacer(1,4),para('Ejemplo:',9,True)]
+    def row(number,stem,options,item=None):
+        right=[]
+        for letter,option in zip('ABC',options):
+            content=[para(letter+'.    '+option,9)]
+            right.append(TrackedOption(content,book,item['correct']==letter) if item else content[0])
+        table=Table([[para(str(number)+'.',9,True),para(stem,9),right]],colWidths=[28,(WIDTH-18)*.55-28,(WIDTH-18)*.45])
+        table.setStyle(TableStyle([('VALIGN',(0,0),(-1,-1),'TOP'),('LEFTPADDING',(0,0),(-1,-1),0),('TOPPADDING',(0,0),(-1,-1),1),('BOTTOMPADDING',(0,0),(-1,-1),1)]))
+        return table
+    flows += [row(0,ctx['example_prompt'],ctx['example_options']),ClozeExampleAnswer(),Spacer(1,4)]
+    for item in members:
+        flows.append(row(numbers[item['id']],item['stem'],[o['text'] for o in item['options']],item))
+        flows.append(Spacer(1,3))
+    return flows
+
+
+def inference_flows(book,ctx,members,numbers):
+    first,last=numbers[members[0]['id']],numbers[members[-1]['id']]
+    centered=lambda text:Paragraph(escape(text),ParagraphStyle('inference-heading',fontName='Helvetica-Bold',fontSize=10,leading=13,alignment=1,textColor=INK))
+    flows=[centered('PARTE 6'),Spacer(1,5),centered(range_heading(ctx['range_heading'],first,last)),Spacer(1,6),para(range_heading(ctx['instructions'],first,last)),Spacer(1,5),ReadingPanel('',ctx['text']),Spacer(1,5)]
+    for item in members:
+        flows += [para(str(numbers[item['id']])+'. '+item['stem'],9,True),Spacer(1,3)]
+        if item.get('answer_cards'):
+            cells=[]
+            for letter,option in zip('ABCD',item['options']):
+                card=Table([[para(option['text'],9,True)]],colWidths=[(WIDTH-18)/2-35],cornerRadii=[7]*4)
+                card.setStyle(TableStyle([('BOX',(0,0),(-1,-1),.8,INK),('TOPPADDING',(0,0),(-1,-1),6),('BOTTOMPADDING',(0,0),(-1,-1),6)]))
+                cells.append([para(letter+'.',9,True),TrackedOption([card],book,item['correct']==letter)])
+            rows=[cells[0]+cells[1],cells[2]+cells[3]]
+            table=Table(rows,colWidths=[22,(WIDTH-18)/2-22]*2)
+            table.setStyle(TableStyle([('VALIGN',(0,0),(-1,-1),'TOP'),('LEFTPADDING',(0,0),(-1,-1),0),('TOPPADDING',(0,0),(-1,-1),3),('BOTTOMPADDING',(0,0),(-1,-1),5)]))
+            flows.append(table)
+        else:
+            for letter,option in zip('ABCD',item['options']):
+                flows.append(TrackedOption([para(letter+'.    '+option['text'],9)],book,item['correct']==letter))
+        flows.append(Spacer(1,3))
+    return flows
+
+
+class IllustratedClozePanel(Flowable):
+    def __init__(self,ctx,text):
+        super().__init__()
+        portrait=ctx.get('image_side')=='right'
+        self.title=Paragraph(escape(ctx['title']),ParagraphStyle('illustrated-title',fontName='Times-BoldItalic' if portrait else 'Helvetica-Bold',fontSize=23 if portrait else 18,leading=27 if portrait else 24,alignment=1))
+        if portrait:
+            body=Paragraph(escape(text).replace('\n','<br/>').replace('Things Fall Apart','<i>Things Fall Apart</i>'),ParagraphStyle('portrait-reading',fontName='Times-Roman',fontSize=11,leading=12.8,textColor=INK))
+        else:
+            body=para(text,9.5,True)
+        self.content=ParagraphAndImage(body,picture(ctx['image'],115 if portrait else 177,135 if portrait else 96),xpad=8,ypad=2,side='right' if portrait else 'left')
+    def wrap(self,width,height):
+        self.width=width
+        self.title_height=self.title.wrap(width-28,height)[1]
+        self.content_height=self.content.wrap(width-28,height)[1]
+        self.height=self.title_height+self.content_height+34
+        return width,self.height
+    def draw(self):
+        c=self.canv;c.saveState();c.setStrokeColor(INK);c.setLineWidth(1.2)
+        c.roundRect(0,0,self.width,self.height,15,fill=0)
+        self.title.drawOn(c,14,self.height-10-self.title_height)
+        self.content.drawOn(c,14,12)
+        c.restoreState()
+
+
+def illustrated_cloze_flows(book,ctx,members,numbers):
+    width=WIDTH-18
+    first,last=numbers[members[0]['id']],numbers[members[-1]['id']]
+    centered=lambda text:Paragraph(escape(text),ParagraphStyle('illustrated-heading',fontName='Helvetica-Bold',fontSize=10,leading=13,alignment=1,textColor=INK))
+    text=ctx['text']
+    for item in members:text=text.replace('{{'+item['slot']+'}}','('+str(numbers[item['id']])+')_____')
+    flows=[centered(('PARTE 7.B' if ctx.get('image_side')=='right' else 'PARTE 7.A')),Spacer(1,6),centered(range_heading(ctx['range_heading'],first,last)),Spacer(1,7),para(range_heading(ctx['instructions'],first,last)),Spacer(1,10),IllustratedClozePanel(ctx,text),Spacer(1,9),para('Ejemplo:',9,True)]
+    def row(number,options,item=None):
+        cells=[para(str(number)+'.',9,True)]
+        for letter,option in zip('ABCD',options):
+            content=Paragraph('<b>'+letter+'.</b>    '+escape(option),ParagraphStyle('illustrated-choice',fontName='Helvetica',fontSize=9,leading=12,textColor=INK))
+            cells.append(TrackedOption([content],book,item['correct']==letter) if item else content)
+        table=Table([cells],colWidths=[29]+[(width-29)/4]*4)
+        table.setStyle(TableStyle([('VALIGN',(0,0),(-1,-1),'TOP'),('LEFTPADDING',(0,0),(-1,-1),0),('TOPPADDING',(0,0),(-1,-1),4),('BOTTOMPADDING',(0,0),(-1,-1),4)]))
+        return table
+    flows += [row(0,ctx['example_options']),ClozeExampleAnswer('ABCD'),Spacer(1,7),HRFlowable(width='100%',thickness=.5,color=GRAY),Spacer(1,7)]
+    for item in members:flows.append(row(numbers[item['id']],[o['text'] for o in item['options']],item))
+    return flows
+
+
+def cloze_flows(book,ctx,members,numbers):
+    first,last=numbers[members[0]['id']],numbers[members[-1]['id']]
+    centered=lambda text: Paragraph(escape(text),ParagraphStyle('cloze-heading',fontName='Helvetica-Bold',fontSize=10,leading=14,alignment=1,textColor=INK))
+    flows=[centered('PARTE 4'),Spacer(1,9),centered(range_heading(ctx['range_heading'],first,last)),Spacer(1,10),para(range_heading(ctx['instructions'],first,last)),Spacer(1,14)]
+    text=ctx['text']
+    for item in members:
+        text=text.replace('{{'+item['slot']+'}}','('+str(numbers[item['id']])+')_____')
+    panel=Table([[Paragraph(escape(ctx['title']),ParagraphStyle('cloze-title',fontName='Times-Bold',fontSize=24,leading=29,alignment=1))],[para(text,11)]],colWidths=[WIDTH-24],cornerRadii=[14]*4)
+    panel.setStyle(TableStyle([('BOX',(0,0),(-1,-1),1.2,INK),('LEFTPADDING',(0,0),(-1,-1),14),('RIGHTPADDING',(0,0),(-1,-1),14),('TOPPADDING',(0,0),(-1,-1),12),('BOTTOMPADDING',(0,0),(-1,-1),9)]))
+    flows += [panel,Spacer(1,12),para('Ejemplo:',10,True),Spacer(1,7)]
+    def row(number,options,item=None):
+        cells=[para(str(number)+'.',10,True)]
+        for index,option in enumerate(options):
+            label=chr(65+index)
+            cell=para(label+'.    '+option,10)
+            cells.append(TrackedOption([cell],book,item['correct']==label) if item else cell)
+        table=Table([cells],colWidths=[30]+[(WIDTH-30)/3]*3)
+        table.setStyle(TableStyle([('VALIGN',(0,0),(-1,-1),'TOP'),('LEFTPADDING',(0,0),(-1,-1),0),('BOTTOMPADDING',(0,0),(-1,-1),5),('TOPPADDING',(0,0),(-1,-1),4)]))
+        return table
+    flows += [row(0,ctx['example_options']),ClozeExampleAnswer(),Spacer(1,10)]
+    for item in members:
+        flows += [row(numbers[item['id']],[option['text'] for option in item['options']],item),Spacer(1,4)]
     return flows
 
 
@@ -464,7 +909,11 @@ def context_flows(ctx, members, numbers, show_words=True, column=False):
     flows = []
     first, last = numbers[members[0]['id']], numbers[members[-1]['id']]
     if ctx.get('part'):
-        flows += [para('PARTE '+str(ctx['part']), 10, True), Spacer(1, 5)]
+        label='PARTE '+str(ctx['part'])
+        heading=(Paragraph(escape(label),ParagraphStyle('english-part',fontName='Helvetica-Bold',
+                 fontSize=10,leading=13.3,textColor=INK,alignment=1))
+                 if ctx.get('area')=='english' else para(label,10,True))
+        flows += [heading, Spacer(1, 5)]
     flows += [para(range_heading(ctx.get('range_heading'), first, last), 9, True), Spacer(1, 7)]
     for key in ('instructions', 'title'):
         if ctx.get(key):
@@ -533,6 +982,8 @@ def generate(project, out, preview=False):
     cfg.update(version=project['code'],session='Primera sesión' if project['session']=='first' else 'Segunda sesión',time=project.get('time') or 'Por definir',
                notice='BORRADOR EDITORIAL · Material de práctica. No es una prueba oficial.',
                areas=[{'name':AREAS[a],'count':sum(q['area']==a for q in selected)} for a in SESSIONS[project['session']]])
+    if all(q['area']=='english' for q in selected):
+        cfg.update(session='Práctica de inglés · Segunda sesión',time='Por definir',areas=[{'name':AREAS['english'],'count':len(selected)}])
     (out/'cover.json').write_text(json.dumps(cfg,ensure_ascii=False),encoding='utf-8')
     subprocess.run([sys.executable,str(ROOT/'tool/preview_editorial_cover.py'),'--config',str(out/'cover.json'),'--output',str(out/'cover.pdf')],check=True,capture_output=True)
     book = Interior(out/'interior.pdf', project)
@@ -566,15 +1017,26 @@ def generate(project, out, preview=False):
             members = [item for item in selected if item.get('context')==cid]
             matching=q['area']=='english' and q['part']==1
             if matching:
-                flows=context_flows(ctxs[cid],members,numbers,False)
-                desc=matching_descriptions(book,members,numbers)
-                words=[para('PALABRAS',10,True),Spacer(1,12)]
-                for letter,word in zip('ABCDEFG',ctxs[cid]['words']):
-                    words += [para(letter+'.   '+word),Spacer(1,13)]
-                table=Table([[desc,words]],colWidths=[(WIDTH-18)*.64,(WIDTH-18)*.36])
-                table.setStyle(TableStyle([('VALIGN',(0,0),(-1,-1),'TOP'),('LINEBEFORE',(1,0),(1,0),.5,GRAY),('LEFTPADDING',(0,0),(-1,-1),10),('RIGHTPADDING',(0,0),(-1,-1),10)]))
-                flows += [Spacer(1,10),table]
+                flows=matching_flows(book,ctxs[cid],members,numbers)
                 book.full(flows,False)
+                page_map.update({item['id']:book.page for item in members})
+            elif q['area']=='english' and q['part']==2 and ctxs[cid].get('notice_layout')=='paired':
+                book.full(notice_flows(book,ctxs[cid],members,numbers),False)
+                page_map.update({item['id']:book.page for item in members})
+            elif q['area']=='english' and q['part']==3 and ctxs[cid].get('dialogue_layout')=='paired':
+                book.full(dialogue_flows(book,ctxs[cid],members,numbers),False)
+                page_map.update({item['id']:book.page for item in members})
+            elif q['area']=='english' and q['part']==4 and ctxs[cid].get('cloze_layout')=='rows':
+                book.full(cloze_flows(book,ctxs[cid],members,numbers),False)
+                page_map.update({item['id']:book.page for item in members})
+            elif q['area']=='english' and q['part']==5 and ctxs[cid].get('reading_layout')=='paired':
+                book.full(reading_flows(book,ctxs[cid],members,numbers),False)
+                page_map.update({item['id']:book.page for item in members})
+            elif q['area']=='english' and q['part']==6 and ctxs[cid].get('inference_layout')=='stacked':
+                book.full(inference_flows(book,ctxs[cid],members,numbers),False)
+                page_map.update({item['id']:book.page for item in members})
+            elif q['area']=='english' and q['part']==7 and ctxs[cid].get('illustrated_cloze_layout')=='rows':
+                book.full(illustrated_cloze_flows(book,ctxs[cid],members,numbers),False)
                 page_map.update({item['id']:book.page for item in members})
             else:
                 side = ctxs[cid].get('layout')=='side_by_side'
@@ -589,7 +1051,14 @@ def generate(project, out, preview=False):
         elif q['area']=='english' and q['part']!=last_part:
             book.full([para('PARTE '+str(q['part']),11,True)],reserve=105)
             last_part=q['part']
-        if not (q['area']=='english' and q['part']==1):
+        group_rendered=(q['area']=='english' and (q['part']==1 or
+                        (q['part']==2 and cid and ctxs[cid].get('notice_layout')=='paired') or
+                        (q['part']==3 and cid and ctxs[cid].get('dialogue_layout')=='paired') or
+                        (q['part']==4 and cid and ctxs[cid].get('cloze_layout')=='rows') or
+                        (q['part']==5 and cid and ctxs[cid].get('reading_layout')=='paired') or
+                        (q['part']==6 and cid and ctxs[cid].get('inference_layout')=='stacked') or
+                        (q['part']==7 and cid and ctxs[cid].get('illustrated_cloze_layout')=='rows')))
+        if not group_rendered:
             if use_band:
                 pending_columns.append(q)
             else:

@@ -42,7 +42,7 @@ class PreviewTests(unittest.TestCase):
                     self.assertGreaterEqual(result['page_map'][q['id']],3)
                 self.assertNotIn('Clave ',text)
                 self.assertNotIn('Solo vista previa; sin clave',text)
-                self.assertIn('PALABRAS',text)
+                self.assertIn('Palabras',text)
             self.assertFalse((Path(folder)/'guia_docente.pdf').exists())
 
 

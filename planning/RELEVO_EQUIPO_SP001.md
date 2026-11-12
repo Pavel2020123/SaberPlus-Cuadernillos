@@ -1,3 +1,5 @@
+> **Estado vigente · 12/11/2026:** inglés de segunda sesión completo (55 preguntas), códigos registrados y paquete JSON con imágenes. Leer [cambios e instrucciones para el equipo](../docs/ACTUALIZACION_INGLES_EQUIPO.md) antes de actualizar o importar. Los estados y repartos anteriores son antecedentes.
+
 # SP-001 · Relevo para montar preguntas en equipo
 
 Estado de partida: copia `tmp/pdfs/flujo-mixto/SP-001-flujo-mixto.json` del 10 de noviembre de 2026. Contiene 25 preguntas incluidas de Matemáticas, primera sesión, y un registro excluido. La clasificación editorial de esas 25 suma 9 interpretación, 11 formulación/ejecución y 5 argumentación; eso coincide con el objetivo planificado para ese bloque, pero no certifica que cada clasificación sea correcta. Ninguna de las 25 incluye todavía el código `USB-...-Q...` en el JSON: los vínculos con sus fuentes deben comprobarse visualmente antes de proclamar unicidad global.

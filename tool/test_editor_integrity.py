@@ -73,23 +73,24 @@ class IntegrityTests(unittest.TestCase):
         book.shared_context(flows, question, 8)
         book.full.assert_called_once_with(flows, True, reserve=324)
 
-    def test_matching_image_and_answer_bubble_are_both_preserved(self):
+    def test_matching_preserves_image_without_inline_answer_bubbles(self):
         question = {'id': 'match', 'stem': 'Description', 'correct': 'G',
                     'image': 'assets/uploads/placeholder.png'}
         with patch('editor_pdf.picture', return_value=Spacer(1, 70)) as picture:
             flows = matching_descriptions(object(), [question], {'match': 12})
         picture.assert_called_once()
         rows = [flow for flow in flows if isinstance(flow, BubbleRow)]
-        self.assertEqual(len(rows), 1)
-        self.assertEqual(rows[0].answer, 'G')
+        self.assertEqual(rows, [])
 
-    def test_oversized_context_and_question_fail_before_drawing(self):
+    def test_long_context_is_preserved_on_its_own_page(self):
         book = Interior.__new__(Interior)
         book.question_height = Mock(return_value=400)
         book.full = Mock()
-        with self.assertRaisesRegex(ValueError, 'primera pregunta no caben juntos'):
-            book.shared_context([Spacer(1, H-83-BOTTOM-300)], {'id': 'first'}, 1)
-        book.full.assert_not_called()
+        book.newpage = Mock()
+        flows=[Spacer(1, H-83-BOTTOM-300)]
+        book.shared_context(flows, {'id': 'first'}, 1)
+        book.full.assert_called_once_with(flows,True)
+        book.newpage.assert_called_once_with()
 
     def test_resolved_appendix_header_and_notice(self):
         book = Interior.__new__(Interior)

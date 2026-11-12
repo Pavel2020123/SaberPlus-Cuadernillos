@@ -1,3 +1,5 @@
+> **Estado vigente · 12/11/2026:** inglés de segunda sesión completo (55 preguntas), códigos registrados y paquete JSON con imágenes. Leer [cambios e instrucciones para el equipo](docs/ACTUALIZACION_INGLES_EQUIPO.md) antes de actualizar o importar. Los estados y repartos anteriores son antecedentes.
+
 # Relevo de conversación - 28 de octubre de 2026
 
 ## Continuación más reciente
