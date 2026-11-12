@@ -1,3 +1,5 @@
+> Actualización posterior: paquete combinado de25 Matemáticas+55 Inglés en `handoff/SP001_segunda_matematicas_ingles/`. Ver [cierre de Matemáticas](../planning/SP001_S2_MAT_CIERRE_CARGA.md). El paquete solo de Inglés sigue disponible como antecedente independiente.
+
 # Actualización de inglés — 12 de noviembre de 2026
 
 ## Qué se entrega
