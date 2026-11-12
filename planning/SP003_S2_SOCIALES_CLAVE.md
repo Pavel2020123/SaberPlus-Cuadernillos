@@ -14,3 +14,8 @@ Material separado del estudiante. Selección autorizada por el usuario; pendient
 | 8 | `USB-234fa4e3ddce-Q054` | B | Ambas fuentes explican origen y expansion de actores del conflicto armado interno. |
 | 9 | `USB-234fa4e3ddce-Q061` | D | El argumento reconoce incertidumbre de cifras y aporta memorias del general y telegrama diplomatico; no basa toda prueba en novela. |
 | 10 | `USB-234fa4e3ddce-Q063` | D | Sociologos defienden terrenos centrales por acceso a servicios; vivienda periferica contradice esa prioridad. |
+| 11 | `USB-2722e7c48dfd-Q010` | A | El primer fragmento niega suficiencia disuasiva del castigo; el segundo defiende intensidad de pena que considera suficiente para disuadir. |
+| 12 | `USB-524d98b0a234-Q008` | A | Inclusion,libertades y acceso a justicia buscan condiciones de dignidad para todas las personas. |
+| 13 | `USB-524d98b0a234-Q020` | D | Usuarios pierden acceso al servicio prohibido;taxistas tradicionales no pierden por esa prohibicion. |
+| 14 | `USB-578d9b20297e-Q002` | B | La mujer promueve asociacion, atencion psicosocial y restitucion; eso caracteriza liderazgo social, no partido o sindicato. |
+| 15 | `USB-578d9b20297e-Q003` | C | Bailarinas y actrices comparten trabajo corporal y destrezas escenicas invisibilizadas, mas directamente que las otras profesiones. |
