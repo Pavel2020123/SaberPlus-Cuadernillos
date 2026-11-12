@@ -22,4 +22,11 @@ class SuperscriptTests(unittest.TestCase):
     def test_prose_keeps_regular_font(self):
         self.assertEqual(para('G representa los granos de trigo.').style.fontName,'Helvetica')
 
+    def test_chemical_subscripts_are_lowered(self):
+        p=para('3NO₂ + H₂O → 2HNO₃ + NO')
+        self.assertIn('NO<sub>2</sub>',p.text)
+        self.assertIn('H<sub>2</sub>O',p.text)
+        self.assertIn('HNO<sub>3</sub>',p.text)
+        self.assertTrue(any(getattr(f,'rise',0)<0 for f in p.frags))
+
 if __name__=='__main__':unittest.main()

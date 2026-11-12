@@ -45,6 +45,10 @@ def para(text, size=10, bold=False):
         markup = escape(equation[1])+expression
     markup = re.sub('['+superscripts+']+',
                     lambda match: '<super>'+re.sub(r'[ni]',r'<i>\g<0></i>',match.group().translate(str.maketrans(superscripts, normal)))+'</super>', markup)
+    subscripts = '₀₁₂₃₄₅₆₇₈₉₊₋₌₍₎'
+    sub_normal = '0123456789+-=()'
+    markup = re.sub('['+subscripts+']+',
+                    lambda match: '<sub>'+match.group().translate(str.maketrans(subscripts, sub_normal))+'</sub>', markup)
     return Paragraph(markup, ParagraphStyle(
         'body', fontName='Times-Roman' if equation else 'Helvetica-Bold' if bold else 'Helvetica', fontSize=size,
         leading=size*1.33, textColor=INK, spaceAfter=0))
