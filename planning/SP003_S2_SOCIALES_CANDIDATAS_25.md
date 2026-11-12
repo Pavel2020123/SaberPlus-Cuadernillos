@@ -2,6 +2,8 @@
 
 12 de noviembre de 2026. Responsable: equipo SaberPlus / rama `trabajo/sp-003`.
 
+**Estado final:** las 25 de esta tabla están guardadas en **4188, revisión 8**. [Entrega y controles](SP003_S2_SOCIALES_CARGA.md). Claves separadas y revisión individual del usuario pendiente. Main actualizado a `8542df4` y SP-002 consultado en `dfbe592`; el registro local incorpora solo usos ya publicados (291/11), sin añadir estas 25. Los estados de selección y conteos anteriores que siguen son históricos.
+
 El usuario confirmó la carga de las cinco iniciales y después pidió: «Encargate primero de un area completa». Se continúa exclusivamente Sociales, con meta de 25. La revisión individual del usuario queda para después de la carga; esta autorización no atribuye validación externa ni exclusividad automática frente al otro equipo.
 
 Este documento publica **25 selecciones** en lotes de cinco antes de transcribir cada nuevo lote. Estado actual del editor y entrega: consultar el informe de carga al finalizar; selección publicada no significa todavía carga terminada.

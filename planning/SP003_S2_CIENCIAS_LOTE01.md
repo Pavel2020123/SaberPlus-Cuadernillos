@@ -1,5 +1,7 @@
 # SP-003 · Segunda sesión · Ciencias naturales · Lote inicial
 
+**Actualización tras consultar SP-002 `dfbe592`:** las propuestas 1, 2 y 4 de esta tabla quedan retiradas de la carga pendiente por uso en SP-002 primera: `USB-524d98b0a234-Q061`, `USB-709bc037689b-Q051`, `USB-e4489f150183-Q063`. No se transcribieron ni cargaron en SP-003. La tercera sigue pendiente de coordinación y de cotejo actualizado. Conservar la tabla como antecedente y buscar reemplazos al retomar Ciencias.
+
 12 de noviembre de 2026. Responsable de todas las filas: equipo SaberPlus / rama `trabajo/sp-003`.
 
 **Estado: propuesta para coordinación y revisión posterior, sin transcribir ni cargar en 4188. No es una reserva confirmada.**

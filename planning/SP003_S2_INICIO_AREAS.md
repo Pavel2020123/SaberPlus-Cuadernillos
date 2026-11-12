@@ -1,5 +1,7 @@
 # SP-003 · Segunda sesión · Inicio por áreas y revisión
 
+**Actualización de cierre:** Sociales está completa, **25 preguntas en 4188, revisión 8**. [PDF, controles y códigos definitivos](SP003_S2_SOCIALES_CARGA.md). Las otras áreas permanecen sin cargar. Tres propuestas iniciales de Ciencias quedan retiradas por uso en SP-002 (`USB-524d98b0a234-Q061`, `USB-709bc037689b-Q051`, `USB-e4489f150183-Q063`). El inventario de 19 candidatas y cero carga que sigue corresponde al inicio, no al estado actual.
+
 12 de noviembre de 2026. Editor independiente: **http://127.0.0.1:4188/**. Proyecto: `data/parallel/SP-003-segunda-4188/project.json`.
 
 **Estado de esta entrega: 19 candidatas documentadas, 0 cargadas.** Cinco de Sociales ya estaban propuestas; se prepararon además cinco de Matemáticas, cuatro de Ciencias y las cinco del bloque completo de Inglés «At a Picnic». Todas siguen como propuestas, sin reserva confirmada por coordinación. No se modificó el proyecto de primera sesión ni el registro maestro.
