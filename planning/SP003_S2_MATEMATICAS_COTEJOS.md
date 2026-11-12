@@ -26,6 +26,7 @@ Las tres apariciones adicionales del caso Mónica/Julio se identificaron al revi
 
 ## Descartes
 
+- `USB-d4e43db6988a-Q009`: retirada del puesto 45 tras detectar el caso de las 2.000 papas ya usado en primera SP-003 como `USB-1c6462bf5377-Q010`. Reemplazo final `USB-578d9b20297e-Q039`, plano del estante. No tratar los dos códigos de papas como preguntas independientes.
 - `USB-04dc5257ed8b-Q020`: texto recortado en el borde derecho; no reconstruir por conjetura.
 - `USB-77cc8ac26d2c-Q003` y `USB-f00a52c8b6f2-Q044`: requieren juzgar una afirmación o justificación; se descartaron para puestos de ejecución, sin forzar su clasificación.
 - `USB-77cc8ac26d2c-Q020`: se eligió una resta decimal directa para el puesto 25, en lugar de evaluar un consejo sobre tres promedios. Su caso coincide con `USB-578d9b20297e-Q048` (fuente no seleccionada).

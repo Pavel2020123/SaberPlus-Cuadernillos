@@ -1,5 +1,7 @@
 # SP-003 · Segunda sesión · Matemáticas: selección por lotes
 
+**Cierre posterior:** las 25 están guardadas en 4188, revisión 16 / 50 preguntas de sesión. [Entrega y controles](SP003_S2_MATEMATICAS_CARGA.md). Revisión individual e integración del coordinador pendientes. La tabla conserva la trazabilidad de la selección final.
+
 12 de noviembre de 2026. Responsable: equipo SaberPlus / rama `trabajo/sp-003`. El usuario pidió continuar con el área siguiente después de Sociales. Meta: 25 preguntas, IR 8 / FE 11 / ARG 6, puestos 26–50 de sesión. Clasificación editorial; afirmación, evidencia y nivel sin asignar.
 
 Selección cotejada con main `8542df4`, registro local 291 usadas/11 reservas, primera SP-003 (120), Sociales segunda (25), SP-002 `dfbe592` (primera 120 y propuestas de segunda), reservas y equivalencias publicadas. No se modifica el maestro ni se atribuye exclusividad por publicar. Sin coincidencias identificadas con ocupadas conocidas. Los textos del registro de las 25 primeras de Matemáticas de SP-001 se vincularon y contrastaron con sus páginas originales, incluidas las figuras: [recuperación y límites](SP003_S2_MAT_COTEJO_SP001_FUENTES.md). No se dispone del PDF final de SP-001 ni se afirma revisión de su maquetación final.

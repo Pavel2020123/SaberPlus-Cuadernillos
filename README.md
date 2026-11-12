@@ -8,6 +8,8 @@ Proyecto independiente para diseñar y generar cuadernillos de práctica en PDF.
 
 ## Punto de continuación actual
 
+**SP-003 · Segunda sesión · Matemáticas completa:** **4188, revisión 16 / 50 preguntas**, 25 Sociales conservadas y 25 Matemáticas con reparto 8/11/6. [Entrega, tres PDF y controles](planning/SP003_S2_MATEMATICAS_CARGA.md); [25 códigos definitivos de Matemáticas](planning/SP003_S2_MATEMATICAS_CODIGOS.txt). La 45 final es `USB-578d9b20297e-Q039`. Primera sesión intacta, rev. 26 / 120. Revisión individual e integración del coordinador pendientes; faltan Ciencias 29 e Inglés 55. Los estados anteriores de Matemáticas sin cargar son antecedentes.
+
 **SP-003 · Segunda sesión · Sociales completa:** 25 preguntas guardadas en **4188, revisión 8**, reparto 7/10/8. [Entrega, PDF locales y controles](planning/SP003_S2_SOCIALES_CARGA.md); [25 códigos definitivos](planning/SP003_S2_SOCIALES_CODIGOS_USADOS.txt). Revisión individual del usuario e integración del coordinador pendientes. Las otras áreas siguen sin carga; tres propuestas iniciales de Ciencias quedan retiradas por uso en SP-002. Primera sesión intacta (revisión 26 / 120).
 
 **SP-003 · Segunda sesión, primeros lotes por área:** [19 candidatas y códigos para revisión individual](planning/SP003_S2_INICIO_AREAS.md): 5 Sociales, 5 Matemáticas, 4 Ciencias y 5 Inglés (bloque completo de parte 1). Páginas originales consultadas; propuestas pendientes de coordinación, **sin carga en 4188**. Matemáticas requiere además el cotejo visual completo frente a las 25 finales de SP-001. La primera sesión se consultó en revisión 26, con 120 preguntas, sin escribir en ella.

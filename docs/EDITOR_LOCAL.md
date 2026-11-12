@@ -4,6 +4,8 @@ Estado: primer editor funcional para pruebas editoriales, independiente de la ap
 
 ## Trabajar al mismo tiempo · SP-003
 
+**Cierre de Matemáticas de segunda sesión · 12 de noviembre:** **4188, revisión 16 / 50 preguntas**, 25 Sociales intactas y 25 Matemáticas (8/11/6). [Entrega, códigos y tres PDF](../planning/SP003_S2_MATEMATICAS_CARGA.md). Conservar `data/parallel/SP-003-segunda-4188/project.json` y continuar agregando áreas; faltan Ciencias 29 e Inglés 55. Primera sesión rev. 26 / 120 sin cambios. Revisión del usuario y coordinación pendientes. Los cierres anteriores describen revisiones históricas.
+
 **Cierre de Sociales de segunda sesión · 12 de noviembre:** **4188, revisión 8 / 25 preguntas**, reparto 7/10/8, revisión del usuario pendiente. [Entrega y 25 códigos](../planning/SP003_S2_SOCIALES_CARGA.md). Su JSON sigue en `data/parallel/SP-003-segunda-4188/project.json`. Las otras áreas de segunda permanecen vacías. La primera conserva revisión 26 / 120 sin cambios durante este cierre. Reabrir con el mismo espacio y puerto conserva los datos; no importar una plantilla vacía. El estado inicial descrito a continuación es histórico.
 
 **Segunda sesión iniciada:** se abrió **http://127.0.0.1:4188/**, independiente de la primera de 4185 y de los espacios antiguos. Se conserva en `data/parallel/SP-003-segunda-4188/project.json`, con plantilla de 134 puestos, revisión inicial 0 y sin preguntas cargadas. Reabrir: `uv run --offline python -B tool/editor_parallel.py --port 4188 --workspace SP-003-segunda --template planning/starter_projects/SP-003-segunda.json`. [Primer lote propuesto y estado](../planning/SP003_S2_SOCIALES_LOTE01.md).
