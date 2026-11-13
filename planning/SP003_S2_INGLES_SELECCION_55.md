@@ -1,3 +1,5 @@
+> **Estado actualizado:** parte 1 guardada, 5/55 Inglés, **4188 rev. 23 / 84 preguntas**. Quedan 50 reservadas, partes 2–7. [Entrega y controles de parte 1](SP003_S2_INGLES_PARTE1_CARGA.md). La descripción inicial sin carga que sigue es antecedente.
+
 # SP-003 · Segunda sesión · Inglés · 55 códigos seleccionados
 
 12 de noviembre de 2026. Selección y reserva solicitadas por el usuario para evitar reutilización entre equipos. **55 preguntas originales, reparto 5/6/6/10/9/6/13**. Puestos previstos 80–134. **Sin cargar en 4188**: el proyecto sigue en revisión 22 / 79 preguntas. No confundir esta selección con un área ya maquetada o validada.

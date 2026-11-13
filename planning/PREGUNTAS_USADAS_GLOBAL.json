@@ -5916,6 +5916,71 @@
       "inicio": "",
       "enunciado": "Después de analizar la tabla, un grupo de investigadores sugiere que es necesario incluir la producción de metales pesados. Para ello, necesitan determinar cuáles metales pesados genera cada una de las fuentes de energía y la cantidad de me",
       "huella_texto": "f91c1e162f6c63137601a47f6c3d35f5ad340690680d043c5ff55cd80529a020"
+    },
+    {
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 80,
+      "editor_id": "q-sp003-s2-en-p1-01",
+      "catalog_id": "USB-7882c8f9ae2f-Q080",
+      "estado": "usada",
+      "tema": "Vocabulario en contexto",
+      "inicio": "",
+      "enunciado": "You find this plant on the ground of fields and the countryside.",
+      "huella_texto": "78cfc98fe1047aec4a94092e061024640aa45d5f64fea24ec17d29729d293761"
+    },
+    {
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 81,
+      "editor_id": "q-sp003-s2-en-p1-02",
+      "catalog_id": "USB-7882c8f9ae2f-Q081",
+      "estado": "usada",
+      "tema": "Vocabulario en contexto",
+      "inicio": "",
+      "enunciado": "It has many vegetables and you can eat it in a bowl.",
+      "huella_texto": "ca3ffaaf1ee2bca8c513e7bf0f7eff1e815c6a5c81cb153dba30e1671a15dd8e"
+    },
+    {
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 82,
+      "editor_id": "q-sp003-s2-en-p1-03",
+      "catalog_id": "USB-7882c8f9ae2f-Q082",
+      "estado": "usada",
+      "tema": "Vocabulario en contexto",
+      "inicio": "",
+      "enunciado": "This place has trees and children can play there.",
+      "huella_texto": "ed9b38a7dff8106e6a0a0818390c50a5730f6449511fc53db67d69a115b14ae5"
+    },
+    {
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 83,
+      "editor_id": "q-sp003-s2-en-p1-04",
+      "catalog_id": "USB-7882c8f9ae2f-Q083",
+      "estado": "usada",
+      "tema": "Vocabulario en contexto",
+      "inicio": "",
+      "enunciado": "You need this to drink lemonade when you are thirsty.",
+      "huella_texto": "7827670430d12945110ff581fd0db212bdd0f31e811bdc6d9ca04e0157ee9c83"
+    },
+    {
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 84,
+      "editor_id": "q-sp003-s2-en-p1-05",
+      "catalog_id": "USB-7882c8f9ae2f-Q084",
+      "estado": "usada",
+      "tema": "Vocabulario en contexto",
+      "inicio": "",
+      "enunciado": "You wear this on your head for the sun.",
+      "huella_texto": "62cb1f4ad2aabe5743af85c4376ce8933bb59fe46fc56810479f959ce0362ada"
     }
   ],
   "reservas": [
@@ -6016,51 +6081,6 @@
       "catalog_id": "USB-77cc8ac26d2c-Q089",
       "estado": "reservada_equivalencia_visual",
       "codigo_canonico": "USB-709bc037689b-Q075"
-    },
-    {
-      "simulacro": "SP-003",
-      "sesion": "segunda",
-      "area": "english",
-      "numero_actual": 80,
-      "catalog_id": "USB-7882c8f9ae2f-Q080",
-      "estado": "reservada_por_usuario_pendiente_carga",
-      "fuente": "planning/SP003_S2_INGLES_COORDINACION.json"
-    },
-    {
-      "simulacro": "SP-003",
-      "sesion": "segunda",
-      "area": "english",
-      "numero_actual": 81,
-      "catalog_id": "USB-7882c8f9ae2f-Q081",
-      "estado": "reservada_por_usuario_pendiente_carga",
-      "fuente": "planning/SP003_S2_INGLES_COORDINACION.json"
-    },
-    {
-      "simulacro": "SP-003",
-      "sesion": "segunda",
-      "area": "english",
-      "numero_actual": 82,
-      "catalog_id": "USB-7882c8f9ae2f-Q082",
-      "estado": "reservada_por_usuario_pendiente_carga",
-      "fuente": "planning/SP003_S2_INGLES_COORDINACION.json"
-    },
-    {
-      "simulacro": "SP-003",
-      "sesion": "segunda",
-      "area": "english",
-      "numero_actual": 83,
-      "catalog_id": "USB-7882c8f9ae2f-Q083",
-      "estado": "reservada_por_usuario_pendiente_carga",
-      "fuente": "planning/SP003_S2_INGLES_COORDINACION.json"
-    },
-    {
-      "simulacro": "SP-003",
-      "sesion": "segunda",
-      "area": "english",
-      "numero_actual": 84,
-      "catalog_id": "USB-7882c8f9ae2f-Q084",
-      "estado": "reservada_por_usuario_pendiente_carga",
-      "fuente": "planning/SP003_S2_INGLES_COORDINACION.json"
     },
     {
       "simulacro": "SP-003",

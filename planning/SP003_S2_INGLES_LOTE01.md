@@ -1,3 +1,5 @@
+> **Estado actualizado:** parte 1 guardada, 5/55 Inglés, **4188 rev. 23 / 84 preguntas**. Quedan 50 reservadas, partes 2–7. [Entrega y controles de parte 1](SP003_S2_INGLES_PARTE1_CARGA.md). La descripción inicial sin carga que sigue es antecedente.
+
 # SP-003 · Segunda sesión · Inglés · parte 1 · Lote inicial
 
 12 de noviembre de 2026. Responsable de todas las filas: equipo SaberPlus / rama `trabajo/sp-003`.
