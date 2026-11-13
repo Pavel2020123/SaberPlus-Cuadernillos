@@ -1,4 +1,4 @@
-> **Estado actualizado:** partes 1–5 guardadas, 36/55 Inglés, **4188 rev. 26 / 115 preguntas**. Quedan 19 reservadas, partes 6–7. Adaptación de The Ethiopian Wolf ejecutada. [Entrega y controles](SP003_S2_INGLES_PARTES4Y5_CARGA.md). Los estados iniciales sin carga son antecedentes.
+> **Estado actualizado · 13/11/2026:** Inglés completo, 55/55, **4188 rev. 29 / 134 preguntas**. Trabajo del usuario revisado y conservado; adaptaciones de The Ethiopian Wolf y Valentine’s Day ejecutadas. [Entrega y controles](SP003_S2_INGLES_CIERRE.md). Los estados anteriores de selección sin carga son antecedentes.
 
 # SP-003 · Segunda sesión · Inglés · parte 1 · Lote inicial
 

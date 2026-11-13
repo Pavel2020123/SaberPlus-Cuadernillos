@@ -917,7 +917,8 @@ def illustrated_cloze_flows(book,ctx,members,numbers):
 def cloze_flows(book,ctx,members,numbers):
     first,last=numbers[members[0]['id']],numbers[members[-1]['id']]
     centered=lambda text: Paragraph(escape(text),ParagraphStyle('cloze-heading',fontName='Helvetica-Bold',fontSize=10,leading=14,alignment=1,textColor=INK))
-    flows=[centered('PARTE 4'),Spacer(1,9),centered(range_heading(ctx['range_heading'],first,last)),Spacer(1,10),para(range_heading(ctx['instructions'],first,last)),Spacer(1,14)]
+    letters='ABCD' if ctx['part']==7 else 'ABC'
+    flows=[centered('PARTE '+str(ctx['part'])),Spacer(1,9),centered(range_heading(ctx['range_heading'],first,last)),Spacer(1,10),para(range_heading(ctx['instructions'],first,last)),Spacer(1,14)]
     text=ctx['text']
     for item in members:
         text=text.replace('{{'+item['slot']+'}}','('+str(numbers[item['id']])+')_____')
@@ -930,12 +931,12 @@ def cloze_flows(book,ctx,members,numbers):
             label=chr(65+index)
             cell=para(label+'.    '+option,10)
             cells.append(TrackedOption([cell],book,item['correct']==label) if item else cell)
-        table=Table([cells],colWidths=[30]+[(WIDTH-30)/3]*3)
+        table=Table([cells],colWidths=[30]+[(WIDTH-30)/len(options)]*len(options))
         table.setStyle(TableStyle([('VALIGN',(0,0),(-1,-1),'TOP'),('LEFTPADDING',(0,0),(-1,-1),0),('BOTTOMPADDING',(0,0),(-1,-1),5),('TOPPADDING',(0,0),(-1,-1),4)]))
         return table
-    flows += [row(0,ctx['example_options']),ClozeExampleAnswer(),Spacer(1,10)]
+    flows += [row(0,ctx['example_options']),ClozeExampleAnswer(letters),Spacer(1,10)]
     for item in members:
-        flows += [row(numbers[item['id']],[option['text'] for option in item['options']],item),Spacer(1,4)]
+        flows += [row(numbers[item['id']],[option['text'] for option in item['options']],item),Spacer(1,0 if ctx['part']==7 else 4)]
     return flows
 
 
@@ -950,8 +951,9 @@ def context_flows(ctx, members, numbers, show_words=True, column=False):
         flows += [heading, Spacer(1, 5)]
     flows += [para(range_heading(ctx.get('range_heading'), first, last), 9, True), Spacer(1, 7)]
     for key in ('instructions', 'title'):
-        if ctx.get(key):
-            flows += [para(ctx[key], 10, key=='title'), Spacer(1, 7)]
+        if ctx.get(key) and ctx[key].strip():
+            value=range_heading(ctx[key],first,last) if key=='instructions' else ctx[key]
+            flows += [para(value, 10, key=='title'), Spacer(1, 7)]
     text = ctx.get('text', '')
     for q in members:
         if q.get('slot'):
@@ -1060,7 +1062,7 @@ def generate(project, out, preview=False):
             elif q['area']=='english' and q['part']==3 and ctxs[cid].get('dialogue_layout')=='paired':
                 book.full(dialogue_flows(book,ctxs[cid],members,numbers),False)
                 page_map.update({item['id']:book.page for item in members})
-            elif q['area']=='english' and q['part']==4 and ctxs[cid].get('cloze_layout')=='rows':
+            elif q['area']=='english' and q['part'] in (4,7) and ctxs[cid].get('cloze_layout')=='rows':
                 book.full(cloze_flows(book,ctxs[cid],members,numbers),False)
                 page_map.update({item['id']:book.page for item in members})
             elif q['area']=='english' and q['part']==5 and ctxs[cid].get('reading_layout')=='paired':
@@ -1088,7 +1090,7 @@ def generate(project, out, preview=False):
         group_rendered=(q['area']=='english' and (q['part']==1 or
                         (q['part']==2 and cid and ctxs[cid].get('notice_layout')=='paired') or
                         (q['part']==3 and cid and ctxs[cid].get('dialogue_layout')=='paired') or
-                        (q['part']==4 and cid and ctxs[cid].get('cloze_layout')=='rows') or
+                        (q['part'] in (4,7) and cid and ctxs[cid].get('cloze_layout')=='rows') or
                         (q['part']==5 and cid and ctxs[cid].get('reading_layout')=='paired') or
                         (q['part']==6 and cid and ctxs[cid].get('inference_layout')=='stacked') or
                         (q['part']==7 and cid and ctxs[cid].get('illustrated_cloze_layout')=='rows')))

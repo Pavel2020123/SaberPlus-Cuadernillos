@@ -2,7 +2,7 @@
   "schema": 1,
   "simulacro": "SP-003",
   "sesion": "segunda",
-  "estado": "partes1a5_guardadas_36_de55_resto_reservado",
+  "estado": "ingles_completo_55_guardadas",
   "reparto": [
     5,
     6,
@@ -29,14 +29,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
       "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
-      "estado": "guardada_en_4188_rev23",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 1,
       "numero_sesion": 80,
       "editor_id": "q-sp003-s2-en-p1-01",
-      "revision": 23
+      "revision": 29
     },
     {
       "catalog_id": "USB-7882c8f9ae2f-Q081",
@@ -52,14 +52,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
       "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
-      "estado": "guardada_en_4188_rev23",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 2,
       "numero_sesion": 81,
       "editor_id": "q-sp003-s2-en-p1-02",
-      "revision": 23
+      "revision": 29
     },
     {
       "catalog_id": "USB-7882c8f9ae2f-Q082",
@@ -75,14 +75,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
       "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
-      "estado": "guardada_en_4188_rev23",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 3,
       "numero_sesion": 82,
       "editor_id": "q-sp003-s2-en-p1-03",
-      "revision": 23
+      "revision": 29
     },
     {
       "catalog_id": "USB-7882c8f9ae2f-Q083",
@@ -98,14 +98,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
       "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
-      "estado": "guardada_en_4188_rev23",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 4,
       "numero_sesion": 83,
       "editor_id": "q-sp003-s2-en-p1-04",
-      "revision": 23
+      "revision": 29
     },
     {
       "catalog_id": "USB-7882c8f9ae2f-Q084",
@@ -121,14 +121,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
       "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
-      "estado": "guardada_en_4188_rev23",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 5,
       "numero_sesion": 84,
       "editor_id": "q-sp003-s2-en-p1-05",
-      "revision": 23
+      "revision": 29
     },
     {
       "catalog_id": "USB-7882c8f9ae2f-Q090",
@@ -144,14 +144,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
       "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
-      "estado": "guardada_en_4188_rev24",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 6,
       "numero_sesion": 85,
       "editor_id": "q-sp003-s2-en-p2-01",
-      "revision": 24
+      "revision": 29
     },
     {
       "catalog_id": "USB-7882c8f9ae2f-Q091",
@@ -167,14 +167,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
       "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
-      "estado": "guardada_en_4188_rev24",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 7,
       "numero_sesion": 86,
       "editor_id": "q-sp003-s2-en-p2-02",
-      "revision": 24
+      "revision": 29
     },
     {
       "catalog_id": "USB-7882c8f9ae2f-Q092",
@@ -190,14 +190,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
       "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
-      "estado": "guardada_en_4188_rev24",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 8,
       "numero_sesion": 87,
       "editor_id": "q-sp003-s2-en-p2-03",
-      "revision": 24
+      "revision": 29
     },
     {
       "catalog_id": "USB-7882c8f9ae2f-Q093",
@@ -213,14 +213,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
       "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
-      "estado": "guardada_en_4188_rev24",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 9,
       "numero_sesion": 88,
       "editor_id": "q-sp003-s2-en-p2-04",
-      "revision": 24
+      "revision": 29
     },
     {
       "catalog_id": "USB-7882c8f9ae2f-Q094",
@@ -236,14 +236,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
       "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
-      "estado": "guardada_en_4188_rev24",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 10,
       "numero_sesion": 89,
       "editor_id": "q-sp003-s2-en-p2-05",
-      "revision": 24
+      "revision": 29
     },
     {
       "catalog_id": "USB-1bc205e23b46-Q085",
@@ -259,14 +259,14 @@
       "competencia": "Competencia comunicativa: interpretación pragmática de avisos",
       "source_sha256": "65873a53eb39360da44482f5406c6ee5c7fb462b906275c7abc3611fdd34a1e1",
       "pdf": "ICFES_2025_Cal-B_Sesion-2_Desierto-de-la-Tatacoa_Ref014_USB-1bc205e23b46.pdf",
-      "estado": "guardada_en_4188_rev24",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 11,
       "numero_sesion": 90,
       "editor_id": "q-sp003-s2-en-p2-06",
-      "revision": 24
+      "revision": 29
     },
     {
       "catalog_id": "USB-524d98b0a234-Q090",
@@ -282,14 +282,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "78c31d57f562a19c1f7f627c6ce2e42808fd0c8383e4391e0de2b02bc632d4e0",
       "pdf": "2026-2-ABJ2_USB-524d98b0a234.pdf",
-      "estado": "guardada_en_4188_rev25",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 12,
       "numero_sesion": 91,
       "editor_id": "q-sp003-s2-en-p3-01",
-      "revision": 25
+      "revision": 29
     },
     {
       "catalog_id": "USB-524d98b0a234-Q091",
@@ -305,14 +305,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "78c31d57f562a19c1f7f627c6ce2e42808fd0c8383e4391e0de2b02bc632d4e0",
       "pdf": "2026-2-ABJ2_USB-524d98b0a234.pdf",
-      "estado": "guardada_en_4188_rev25",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 13,
       "numero_sesion": 92,
       "editor_id": "q-sp003-s2-en-p3-02",
-      "revision": 25
+      "revision": 29
     },
     {
       "catalog_id": "USB-524d98b0a234-Q092",
@@ -328,14 +328,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "78c31d57f562a19c1f7f627c6ce2e42808fd0c8383e4391e0de2b02bc632d4e0",
       "pdf": "2026-2-ABJ2_USB-524d98b0a234.pdf",
-      "estado": "guardada_en_4188_rev25",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 14,
       "numero_sesion": 93,
       "editor_id": "q-sp003-s2-en-p3-03",
-      "revision": 25
+      "revision": 29
     },
     {
       "catalog_id": "USB-524d98b0a234-Q093",
@@ -351,14 +351,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "78c31d57f562a19c1f7f627c6ce2e42808fd0c8383e4391e0de2b02bc632d4e0",
       "pdf": "2026-2-ABJ2_USB-524d98b0a234.pdf",
-      "estado": "guardada_en_4188_rev25",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 15,
       "numero_sesion": 94,
       "editor_id": "q-sp003-s2-en-p3-04",
-      "revision": 25
+      "revision": 29
     },
     {
       "catalog_id": "USB-524d98b0a234-Q094",
@@ -374,14 +374,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "78c31d57f562a19c1f7f627c6ce2e42808fd0c8383e4391e0de2b02bc632d4e0",
       "pdf": "2026-2-ABJ2_USB-524d98b0a234.pdf",
-      "estado": "guardada_en_4188_rev25",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 16,
       "numero_sesion": 95,
       "editor_id": "q-sp003-s2-en-p3-05",
-      "revision": 25
+      "revision": 29
     },
     {
       "catalog_id": "USB-6093aa3432dd-Q006",
@@ -398,7 +398,7 @@
       "competencia": "Competencia comunicativa",
       "source_sha256": "315646f8178a338cacc2bcfa2143954e7b0abee4cc34ed258df7ebece765f3db",
       "pdf": "Preguntas_explicadas_ingles_Saber_11.pdf",
-      "estado": "guardada_en_4188_rev25",
+      "estado": "guardada_en_4188_rev29",
       "procedencia": "ficha complementaria creada tras lectura visual del original; no implica auditoría de todo el PDF",
       "simulacro": "SP-003",
       "sesion": "segunda",
@@ -406,7 +406,7 @@
       "numero_area": 17,
       "numero_sesion": 96,
       "editor_id": "q-sp003-s2-en-p3-06",
-      "revision": 25
+      "revision": 29
     },
     {
       "catalog_id": "USB-709bc037689b-Q100",
@@ -422,14 +422,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "fbf1ad538fa4ceb1782ed4577449c6f12806b898e6a51158c3080751cf7e3752",
       "pdf": "2026-1-ACC2_USB-709bc037689b.pdf",
-      "estado": "guardada_en_4188_rev26",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 18,
       "numero_sesion": 97,
       "editor_id": "q-sp003-s2-en-p4-01",
-      "revision": 26
+      "revision": 29
     },
     {
       "catalog_id": "USB-709bc037689b-Q101",
@@ -445,14 +445,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "fbf1ad538fa4ceb1782ed4577449c6f12806b898e6a51158c3080751cf7e3752",
       "pdf": "2026-1-ACC2_USB-709bc037689b.pdf",
-      "estado": "guardada_en_4188_rev26",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 19,
       "numero_sesion": 98,
       "editor_id": "q-sp003-s2-en-p4-02",
-      "revision": 26
+      "revision": 29
     },
     {
       "catalog_id": "USB-709bc037689b-Q102",
@@ -468,14 +468,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "fbf1ad538fa4ceb1782ed4577449c6f12806b898e6a51158c3080751cf7e3752",
       "pdf": "2026-1-ACC2_USB-709bc037689b.pdf",
-      "estado": "guardada_en_4188_rev26",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 20,
       "numero_sesion": 99,
       "editor_id": "q-sp003-s2-en-p4-03",
-      "revision": 26
+      "revision": 29
     },
     {
       "catalog_id": "USB-709bc037689b-Q103",
@@ -491,14 +491,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "fbf1ad538fa4ceb1782ed4577449c6f12806b898e6a51158c3080751cf7e3752",
       "pdf": "2026-1-ACC2_USB-709bc037689b.pdf",
-      "estado": "guardada_en_4188_rev26",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 21,
       "numero_sesion": 100,
       "editor_id": "q-sp003-s2-en-p4-04",
-      "revision": 26
+      "revision": 29
     },
     {
       "catalog_id": "USB-709bc037689b-Q104",
@@ -514,14 +514,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "fbf1ad538fa4ceb1782ed4577449c6f12806b898e6a51158c3080751cf7e3752",
       "pdf": "2026-1-ACC2_USB-709bc037689b.pdf",
-      "estado": "guardada_en_4188_rev26",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 22,
       "numero_sesion": 101,
       "editor_id": "q-sp003-s2-en-p4-05",
-      "revision": 26
+      "revision": 29
     },
     {
       "catalog_id": "USB-709bc037689b-Q105",
@@ -537,14 +537,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "fbf1ad538fa4ceb1782ed4577449c6f12806b898e6a51158c3080751cf7e3752",
       "pdf": "2026-1-ACC2_USB-709bc037689b.pdf",
-      "estado": "guardada_en_4188_rev26",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 23,
       "numero_sesion": 102,
       "editor_id": "q-sp003-s2-en-p4-06",
-      "revision": 26
+      "revision": 29
     },
     {
       "catalog_id": "USB-709bc037689b-Q106",
@@ -560,14 +560,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "fbf1ad538fa4ceb1782ed4577449c6f12806b898e6a51158c3080751cf7e3752",
       "pdf": "2026-1-ACC2_USB-709bc037689b.pdf",
-      "estado": "guardada_en_4188_rev26",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 24,
       "numero_sesion": 103,
       "editor_id": "q-sp003-s2-en-p4-07",
-      "revision": 26
+      "revision": 29
     },
     {
       "catalog_id": "USB-709bc037689b-Q107",
@@ -583,14 +583,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "fbf1ad538fa4ceb1782ed4577449c6f12806b898e6a51158c3080751cf7e3752",
       "pdf": "2026-1-ACC2_USB-709bc037689b.pdf",
-      "estado": "guardada_en_4188_rev26",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 25,
       "numero_sesion": 104,
       "editor_id": "q-sp003-s2-en-p4-08",
-      "revision": 26
+      "revision": 29
     },
     {
       "catalog_id": "USB-60fb8a40c3bb-Q010.2",
@@ -607,7 +607,7 @@
       "competencia": "Competencia comunicativa",
       "source_sha256": "9ff08eb8dfaf2ce225a4f3c76c280131498e31bda9518174a224d5e301760459",
       "pdf": "Cuadernillo de preguntas ingles saber 11 - 2019.pdf",
-      "estado": "guardada_en_4188_rev26",
+      "estado": "guardada_en_4188_rev29",
       "procedencia": "ficha complementaria creada tras lectura visual del original; no implica auditoría de todo el PDF",
       "simulacro": "SP-003",
       "sesion": "segunda",
@@ -615,7 +615,7 @@
       "numero_area": 26,
       "numero_sesion": 105,
       "editor_id": "q-sp003-s2-en-p4-09",
-      "revision": 26
+      "revision": 29
     },
     {
       "catalog_id": "USB-60fb8a40c3bb-Q011.2",
@@ -632,7 +632,7 @@
       "competencia": "Competencia comunicativa",
       "source_sha256": "9ff08eb8dfaf2ce225a4f3c76c280131498e31bda9518174a224d5e301760459",
       "pdf": "Cuadernillo de preguntas ingles saber 11 - 2019.pdf",
-      "estado": "guardada_en_4188_rev26",
+      "estado": "guardada_en_4188_rev29",
       "procedencia": "ficha complementaria creada tras lectura visual del original; no implica auditoría de todo el PDF",
       "simulacro": "SP-003",
       "sesion": "segunda",
@@ -640,7 +640,7 @@
       "numero_area": 27,
       "numero_sesion": 106,
       "editor_id": "q-sp003-s2-en-p4-10",
-      "revision": 26
+      "revision": 29
     },
     {
       "catalog_id": "USB-7882c8f9ae2f-Q108",
@@ -656,14 +656,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
       "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
-      "estado": "guardada_en_4188_rev26",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 28,
       "numero_sesion": 107,
       "editor_id": "q-sp003-s2-en-p5-01",
-      "revision": 26
+      "revision": 29
     },
     {
       "catalog_id": "USB-7882c8f9ae2f-Q109",
@@ -679,14 +679,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
       "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
-      "estado": "guardada_en_4188_rev26",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 29,
       "numero_sesion": 108,
       "editor_id": "q-sp003-s2-en-p5-02",
-      "revision": 26
+      "revision": 29
     },
     {
       "catalog_id": "USB-7882c8f9ae2f-Q110",
@@ -702,14 +702,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
       "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
-      "estado": "guardada_en_4188_rev26",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 30,
       "numero_sesion": 109,
       "editor_id": "q-sp003-s2-en-p5-03",
-      "revision": 26
+      "revision": 29
     },
     {
       "catalog_id": "USB-7882c8f9ae2f-Q111",
@@ -725,14 +725,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
       "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
-      "estado": "guardada_en_4188_rev26",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 31,
       "numero_sesion": 110,
       "editor_id": "q-sp003-s2-en-p5-04",
-      "revision": 26
+      "revision": 29
     },
     {
       "catalog_id": "USB-7882c8f9ae2f-Q112",
@@ -748,14 +748,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
       "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
-      "estado": "guardada_en_4188_rev26",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 32,
       "numero_sesion": 111,
       "editor_id": "q-sp003-s2-en-p5-05",
-      "revision": 26
+      "revision": 29
     },
     {
       "catalog_id": "USB-7882c8f9ae2f-Q113",
@@ -771,14 +771,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
       "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
-      "estado": "guardada_en_4188_rev26",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 33,
       "numero_sesion": 112,
       "editor_id": "q-sp003-s2-en-p5-06",
-      "revision": 26
+      "revision": 29
     },
     {
       "catalog_id": "USB-7882c8f9ae2f-Q114",
@@ -794,14 +794,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
       "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
-      "estado": "guardada_en_4188_rev26",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 34,
       "numero_sesion": 113,
       "editor_id": "q-sp003-s2-en-p5-07",
-      "revision": 26
+      "revision": 29
     },
     {
       "catalog_id": "USB-60fb8a40c3bb-Q017.1",
@@ -819,7 +819,7 @@
       "competencia": "Competencia comunicativa",
       "source_sha256": "9ff08eb8dfaf2ce225a4f3c76c280131498e31bda9518174a224d5e301760459",
       "pdf": "Cuadernillo de preguntas ingles saber 11 - 2019.pdf",
-      "estado": "guardada_en_4188_rev26",
+      "estado": "guardada_en_4188_rev29",
       "procedencia": "ficha complementaria creada tras lectura visual del original; no implica auditoría de todo el PDF",
       "simulacro": "SP-003",
       "sesion": "segunda",
@@ -827,7 +827,7 @@
       "numero_area": 35,
       "numero_sesion": 114,
       "editor_id": "q-sp003-s2-en-p5-08",
-      "revision": 26
+      "revision": 29
     },
     {
       "catalog_id": "USB-60fb8a40c3bb-Q018.1",
@@ -845,7 +845,7 @@
       "competencia": "Competencia comunicativa",
       "source_sha256": "9ff08eb8dfaf2ce225a4f3c76c280131498e31bda9518174a224d5e301760459",
       "pdf": "Cuadernillo de preguntas ingles saber 11 - 2019.pdf",
-      "estado": "guardada_en_4188_rev26",
+      "estado": "guardada_en_4188_rev29",
       "procedencia": "ficha complementaria creada tras lectura visual del original; no implica auditoría de todo el PDF",
       "simulacro": "SP-003",
       "sesion": "segunda",
@@ -853,7 +853,7 @@
       "numero_area": 36,
       "numero_sesion": 115,
       "editor_id": "q-sp003-s2-en-p5-09",
-      "revision": 26
+      "revision": 29
     },
     {
       "catalog_id": "USB-709bc037689b-Q115",
@@ -869,12 +869,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "fbf1ad538fa4ceb1782ed4577449c6f12806b898e6a51158c3080751cf7e3752",
       "pdf": "2026-1-ACC2_USB-709bc037689b.pdf",
-      "estado": "reservada_por_usuario_pendiente_carga",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 37,
-      "numero_sesion": 116
+      "numero_sesion": 116,
+      "editor_id": "q-7c7bc22a-171b-4977-945f-f7a486f12a2a",
+      "revision": 29
     },
     {
       "catalog_id": "USB-709bc037689b-Q116",
@@ -890,12 +892,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "fbf1ad538fa4ceb1782ed4577449c6f12806b898e6a51158c3080751cf7e3752",
       "pdf": "2026-1-ACC2_USB-709bc037689b.pdf",
-      "estado": "reservada_por_usuario_pendiente_carga",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 38,
-      "numero_sesion": 117
+      "numero_sesion": 117,
+      "editor_id": "q-0e612c5f-d73d-43e0-88ed-d1084b85e703",
+      "revision": 29
     },
     {
       "catalog_id": "USB-709bc037689b-Q117",
@@ -911,12 +915,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "fbf1ad538fa4ceb1782ed4577449c6f12806b898e6a51158c3080751cf7e3752",
       "pdf": "2026-1-ACC2_USB-709bc037689b.pdf",
-      "estado": "reservada_por_usuario_pendiente_carga",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 39,
-      "numero_sesion": 118
+      "numero_sesion": 118,
+      "editor_id": "q-d967850e-bb3c-4697-8e9a-1d9c601a6d32",
+      "revision": 29
     },
     {
       "catalog_id": "USB-709bc037689b-Q118",
@@ -932,12 +938,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "fbf1ad538fa4ceb1782ed4577449c6f12806b898e6a51158c3080751cf7e3752",
       "pdf": "2026-1-ACC2_USB-709bc037689b.pdf",
-      "estado": "reservada_por_usuario_pendiente_carga",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 40,
-      "numero_sesion": 119
+      "numero_sesion": 119,
+      "editor_id": "q-faa742da-dc19-4ae5-a1fe-2ac5bc986bf9",
+      "revision": 29
     },
     {
       "catalog_id": "USB-709bc037689b-Q119",
@@ -953,12 +961,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "fbf1ad538fa4ceb1782ed4577449c6f12806b898e6a51158c3080751cf7e3752",
       "pdf": "2026-1-ACC2_USB-709bc037689b.pdf",
-      "estado": "reservada_por_usuario_pendiente_carga",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 41,
-      "numero_sesion": 120
+      "numero_sesion": 120,
+      "editor_id": "q-65f8b31d-ed8f-4cfd-b551-5ce50da78e2f",
+      "revision": 29
     },
     {
       "catalog_id": "USB-6093aa3432dd-Q007",
@@ -975,13 +985,15 @@
       "competencia": "Competencia comunicativa",
       "source_sha256": "315646f8178a338cacc2bcfa2143954e7b0abee4cc34ed258df7ebece765f3db",
       "pdf": "Preguntas_explicadas_ingles_Saber_11.pdf",
-      "estado": "reservada_por_usuario_pendiente_carga",
+      "estado": "guardada_en_4188_rev29",
       "procedencia": "ficha complementaria creada tras lectura visual del original; no implica auditoría de todo el PDF",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 42,
-      "numero_sesion": 121
+      "numero_sesion": 121,
+      "editor_id": "q-sp003-s2-en-p6-06",
+      "revision": 29
     },
     {
       "catalog_id": "USB-7882c8f9ae2f-Q125",
@@ -997,12 +1009,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
       "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
-      "estado": "reservada_por_usuario_pendiente_carga",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 43,
-      "numero_sesion": 122
+      "numero_sesion": 122,
+      "editor_id": "q-sp003-s2-en-p7-01",
+      "revision": 29
     },
     {
       "catalog_id": "USB-7882c8f9ae2f-Q126",
@@ -1018,12 +1032,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
       "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
-      "estado": "reservada_por_usuario_pendiente_carga",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 44,
-      "numero_sesion": 123
+      "numero_sesion": 123,
+      "editor_id": "q-sp003-s2-en-p7-02",
+      "revision": 29
     },
     {
       "catalog_id": "USB-7882c8f9ae2f-Q127",
@@ -1039,12 +1055,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
       "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
-      "estado": "reservada_por_usuario_pendiente_carga",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 45,
-      "numero_sesion": 124
+      "numero_sesion": 124,
+      "editor_id": "q-sp003-s2-en-p7-03",
+      "revision": 29
     },
     {
       "catalog_id": "USB-7882c8f9ae2f-Q128",
@@ -1060,12 +1078,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
       "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
-      "estado": "reservada_por_usuario_pendiente_carga",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 46,
-      "numero_sesion": 125
+      "numero_sesion": 125,
+      "editor_id": "q-sp003-s2-en-p7-04",
+      "revision": 29
     },
     {
       "catalog_id": "USB-7882c8f9ae2f-Q129",
@@ -1081,12 +1101,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
       "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
-      "estado": "reservada_por_usuario_pendiente_carga",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 47,
-      "numero_sesion": 126
+      "numero_sesion": 126,
+      "editor_id": "q-sp003-s2-en-p7-05",
+      "revision": 29
     },
     {
       "catalog_id": "USB-7882c8f9ae2f-Q130",
@@ -1102,12 +1124,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
       "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
-      "estado": "reservada_por_usuario_pendiente_carga",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 48,
-      "numero_sesion": 127
+      "numero_sesion": 127,
+      "editor_id": "q-sp003-s2-en-p7-06",
+      "revision": 29
     },
     {
       "catalog_id": "USB-7882c8f9ae2f-Q131",
@@ -1123,12 +1147,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
       "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
-      "estado": "reservada_por_usuario_pendiente_carga",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 49,
-      "numero_sesion": 128
+      "numero_sesion": 128,
+      "editor_id": "q-sp003-s2-en-p7-07",
+      "revision": 29
     },
     {
       "catalog_id": "USB-7882c8f9ae2f-Q132",
@@ -1144,12 +1170,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
       "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
-      "estado": "reservada_por_usuario_pendiente_carga",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 50,
-      "numero_sesion": 129
+      "numero_sesion": 129,
+      "editor_id": "q-sp003-s2-en-p7-08",
+      "revision": 29
     },
     {
       "catalog_id": "USB-7882c8f9ae2f-Q133",
@@ -1165,12 +1193,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
       "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
-      "estado": "reservada_por_usuario_pendiente_carga",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 51,
-      "numero_sesion": 130
+      "numero_sesion": 130,
+      "editor_id": "q-sp003-s2-en-p7-09",
+      "revision": 29
     },
     {
       "catalog_id": "USB-7882c8f9ae2f-Q134",
@@ -1186,12 +1216,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
       "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
-      "estado": "reservada_por_usuario_pendiente_carga",
+      "estado": "guardada_en_4188_rev29",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 52,
-      "numero_sesion": 131
+      "numero_sesion": 131,
+      "editor_id": "q-sp003-s2-en-p7-10",
+      "revision": 29
     },
     {
       "catalog_id": "USB-60fb8a40c3bb-Q022.2",
@@ -1208,13 +1240,15 @@
       "competencia": "Competencia comunicativa",
       "source_sha256": "9ff08eb8dfaf2ce225a4f3c76c280131498e31bda9518174a224d5e301760459",
       "pdf": "Cuadernillo de preguntas ingles saber 11 - 2019.pdf",
-      "estado": "reservada_por_usuario_pendiente_carga",
+      "estado": "guardada_en_4188_rev29",
       "procedencia": "ficha complementaria creada tras lectura visual del original; no implica auditoría de todo el PDF",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 53,
-      "numero_sesion": 132
+      "numero_sesion": 132,
+      "editor_id": "q-sp003-s2-en-p7-11",
+      "revision": 29
     },
     {
       "catalog_id": "USB-60fb8a40c3bb-Q023.2",
@@ -1231,13 +1265,15 @@
       "competencia": "Competencia comunicativa",
       "source_sha256": "9ff08eb8dfaf2ce225a4f3c76c280131498e31bda9518174a224d5e301760459",
       "pdf": "Cuadernillo de preguntas ingles saber 11 - 2019.pdf",
-      "estado": "reservada_por_usuario_pendiente_carga",
+      "estado": "guardada_en_4188_rev29",
       "procedencia": "ficha complementaria creada tras lectura visual del original; no implica auditoría de todo el PDF",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 54,
-      "numero_sesion": 133
+      "numero_sesion": 133,
+      "editor_id": "q-sp003-s2-en-p7-12",
+      "revision": 29
     },
     {
       "catalog_id": "USB-60fb8a40c3bb-Q024.2",
@@ -1254,13 +1290,15 @@
       "competencia": "Competencia comunicativa",
       "source_sha256": "9ff08eb8dfaf2ce225a4f3c76c280131498e31bda9518174a224d5e301760459",
       "pdf": "Cuadernillo de preguntas ingles saber 11 - 2019.pdf",
-      "estado": "reservada_por_usuario_pendiente_carga",
+      "estado": "guardada_en_4188_rev29",
       "procedencia": "ficha complementaria creada tras lectura visual del original; no implica auditoría de todo el PDF",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 55,
-      "numero_sesion": 134
+      "numero_sesion": 134,
+      "editor_id": "q-sp003-s2-en-p7-13",
+      "revision": 29
     }
   ],
   "equivalencias_no_reutilizar": [
@@ -2036,8 +2074,9 @@
       ]
     }
   ],
-  "revision_editor": 26,
-  "ingles_guardadas": 36,
-  "ingles_pendientes": 19,
-  "adaptacion_parte4": "Ejecutada: espacios originales no evaluados 12 These, 13 largest y 14 in completados según clave del Examen 2, física 20."
+  "revision_editor": 29,
+  "ingles_guardadas": 55,
+  "ingles_pendientes": 0,
+  "adaptacion_parte4": "Ejecutada: espacios originales no evaluados 12 These, 13 largest y 14 in completados según clave del Examen 2, física 20.",
+  "adaptacion_parte7": "Ejecutada: espacio original 25 almost completado sin evaluarlo; clave Examen 2, física 20."
 }
