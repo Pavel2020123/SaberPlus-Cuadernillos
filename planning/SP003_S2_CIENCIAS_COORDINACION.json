@@ -3,7 +3,7 @@
   "simulacro": "SP-003",
   "sesion": "segunda",
   "area": "science",
-  "revision": null,
+  "revision": 22,
   "preguntas": [
     {
       "numero_area": 1,
@@ -16,7 +16,7 @@
       "competencia": "knowledge",
       "componente": "biological",
       "contexto": "Independiente",
-      "estado": "selección autorizada para carga y revisión posterior"
+      "estado": "guardadas en 4188, revisión 22; revisión individual del usuario e integración del coordinador pendientes"
     },
     {
       "numero_area": 2,
@@ -29,7 +29,7 @@
       "competencia": "knowledge",
       "componente": "biological",
       "contexto": "Independiente",
-      "estado": "selección autorizada para carga y revisión posterior"
+      "estado": "guardadas en 4188, revisión 22; revisión individual del usuario e integración del coordinador pendientes"
     },
     {
       "numero_area": 3,
@@ -42,7 +42,7 @@
       "competencia": "knowledge",
       "componente": "biological",
       "contexto": "Independiente",
-      "estado": "selección autorizada para carga y revisión posterior"
+      "estado": "guardadas en 4188, revisión 22; revisión individual del usuario e integración del coordinador pendientes"
     },
     {
       "numero_area": 4,
@@ -55,7 +55,7 @@
       "competencia": "explanation",
       "componente": "biological",
       "contexto": "Independiente",
-      "estado": "selección autorizada para carga y revisión posterior"
+      "estado": "guardadas en 4188, revisión 22; revisión individual del usuario e integración del coordinador pendientes"
     },
     {
       "numero_area": 5,
@@ -68,7 +68,7 @@
       "competencia": "inquiry",
       "componente": "chemical",
       "contexto": "Independiente",
-      "estado": "selección autorizada para carga y revisión posterior"
+      "estado": "guardadas en 4188, revisión 22; revisión individual del usuario e integración del coordinador pendientes"
     },
     {
       "numero_area": 6,
@@ -81,7 +81,7 @@
       "competencia": "inquiry",
       "componente": "chemical",
       "contexto": "Independiente",
-      "estado": "selección autorizada para carga y revisión posterior"
+      "estado": "guardadas en 4188, revisión 22; revisión individual del usuario e integración del coordinador pendientes"
     },
     {
       "numero_area": 7,
@@ -94,7 +94,7 @@
       "competencia": "inquiry",
       "componente": "biological",
       "contexto": "Independiente",
-      "estado": "selección autorizada para carga y revisión posterior"
+      "estado": "guardadas en 4188, revisión 22; revisión individual del usuario e integración del coordinador pendientes"
     },
     {
       "numero_area": 8,
@@ -107,7 +107,7 @@
       "competencia": "inquiry",
       "componente": "biological",
       "contexto": "Independiente",
-      "estado": "selección autorizada para carga y revisión posterior"
+      "estado": "guardadas en 4188, revisión 22; revisión individual del usuario e integración del coordinador pendientes"
     },
     {
       "numero_area": 9,
@@ -120,7 +120,7 @@
       "competencia": "inquiry",
       "componente": "biological",
       "contexto": "Independiente",
-      "estado": "selección autorizada para carga y revisión posterior"
+      "estado": "guardadas en 4188, revisión 22; revisión individual del usuario e integración del coordinador pendientes"
     },
     {
       "numero_area": 10,
@@ -133,7 +133,7 @@
       "competencia": "explanation",
       "componente": "biological",
       "contexto": "glifosato",
-      "estado": "selección autorizada para carga y revisión posterior"
+      "estado": "guardadas en 4188, revisión 22; revisión individual del usuario e integración del coordinador pendientes"
     },
     {
       "numero_area": 11,
@@ -146,7 +146,7 @@
       "competencia": "inquiry",
       "componente": "biological",
       "contexto": "glifosato",
-      "estado": "selección autorizada para carga y revisión posterior"
+      "estado": "guardadas en 4188, revisión 22; revisión individual del usuario e integración del coordinador pendientes"
     },
     {
       "numero_area": 12,
@@ -159,7 +159,7 @@
       "competencia": "knowledge",
       "componente": "physical",
       "contexto": "Independiente",
-      "estado": "selección autorizada para carga y revisión posterior"
+      "estado": "guardadas en 4188, revisión 22; revisión individual del usuario e integración del coordinador pendientes"
     },
     {
       "numero_area": 13,
@@ -172,7 +172,7 @@
       "competencia": "knowledge",
       "componente": "physical",
       "contexto": "Independiente",
-      "estado": "selección autorizada para carga y revisión posterior"
+      "estado": "guardadas en 4188, revisión 22; revisión individual del usuario e integración del coordinador pendientes"
     },
     {
       "numero_area": 14,
@@ -185,7 +185,7 @@
       "competencia": "explanation",
       "componente": "physical",
       "contexto": "Independiente",
-      "estado": "selección autorizada para carga y revisión posterior"
+      "estado": "guardadas en 4188, revisión 22; revisión individual del usuario e integración del coordinador pendientes"
     },
     {
       "numero_area": 15,
@@ -198,7 +198,7 @@
       "competencia": "explanation",
       "componente": "physical",
       "contexto": "telescopio",
-      "estado": "selección autorizada para carga y revisión posterior"
+      "estado": "guardadas en 4188, revisión 22; revisión individual del usuario e integración del coordinador pendientes"
     },
     {
       "numero_area": 16,
@@ -211,7 +211,7 @@
       "competencia": "knowledge",
       "componente": "physical",
       "contexto": "telescopio",
-      "estado": "selección autorizada para carga y revisión posterior"
+      "estado": "guardadas en 4188, revisión 22; revisión individual del usuario e integración del coordinador pendientes"
     },
     {
       "numero_area": 17,
@@ -224,7 +224,7 @@
       "competencia": "inquiry",
       "componente": "physical",
       "contexto": "Independiente",
-      "estado": "selección autorizada para carga y revisión posterior"
+      "estado": "guardadas en 4188, revisión 22; revisión individual del usuario e integración del coordinador pendientes"
     },
     {
       "numero_area": 18,
@@ -237,7 +237,7 @@
       "competencia": "inquiry",
       "componente": "physical",
       "contexto": "Independiente",
-      "estado": "selección autorizada para carga y revisión posterior"
+      "estado": "guardadas en 4188, revisión 22; revisión individual del usuario e integración del coordinador pendientes"
     },
     {
       "numero_area": 19,
@@ -250,7 +250,7 @@
       "competencia": "inquiry",
       "componente": "physical",
       "contexto": "Independiente",
-      "estado": "selección autorizada para carga y revisión posterior"
+      "estado": "guardadas en 4188, revisión 22; revisión individual del usuario e integración del coordinador pendientes"
     },
     {
       "numero_area": 20,
@@ -263,7 +263,7 @@
       "competencia": "knowledge",
       "componente": "chemical",
       "contexto": "Independiente",
-      "estado": "selección autorizada para carga y revisión posterior"
+      "estado": "guardadas en 4188, revisión 22; revisión individual del usuario e integración del coordinador pendientes"
     },
     {
       "numero_area": 21,
@@ -276,7 +276,7 @@
       "competencia": "knowledge",
       "componente": "chemical",
       "contexto": "Independiente",
-      "estado": "selección autorizada para carga y revisión posterior"
+      "estado": "guardadas en 4188, revisión 22; revisión individual del usuario e integración del coordinador pendientes"
     },
     {
       "numero_area": 22,
@@ -289,7 +289,7 @@
       "competencia": "explanation",
       "componente": "chemical",
       "contexto": "Independiente",
-      "estado": "selección autorizada para carga y revisión posterior"
+      "estado": "guardadas en 4188, revisión 22; revisión individual del usuario e integración del coordinador pendientes"
     },
     {
       "numero_area": 23,
@@ -302,7 +302,7 @@
       "competencia": "explanation",
       "componente": "chemical",
       "contexto": "Independiente",
-      "estado": "selección autorizada para carga y revisión posterior"
+      "estado": "guardadas en 4188, revisión 22; revisión individual del usuario e integración del coordinador pendientes"
     },
     {
       "numero_area": 24,
@@ -315,7 +315,7 @@
       "competencia": "explanation",
       "componente": "chemical",
       "contexto": "desalinizador",
-      "estado": "selección autorizada para carga y revisión posterior"
+      "estado": "guardadas en 4188, revisión 22; revisión individual del usuario e integración del coordinador pendientes"
     },
     {
       "numero_area": 25,
@@ -328,7 +328,7 @@
       "competencia": "inquiry",
       "componente": "chemical",
       "contexto": "Independiente",
-      "estado": "selección autorizada para carga y revisión posterior"
+      "estado": "guardadas en 4188, revisión 22; revisión individual del usuario e integración del coordinador pendientes"
     },
     {
       "numero_area": 26,
@@ -341,7 +341,7 @@
       "competencia": "inquiry",
       "componente": "chemical",
       "contexto": "Independiente",
-      "estado": "selección autorizada para carga y revisión posterior"
+      "estado": "guardadas en 4188, revisión 22; revisión individual del usuario e integración del coordinador pendientes"
     },
     {
       "numero_area": 27,
@@ -354,7 +354,7 @@
       "competencia": "knowledge",
       "componente": "cts",
       "contexto": "energia",
-      "estado": "selección autorizada para carga y revisión posterior"
+      "estado": "guardadas en 4188, revisión 22; revisión individual del usuario e integración del coordinador pendientes"
     },
     {
       "numero_area": 28,
@@ -367,7 +367,7 @@
       "competencia": "explanation",
       "componente": "cts",
       "contexto": "energia",
-      "estado": "selección autorizada para carga y revisión posterior"
+      "estado": "guardadas en 4188, revisión 22; revisión individual del usuario e integración del coordinador pendientes"
     },
     {
       "numero_area": 29,
@@ -380,7 +380,7 @@
       "competencia": "inquiry",
       "componente": "cts",
       "contexto": "energia",
-      "estado": "selección autorizada para carga y revisión posterior"
+      "estado": "guardadas en 4188, revisión 22; revisión individual del usuario e integración del coordinador pendientes"
     }
   ]
 }

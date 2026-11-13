@@ -1,5 +1,3 @@
-> **Corrección posterior al cierre provisional:** main `519e1aa` publicó Ciencias SP-001 segunda. La revisión 20 de SP-003 contiene 13 coincidencias, incluida papa Q058/ d4e43db6988a-Q108. Se conserva como respaldo, no como entrega definitiva sin repeticiones. Sustituciones en curso; los controles y afirmaciones de cierre siguientes corresponden al registro anterior.
-
 > **Último cierre de carga · 12/11/2026:**25 Matemáticas y55 Inglés de segunda sesión,80 preguntas. Ver [cierre y observaciones](planning/SP001_S2_MAT_CIERRE_CARGA.md). Paquete portable en `handoff/SP001_segunda_matematicas_ingles/`. Aún faltan Sociales y Ciencias y la revisión final de los PDF.
 
 > **Estado vigente · 12/11/2026:** inglés de segunda sesión completo (55 preguntas), códigos registrados y paquete JSON con imágenes. Leer [cambios e instrucciones para el equipo](docs/ACTUALIZACION_INGLES_EQUIPO.md) antes de actualizar o importar. Los estados y repartos anteriores son antecedentes.
@@ -10,7 +8,7 @@ Proyecto independiente para diseñar y generar cuadernillos de práctica en PDF.
 
 ## Punto de continuación actual
 
-**SP-003 · Segunda sesión · Ciencias completa:** **4188, revisión 20 / 79 preguntas**: 25 Sociales y 25 Matemáticas intactas, más 29 Ciencias (9/8/12; componentes 9/8/9/3). [Entrega, 29 códigos, tres PDF y controles](planning/SP003_S2_CIENCIAS_CARGA.md). Primera sesión rev. 26 / 120 sin cambios. Faltan 55 Inglés, revisión individual del usuario e integración del coordinador. Los estados anteriores de Ciencias pendiente son antecedentes.
+**SP-003 · Segunda sesión · Ciencias completa:** **4188, revisión 22 / 79 preguntas**: 25 Sociales y 25 Matemáticas intactas, más 29 Ciencias (9/8/12; componentes 9/8/9/3). [Entrega, códigos, tres PDF y controles](planning/SP003_S2_CIENCIAS_CARGA.md). Se sustituyeron los 13 cruces de revisión 20 con SP-001 y se corrigió a B la clave del inhibidor. Primera sesión rev. 26 / 120 sin cambios. Faltan 55 Inglés, revisión individual e integración del coordinador.
 
 **SP-003 · Segunda sesión · Matemáticas completa:** **4188, revisión 16 / 50 preguntas**, 25 Sociales conservadas y 25 Matemáticas con reparto 8/11/6. [Entrega, tres PDF y controles](planning/SP003_S2_MATEMATICAS_CARGA.md); [25 códigos definitivos de Matemáticas](planning/SP003_S2_MATEMATICAS_CODIGOS.txt). La 45 final es `USB-578d9b20297e-Q039`. Primera sesión intacta, rev. 26 / 120. Revisión individual e integración del coordinador pendientes; faltan Ciencias 29 e Inglés 55. Los estados anteriores de Matemáticas sin cargar son antecedentes.
 
