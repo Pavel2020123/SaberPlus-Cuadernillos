@@ -3,20 +3,20 @@
   "simulacro": "SP-003",
   "sesion": "segunda",
   "area": "science",
-  "revision": 20,
+  "revision": null,
   "preguntas": [
     {
       "numero_area": 1,
       "numero_sesion": 51,
-      "catalog_id": "USB-7b48857ae6bc-Q102",
-      "pdf": "Referencia_Sesion-1_Ano-por-confirmar_Sin-portada_USB-7b48857ae6bc.pdf",
-      "source_sha256": "e097030e30d207442b8d940520b00a6ddd0a9f3cd581b4fc92cc6c21ba109d57",
-      "pagina_fisica": 34,
-      "numero_original": 102,
+      "catalog_id": "USB-45e476387c60-Q078",
+      "pdf": "2025-2-AAK2_USB-45e476387c60.pdf",
+      "source_sha256": "c3a56c263759d694cbe5a120a2c06610f7ccc3c2c8a3ce294b4c46307cb707c6",
+      "pagina_fisica": 29,
+      "numero_original": 78,
       "competencia": "knowledge",
       "componente": "biological",
       "contexto": "Independiente",
-      "estado": "guardadas en 4188, revisión 20; revisión individual del usuario e integración del coordinador pendientes"
+      "estado": "selección autorizada para carga y revisión posterior"
     },
     {
       "numero_area": 2,
@@ -29,20 +29,20 @@
       "competencia": "knowledge",
       "componente": "biological",
       "contexto": "Independiente",
-      "estado": "guardadas en 4188, revisión 20; revisión individual del usuario e integración del coordinador pendientes"
+      "estado": "selección autorizada para carga y revisión posterior"
     },
     {
       "numero_area": 3,
       "numero_sesion": 53,
-      "catalog_id": "USB-709bc037689b-Q077",
-      "pdf": "2026-1-ACC2_USB-709bc037689b.pdf",
-      "source_sha256": "fbf1ad538fa4ceb1782ed4577449c6f12806b898e6a51158c3080751cf7e3752",
-      "pagina_fisica": 31,
-      "numero_original": 77,
+      "catalog_id": "USB-d4e43db6988a-Q114",
+      "pdf": "ICFES_2026_Cal-B_Sesion-1_Condor-Andino_Ref001_USB-d4e43db6988a.pdf",
+      "source_sha256": "0e11d3447856c31df81560ab183b27b138df951c088d715ab2a11640facf6092",
+      "pagina_fisica": 41,
+      "numero_original": 114,
       "competencia": "knowledge",
       "componente": "biological",
       "contexto": "Independiente",
-      "estado": "guardadas en 4188, revisión 20; revisión individual del usuario e integración del coordinador pendientes"
+      "estado": "selección autorizada para carga y revisión posterior"
     },
     {
       "numero_area": 4,
@@ -55,46 +55,46 @@
       "competencia": "explanation",
       "componente": "biological",
       "contexto": "Independiente",
-      "estado": "guardadas en 4188, revisión 20; revisión individual del usuario e integración del coordinador pendientes"
+      "estado": "selección autorizada para carga y revisión posterior"
     },
     {
       "numero_area": 5,
       "numero_sesion": 55,
-      "catalog_id": "USB-1c44481d3d4a-Q054",
-      "pdf": "Referencia_2026-1-declarado_Sesion-2_ABV2_USB-1c44481d3d4a.pdf",
-      "source_sha256": "73f4a0c626812d201c9cf701ab19f5dc106be94d5e4311288f366d0316c6b6fd",
+      "catalog_id": "USB-45e476387c60-Q061",
+      "pdf": "2025-2-AAK2_USB-45e476387c60.pdf",
+      "source_sha256": "c3a56c263759d694cbe5a120a2c06610f7ccc3c2c8a3ce294b4c46307cb707c6",
       "pagina_fisica": 22,
-      "numero_original": 54,
+      "numero_original": 61,
       "competencia": "inquiry",
       "componente": "chemical",
-      "contexto": "metales",
-      "estado": "guardadas en 4188, revisión 20; revisión individual del usuario e integración del coordinador pendientes"
+      "contexto": "Independiente",
+      "estado": "selección autorizada para carga y revisión posterior"
     },
     {
       "numero_area": 6,
       "numero_sesion": 56,
-      "catalog_id": "USB-1c44481d3d4a-Q055",
-      "pdf": "Referencia_2026-1-declarado_Sesion-2_ABV2_USB-1c44481d3d4a.pdf",
-      "source_sha256": "73f4a0c626812d201c9cf701ab19f5dc106be94d5e4311288f366d0316c6b6fd",
-      "pagina_fisica": 23,
-      "numero_original": 55,
+      "catalog_id": "USB-45e476387c60-Q057",
+      "pdf": "2025-2-AAK2_USB-45e476387c60.pdf",
+      "source_sha256": "c3a56c263759d694cbe5a120a2c06610f7ccc3c2c8a3ce294b4c46307cb707c6",
+      "pagina_fisica": 21,
+      "numero_original": 57,
       "competencia": "inquiry",
       "componente": "chemical",
-      "contexto": "metales",
-      "estado": "guardadas en 4188, revisión 20; revisión individual del usuario e integración del coordinador pendientes"
+      "contexto": "Independiente",
+      "estado": "selección autorizada para carga y revisión posterior"
     },
     {
       "numero_area": 7,
       "numero_sesion": 57,
-      "catalog_id": "USB-1c44481d3d4a-Q056",
-      "pdf": "Referencia_2026-1-declarado_Sesion-2_ABV2_USB-1c44481d3d4a.pdf",
-      "source_sha256": "73f4a0c626812d201c9cf701ab19f5dc106be94d5e4311288f366d0316c6b6fd",
-      "pagina_fisica": 23,
-      "numero_original": 56,
-      "competencia": "explanation",
+      "catalog_id": "USB-45e476387c60-Q066",
+      "pdf": "2025-2-AAK2_USB-45e476387c60.pdf",
+      "source_sha256": "c3a56c263759d694cbe5a120a2c06610f7ccc3c2c8a3ce294b4c46307cb707c6",
+      "pagina_fisica": 24,
+      "numero_original": 66,
+      "competencia": "inquiry",
       "componente": "biological",
-      "contexto": "metales",
-      "estado": "guardadas en 4188, revisión 20; revisión individual del usuario e integración del coordinador pendientes"
+      "contexto": "Independiente",
+      "estado": "selección autorizada para carga y revisión posterior"
     },
     {
       "numero_area": 8,
@@ -107,33 +107,33 @@
       "competencia": "inquiry",
       "componente": "biological",
       "contexto": "Independiente",
-      "estado": "guardadas en 4188, revisión 20; revisión individual del usuario e integración del coordinador pendientes"
+      "estado": "selección autorizada para carga y revisión posterior"
     },
     {
       "numero_area": 9,
       "numero_sesion": 59,
-      "catalog_id": "USB-04dc5257ed8b-Q105",
-      "pdf": "ICFES_2026_Cal-B-por-confirmar_Sesion-1_Castillo-San-Felipe_Ref020_USB-04dc5257ed8b.pdf",
-      "source_sha256": "5f56dff2cf940691bec4187c2087030a6a036a5b36d153bce38e8d51188103b4",
-      "pagina_fisica": 36,
-      "numero_original": 105,
+      "catalog_id": "USB-45e476387c60-Q075",
+      "pdf": "2025-2-AAK2_USB-45e476387c60.pdf",
+      "source_sha256": "c3a56c263759d694cbe5a120a2c06610f7ccc3c2c8a3ce294b4c46307cb707c6",
+      "pagina_fisica": 28,
+      "numero_original": 75,
       "competencia": "inquiry",
       "componente": "biological",
       "contexto": "Independiente",
-      "estado": "guardadas en 4188, revisión 20; revisión individual del usuario e integración del coordinador pendientes"
+      "estado": "selección autorizada para carga y revisión posterior"
     },
     {
       "numero_area": 10,
       "numero_sesion": 60,
-      "catalog_id": "USB-1c44481d3d4a-Q065",
-      "pdf": "Referencia_2026-1-declarado_Sesion-2_ABV2_USB-1c44481d3d4a.pdf",
-      "source_sha256": "73f4a0c626812d201c9cf701ab19f5dc106be94d5e4311288f366d0316c6b6fd",
-      "pagina_fisica": 28,
-      "numero_original": 65,
-      "competencia": "inquiry",
+      "catalog_id": "USB-7b48857ae6bc-Q095",
+      "pdf": "Referencia_Sesion-1_Ano-por-confirmar_Sin-portada_USB-7b48857ae6bc.pdf",
+      "source_sha256": "e097030e30d207442b8d940520b00a6ddd0a9f3cd581b4fc92cc6c21ba109d57",
+      "pagina_fisica": 32,
+      "numero_original": 95,
+      "competencia": "explanation",
       "componente": "biological",
-      "contexto": "Independiente",
-      "estado": "guardadas en 4188, revisión 20; revisión individual del usuario e integración del coordinador pendientes"
+      "contexto": "glifosato",
+      "estado": "selección autorizada para carga y revisión posterior"
     },
     {
       "numero_area": 11,
@@ -146,7 +146,7 @@
       "competencia": "inquiry",
       "componente": "biological",
       "contexto": "glifosato",
-      "estado": "guardadas en 4188, revisión 20; revisión individual del usuario e integración del coordinador pendientes"
+      "estado": "selección autorizada para carga y revisión posterior"
     },
     {
       "numero_area": 12,
@@ -159,33 +159,33 @@
       "competencia": "knowledge",
       "componente": "physical",
       "contexto": "Independiente",
-      "estado": "guardadas en 4188, revisión 20; revisión individual del usuario e integración del coordinador pendientes"
+      "estado": "selección autorizada para carga y revisión posterior"
     },
     {
       "numero_area": 13,
       "numero_sesion": 63,
-      "catalog_id": "USB-709bc037689b-Q078",
-      "pdf": "2026-1-ACC2_USB-709bc037689b.pdf",
-      "source_sha256": "fbf1ad538fa4ceb1782ed4577449c6f12806b898e6a51158c3080751cf7e3752",
-      "pagina_fisica": 32,
-      "numero_original": 78,
+      "catalog_id": "USB-7b48857ae6bc-Q100",
+      "pdf": "Referencia_Sesion-1_Ano-por-confirmar_Sin-portada_USB-7b48857ae6bc.pdf",
+      "source_sha256": "e097030e30d207442b8d940520b00a6ddd0a9f3cd581b4fc92cc6c21ba109d57",
+      "pagina_fisica": 34,
+      "numero_original": 100,
       "competencia": "knowledge",
       "componente": "physical",
       "contexto": "Independiente",
-      "estado": "guardadas en 4188, revisión 20; revisión individual del usuario e integración del coordinador pendientes"
+      "estado": "selección autorizada para carga y revisión posterior"
     },
     {
       "numero_area": 14,
       "numero_sesion": 64,
-      "catalog_id": "USB-2722e7c48dfd-Q048",
-      "pdf": "ICFES_2026_Cal-B-por-confirmar_Sesion-2_Cristo-Redentor_Ref029_USB-2722e7c48dfd.pdf",
-      "source_sha256": "0b44346f5e0c0bee4c0afe9136da06686b01bd056e96514410ba43db1c839677",
-      "pagina_fisica": 18,
-      "numero_original": 48,
+      "catalog_id": "USB-e58ef5771b78-Q062",
+      "pdf": "2025-2-AAQ2_USB-e58ef5771b78.pdf",
+      "source_sha256": "b26feaf961f7a26b3f911d511c6d01c641daf2c5af264649007f57b2be85845e",
+      "pagina_fisica": 12,
+      "numero_original": 62,
       "competencia": "explanation",
       "componente": "physical",
       "contexto": "Independiente",
-      "estado": "guardadas en 4188, revisión 20; revisión individual del usuario e integración del coordinador pendientes"
+      "estado": "selección autorizada para carga y revisión posterior"
     },
     {
       "numero_area": 15,
@@ -198,7 +198,7 @@
       "competencia": "explanation",
       "componente": "physical",
       "contexto": "telescopio",
-      "estado": "guardadas en 4188, revisión 20; revisión individual del usuario e integración del coordinador pendientes"
+      "estado": "selección autorizada para carga y revisión posterior"
     },
     {
       "numero_area": 16,
@@ -211,20 +211,20 @@
       "competencia": "knowledge",
       "componente": "physical",
       "contexto": "telescopio",
-      "estado": "guardadas en 4188, revisión 20; revisión individual del usuario e integración del coordinador pendientes"
+      "estado": "selección autorizada para carga y revisión posterior"
     },
     {
       "numero_area": 17,
       "numero_sesion": 67,
-      "catalog_id": "USB-04dc5257ed8b-Q103",
-      "pdf": "ICFES_2026_Cal-B-por-confirmar_Sesion-1_Castillo-San-Felipe_Ref020_USB-04dc5257ed8b.pdf",
-      "source_sha256": "5f56dff2cf940691bec4187c2087030a6a036a5b36d153bce38e8d51188103b4",
-      "pagina_fisica": 35,
-      "numero_original": 103,
+      "catalog_id": "USB-d4e43db6988a-Q106",
+      "pdf": "ICFES_2026_Cal-B_Sesion-1_Condor-Andino_Ref001_USB-d4e43db6988a.pdf",
+      "source_sha256": "0e11d3447856c31df81560ab183b27b138df951c088d715ab2a11640facf6092",
+      "pagina_fisica": 38,
+      "numero_original": 106,
       "competencia": "inquiry",
       "componente": "physical",
       "contexto": "Independiente",
-      "estado": "guardadas en 4188, revisión 20; revisión individual del usuario e integración del coordinador pendientes"
+      "estado": "selección autorizada para carga y revisión posterior"
     },
     {
       "numero_area": 18,
@@ -237,7 +237,7 @@
       "competencia": "inquiry",
       "componente": "physical",
       "contexto": "Independiente",
-      "estado": "guardadas en 4188, revisión 20; revisión individual del usuario e integración del coordinador pendientes"
+      "estado": "selección autorizada para carga y revisión posterior"
     },
     {
       "numero_area": 19,
@@ -250,7 +250,7 @@
       "competencia": "inquiry",
       "componente": "physical",
       "contexto": "Independiente",
-      "estado": "guardadas en 4188, revisión 20; revisión individual del usuario e integración del coordinador pendientes"
+      "estado": "selección autorizada para carga y revisión posterior"
     },
     {
       "numero_area": 20,
@@ -263,7 +263,7 @@
       "competencia": "knowledge",
       "componente": "chemical",
       "contexto": "Independiente",
-      "estado": "guardadas en 4188, revisión 20; revisión individual del usuario e integración del coordinador pendientes"
+      "estado": "selección autorizada para carga y revisión posterior"
     },
     {
       "numero_area": 21,
@@ -276,33 +276,33 @@
       "competencia": "knowledge",
       "componente": "chemical",
       "contexto": "Independiente",
-      "estado": "guardadas en 4188, revisión 20; revisión individual del usuario e integración del coordinador pendientes"
+      "estado": "selección autorizada para carga y revisión posterior"
     },
     {
       "numero_area": 22,
       "numero_sesion": 72,
-      "catalog_id": "USB-1c44481d3d4a-Q052",
-      "pdf": "Referencia_2026-1-declarado_Sesion-2_ABV2_USB-1c44481d3d4a.pdf",
-      "source_sha256": "73f4a0c626812d201c9cf701ab19f5dc106be94d5e4311288f366d0316c6b6fd",
-      "pagina_fisica": 20,
-      "numero_original": 52,
+      "catalog_id": "USB-45e476387c60-Q076",
+      "pdf": "2025-2-AAK2_USB-45e476387c60.pdf",
+      "source_sha256": "c3a56c263759d694cbe5a120a2c06610f7ccc3c2c8a3ce294b4c46307cb707c6",
+      "pagina_fisica": 28,
+      "numero_original": 76,
       "competencia": "explanation",
       "componente": "chemical",
       "contexto": "Independiente",
-      "estado": "guardadas en 4188, revisión 20; revisión individual del usuario e integración del coordinador pendientes"
+      "estado": "selección autorizada para carga y revisión posterior"
     },
     {
       "numero_area": 23,
       "numero_sesion": 73,
-      "catalog_id": "USB-1c44481d3d4a-Q064",
-      "pdf": "Referencia_2026-1-declarado_Sesion-2_ABV2_USB-1c44481d3d4a.pdf",
-      "source_sha256": "73f4a0c626812d201c9cf701ab19f5dc106be94d5e4311288f366d0316c6b6fd",
-      "pagina_fisica": 27,
+      "catalog_id": "USB-e58ef5771b78-Q064",
+      "pdf": "2025-2-AAQ2_USB-e58ef5771b78.pdf",
+      "source_sha256": "b26feaf961f7a26b3f911d511c6d01c641daf2c5af264649007f57b2be85845e",
+      "pagina_fisica": 12,
       "numero_original": 64,
       "competencia": "explanation",
       "componente": "chemical",
       "contexto": "Independiente",
-      "estado": "guardadas en 4188, revisión 20; revisión individual del usuario e integración del coordinador pendientes"
+      "estado": "selección autorizada para carga y revisión posterior"
     },
     {
       "numero_area": 24,
@@ -315,20 +315,20 @@
       "competencia": "explanation",
       "componente": "chemical",
       "contexto": "desalinizador",
-      "estado": "guardadas en 4188, revisión 20; revisión individual del usuario e integración del coordinador pendientes"
+      "estado": "selección autorizada para carga y revisión posterior"
     },
     {
       "numero_area": 25,
       "numero_sesion": 75,
-      "catalog_id": "USB-578d9b20297e-Q058",
-      "pdf": "Referencia_Sesion-2_Ano-por-confirmar_Sin-portada_77322_USB-578d9b20297e.pdf",
-      "source_sha256": "c6891b3eb5a0d610166e86cb15fdf4b0f18c52a28292ffc7756e4d9bf77b859b",
-      "pagina_fisica": 22,
-      "numero_original": 58,
+      "catalog_id": "USB-e58ef5771b78-Q051",
+      "pdf": "2025-2-AAQ2_USB-e58ef5771b78.pdf",
+      "source_sha256": "b26feaf961f7a26b3f911d511c6d01c641daf2c5af264649007f57b2be85845e",
+      "pagina_fisica": 9,
+      "numero_original": 51,
       "competencia": "inquiry",
       "componente": "chemical",
       "contexto": "Independiente",
-      "estado": "guardadas en 4188, revisión 20; revisión individual del usuario e integración del coordinador pendientes"
+      "estado": "selección autorizada para carga y revisión posterior"
     },
     {
       "numero_area": 26,
@@ -341,7 +341,7 @@
       "competencia": "inquiry",
       "componente": "chemical",
       "contexto": "Independiente",
-      "estado": "guardadas en 4188, revisión 20; revisión individual del usuario e integración del coordinador pendientes"
+      "estado": "selección autorizada para carga y revisión posterior"
     },
     {
       "numero_area": 27,
@@ -354,7 +354,7 @@
       "competencia": "knowledge",
       "componente": "cts",
       "contexto": "energia",
-      "estado": "guardadas en 4188, revisión 20; revisión individual del usuario e integración del coordinador pendientes"
+      "estado": "selección autorizada para carga y revisión posterior"
     },
     {
       "numero_area": 28,
@@ -367,7 +367,7 @@
       "competencia": "explanation",
       "componente": "cts",
       "contexto": "energia",
-      "estado": "guardadas en 4188, revisión 20; revisión individual del usuario e integración del coordinador pendientes"
+      "estado": "selección autorizada para carga y revisión posterior"
     },
     {
       "numero_area": 29,
@@ -380,8 +380,7 @@
       "competencia": "inquiry",
       "componente": "cts",
       "contexto": "energia",
-      "estado": "guardadas en 4188, revisión 20; revisión individual del usuario e integración del coordinador pendientes"
+      "estado": "selección autorizada para carga y revisión posterior"
     }
-  ],
-  "estado_actual": "revision20_provisional_13_coincidencias_SP001_reemplazos_en_curso"
+  ]
 }
