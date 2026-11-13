@@ -1,0 +1,20 @@
+{
+  "zip": "C:\\Users\\modaf\\SaberPlus-Cuadernillos\\handoff\\SP-003_dos_sesiones_2026-11-13_r26-r29.zip",
+  "bytes": 76519364,
+  "mib": 72.97,
+  "sha256": "5afec6cfd3f77d13667685371ac541f98738cfdb5e869330d09e2bbe7afa077c",
+  "archivos_zip": 128,
+  "hashes_verificados": 127,
+  "imagenes_verificadas": 118,
+  "referencias_json_verificadas": 114,
+  "faltantes": 0,
+  "json_identicos_a_originales": true,
+  "originales_intactos": true,
+  "primera_literal": 79,
+  "primera_diagnostico": 120,
+  "segunda": 134,
+  "carpeta_verificacion": "C:\\Users\\modaf\\SaberPlus-Cuadernillos\\tmp\\handoff_verificacion\\SP-003_dos_sesiones_2026-11-13_r26-r29\\extraccion_final",
+  "pdf_verificacion": "C:\\Users\\modaf\\SaberPlus-Cuadernillos\\tmp\\handoff_verificacion\\SP-003_dos_sesiones_2026-11-13_r26-r29\\pdf_verificacion",
+  "preparacion_original_sin_commit_ni_push": true,
+  "publicacion_posterior_autorizada_por_el_usuario": true
+}

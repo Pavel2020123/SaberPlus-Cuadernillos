@@ -8,6 +8,8 @@ Proyecto independiente para diseñar y generar cuadernillos de práctica en PDF.
 
 ## Punto de continuación actual
 
+**SP-003 · Entrega de ambas sesiones para Pavel:** [ZIP, SHA-256, instrucciones y verificaciones](docs/SP003_ENTREGA_DOS_SESIONES.md), revisiones **26 / 120** y **29 / 134**, recursos separados y ningún archivo faltante. Publicación autorizada por el usuario después de crear el ZIP. **Leer la advertencia del campo `session` de primera antes de exportar. Contiene claves y explicaciones: solo equipo SaberPlus.**
+
 **SP-003 · Segunda sesión completa:** **4188, revisión 29 / 134 preguntas**, Inglés 55/55, reparto 5/6/6/10/9/6/13. [PDF, revisión del trabajo del usuario, códigos y controles](planning/SP003_S2_INGLES_CIERRE.md). Tus 120 preguntas de rev. 28 conservadas y 14 agregadas; primera sesión intacta. Los 254 códigos de SP-003 ya están guardados. Maestro: 508 usadas / 79 reservas de exclusión. Pendientes revisión individual e integración a main.
 
 **SP-003 · Inglés partes 4 y 5 cargadas:** **4188, revisión 26 / 115 preguntas**, 19 ítems 97–115. Inglés 36/55; quedan 19, partes 6–7. [PDF, códigos y controles](planning/SP003_S2_INGLES_PARTES4Y5_CARGA.md). Pasajes completos, adaptación de The Ethiopian Wolf ejecutada y sufijos .1/.2 conservados. Las 96 anteriores y primera sesión intactas. Maestro: 489 usadas / 98 reservas; revisión individual e integración a main pendientes.
