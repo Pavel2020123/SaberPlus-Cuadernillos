@@ -122,8 +122,8 @@ def validate_project(project, exporting=False):
         catalog_id = q.get('catalog_id', '')
         if catalog_id is None:
             catalog_id = ''
-        if not isinstance(catalog_id, str) or (catalog_id and not re.fullmatch(r'USB-[a-f0-9]{12}-Q[0-9]{3}', catalog_id)):
-            raise ValueError(f'Pregunta {q["id"]}: el código de catálogo debe tener formato USB-xxxxxxxxxxxx-Q001.')
+        if not isinstance(catalog_id, str) or (catalog_id and not re.fullmatch(r'USB-[a-f0-9]{12}-Q[0-9]{3}(?:\.[12])?', catalog_id)):
+            raise ValueError(f'Pregunta {q["id"]}: el código de catálogo debe tener formato USB-xxxxxxxxxxxx-Q001, con sufijo opcional .1 o .2 para distinguir exámenes de la misma fuente.')
         if q.get('options_layout','vertical') not in ('vertical','grid2'):
             raise ValueError('Distribución de opciones desconocida.')
         if 'page_break_before' in q and type(q['page_break_before']) is not bool:

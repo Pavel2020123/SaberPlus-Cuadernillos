@@ -4,6 +4,8 @@ Estado: primer editor funcional para pruebas editoriales, independiente de la ap
 
 ## Trabajar al mismo tiempo · SP-003
 
+**Inglés partes 4–5 · 12 de noviembre:** **4188, revisión 26 / 115 preguntas**, Inglés 36/55. [PDF, códigos y controles](../planning/SP003_S2_INGLES_PARTES4Y5_CARGA.md). PDF 60/75/3 páginas; cuatro pasajes completos y adaptación autorizada del lobo ejecutada. El validador admite sufijos .1/.2 para Examen 1/2; dos pruebas de guardado/exportación/registro y 11 de integridad aprobadas. Solo 4188 recargado: recargar su página antes de editar por token renovado. Las 96 anteriores y primera sesión intactas. Quedan 19 Inglés, partes 6–7.
+
 **Inglés parte 3 · 12 de noviembre:** **4188, revisión 25 / 96 preguntas**. Seis conversaciones 91–96; Inglés 17/55. [PDF, códigos y controles](../planning/SP003_S2_INGLES_PARTE3_CARGA.md). Parte 3 en una página con ejemplo textual; PDF 55/68/2 páginas. Las 90 anteriores y primera sesión intactas. Quedan 38 Inglés, partes 4–7; continuar sobre el proyecto actual.
 
 **Inglés parte 2 · 12 de noviembre:** **4188, revisión 24 / 90 preguntas**. Seis avisos 85–90, Inglés 11/55. [PDF, códigos y controles](../planning/SP003_S2_INGLES_PARTE2_CARGA.md). Dos contextos según la fuente, con sus ejemplos; PDF 54/66/2 páginas. Las 84 anteriores y primera sesión intactas. Quedan 44 Inglés, partes 3–7; continuar en el proyecto actual.

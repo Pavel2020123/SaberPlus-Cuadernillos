@@ -1,4 +1,4 @@
-> **Estado actualizado:** partes 1–3 guardadas, 17/55 Inglés, **4188 rev. 25 / 96 preguntas**. Quedan 38 reservadas, partes 4–7. [Entrega y controles de parte 3](SP003_S2_INGLES_PARTE3_CARGA.md). La descripción inicial sin carga que sigue es antecedente.
+> **Estado actualizado:** partes 1–5 guardadas, 36/55 Inglés, **4188 rev. 26 / 115 preguntas**. Quedan 19 reservadas, partes 6–7. Adaptación de The Ethiopian Wolf ejecutada. [Entrega y controles](SP003_S2_INGLES_PARTES4Y5_CARGA.md). Los estados iniciales sin carga son antecedentes.
 
 # SP-003 · Segunda sesión · Inglés · 55 códigos seleccionados
 
