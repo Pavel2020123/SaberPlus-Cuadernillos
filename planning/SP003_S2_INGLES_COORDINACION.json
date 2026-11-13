@@ -2,7 +2,7 @@
   "schema": 1,
   "simulacro": "SP-003",
   "sesion": "segunda",
-  "estado": "parte1_guardada_5_de55_resto_reservado",
+  "estado": "partes1y2_guardadas_11_de55_resto_reservado",
   "reparto": [
     5,
     6,
@@ -144,12 +144,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
       "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
-      "estado": "reservada_por_usuario_pendiente_carga",
+      "estado": "guardada_en_4188_rev24",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 6,
-      "numero_sesion": 85
+      "numero_sesion": 85,
+      "editor_id": "q-sp003-s2-en-p2-01",
+      "revision": 24
     },
     {
       "catalog_id": "USB-7882c8f9ae2f-Q091",
@@ -165,12 +167,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
       "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
-      "estado": "reservada_por_usuario_pendiente_carga",
+      "estado": "guardada_en_4188_rev24",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 7,
-      "numero_sesion": 86
+      "numero_sesion": 86,
+      "editor_id": "q-sp003-s2-en-p2-02",
+      "revision": 24
     },
     {
       "catalog_id": "USB-7882c8f9ae2f-Q092",
@@ -186,12 +190,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
       "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
-      "estado": "reservada_por_usuario_pendiente_carga",
+      "estado": "guardada_en_4188_rev24",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 8,
-      "numero_sesion": 87
+      "numero_sesion": 87,
+      "editor_id": "q-sp003-s2-en-p2-03",
+      "revision": 24
     },
     {
       "catalog_id": "USB-7882c8f9ae2f-Q093",
@@ -207,12 +213,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
       "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
-      "estado": "reservada_por_usuario_pendiente_carga",
+      "estado": "guardada_en_4188_rev24",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 9,
-      "numero_sesion": 88
+      "numero_sesion": 88,
+      "editor_id": "q-sp003-s2-en-p2-04",
+      "revision": 24
     },
     {
       "catalog_id": "USB-7882c8f9ae2f-Q094",
@@ -228,12 +236,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
       "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
-      "estado": "reservada_por_usuario_pendiente_carga",
+      "estado": "guardada_en_4188_rev24",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 10,
-      "numero_sesion": 89
+      "numero_sesion": 89,
+      "editor_id": "q-sp003-s2-en-p2-05",
+      "revision": 24
     },
     {
       "catalog_id": "USB-1bc205e23b46-Q085",
@@ -249,12 +259,14 @@
       "competencia": "Competencia comunicativa: interpretación pragmática de avisos",
       "source_sha256": "65873a53eb39360da44482f5406c6ee5c7fb462b906275c7abc3611fdd34a1e1",
       "pdf": "ICFES_2025_Cal-B_Sesion-2_Desierto-de-la-Tatacoa_Ref014_USB-1bc205e23b46.pdf",
-      "estado": "reservada_por_usuario_pendiente_carga",
+      "estado": "guardada_en_4188_rev24",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 11,
-      "numero_sesion": 90
+      "numero_sesion": 90,
+      "editor_id": "q-sp003-s2-en-p2-06",
+      "revision": 24
     },
     {
       "catalog_id": "USB-524d98b0a234-Q090",
@@ -1974,7 +1986,7 @@
       ]
     }
   ],
-  "revision_editor": 23,
-  "ingles_guardadas": 5,
-  "ingles_pendientes": 50
+  "revision_editor": 24,
+  "ingles_guardadas": 11,
+  "ingles_pendientes": 44
 }

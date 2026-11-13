@@ -4,6 +4,8 @@ Estado: primer editor funcional para pruebas editoriales, independiente de la ap
 
 ## Trabajar al mismo tiempo · SP-003
 
+**Inglés parte 2 · 12 de noviembre:** **4188, revisión 24 / 90 preguntas**. Seis avisos 85–90, Inglés 11/55. [PDF, códigos y controles](../planning/SP003_S2_INGLES_PARTE2_CARGA.md). Dos contextos según la fuente, con sus ejemplos; PDF 54/66/2 páginas. Las 84 anteriores y primera sesión intactas. Quedan 44 Inglés, partes 3–7; continuar en el proyecto actual.
+
 **Inglés parte 1 · 12 de noviembre:** **4188, revisión 23 / 84 preguntas**. Cinco de At a Picnic, 80–84, con banco común A–G y ejemplo H. [Entrega y controles](../planning/SP003_S2_INGLES_PARTE1_CARGA.md). Las 79 anteriores y primera sesión intactas. Quedan 50 Inglés, partes 2–7; continuar en el mismo proyecto.
 
 **Cierre de Ciencias de segunda sesión · 12 de noviembre:** **4188, revisión 22 / 79 preguntas**. 29 Ciencias (9/8/12; componentes 9/8/9/3), conservando las 50 anteriores. Se sustituyeron los 13 cruces con SP-001 detectados tras rev. 20 y se corrigió a B la clave del inhibidor. [Entrega, códigos y tres PDF](../planning/SP003_S2_CIENCIAS_CARGA.md). Continuar en `data/parallel/SP-003-segunda-4188/project.json`; faltan 55 Inglés. Primera sesión rev. 26 / 120 intacta. Revisión individual y coordinación pendientes.

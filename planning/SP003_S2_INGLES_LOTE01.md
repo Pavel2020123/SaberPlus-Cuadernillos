@@ -1,4 +1,4 @@
-> **Estado actualizado:** parte 1 guardada, 5/55 Inglés, **4188 rev. 23 / 84 preguntas**. Quedan 50 reservadas, partes 2–7. [Entrega y controles de parte 1](SP003_S2_INGLES_PARTE1_CARGA.md). La descripción inicial sin carga que sigue es antecedente.
+> **Estado actualizado:** partes 1–2 guardadas, 11/55 Inglés, **4188 rev. 24 / 90 preguntas**. Quedan 44 reservadas, partes 3–7. [Entrega y controles de parte 2](SP003_S2_INGLES_PARTE2_CARGA.md). La descripción inicial sin carga que sigue es antecedente.
 
 # SP-003 · Segunda sesión · Inglés · parte 1 · Lote inicial
 

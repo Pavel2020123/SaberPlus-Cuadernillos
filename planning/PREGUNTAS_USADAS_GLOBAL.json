@@ -5981,6 +5981,84 @@
       "inicio": "",
       "enunciado": "You wear this on your head for the sun.",
       "huella_texto": "62cb1f4ad2aabe5743af85c4376ce8933bb59fe46fc56810479f959ce0362ada"
+    },
+    {
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 85,
+      "editor_id": "q-sp003-s2-en-p2-01",
+      "catalog_id": "USB-7882c8f9ae2f-Q090",
+      "estado": "usada",
+      "tema": "Interpretación de avisos",
+      "inicio": "",
+      "enunciado": "Fantastic apple\npies for birthdays!",
+      "huella_texto": "469319af8612536e86701477d93c7b71e419a0a2d91e239e0aa46fb49703db6d"
+    },
+    {
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 86,
+      "editor_id": "q-sp003-s2-en-p2-02",
+      "catalog_id": "USB-7882c8f9ae2f-Q091",
+      "estado": "usada",
+      "tema": "Interpretación de avisos",
+      "inicio": "",
+      "enunciado": "Play with me!\nChildren 2+",
+      "huella_texto": "56105f1dd2f06f1f999aeeed8cadf1528c86fe52ca8f49b98667f4530c4ed00c"
+    },
+    {
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 87,
+      "editor_id": "q-sp003-s2-en-p2-03",
+      "catalog_id": "USB-7882c8f9ae2f-Q092",
+      "estado": "usada",
+      "tema": "Interpretación de avisos",
+      "inicio": "",
+      "enunciado": "GET ONE FOR YOUR BIRTHDAY!\nChocolate and banana for $20\nChocolate and coconut for $25",
+      "huella_texto": "0bb113e4f953607eff962037673bae231b3e6e6570577c4c4b4e8655afc0057a"
+    },
+    {
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 88,
+      "editor_id": "q-sp003-s2-en-p2-04",
+      "catalog_id": "USB-7882c8f9ae2f-Q093",
+      "estado": "usada",
+      "tema": "Interpretación de avisos",
+      "inicio": "",
+      "enunciado": "Pick up food here.\nEnjoy!",
+      "huella_texto": "985266ac8cfde313d90dd9308dd8133a5b10f4f9ee78ef80e82139ab086214f9"
+    },
+    {
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 89,
+      "editor_id": "q-sp003-s2-en-p2-05",
+      "catalog_id": "USB-7882c8f9ae2f-Q094",
+      "estado": "usada",
+      "tema": "Interpretación de avisos",
+      "inicio": "",
+      "enunciado": "Today\n2x3 on balls and games\nfor children",
+      "huella_texto": "b3ac36b4a776efecbab08bf247d5139a34e64feef3271bd353fc74b9a3ee1143"
+    },
+    {
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 90,
+      "editor_id": "q-sp003-s2-en-p2-06",
+      "catalog_id": "USB-1bc205e23b46-Q085",
+      "estado": "usada",
+      "tema": "Interpretación de avisos",
+      "inicio": "",
+      "enunciado": "Lunch\n12:00 - 2:30 p.m.\nDinner\n7:00 - 10:30 p.m.",
+      "huella_texto": "fe6a2b1da2238141cdd450c28f9ba8c901847b35f84ab0082ffc62b6974c5e5e"
     }
   ],
   "reservas": [
@@ -6081,60 +6159,6 @@
       "catalog_id": "USB-77cc8ac26d2c-Q089",
       "estado": "reservada_equivalencia_visual",
       "codigo_canonico": "USB-709bc037689b-Q075"
-    },
-    {
-      "simulacro": "SP-003",
-      "sesion": "segunda",
-      "area": "english",
-      "numero_actual": 85,
-      "catalog_id": "USB-7882c8f9ae2f-Q090",
-      "estado": "reservada_por_usuario_pendiente_carga",
-      "fuente": "planning/SP003_S2_INGLES_COORDINACION.json"
-    },
-    {
-      "simulacro": "SP-003",
-      "sesion": "segunda",
-      "area": "english",
-      "numero_actual": 86,
-      "catalog_id": "USB-7882c8f9ae2f-Q091",
-      "estado": "reservada_por_usuario_pendiente_carga",
-      "fuente": "planning/SP003_S2_INGLES_COORDINACION.json"
-    },
-    {
-      "simulacro": "SP-003",
-      "sesion": "segunda",
-      "area": "english",
-      "numero_actual": 87,
-      "catalog_id": "USB-7882c8f9ae2f-Q092",
-      "estado": "reservada_por_usuario_pendiente_carga",
-      "fuente": "planning/SP003_S2_INGLES_COORDINACION.json"
-    },
-    {
-      "simulacro": "SP-003",
-      "sesion": "segunda",
-      "area": "english",
-      "numero_actual": 88,
-      "catalog_id": "USB-7882c8f9ae2f-Q093",
-      "estado": "reservada_por_usuario_pendiente_carga",
-      "fuente": "planning/SP003_S2_INGLES_COORDINACION.json"
-    },
-    {
-      "simulacro": "SP-003",
-      "sesion": "segunda",
-      "area": "english",
-      "numero_actual": 89,
-      "catalog_id": "USB-7882c8f9ae2f-Q094",
-      "estado": "reservada_por_usuario_pendiente_carga",
-      "fuente": "planning/SP003_S2_INGLES_COORDINACION.json"
-    },
-    {
-      "simulacro": "SP-003",
-      "sesion": "segunda",
-      "area": "english",
-      "numero_actual": 90,
-      "catalog_id": "USB-1bc205e23b46-Q085",
-      "estado": "reservada_por_usuario_pendiente_carga",
-      "fuente": "planning/SP003_S2_INGLES_COORDINACION.json"
     },
     {
       "simulacro": "SP-003",
