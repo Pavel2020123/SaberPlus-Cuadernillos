@@ -1,0 +1,1967 @@
+{
+  "schema": 1,
+  "simulacro": "SP-003",
+  "sesion": "segunda",
+  "estado": "seleccionada_y_reservada_por_usuario_sin_carga",
+  "reparto": [
+    5,
+    6,
+    6,
+    10,
+    9,
+    6,
+    13
+  ],
+  "autorizacion_adaptacion": "El usuario mantuvo el reparto previo y autorizó completar con respuestas originales los espacios no evaluados de dos textos, 12/11/2026.",
+  "convencion_codigos": "Sufijos .1 y .2 identifican Examen 1/2 en el PDF 60fb8a40c3bb, que repite números. No son variantes creadas ni deben truncarse.",
+  "preguntas": [
+    {
+      "catalog_id": "USB-7882c8f9ae2f-Q080",
+      "file_id": "USB-7882c8f9ae2f",
+      "numero_original": 80,
+      "pagina_fisica": 27,
+      "paginas_contexto": [
+        27
+      ],
+      "parte": 1,
+      "contexto": "At a Picnic",
+      "tema": "Planta de campos",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
+      "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 1,
+      "numero_sesion": 80
+    },
+    {
+      "catalog_id": "USB-7882c8f9ae2f-Q081",
+      "file_id": "USB-7882c8f9ae2f",
+      "numero_original": 81,
+      "pagina_fisica": 27,
+      "paginas_contexto": [
+        27
+      ],
+      "parte": 1,
+      "contexto": "At a Picnic",
+      "tema": "Preparación con verduras",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
+      "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 2,
+      "numero_sesion": 81
+    },
+    {
+      "catalog_id": "USB-7882c8f9ae2f-Q082",
+      "file_id": "USB-7882c8f9ae2f",
+      "numero_original": 82,
+      "pagina_fisica": 27,
+      "paginas_contexto": [
+        27
+      ],
+      "parte": 1,
+      "contexto": "At a Picnic",
+      "tema": "Lugar recreativo arbolado",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
+      "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 3,
+      "numero_sesion": 82
+    },
+    {
+      "catalog_id": "USB-7882c8f9ae2f-Q083",
+      "file_id": "USB-7882c8f9ae2f",
+      "numero_original": 83,
+      "pagina_fisica": 27,
+      "paginas_contexto": [
+        27
+      ],
+      "parte": 1,
+      "contexto": "At a Picnic",
+      "tema": "Recipiente para limonada",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
+      "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 4,
+      "numero_sesion": 83
+    },
+    {
+      "catalog_id": "USB-7882c8f9ae2f-Q084",
+      "file_id": "USB-7882c8f9ae2f",
+      "numero_original": 84,
+      "pagina_fisica": 27,
+      "paginas_contexto": [
+        27
+      ],
+      "parte": 1,
+      "contexto": "At a Picnic",
+      "tema": "Objeto para proteger cabeza del sol",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
+      "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 5,
+      "numero_sesion": 84
+    },
+    {
+      "catalog_id": "USB-7882c8f9ae2f-Q090",
+      "file_id": "USB-7882c8f9ae2f",
+      "numero_original": 90,
+      "pagina_fisica": 29,
+      "paginas_contexto": [
+        29
+      ],
+      "parte": 2,
+      "contexto": "Avisos y señales",
+      "tema": "Lugar de anuncio de tartas",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
+      "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 6,
+      "numero_sesion": 85
+    },
+    {
+      "catalog_id": "USB-7882c8f9ae2f-Q091",
+      "file_id": "USB-7882c8f9ae2f",
+      "numero_original": 91,
+      "pagina_fisica": 29,
+      "paginas_contexto": [
+        29
+      ],
+      "parte": 2,
+      "contexto": "Avisos y señales",
+      "tema": "Envase de juguete",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
+      "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 7,
+      "numero_sesion": 86
+    },
+    {
+      "catalog_id": "USB-7882c8f9ae2f-Q092",
+      "file_id": "USB-7882c8f9ae2f",
+      "numero_original": 92,
+      "pagina_fisica": 29,
+      "paginas_contexto": [
+        29
+      ],
+      "parte": 2,
+      "contexto": "Avisos y señales",
+      "tema": "Oferta de productos de cumpleaños",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
+      "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 8,
+      "numero_sesion": 87
+    },
+    {
+      "catalog_id": "USB-7882c8f9ae2f-Q093",
+      "file_id": "USB-7882c8f9ae2f",
+      "numero_original": 93,
+      "pagina_fisica": 29,
+      "paginas_contexto": [
+        29
+      ],
+      "parte": 2,
+      "contexto": "Avisos y señales",
+      "tema": "Punto de recogida de comida",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
+      "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 9,
+      "numero_sesion": 88
+    },
+    {
+      "catalog_id": "USB-7882c8f9ae2f-Q094",
+      "file_id": "USB-7882c8f9ae2f",
+      "numero_original": 94,
+      "pagina_fisica": 29,
+      "paginas_contexto": [
+        29
+      ],
+      "parte": 2,
+      "contexto": "Avisos y señales",
+      "tema": "Promoción de artículos deportivos",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
+      "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 10,
+      "numero_sesion": 89
+    },
+    {
+      "catalog_id": "USB-1bc205e23b46-Q085",
+      "file_id": "USB-1bc205e23b46",
+      "numero_original": 85,
+      "pagina_fisica": 25,
+      "paginas_contexto": [
+        25
+      ],
+      "parte": 2,
+      "contexto": "Parte 2: avisos",
+      "tema": "Ubicación de horarios de comidas",
+      "competencia": "Competencia comunicativa: interpretación pragmática de avisos",
+      "source_sha256": "65873a53eb39360da44482f5406c6ee5c7fb462b906275c7abc3611fdd34a1e1",
+      "pdf": "ICFES_2025_Cal-B_Sesion-2_Desierto-de-la-Tatacoa_Ref014_USB-1bc205e23b46.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 11,
+      "numero_sesion": 90
+    },
+    {
+      "catalog_id": "USB-524d98b0a234-Q090",
+      "file_id": "USB-524d98b0a234",
+      "numero_original": 90,
+      "pagina_fisica": 34,
+      "paginas_contexto": [
+        34
+      ],
+      "parte": 3,
+      "contexto": "Conversaciones",
+      "tema": "Completar conversacion",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "78c31d57f562a19c1f7f627c6ce2e42808fd0c8383e4391e0de2b02bc632d4e0",
+      "pdf": "2026-2-ABJ2_USB-524d98b0a234.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 12,
+      "numero_sesion": 91
+    },
+    {
+      "catalog_id": "USB-524d98b0a234-Q091",
+      "file_id": "USB-524d98b0a234",
+      "numero_original": 91,
+      "pagina_fisica": 34,
+      "paginas_contexto": [
+        34
+      ],
+      "parte": 3,
+      "contexto": "Conversaciones",
+      "tema": "Completar conversacion",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "78c31d57f562a19c1f7f627c6ce2e42808fd0c8383e4391e0de2b02bc632d4e0",
+      "pdf": "2026-2-ABJ2_USB-524d98b0a234.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 13,
+      "numero_sesion": 92
+    },
+    {
+      "catalog_id": "USB-524d98b0a234-Q092",
+      "file_id": "USB-524d98b0a234",
+      "numero_original": 92,
+      "pagina_fisica": 34,
+      "paginas_contexto": [
+        34
+      ],
+      "parte": 3,
+      "contexto": "Conversaciones",
+      "tema": "Completar conversacion",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "78c31d57f562a19c1f7f627c6ce2e42808fd0c8383e4391e0de2b02bc632d4e0",
+      "pdf": "2026-2-ABJ2_USB-524d98b0a234.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 14,
+      "numero_sesion": 93
+    },
+    {
+      "catalog_id": "USB-524d98b0a234-Q093",
+      "file_id": "USB-524d98b0a234",
+      "numero_original": 93,
+      "pagina_fisica": 34,
+      "paginas_contexto": [
+        34
+      ],
+      "parte": 3,
+      "contexto": "Conversaciones",
+      "tema": "Completar conversacion",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "78c31d57f562a19c1f7f627c6ce2e42808fd0c8383e4391e0de2b02bc632d4e0",
+      "pdf": "2026-2-ABJ2_USB-524d98b0a234.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 15,
+      "numero_sesion": 94
+    },
+    {
+      "catalog_id": "USB-524d98b0a234-Q094",
+      "file_id": "USB-524d98b0a234",
+      "numero_original": 94,
+      "pagina_fisica": 34,
+      "paginas_contexto": [
+        34
+      ],
+      "parte": 3,
+      "contexto": "Conversaciones",
+      "tema": "Completar conversacion",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "78c31d57f562a19c1f7f627c6ce2e42808fd0c8383e4391e0de2b02bc632d4e0",
+      "pdf": "2026-2-ABJ2_USB-524d98b0a234.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 16,
+      "numero_sesion": 95
+    },
+    {
+      "catalog_id": "USB-6093aa3432dd-Q006",
+      "file_id": "USB-6093aa3432dd",
+      "numero_original": 6,
+      "examen_original": null,
+      "pagina_fisica": 2,
+      "paginas_contexto": [
+        2
+      ],
+      "parte": 3,
+      "contexto": "Precio de un paraguas",
+      "tema": "Precio de un paraguas",
+      "competencia": "Competencia comunicativa",
+      "source_sha256": "315646f8178a338cacc2bcfa2143954e7b0abee4cc34ed258df7ebece765f3db",
+      "pdf": "Preguntas_explicadas_ingles_Saber_11.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "procedencia": "ficha complementaria creada tras lectura visual del original; no implica auditoría de todo el PDF",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 17,
+      "numero_sesion": 96
+    },
+    {
+      "catalog_id": "USB-709bc037689b-Q100",
+      "file_id": "USB-709bc037689b",
+      "numero_original": 100,
+      "pagina_fisica": 37,
+      "paginas_contexto": [
+        37
+      ],
+      "parte": 4,
+      "contexto": "Jane Austen",
+      "tema": "Texto con espacios",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "fbf1ad538fa4ceb1782ed4577449c6f12806b898e6a51158c3080751cf7e3752",
+      "pdf": "2026-1-ACC2_USB-709bc037689b.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 18,
+      "numero_sesion": 97
+    },
+    {
+      "catalog_id": "USB-709bc037689b-Q101",
+      "file_id": "USB-709bc037689b",
+      "numero_original": 101,
+      "pagina_fisica": 37,
+      "paginas_contexto": [
+        37
+      ],
+      "parte": 4,
+      "contexto": "Jane Austen",
+      "tema": "Texto con espacios",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "fbf1ad538fa4ceb1782ed4577449c6f12806b898e6a51158c3080751cf7e3752",
+      "pdf": "2026-1-ACC2_USB-709bc037689b.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 19,
+      "numero_sesion": 98
+    },
+    {
+      "catalog_id": "USB-709bc037689b-Q102",
+      "file_id": "USB-709bc037689b",
+      "numero_original": 102,
+      "pagina_fisica": 37,
+      "paginas_contexto": [
+        37
+      ],
+      "parte": 4,
+      "contexto": "Jane Austen",
+      "tema": "Texto con espacios",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "fbf1ad538fa4ceb1782ed4577449c6f12806b898e6a51158c3080751cf7e3752",
+      "pdf": "2026-1-ACC2_USB-709bc037689b.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 20,
+      "numero_sesion": 99
+    },
+    {
+      "catalog_id": "USB-709bc037689b-Q103",
+      "file_id": "USB-709bc037689b",
+      "numero_original": 103,
+      "pagina_fisica": 37,
+      "paginas_contexto": [
+        37
+      ],
+      "parte": 4,
+      "contexto": "Jane Austen",
+      "tema": "Texto con espacios",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "fbf1ad538fa4ceb1782ed4577449c6f12806b898e6a51158c3080751cf7e3752",
+      "pdf": "2026-1-ACC2_USB-709bc037689b.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 21,
+      "numero_sesion": 100
+    },
+    {
+      "catalog_id": "USB-709bc037689b-Q104",
+      "file_id": "USB-709bc037689b",
+      "numero_original": 104,
+      "pagina_fisica": 37,
+      "paginas_contexto": [
+        37
+      ],
+      "parte": 4,
+      "contexto": "Jane Austen",
+      "tema": "Texto con espacios",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "fbf1ad538fa4ceb1782ed4577449c6f12806b898e6a51158c3080751cf7e3752",
+      "pdf": "2026-1-ACC2_USB-709bc037689b.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 22,
+      "numero_sesion": 101
+    },
+    {
+      "catalog_id": "USB-709bc037689b-Q105",
+      "file_id": "USB-709bc037689b",
+      "numero_original": 105,
+      "pagina_fisica": 37,
+      "paginas_contexto": [
+        37
+      ],
+      "parte": 4,
+      "contexto": "Jane Austen",
+      "tema": "Texto con espacios",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "fbf1ad538fa4ceb1782ed4577449c6f12806b898e6a51158c3080751cf7e3752",
+      "pdf": "2026-1-ACC2_USB-709bc037689b.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 23,
+      "numero_sesion": 102
+    },
+    {
+      "catalog_id": "USB-709bc037689b-Q106",
+      "file_id": "USB-709bc037689b",
+      "numero_original": 106,
+      "pagina_fisica": 37,
+      "paginas_contexto": [
+        37
+      ],
+      "parte": 4,
+      "contexto": "Jane Austen",
+      "tema": "Texto con espacios",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "fbf1ad538fa4ceb1782ed4577449c6f12806b898e6a51158c3080751cf7e3752",
+      "pdf": "2026-1-ACC2_USB-709bc037689b.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 24,
+      "numero_sesion": 103
+    },
+    {
+      "catalog_id": "USB-709bc037689b-Q107",
+      "file_id": "USB-709bc037689b",
+      "numero_original": 107,
+      "pagina_fisica": 37,
+      "paginas_contexto": [
+        37
+      ],
+      "parte": 4,
+      "contexto": "Jane Austen",
+      "tema": "Texto con espacios",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "fbf1ad538fa4ceb1782ed4577449c6f12806b898e6a51158c3080751cf7e3752",
+      "pdf": "2026-1-ACC2_USB-709bc037689b.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 25,
+      "numero_sesion": 104
+    },
+    {
+      "catalog_id": "USB-60fb8a40c3bb-Q010.2",
+      "file_id": "USB-60fb8a40c3bb",
+      "numero_original": 10,
+      "examen_original": 2,
+      "pagina_fisica": 16,
+      "paginas_contexto": [
+        16
+      ],
+      "parte": 4,
+      "contexto": "The Ethiopian Wolf",
+      "tema": "The Ethiopian Wolf",
+      "competencia": "Competencia comunicativa",
+      "source_sha256": "9ff08eb8dfaf2ce225a4f3c76c280131498e31bda9518174a224d5e301760459",
+      "pdf": "Cuadernillo de preguntas ingles saber 11 - 2019.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "procedencia": "ficha complementaria creada tras lectura visual del original; no implica auditoría de todo el PDF",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 26,
+      "numero_sesion": 105
+    },
+    {
+      "catalog_id": "USB-60fb8a40c3bb-Q011.2",
+      "file_id": "USB-60fb8a40c3bb",
+      "numero_original": 11,
+      "examen_original": 2,
+      "pagina_fisica": 16,
+      "paginas_contexto": [
+        16
+      ],
+      "parte": 4,
+      "contexto": "The Ethiopian Wolf",
+      "tema": "The Ethiopian Wolf",
+      "competencia": "Competencia comunicativa",
+      "source_sha256": "9ff08eb8dfaf2ce225a4f3c76c280131498e31bda9518174a224d5e301760459",
+      "pdf": "Cuadernillo de preguntas ingles saber 11 - 2019.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "procedencia": "ficha complementaria creada tras lectura visual del original; no implica auditoría de todo el PDF",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 27,
+      "numero_sesion": 106
+    },
+    {
+      "catalog_id": "USB-7882c8f9ae2f-Q108",
+      "file_id": "USB-7882c8f9ae2f",
+      "numero_original": 108,
+      "pagina_fisica": 32,
+      "paginas_contexto": [
+        32
+      ],
+      "parte": 5,
+      "contexto": "I'll Be a Nurse",
+      "tema": "Cualidad interpersonal de enfermería",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
+      "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 28,
+      "numero_sesion": 107
+    },
+    {
+      "catalog_id": "USB-7882c8f9ae2f-Q109",
+      "file_id": "USB-7882c8f9ae2f",
+      "numero_original": 109,
+      "pagina_fisica": 32,
+      "paginas_contexto": [
+        32
+      ],
+      "parte": 5,
+      "contexto": "I'll Be a Nurse",
+      "tema": "Expectativa laboral próxima",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
+      "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 29,
+      "numero_sesion": 108
+    },
+    {
+      "catalog_id": "USB-7882c8f9ae2f-Q110",
+      "file_id": "USB-7882c8f9ae2f",
+      "numero_original": 110,
+      "pagina_fisica": 32,
+      "paginas_contexto": [
+        32
+      ],
+      "parte": 5,
+      "contexto": "I'll Be a Nurse",
+      "tema": "Hecho explícito en aeropuerto",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
+      "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 30,
+      "numero_sesion": 109
+    },
+    {
+      "catalog_id": "USB-7882c8f9ae2f-Q111",
+      "file_id": "USB-7882c8f9ae2f",
+      "numero_original": 111,
+      "pagina_fisica": 32,
+      "paginas_contexto": [
+        32
+      ],
+      "parte": 5,
+      "contexto": "I'll Be a Nurse",
+      "tema": "Valoración de personas que ayudaron",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
+      "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 31,
+      "numero_sesion": 110
+    },
+    {
+      "catalog_id": "USB-7882c8f9ae2f-Q112",
+      "file_id": "USB-7882c8f9ae2f",
+      "numero_original": 112,
+      "pagina_fisica": 32,
+      "paginas_contexto": [
+        32
+      ],
+      "parte": 5,
+      "contexto": "I'll Be a Nurse",
+      "tema": "Decisión motivada por experiencia",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
+      "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 32,
+      "numero_sesion": 111
+    },
+    {
+      "catalog_id": "USB-7882c8f9ae2f-Q113",
+      "file_id": "USB-7882c8f9ae2f",
+      "numero_original": 113,
+      "pagina_fisica": 32,
+      "paginas_contexto": [
+        32
+      ],
+      "parte": 5,
+      "contexto": "I'll Be a Nurse",
+      "tema": "Observación durante práctica universitaria",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
+      "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 33,
+      "numero_sesion": 112
+    },
+    {
+      "catalog_id": "USB-7882c8f9ae2f-Q114",
+      "file_id": "USB-7882c8f9ae2f",
+      "numero_original": 114,
+      "pagina_fisica": 32,
+      "paginas_contexto": [
+        32
+      ],
+      "parte": 5,
+      "contexto": "I'll Be a Nurse",
+      "tema": "Expectativa al concluir formación",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
+      "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 34,
+      "numero_sesion": 113
+    },
+    {
+      "catalog_id": "USB-60fb8a40c3bb-Q017.1",
+      "file_id": "USB-60fb8a40c3bb",
+      "numero_original": 17,
+      "examen_original": 1,
+      "pagina_fisica": 10,
+      "paginas_contexto": [
+        9,
+        10
+      ],
+      "parte": 5,
+      "contexto": "James Salter’s Days in Film",
+      "tema": "James Salter’s Days in Film",
+      "competencia": "Competencia comunicativa",
+      "source_sha256": "9ff08eb8dfaf2ce225a4f3c76c280131498e31bda9518174a224d5e301760459",
+      "pdf": "Cuadernillo de preguntas ingles saber 11 - 2019.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "procedencia": "ficha complementaria creada tras lectura visual del original; no implica auditoría de todo el PDF",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 35,
+      "numero_sesion": 114
+    },
+    {
+      "catalog_id": "USB-60fb8a40c3bb-Q018.1",
+      "file_id": "USB-60fb8a40c3bb",
+      "numero_original": 18,
+      "examen_original": 1,
+      "pagina_fisica": 10,
+      "paginas_contexto": [
+        9,
+        10
+      ],
+      "parte": 5,
+      "contexto": "James Salter’s Days in Film",
+      "tema": "James Salter’s Days in Film",
+      "competencia": "Competencia comunicativa",
+      "source_sha256": "9ff08eb8dfaf2ce225a4f3c76c280131498e31bda9518174a224d5e301760459",
+      "pdf": "Cuadernillo de preguntas ingles saber 11 - 2019.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "procedencia": "ficha complementaria creada tras lectura visual del original; no implica auditoría de todo el PDF",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 36,
+      "numero_sesion": 115
+    },
+    {
+      "catalog_id": "USB-709bc037689b-Q115",
+      "file_id": "USB-709bc037689b",
+      "numero_original": 115,
+      "pagina_fisica": 39,
+      "paginas_contexto": [
+        39
+      ],
+      "parte": 6,
+      "contexto": "William Smith y Borussia",
+      "tema": "Comprension inferencial",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "fbf1ad538fa4ceb1782ed4577449c6f12806b898e6a51158c3080751cf7e3752",
+      "pdf": "2026-1-ACC2_USB-709bc037689b.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 37,
+      "numero_sesion": 116
+    },
+    {
+      "catalog_id": "USB-709bc037689b-Q116",
+      "file_id": "USB-709bc037689b",
+      "numero_original": 116,
+      "pagina_fisica": 39,
+      "paginas_contexto": [
+        39
+      ],
+      "parte": 6,
+      "contexto": "William Smith y Borussia",
+      "tema": "Comprension inferencial",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "fbf1ad538fa4ceb1782ed4577449c6f12806b898e6a51158c3080751cf7e3752",
+      "pdf": "2026-1-ACC2_USB-709bc037689b.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 38,
+      "numero_sesion": 117
+    },
+    {
+      "catalog_id": "USB-709bc037689b-Q117",
+      "file_id": "USB-709bc037689b",
+      "numero_original": 117,
+      "pagina_fisica": 39,
+      "paginas_contexto": [
+        39
+      ],
+      "parte": 6,
+      "contexto": "William Smith y Borussia",
+      "tema": "Comprension inferencial",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "fbf1ad538fa4ceb1782ed4577449c6f12806b898e6a51158c3080751cf7e3752",
+      "pdf": "2026-1-ACC2_USB-709bc037689b.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 39,
+      "numero_sesion": 118
+    },
+    {
+      "catalog_id": "USB-709bc037689b-Q118",
+      "file_id": "USB-709bc037689b",
+      "numero_original": 118,
+      "pagina_fisica": 39,
+      "paginas_contexto": [
+        39
+      ],
+      "parte": 6,
+      "contexto": "William Smith y Borussia",
+      "tema": "Comprension inferencial",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "fbf1ad538fa4ceb1782ed4577449c6f12806b898e6a51158c3080751cf7e3752",
+      "pdf": "2026-1-ACC2_USB-709bc037689b.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 40,
+      "numero_sesion": 119
+    },
+    {
+      "catalog_id": "USB-709bc037689b-Q119",
+      "file_id": "USB-709bc037689b",
+      "numero_original": 119,
+      "pagina_fisica": 39,
+      "paginas_contexto": [
+        39
+      ],
+      "parte": 6,
+      "contexto": "William Smith y Borussia",
+      "tema": "Comprension inferencial",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "fbf1ad538fa4ceb1782ed4577449c6f12806b898e6a51158c3080751cf7e3752",
+      "pdf": "2026-1-ACC2_USB-709bc037689b.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 41,
+      "numero_sesion": 120
+    },
+    {
+      "catalog_id": "USB-6093aa3432dd-Q007",
+      "file_id": "USB-6093aa3432dd",
+      "numero_original": 7,
+      "examen_original": null,
+      "pagina_fisica": 3,
+      "paginas_contexto": [
+        3
+      ],
+      "parte": 6,
+      "contexto": "Jonathan’s Trip to Colombia",
+      "tema": "Jonathan’s Trip to Colombia",
+      "competencia": "Competencia comunicativa",
+      "source_sha256": "315646f8178a338cacc2bcfa2143954e7b0abee4cc34ed258df7ebece765f3db",
+      "pdf": "Preguntas_explicadas_ingles_Saber_11.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "procedencia": "ficha complementaria creada tras lectura visual del original; no implica auditoría de todo el PDF",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 42,
+      "numero_sesion": 121
+    },
+    {
+      "catalog_id": "USB-7882c8f9ae2f-Q125",
+      "file_id": "USB-7882c8f9ae2f",
+      "numero_original": 125,
+      "pagina_fisica": 35,
+      "paginas_contexto": [
+        35
+      ],
+      "parte": 7,
+      "contexto": "Jamaica Kincaid",
+      "tema": "Verbo frasal de crianza",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
+      "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 43,
+      "numero_sesion": 122
+    },
+    {
+      "catalog_id": "USB-7882c8f9ae2f-Q126",
+      "file_id": "USB-7882c8f9ae2f",
+      "numero_original": 126,
+      "pagina_fisica": 35,
+      "paginas_contexto": [
+        35
+      ],
+      "parte": 7,
+      "contexto": "Jamaica Kincaid",
+      "tema": "Verbo frasal de trayectoria posterior",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
+      "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 44,
+      "numero_sesion": 123
+    },
+    {
+      "catalog_id": "USB-7882c8f9ae2f-Q127",
+      "file_id": "USB-7882c8f9ae2f",
+      "numero_original": 127,
+      "pagina_fisica": 35,
+      "paginas_contexto": [
+        35
+      ],
+      "parte": 7,
+      "contexto": "Jamaica Kincaid",
+      "tema": "Adverbio de grado",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
+      "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 45,
+      "numero_sesion": 124
+    },
+    {
+      "catalog_id": "USB-7882c8f9ae2f-Q128",
+      "file_id": "USB-7882c8f9ae2f",
+      "numero_original": 128,
+      "pagina_fisica": 35,
+      "paginas_contexto": [
+        35
+      ],
+      "parte": 7,
+      "contexto": "Jamaica Kincaid",
+      "tema": "Pasado perfecto en narración",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
+      "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 46,
+      "numero_sesion": 125
+    },
+    {
+      "catalog_id": "USB-7882c8f9ae2f-Q129",
+      "file_id": "USB-7882c8f9ae2f",
+      "numero_original": 129,
+      "pagina_fisica": 35,
+      "paginas_contexto": [
+        35
+      ],
+      "parte": 7,
+      "contexto": "Jamaica Kincaid",
+      "tema": "Vocabulario de aspiración",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
+      "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 47,
+      "numero_sesion": 126
+    },
+    {
+      "catalog_id": "USB-7882c8f9ae2f-Q130",
+      "file_id": "USB-7882c8f9ae2f",
+      "numero_original": 130,
+      "pagina_fisica": 35,
+      "paginas_contexto": [
+        35
+      ],
+      "parte": 7,
+      "contexto": "Jamaica Kincaid",
+      "tema": "Conector concesivo",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
+      "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 48,
+      "numero_sesion": 127
+    },
+    {
+      "catalog_id": "USB-7882c8f9ae2f-Q131",
+      "file_id": "USB-7882c8f9ae2f",
+      "numero_original": 131,
+      "pagina_fisica": 35,
+      "paginas_contexto": [
+        35
+      ],
+      "parte": 7,
+      "contexto": "Jamaica Kincaid",
+      "tema": "Vocabulario de modo de escribir",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
+      "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 49,
+      "numero_sesion": 128
+    },
+    {
+      "catalog_id": "USB-7882c8f9ae2f-Q132",
+      "file_id": "USB-7882c8f9ae2f",
+      "numero_original": 132,
+      "pagina_fisica": 35,
+      "paginas_contexto": [
+        35
+      ],
+      "parte": 7,
+      "contexto": "Jamaica Kincaid",
+      "tema": "Participio para relaciones que se forman",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
+      "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 50,
+      "numero_sesion": 129
+    },
+    {
+      "catalog_id": "USB-7882c8f9ae2f-Q133",
+      "file_id": "USB-7882c8f9ae2f",
+      "numero_original": 133,
+      "pagina_fisica": 35,
+      "paginas_contexto": [
+        35
+      ],
+      "parte": 7,
+      "contexto": "Jamaica Kincaid",
+      "tema": "Nombre colectivo de ensayos",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
+      "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 51,
+      "numero_sesion": 130
+    },
+    {
+      "catalog_id": "USB-7882c8f9ae2f-Q134",
+      "file_id": "USB-7882c8f9ae2f",
+      "numero_original": 134,
+      "pagina_fisica": 35,
+      "paginas_contexto": [
+        35
+      ],
+      "parte": 7,
+      "contexto": "Jamaica Kincaid",
+      "tema": "Referencia temporal a obras anteriores",
+      "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
+      "source_sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
+      "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 52,
+      "numero_sesion": 131
+    },
+    {
+      "catalog_id": "USB-60fb8a40c3bb-Q022.2",
+      "file_id": "USB-60fb8a40c3bb",
+      "numero_original": 22,
+      "examen_original": 2,
+      "pagina_fisica": 19,
+      "paginas_contexto": [
+        19
+      ],
+      "parte": 7,
+      "contexto": "Valentine’s Day",
+      "tema": "Valentine’s Day",
+      "competencia": "Competencia comunicativa",
+      "source_sha256": "9ff08eb8dfaf2ce225a4f3c76c280131498e31bda9518174a224d5e301760459",
+      "pdf": "Cuadernillo de preguntas ingles saber 11 - 2019.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "procedencia": "ficha complementaria creada tras lectura visual del original; no implica auditoría de todo el PDF",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 53,
+      "numero_sesion": 132
+    },
+    {
+      "catalog_id": "USB-60fb8a40c3bb-Q023.2",
+      "file_id": "USB-60fb8a40c3bb",
+      "numero_original": 23,
+      "examen_original": 2,
+      "pagina_fisica": 19,
+      "paginas_contexto": [
+        19
+      ],
+      "parte": 7,
+      "contexto": "Valentine’s Day",
+      "tema": "Valentine’s Day",
+      "competencia": "Competencia comunicativa",
+      "source_sha256": "9ff08eb8dfaf2ce225a4f3c76c280131498e31bda9518174a224d5e301760459",
+      "pdf": "Cuadernillo de preguntas ingles saber 11 - 2019.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "procedencia": "ficha complementaria creada tras lectura visual del original; no implica auditoría de todo el PDF",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 54,
+      "numero_sesion": 133
+    },
+    {
+      "catalog_id": "USB-60fb8a40c3bb-Q024.2",
+      "file_id": "USB-60fb8a40c3bb",
+      "numero_original": 24,
+      "examen_original": 2,
+      "pagina_fisica": 19,
+      "paginas_contexto": [
+        19
+      ],
+      "parte": 7,
+      "contexto": "Valentine’s Day",
+      "tema": "Valentine’s Day",
+      "competencia": "Competencia comunicativa",
+      "source_sha256": "9ff08eb8dfaf2ce225a4f3c76c280131498e31bda9518174a224d5e301760459",
+      "pdf": "Cuadernillo de preguntas ingles saber 11 - 2019.pdf",
+      "estado": "reservada_por_usuario_pendiente_carga",
+      "procedencia": "ficha complementaria creada tras lectura visual del original; no implica auditoría de todo el PDF",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_area": 55,
+      "numero_sesion": 134
+    }
+  ],
+  "equivalencias_no_reutilizar": [
+    {
+      "catalog_id": "USB-2543b7a34fb2-Q105",
+      "codigo_canonico": "USB-709bc037689b-Q100",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 97,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-2543b7a34fb2-Q106",
+      "codigo_canonico": "USB-709bc037689b-Q101",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 98,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-2543b7a34fb2-Q107",
+      "codigo_canonico": "USB-709bc037689b-Q102",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 99,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-2543b7a34fb2-Q108",
+      "codigo_canonico": "USB-709bc037689b-Q103",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 100,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-2543b7a34fb2-Q109",
+      "codigo_canonico": "USB-709bc037689b-Q104",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 101,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-2543b7a34fb2-Q110",
+      "codigo_canonico": "USB-709bc037689b-Q105",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 102,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-2543b7a34fb2-Q111",
+      "codigo_canonico": "USB-709bc037689b-Q106",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 103,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-2543b7a34fb2-Q112",
+      "codigo_canonico": "USB-709bc037689b-Q107",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 104,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-36f91aeae115-Q085",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q090",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 85,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-36f91aeae115-Q086",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q091",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 86,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-36f91aeae115-Q087",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q092",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 87,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-36f91aeae115-Q088",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q093",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 88,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-36f91aeae115-Q089",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q094",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 89,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-36f91aeae115-Q113",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q108",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 107,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-36f91aeae115-Q114",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q109",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 108,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-36f91aeae115-Q115",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q110",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 109,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-36f91aeae115-Q116",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q111",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 110,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-36f91aeae115-Q117",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q112",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 111,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-36f91aeae115-Q118",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q113",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 112,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-36f91aeae115-Q119",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q114",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 113,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-4d0661231ca3-Q085",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q090",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 85,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-4d0661231ca3-Q086",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q091",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 86,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-4d0661231ca3-Q087",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q092",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 87,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-4d0661231ca3-Q088",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q093",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 88,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-4d0661231ca3-Q089",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q094",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 89,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-4d0661231ca3-Q113",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q108",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 107,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-4d0661231ca3-Q114",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q109",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 108,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-4d0661231ca3-Q115",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q110",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 109,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-4d0661231ca3-Q116",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q111",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 110,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-4d0661231ca3-Q117",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q112",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 111,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-4d0661231ca3-Q118",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q113",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 112,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-4d0661231ca3-Q119",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q114",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 113,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-7c1a96cf7ade-Q088",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q090",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 85,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-7c1a96cf7ade-Q089",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q091",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 86,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-7c1a96cf7ade-Q090",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q092",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 87,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-7c1a96cf7ade-Q091",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q093",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 88,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-7c1a96cf7ade-Q092",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q094",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 89,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-7c1a96cf7ade-Q125",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q125",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 122,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-7c1a96cf7ade-Q126",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q126",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 123,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-7c1a96cf7ade-Q127",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q127",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 124,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-7c1a96cf7ade-Q128",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q128",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 125,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-7c1a96cf7ade-Q129",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q129",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 126,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-7c1a96cf7ade-Q130",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q130",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 127,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-7c1a96cf7ade-Q131",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q131",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 128,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-7c1a96cf7ade-Q132",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q132",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 129,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-7c1a96cf7ade-Q133",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q133",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 130,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-7c1a96cf7ade-Q134",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q134",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 131,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-a1d343221ea4-Q002",
+      "codigo_canonico": "USB-60fb8a40c3bb-Q022.2",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 132,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-a1d343221ea4-Q004",
+      "codigo_canonico": "USB-60fb8a40c3bb-Q023.2",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 133,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-a1d343221ea4-Q008",
+      "codigo_canonico": "USB-60fb8a40c3bb-Q024.2",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 134,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-e58ef5771b78-Q125",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q125",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 122,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-e58ef5771b78-Q126",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q126",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 123,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-e58ef5771b78-Q127",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q127",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 124,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-e58ef5771b78-Q128",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q128",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 125,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-e58ef5771b78-Q129",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q129",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 126,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-e58ef5771b78-Q130",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q130",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 127,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-e58ef5771b78-Q131",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q131",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 128,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-e58ef5771b78-Q132",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q132",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 129,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-e58ef5771b78-Q133",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q133",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 130,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-e58ef5771b78-Q134",
+      "codigo_canonico": "USB-7882c8f9ae2f-Q134",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 131,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-f00a52c8b6f2-Q097",
+      "codigo_canonico": "USB-709bc037689b-Q100",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 97,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-f00a52c8b6f2-Q098",
+      "codigo_canonico": "USB-709bc037689b-Q101",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 98,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-f00a52c8b6f2-Q099",
+      "codigo_canonico": "USB-709bc037689b-Q102",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 99,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-f00a52c8b6f2-Q100",
+      "codigo_canonico": "USB-709bc037689b-Q103",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 100,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-f00a52c8b6f2-Q101",
+      "codigo_canonico": "USB-709bc037689b-Q104",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 101,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-f00a52c8b6f2-Q102",
+      "codigo_canonico": "USB-709bc037689b-Q105",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 102,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-f00a52c8b6f2-Q103",
+      "codigo_canonico": "USB-709bc037689b-Q106",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 103,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    },
+    {
+      "catalog_id": "USB-f00a52c8b6f2-Q104",
+      "codigo_canonico": "USB-709bc037689b-Q107",
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 104,
+      "estado": "reservada_equivalencia_documentada_SP003",
+      "evidencia": "catálogo de apariciones exactas o cotejo visual documentado en selección de Inglés"
+    }
+  ],
+  "adaptaciones_contextos": [
+    {
+      "contexto": "The Ethiopian Wolf",
+      "pdf_id": "USB-60fb8a40c3bb",
+      "examen": 2,
+      "pagina_fisica": 16,
+      "evaluadas": [
+        10,
+        11
+      ],
+      "completar_sin_evaluar": {
+        "12": "These",
+        "13": "largest",
+        "14": "in"
+      },
+      "fuente_clave": "página física 20, Examen 2"
+    },
+    {
+      "contexto": "Valentine’s Day",
+      "pdf_id": "USB-60fb8a40c3bb",
+      "examen": 2,
+      "pagina_fisica": 19,
+      "evaluadas": [
+        22,
+        23,
+        24
+      ],
+      "completar_sin_evaluar": {
+        "25": "almost"
+      },
+      "fuente_clave": "página física 20, Examen 2"
+    }
+  ],
+  "fuentes": [
+    {
+      "file_id": "USB-1bc205e23b46",
+      "pdf": "ICFES_2025_Cal-B_Sesion-2_Desierto-de-la-Tatacoa_Ref014_USB-1bc205e23b46.pdf",
+      "sha256": "65873a53eb39360da44482f5406c6ee5c7fb462b906275c7abc3611fdd34a1e1",
+      "paginas_seleccionadas_y_contextos": [
+        25
+      ]
+    },
+    {
+      "file_id": "USB-524d98b0a234",
+      "pdf": "2026-2-ABJ2_USB-524d98b0a234.pdf",
+      "sha256": "78c31d57f562a19c1f7f627c6ce2e42808fd0c8383e4391e0de2b02bc632d4e0",
+      "paginas_seleccionadas_y_contextos": [
+        34
+      ]
+    },
+    {
+      "file_id": "USB-6093aa3432dd",
+      "pdf": "Preguntas_explicadas_ingles_Saber_11.pdf",
+      "sha256": "315646f8178a338cacc2bcfa2143954e7b0abee4cc34ed258df7ebece765f3db",
+      "paginas_seleccionadas_y_contextos": [
+        2,
+        3
+      ]
+    },
+    {
+      "file_id": "USB-60fb8a40c3bb",
+      "pdf": "Cuadernillo de preguntas ingles saber 11 - 2019.pdf",
+      "sha256": "9ff08eb8dfaf2ce225a4f3c76c280131498e31bda9518174a224d5e301760459",
+      "paginas_seleccionadas_y_contextos": [
+        9,
+        10,
+        16,
+        19
+      ]
+    },
+    {
+      "file_id": "USB-709bc037689b",
+      "pdf": "2026-1-ACC2_USB-709bc037689b.pdf",
+      "sha256": "fbf1ad538fa4ceb1782ed4577449c6f12806b898e6a51158c3080751cf7e3752",
+      "paginas_seleccionadas_y_contextos": [
+        37,
+        39
+      ]
+    },
+    {
+      "file_id": "USB-7882c8f9ae2f",
+      "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
+      "sha256": "22510fdc6a75c4239aa6f81e2f04a361e0100a54a0b74bc3ce6465befe503cc6",
+      "paginas_seleccionadas_y_contextos": [
+        27,
+        29,
+        32,
+        35
+      ]
+    }
+  ]
+}

@@ -8,6 +8,8 @@ Proyecto independiente para diseñar y generar cuadernillos de práctica en PDF.
 
 ## Punto de continuación actual
 
+**SP-003 · Registro completo de códigos:** [199 guardados y 55 Inglés reservados, 254 en total](planning/SP003_CODIGOS_NO_REUTILIZAR.md). [55 códigos de Inglés](planning/SP003_S2_INGLES_CODIGOS.txt), reparto 5/6/6/10/9/6/13 con adaptación expresa de dos textos. Maestro de esta rama: 453 usadas / 134 reservas, incluidas 68 equivalencias de Inglés. Inglés aún sin cargar; segunda sesión permanece en rev. 22 / 79. Integración a main por el coordinador pendiente.
+
 **SP-003 · Segunda sesión · Ciencias completa:** **4188, revisión 22 / 79 preguntas**: 25 Sociales y 25 Matemáticas intactas, más 29 Ciencias (9/8/12; componentes 9/8/9/3). [Entrega, códigos, tres PDF y controles](planning/SP003_S2_CIENCIAS_CARGA.md). Se sustituyeron los 13 cruces de revisión 20 con SP-001 y se corrigió a B la clave del inhibidor. Primera sesión rev. 26 / 120 sin cambios. Faltan 55 Inglés, revisión individual e integración del coordinador.
 
 **SP-003 · Segunda sesión · Matemáticas completa:** **4188, revisión 16 / 50 preguntas**, 25 Sociales conservadas y 25 Matemáticas con reparto 8/11/6. [Entrega, tres PDF y controles](planning/SP003_S2_MATEMATICAS_CARGA.md); [25 códigos definitivos de Matemáticas](planning/SP003_S2_MATEMATICAS_CODIGOS.txt). La 45 final es `USB-578d9b20297e-Q039`. Primera sesión intacta, rev. 26 / 120. Revisión individual e integración del coordinador pendientes; faltan Ciencias 29 e Inglés 55. Los estados anteriores de Matemáticas sin cargar son antecedentes.
