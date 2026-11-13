@@ -2,6 +2,55 @@
 
 Estado: primer editor funcional para pruebas editoriales, independiente de la app y el backend.
 
+## Trabajar al mismo tiempo · SP-003
+
+**Cierre de segunda SP-003 · 13 de noviembre:** **4188, revisión 29 / 134**, Inglés 55/55. [PDF, revisión del trabajo del usuario y controles](../planning/SP003_S2_INGLES_CIERRE.md). Las 120 de rev. 28 conservadas y 14 agregadas. Filas de cuatro opciones en parte 7 sin imágenes; instrucciones genéricas resuelven numeración y omiten texto en blanco. 18 pruebas correctas; PDF 64/82/3 páginas. Solo 4188 recargado: recargar su página por token renovado. Primera sesión intacta; revisión individual e integración pendientes.
+
+**Inglés partes 4–5 · 12 de noviembre:** **4188, revisión 26 / 115 preguntas**, Inglés 36/55. [PDF, códigos y controles](../planning/SP003_S2_INGLES_PARTES4Y5_CARGA.md). PDF 60/75/3 páginas; cuatro pasajes completos y adaptación autorizada del lobo ejecutada. El validador admite sufijos .1/.2 para Examen 1/2; dos pruebas de guardado/exportación/registro y 11 de integridad aprobadas. Solo 4188 recargado: recargar su página antes de editar por token renovado. Las 96 anteriores y primera sesión intactas. Quedan 19 Inglés, partes 6–7.
+
+**Inglés parte 3 · 12 de noviembre:** **4188, revisión 25 / 96 preguntas**. Seis conversaciones 91–96; Inglés 17/55. [PDF, códigos y controles](../planning/SP003_S2_INGLES_PARTE3_CARGA.md). Parte 3 en una página con ejemplo textual; PDF 55/68/2 páginas. Las 90 anteriores y primera sesión intactas. Quedan 38 Inglés, partes 4–7; continuar sobre el proyecto actual.
+
+**Inglés parte 2 · 12 de noviembre:** **4188, revisión 24 / 90 preguntas**. Seis avisos 85–90, Inglés 11/55. [PDF, códigos y controles](../planning/SP003_S2_INGLES_PARTE2_CARGA.md). Dos contextos según la fuente, con sus ejemplos; PDF 54/66/2 páginas. Las 84 anteriores y primera sesión intactas. Quedan 44 Inglés, partes 3–7; continuar en el proyecto actual.
+
+**Inglés parte 1 · 12 de noviembre:** **4188, revisión 23 / 84 preguntas**. Cinco de At a Picnic, 80–84, con banco común A–G y ejemplo H. [Entrega y controles](../planning/SP003_S2_INGLES_PARTE1_CARGA.md). Las 79 anteriores y primera sesión intactas. Quedan 50 Inglés, partes 2–7; continuar en el mismo proyecto.
+
+**Cierre de Ciencias de segunda sesión · 12 de noviembre:** **4188, revisión 22 / 79 preguntas**. 29 Ciencias (9/8/12; componentes 9/8/9/3), conservando las 50 anteriores. Se sustituyeron los 13 cruces con SP-001 detectados tras rev. 20 y se corrigió a B la clave del inhibidor. [Entrega, códigos y tres PDF](../planning/SP003_S2_CIENCIAS_CARGA.md). Continuar en `data/parallel/SP-003-segunda-4188/project.json`; faltan 55 Inglés. Primera sesión rev. 26 / 120 intacta. Revisión individual y coordinación pendientes.
+
+**Cierre de Matemáticas de segunda sesión · 12 de noviembre:** **4188, revisión 16 / 50 preguntas**, 25 Sociales intactas y 25 Matemáticas (8/11/6). [Entrega, códigos y tres PDF](../planning/SP003_S2_MATEMATICAS_CARGA.md). Conservar `data/parallel/SP-003-segunda-4188/project.json` y continuar agregando áreas; faltan Ciencias 29 e Inglés 55. Primera sesión rev. 26 / 120 sin cambios. Revisión del usuario y coordinación pendientes. Los cierres anteriores describen revisiones históricas.
+
+**Cierre de Sociales de segunda sesión · 12 de noviembre:** **4188, revisión 8 / 25 preguntas**, reparto 7/10/8, revisión del usuario pendiente. [Entrega y 25 códigos](../planning/SP003_S2_SOCIALES_CARGA.md). Su JSON sigue en `data/parallel/SP-003-segunda-4188/project.json`. Las otras áreas de segunda permanecen vacías. La primera conserva revisión 26 / 120 sin cambios durante este cierre. Reabrir con el mismo espacio y puerto conserva los datos; no importar una plantilla vacía. El estado inicial descrito a continuación es histórico.
+
+**Segunda sesión iniciada:** se abrió **http://127.0.0.1:4188/**, independiente de la primera de 4185 y de los espacios antiguos. Se conserva en `data/parallel/SP-003-segunda-4188/project.json`, con plantilla de 134 puestos, revisión inicial 0 y sin preguntas cargadas. Reabrir: `uv run --offline python -B tool/editor_parallel.py --port 4188 --workspace SP-003-segunda --template planning/starter_projects/SP-003-segunda.json`. [Primer lote propuesto y estado](../planning/SP003_S2_SOCIALES_LOTE01.md).
+
+**Estado posterior a la reanudación del 12 de noviembre:** por autorización del usuario, el principal 4185 reúne ahora la primera sesión completa, **120 preguntas, revisión 23**, incluidas Ciencias 29 y Sociales 25. Los espacios 4186/4187 conservan sus archivos históricos independientes. Ver [entrega y pendientes](../planning/SP003_S1_SESION_UNIFICADA.md). Los repartos de trabajo que siguen son antecedentes.
+
+**Nuevo reparto del 12 de noviembre:** el usuario continúa Ciencias en el principal **4185**. El asistente terminó Sociales en un tercer espacio independiente, **http://127.0.0.1:4187/**, `data/parallel/SP-003-sociales-4187/project.json`, revisión 5, 25 preguntas. Para reabrirlo: `uv run --offline python -B tool/editor_parallel.py --port 4187 --workspace SP-003-sociales`. Su revisión y posterior integración están pendientes; no importar su JSON sobre el principal. El antiguo espacio 4186 conserva Lectura y no se modificó. Ver [informe de Sociales](../planning/SP003_S1_SOCIALES_CARGA.md).
+
+Dos ventanas del mismo proyecto no se sincronizan en vivo: cada guardado envía el JSON completo. Para que el usuario trabaje otra área mientras el asistente carga Matemáticas, se habilitó un segundo editor independiente:
+
+**Actualización del 12 de noviembre:** la integración ya se realizó. El principal tiene las 25 preguntas de Matemáticas y las 41 de Lectura, con 13 contextos, revisión 18. El paralelo conserva exactamente las 41 originales de Lectura, revisión 3. La creación vacía descrita abajo es histórica; reabrir conserva sus preguntas. Las siguientes ediciones no se sincronizan automáticamente. Paquete y límites en [integración y actualización](SP003_INTEGRACION_Y_ACTUALIZACION.md).
+
+| Ventana | Uso acordado | Proyecto guardado |
+| --- | --- | --- |
+| http://127.0.0.1:4185/ | Proyecto principal; Matemáticas a cargo del asistente durante sus cargas. | `data/project.json` |
+| http://127.0.0.1:4186/ | Trabajo del usuario en Lectura, Sociales o Ciencias. | `data/parallel/SP-003-usuario-4186/project.json` |
+
+En 4186 aparece **TU ESPACIO · EDICIÓN PARALELA** y el título de pestaña «Tu trabajo paralelo». Se inició con el JSON vacío de SP-003, primera sesión, 270 minutos; no contiene copias de las 16 preguntas de Matemáticas ni ejemplos. Elegir el área en **Área del banco**, crear sus preguntas y usar **Guardar proyecto**. Descargar periódicamente el respaldo desde **Distribución prevista y respaldo del proyecto → Descargar proyecto JSON**.
+
+La numeración que aparece en ese editor corresponde a su selección local; la definitiva se recalcula al integrar las áreas. No hace falta añadir preguntas vacías de Matemáticas para que Lectura comience en 26. La integración posterior debe reunir preguntas y contextos de ambos proyectos, comprobar códigos/duplicados y revisar los PDF; **importar el JSON paralelo sobre el principal reemplazaría el proyecto**, no lo combina. El asistente no modifica la ventana del usuario mientras este trabaja allí.
+
+Para volver a abrir el segundo editor desde la raíz, si dejó de estar activo:
+
+```powershell
+uv run --offline python -B tool/editor_parallel.py --port 4186 --workspace SP-003-usuario
+```
+
+Al abrirlo de nuevo conserva el proyecto existente y sus respaldos. Cambiar el nombre del espacio o el puerto crea una ubicación distinta; conservar esos parámetros para continuar el mismo trabajo. No iniciar `editor_server.py --port 4186` para esta tarea: cambiar solamente el puerto mantiene el `data/project.json` principal y no aísla el guardado. No reiniciar el editor 4185 mientras haya ediciones sin guardar.
+
+El lanzador `tool/editor_parallel.py` solo escucha en loopback, limita los nombres de espacio y asigna carpetas distintas por espacio/puerto. Cada proceso mantiene su token local y revisión independientes. Sus respaldos se guardan dentro de su propia carpeta; `data/parallel/` está excluida de Git. Las imágenes y las exportaciones conservan el almacén habitual con nombres UUID independientes; los guardados no sustituyen recursos ajenos.
+
+Verificación: cuatro pruebas en `tool/test_editor_parallel.py` comprueban separación de rutas/revisiones/respaldos, conservación al reabrir y rechazo de plantillas con preguntas. Se comprobaron las dos rutas HTTP, el rótulo de la ventana paralela y el rechazo en 4186 del token de 4185 sin escribir datos. El principal mantuvo las 16 preguntas y su archivo no cambió. No se afirma una prueba completa de clics en navegador.
+
 ## Clasificación editorial sin requisito docente
 
 Decisión del usuario, 10 de noviembre de 2026: el equipo SaberPlus clasifica las preguntas. Se elimina del formulario el selector «Propuesta para revisión / Revisada por docente» y los campos de responsable/fecha de revisión. En su lugar, «Añadir clasificación por competencia» permite registrar competencia, afirmación/evidencia y justificación, sin aprobación externa obligatoria.
@@ -83,13 +132,14 @@ Para experimentar con la muestra: abrir **Distribución prevista y respaldo del 
 
 ## Reglas y límites actuales
 
+- Un enunciado escrito íntegramente en **Introducción**, con **Enunciado** vacío, se conserva y se imprime una sola vez. La vista previa no añade un aviso de enunciado pendiente en ese caso; sigue siendo obligatorio que exista texto en al menos uno de los dos campos. Las fórmulas permiten espacios o saltos de línea junto a sus delimitadores, sin reescribir el texto guardado.
 - **Encabezados y cambio de área** permite editar título (hasta 120 caracteres) e indicaciones iniciales (hasta 1500) de cada área. Cada área comienza en página nueva, con el título una sola vez en la banda gris; no repite el nombre arriba ni añade conteos. El nombre habitual permanece como encabezado en las páginas siguientes. Los rangos de preguntas se reservan para los contextos, salvo que el editor los escriba voluntariamente en las indicaciones.
 - En **Contextos**, el campo **Encabezado del grupo** admite texto libre con `{{desde}}`, `{{hasta}}` y `{{cantidad}}`. Estos se sustituyen por el rango real después de ordenar y seleccionar. Los botones Según el texto / información / gráfica son modelos editables. Dejar vacío activa la frase automática, singular si solo hay una pregunta. No escribir números fijos si se desea actualización automática.
 - El contexto incluye un crédito opcional **Fuente** visible en el cuadernillo. El editor no verifica permisos de uso: ingresarlos no concede derechos sobre material ajeno.
 - Desde una pregunta se puede **Crear y vincular lectura / contexto**, o **Editar contexto vinculado**. Las demás preguntas se vinculan al mismo contexto mediante el selector. No duplicar la lectura por cada pregunta.
 - Orden por perfil de sesión y por parte de inglés; contextos contiguos y numeración final automática. Perfil editorial basado en referencias, no garantía de distribución oficial vigente.
 - Asociación A–G con banco común; espacios con opciones A–C o A–D; lecturas compartidas. En huecos usar `{{h1}}` y asignar `h1` al ítem. Deben coincidir los huecos y los ítems incluidos.
-- Enunciados, opciones e imágenes se miden antes de dibujar. Un bloque que excede la página produce un aviso; hay que dividir el contexto o elegir ancho completo. No existe aún división automática de lecturas largas ni ajuste manual de saltos.
+- Enunciados, opciones e imágenes se miden antes de dibujar. Los párrafos de contextos de ancho completo que exceden una página se dividen al exportar, con aviso de continuación, sin modificar el contexto guardado ni sus vínculos. Las imágenes y otros recursos indivisibles excesivos producen un error explícito; las lecturas laterales conservan su límite de una columna. Las figuras de preguntas admiten 40–240 puntos de altura en columnas y hasta 400 en ancho completo; el bloque total debe caber sin recortes. Las fórmulas químicas aceptan subíndices Unicode como CO₂ y CO₃²⁻.
 - La previsualización tolera enunciados/opciones vacíos y clasificaciones a medio editar, pero no contextos incompatibles ni huecos sin vincular; conserva la última vista válida y explica el error.
 - La descarga exige opciones, clave y explicación completas; muestra advertencias de cantidades, tiempo y revisión pedagógica pendientes. Sigue marcada como borrador.
 - Catálogo de evidencias parcial. No asigna niveles oficiales ni puntajes ICFES, ni valida psicométricamente preguntas. La hoja de respuestas es de uso manual, no óptico.

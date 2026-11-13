@@ -1,0 +1,252 @@
+{
+  "schema": 1,
+  "scope": "entrega_para_coordinacion_no_es_registro_maestro",
+  "simulacro": "SP-003",
+  "sesion": "segunda",
+  "revision": 8,
+  "estado": "cargadas_autorizadas_pendientes_revision_usuario_e_integracion_coordinador",
+  "preguntas": [
+    {
+      "numero": 1,
+      "catalog_id": "USB-91836110f48e-Q076",
+      "pdf": "Referencia_2026-1-declarado_Sesion-1_ACC1_Incompleto-131-de-143_USB-91836110f48e.pdf",
+      "pagina_fisica": 24,
+      "numero_original": 76,
+      "competencia": "social_thinking",
+      "otras_apariciones": []
+    },
+    {
+      "numero": 2,
+      "catalog_id": "USB-2543b7a34fb2-Q002",
+      "pdf": "Referencia_2026-1-declarado_Sesion-2_ABU2_USB-2543b7a34fb2.pdf",
+      "pagina_fisica": 2,
+      "numero_original": 2,
+      "competencia": "perspectives",
+      "otras_apariciones": []
+    },
+    {
+      "numero": 3,
+      "catalog_id": "USB-234fa4e3ddce-Q058",
+      "pdf": "2026-1-ADB3_USB-234fa4e3ddce.pdf",
+      "pagina_fisica": 21,
+      "numero_original": 58,
+      "competencia": "perspectives",
+      "otras_apariciones": []
+    },
+    {
+      "numero": 4,
+      "catalog_id": "USB-524d98b0a234-Q018",
+      "pdf": "2026-2-ABJ2_USB-524d98b0a234.pdf",
+      "pagina_fisica": 7,
+      "numero_original": 18,
+      "competencia": "systems",
+      "otras_apariciones": []
+    },
+    {
+      "numero": 5,
+      "catalog_id": "USB-1c44481d3d4a-Q018",
+      "pdf": "Referencia_2026-1-declarado_Sesion-2_ABV2_USB-1c44481d3d4a.pdf",
+      "pagina_fisica": 8,
+      "numero_original": 18,
+      "competencia": "systems",
+      "otras_apariciones": [
+        "USB-77cc8ac26d2c-Q074"
+      ]
+    },
+    {
+      "numero": 6,
+      "catalog_id": "USB-91836110f48e-Q071",
+      "pdf": "Referencia_2026-1-declarado_Sesion-1_ACC1_Incompleto-131-de-143_USB-91836110f48e.pdf",
+      "pagina_fisica": 23,
+      "numero_original": 71,
+      "competencia": "perspectives",
+      "otras_apariciones": [
+        "USB-295a0508d0cf-Q084"
+      ]
+    },
+    {
+      "numero": 7,
+      "catalog_id": "USB-234fa4e3ddce-Q049",
+      "pdf": "2026-1-ADB3_USB-234fa4e3ddce.pdf",
+      "pagina_fisica": 18,
+      "numero_original": 49,
+      "competencia": "systems",
+      "otras_apariciones": []
+    },
+    {
+      "numero": 8,
+      "catalog_id": "USB-234fa4e3ddce-Q054",
+      "pdf": "2026-1-ADB3_USB-234fa4e3ddce.pdf",
+      "pagina_fisica": 19,
+      "numero_original": 54,
+      "competencia": "social_thinking",
+      "otras_apariciones": []
+    },
+    {
+      "numero": 9,
+      "catalog_id": "USB-234fa4e3ddce-Q061",
+      "pdf": "2026-1-ADB3_USB-234fa4e3ddce.pdf",
+      "pagina_fisica": 22,
+      "numero_original": 61,
+      "competencia": "perspectives",
+      "otras_apariciones": []
+    },
+    {
+      "numero": 10,
+      "catalog_id": "USB-234fa4e3ddce-Q063",
+      "pdf": "2026-1-ADB3_USB-234fa4e3ddce.pdf",
+      "pagina_fisica": 23,
+      "numero_original": 63,
+      "competencia": "perspectives",
+      "otras_apariciones": []
+    },
+    {
+      "numero": 11,
+      "catalog_id": "USB-2722e7c48dfd-Q010",
+      "pdf": "ICFES_2026_Cal-B-por-confirmar_Sesion-2_Cristo-Redentor_Ref029_USB-2722e7c48dfd.pdf",
+      "pagina_fisica": 5,
+      "numero_original": 10,
+      "competencia": "perspectives",
+      "otras_apariciones": []
+    },
+    {
+      "numero": 12,
+      "catalog_id": "USB-524d98b0a234-Q008",
+      "pdf": "2026-2-ABJ2_USB-524d98b0a234.pdf",
+      "pagina_fisica": 3,
+      "numero_original": 8,
+      "competencia": "social_thinking",
+      "otras_apariciones": []
+    },
+    {
+      "numero": 13,
+      "catalog_id": "USB-524d98b0a234-Q020",
+      "pdf": "2026-2-ABJ2_USB-524d98b0a234.pdf",
+      "pagina_fisica": 7,
+      "numero_original": 20,
+      "competencia": "systems",
+      "otras_apariciones": []
+    },
+    {
+      "numero": 14,
+      "catalog_id": "USB-578d9b20297e-Q002",
+      "pdf": "Referencia_Sesion-2_Ano-por-confirmar_Sin-portada_77322_USB-578d9b20297e.pdf",
+      "pagina_fisica": 1,
+      "numero_original": 2,
+      "competencia": "social_thinking",
+      "otras_apariciones": []
+    },
+    {
+      "numero": 15,
+      "catalog_id": "USB-578d9b20297e-Q003",
+      "pdf": "Referencia_Sesion-2_Ano-por-confirmar_Sin-portada_77322_USB-578d9b20297e.pdf",
+      "pagina_fisica": 1,
+      "numero_original": 3,
+      "competencia": "perspectives",
+      "otras_apariciones": []
+    },
+    {
+      "numero": 16,
+      "catalog_id": "USB-1c44481d3d4a-Q007",
+      "pdf": "Referencia_2026-1-declarado_Sesion-2_ABV2_USB-1c44481d3d4a.pdf",
+      "pagina_fisica": 4,
+      "numero_original": 7,
+      "competencia": "systems",
+      "otras_apariciones": [
+        "USB-578d9b20297e-Q018",
+        "USB-eee9960ca52a-Q062"
+      ]
+    },
+    {
+      "numero": 17,
+      "catalog_id": "USB-77cc8ac26d2c-Q073",
+      "pdf": "2026-2-ACN1_USB-77cc8ac26d2c.pdf",
+      "pagina_fisica": 34,
+      "numero_original": 73,
+      "competencia": "social_thinking",
+      "otras_apariciones": []
+    },
+    {
+      "numero": 18,
+      "catalog_id": "USB-7882c8f9ae2f-Q001",
+      "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
+      "pagina_fisica": 2,
+      "numero_original": 1,
+      "competencia": "perspectives",
+      "otras_apariciones": []
+    },
+    {
+      "numero": 19,
+      "catalog_id": "USB-7882c8f9ae2f-Q003",
+      "pdf": "ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf",
+      "pagina_fisica": 2,
+      "numero_original": 3,
+      "competencia": "perspectives",
+      "otras_apariciones": []
+    },
+    {
+      "numero": 20,
+      "catalog_id": "USB-1c44481d3d4a-Q016",
+      "pdf": "Referencia_2026-1-declarado_Sesion-2_ABV2_USB-1c44481d3d4a.pdf",
+      "pagina_fisica": 7,
+      "numero_original": 16,
+      "competencia": "perspectives",
+      "otras_apariciones": [
+        "USB-295a0508d0cf-Q087",
+        "USB-77cc8ac26d2c-Q071"
+      ]
+    },
+    {
+      "numero": 21,
+      "catalog_id": "USB-91836110f48e-Q069",
+      "pdf": "Referencia_2026-1-declarado_Sesion-1_ACC1_Incompleto-131-de-143_USB-91836110f48e.pdf",
+      "pagina_fisica": 22,
+      "numero_original": 69,
+      "competencia": "social_thinking",
+      "otras_apariciones": []
+    },
+    {
+      "numero": 22,
+      "catalog_id": "USB-77cc8ac26d2c-Q063",
+      "pdf": "2026-2-ACN1_USB-77cc8ac26d2c.pdf",
+      "pagina_fisica": 22,
+      "numero_original": 63,
+      "competencia": "systems",
+      "otras_apariciones": [
+        "USB-295a0508d0cf-Q073"
+      ]
+    },
+    {
+      "numero": 23,
+      "catalog_id": "USB-e4489f150183-Q020",
+      "pdf": "2026-1_USB-e4489f150183.pdf",
+      "pagina_fisica": 7,
+      "numero_original": 20,
+      "competencia": "social_thinking",
+      "otras_apariciones": []
+    },
+    {
+      "numero": 24,
+      "catalog_id": "USB-1c44481d3d4a-Q022",
+      "pdf": "Referencia_2026-1-declarado_Sesion-2_ABV2_USB-1c44481d3d4a.pdf",
+      "pagina_fisica": 9,
+      "numero_original": 22,
+      "competencia": "systems",
+      "otras_apariciones": [
+        "USB-295a0508d0cf-Q080",
+        "USB-77cc8ac26d2c-Q077"
+      ]
+    },
+    {
+      "numero": 25,
+      "catalog_id": "USB-524d98b0a234-Q022",
+      "pdf": "2026-2-ABJ2_USB-524d98b0a234.pdf",
+      "pagina_fisica": 8,
+      "numero_original": 22,
+      "competencia": "systems",
+      "otras_apariciones": [
+        "USB-295a0508d0cf-Q075"
+      ]
+    }
+  ]
+}

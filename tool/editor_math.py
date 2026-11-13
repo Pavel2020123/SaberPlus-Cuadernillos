@@ -23,6 +23,8 @@ def equation_path(expression,size):
         raise ValueError('Ecuación vacía o demasiado larga (máximo 600 caracteres).')
     if '$' in expression:
         raise ValueError('Dentro de una ecuación no uses $. Usa los delimitadores \\( y \\).')
+    # Pasted display equations may put their delimiters on separate lines.
+    expression=expression.strip()
     try:
         from matplotlib.font_manager import FontProperties
         from matplotlib.textpath import TextPath

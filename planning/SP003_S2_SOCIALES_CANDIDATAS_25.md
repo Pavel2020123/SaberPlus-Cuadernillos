@@ -1,0 +1,72 @@
+# SP-003 · Segunda sesión · Sociales: selección para completar el área
+
+12 de noviembre de 2026. Responsable: equipo SaberPlus / rama `trabajo/sp-003`.
+
+**Estado final:** las 25 de esta tabla están guardadas en **4188, revisión 8**. [Entrega y controles](SP003_S2_SOCIALES_CARGA.md). Claves separadas y revisión individual del usuario pendiente. Main actualizado a `8542df4` y SP-002 consultado en `dfbe592`; el registro local incorpora solo usos ya publicados (291/11), sin añadir estas 25. Los estados de selección y conteos anteriores que siguen son históricos.
+
+El usuario confirmó la carga de las cinco iniciales y después pidió: «Encargate primero de un area completa». Se continúa exclusivamente Sociales, con meta de 25. La revisión individual del usuario queda para después de la carga; esta autorización no atribuye validación externa ni exclusividad automática frente al otro equipo.
+
+Este documento publica **25 selecciones** en lotes de cinco antes de transcribir cada nuevo lote. Estado actual del editor y entrega: consultar el informe de carga al finalizar; selección publicada no significa todavía carga terminada.
+
+| Puesto de área y sesión | Código original | Fuente / física / n.º original | Tema y subtema de catálogo | Competencia propuesta y razón | Contexto / imagen |
+| --- | --- | --- | --- | --- | --- |
+| 1 | `USB-91836110f48e-Q076` | `Referencia_2026-1-declarado_Sesion-1_ACC1_Incompleto-131-de-143_USB-91836110f48e.pdf` / 24 / 76 | Colectivizacion agraria y propiedad estatal | Pensamiento social: La organizacion socialista descrita implica intervencion estatal en propiedad,control y distribucion de tierra y recursos. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
+| 2 | `USB-2543b7a34fb2-Q002` | `Referencia_2026-1-declarado_Sesion-2_ABU2_USB-2543b7a34fb2.pdf` / 2 / 2 | Fiabilidad de fuentes y prevencion de inundaciones | Interpretacion y analisis de perspectivas: El grupo cientifico aporta seguimiento reciente del rio y del clima, mas pertinente que autoridad profesional ajena, observacion aislada o ausencia de antecedentes. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
+| 3 | `USB-234fa4e3ddce-Q058` | `2026-1-ADB3_USB-234fa4e3ddce.pdf` / 21 / 58 | Identificacion de prejuicio etnico | Interpretacion y analisis de perspectivas: Atribuir pobreza a sangre indigena asigna rasgo negativo a ascendencia y discrimina colectivamente. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
+| 4 | `USB-524d98b0a234-Q018` | `2026-2-ABJ2_USB-524d98b0a234.pdf` / 7 / 18 | Economia y ambiente en desarrollo sostenible | Pensamiento reflexivo y sistemico: Relaciona energia limpia,empleo y prosperidad,sin oposicion necesaria entre ambiente y economia. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
+| 5 | `USB-1c44481d3d4a-Q018` | `Referencia_2026-1-declarado_Sesion-2_ABV2_USB-1c44481d3d4a.pdf` / 8 / 18 | Viabilidad territorial de programa universitario rural | Pensamiento reflexivo y sistemico: Vias en buen estado favorecen traslado de alumnos desde veredas y profesores desde capitales para clases de fin de semana. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
+| 6 | `USB-91836110f48e-Q071` | `Referencia_2026-1-declarado_Sesion-1_ACC1_Incompleto-131-de-143_USB-91836110f48e.pdf` / 23 / 71 | Afinidad de explicaciones del cambio climatico | Interpretacion y analisis de perspectivas: Reducir emisiones industriales supone influencia humana, coincidente con la postura del grupo cientifico. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
+| 7 | `USB-234fa4e3ddce-Q049` | `2026-1-ADB3_USB-234fa4e3ddce.pdf` / 18 / 49 | Enfoque de politica publica en intervencion | Pensamiento reflexivo y sistemico: La cita enfatiza proteccion de menores,mujeres y comunidad vulnerable,mas amplia que persecucion policial o tratamiento exclusivo de drogas. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
+| 8 | `USB-234fa4e3ddce-Q054` | `2026-1-ADB3_USB-234fa4e3ddce.pdf` / 19 / 54 | Relacion de fuentes sobre grupos armados | Pensamiento social: Ambas fuentes explican origen y expansion de actores del conflicto armado interno. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
+| 9 | `USB-234fa4e3ddce-Q061` | `2026-1-ADB3_USB-234fa4e3ddce.pdf` / 22 / 61 | Evaluacion de confiabilidad de argumento historico | Interpretacion y analisis de perspectivas: El argumento reconoce incertidumbre de cifras y aporta memorias del general y telegrama diplomatico; no basa toda prueba en novela. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
+| 10 | `USB-234fa4e3ddce-Q063` | `2026-1-ADB3_USB-234fa4e3ddce.pdf` / 23 / 63 | Perspectivas de actores en politica de vivienda | Interpretacion y analisis de perspectivas: Sociologos defienden terrenos centrales por acceso a servicios; vivienda periferica contradice esa prioridad. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
+| 11 | `USB-2722e7c48dfd-Q010` | `ICFES_2026_Cal-B-por-confirmar_Sesion-2_Cristo-Redentor_Ref029_USB-2722e7c48dfd.pdf` / 5 / 10 | Contraste entre tesis sobre disuasión penal | Interpretación y análisis de perspectivas: El primer fragmento niega suficiencia disuasiva del castigo; el segundo defiende intensidad de pena que considera suficiente para disuadir. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
+| 12 | `USB-524d98b0a234-Q008` | `2026-2-ABJ2_USB-524d98b0a234.pdf` / 3 / 8 | Derechos humanos y cierre de brechas | Pensamiento social: Inclusion,libertades y acceso a justicia buscan condiciones de dignidad para todas las personas. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
+| 13 | `USB-524d98b0a234-Q020` | `2026-2-ABJ2_USB-524d98b0a234.pdf` / 7 / 20 | Efecto de prohibicion de plataforma de transporte | Pensamiento reflexivo y sistemico: Usuarios pierden acceso al servicio prohibido;taxistas tradicionales no pierden por esa prohibicion. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
+| 14 | `USB-578d9b20297e-Q002` | `Referencia_Sesion-2_Ano-por-confirmar_Sin-portada_77322_USB-578d9b20297e.pdf` / 1 / 2 | Liderazgo social y derechos de victimas | Pensamiento social: La mujer promueve asociacion, atencion psicosocial y restitucion; eso caracteriza liderazgo social, no partido o sindicato. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
+| 15 | `USB-578d9b20297e-Q003` | `Referencia_Sesion-2_Ano-por-confirmar_Sin-portada_77322_USB-578d9b20297e.pdf` / 1 / 3 | Transferencia de argumento sobre desigualdad de genero | Interpretacion y analisis de perspectivas: Bailarinas y actrices comparten trabajo corporal y destrezas escenicas invisibilizadas, mas directamente que las otras profesiones. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
+| 16 | `USB-1c44481d3d4a-Q007` | `Referencia_2026-1-declarado_Sesion-2_ABV2_USB-1c44481d3d4a.pdf` / 4 / 7 | Condiciones geograficas de ayuda alimentaria | Pensamiento reflexivo y sistemico: El aislamiento y transporte limitado dificultan entregar cinco toneladas. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
+| 17 | `USB-77cc8ac26d2c-Q073` | `2026-2-ACN1_USB-77cc8ac26d2c.pdf` / 34 / 73 | Limite constitucional a pena de muerte | Pensamiento social: La Constitucion prohibe pena de muerte en supuesto del ejercicio;alcalde no puede volverla ley por utilidad. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
+| 18 | `USB-7882c8f9ae2f-Q001` | `ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf` / 2 / 1 | Pertinencia de evidencia sobre mitigación climática | Interpretación y análisis de perspectivas: La reducción británica de emisiones aún incompleta conecta directamente con el reclamo de ir más allá de reducciones parciales. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
+| 19 | `USB-7882c8f9ae2f-Q003` | `ICFES_2026_Cal-B_Sesion-2_Santuario-Las-Lajas_Ref033_USB-7882c8f9ae2f.pdf` / 2 / 3 | Prejuicio de género en explicación investigativa | Interpretación y análisis de perspectivas: Atribuir formación en valores solo a madres presupone responsabilidad exclusiva de ellas y excluye otros cuidadores. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
+| 20 | `USB-1c44481d3d4a-Q016` | `Referencia_2026-1-declarado_Sesion-2_ABV2_USB-1c44481d3d4a.pdf` / 7 / 16 | Limites de generalizacion desde casos de corrupcion | Interpretacion y analisis de perspectivas: La participacion de muchos politicos no demuestra que todos deban ser corruptos. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
+| 21 | `USB-91836110f48e-Q069` | `Referencia_2026-1-declarado_Sesion-1_ACC1_Incompleto-131-de-143_USB-91836110f48e.pdf` / 22 / 69 | Concepto analitico de diferencias socioeconomicas | Pensamiento social: La interpretacion relaciona usos de plaza con diferencias sociales entre residentes de altos estratos y personas sin hogar: clase social. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
+| 22 | `USB-77cc8ac26d2c-Q063` | `2026-2-ACN1_USB-77cc8ac26d2c.pdf` / 22 / 63 | Microplasticos y ambiente sano | Pensamiento reflexivo y sistemico: Fragmentacion que deja particulas contaminantes no resuelve riesgo para agua y alimentos. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
+| 23 | `USB-e4489f150183-Q020` | `2026-1_USB-e4489f150183.pdf` / 7 / 20 | Organizacion de rama judicial | Pensamiento social: Fiscalia pertenece a rama judicial y ejerce investigacion/acusacion penal entre entidades propuestas. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
+| 24 | `USB-1c44481d3d4a-Q022` | `Referencia_2026-1-declarado_Sesion-2_ABV2_USB-1c44481d3d4a.pdf` / 9 / 22 | Conflicto economico y ambiental en pesca de arrastre | Pensamiento reflexivo y sistemico: Competencia y perdidas de pesca artesanal se relacionan con captura incidental y disminucion de especies. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
+| 25 | `USB-524d98b0a234-Q022` | `2026-2-ABJ2_USB-524d98b0a234.pdf` / 8 / 22 | Efecto social de proteccion patrimonial | Pensamiento reflexivo y sistemico: Prohibir modificaciones sin atender seguridad y condiciones de habitantes omite necesidades sociales. | Caso independiente; texto editable, sin figura. Conservar todos sus fragmentos y créditos. |
+
+El enunciado completo, opciones y clasificación efectiva se guardan en el JSON local. Los temas de esta tabla son descriptores de localización, no afirmaciones o evidencias oficiales. Todos los recursos son texto; no se fabrican imágenes ni se reducen letras para ajustar páginas. Los puestos coinciden con 1–25 de la segunda sesión porque Sociales es el área inicial.
+
+## Cotejo y fuentes
+
+Se actualizó `origin`: main `a450ec9` ya integrado; **SP-002 publicó `ac9d17d`**, cuyo piloto JSON de 120 preguntas y reservas se consultaron. Se excluyen registro 241 usadas / 11 reservas, reservas de ambas ramas, las 120 de primera SP-003 y las 120 del piloto SP-002, con las equivalencias catalogadas. No se modifica el registro maestro ni se importa trabajo ajeno.
+
+Las páginas originales se abrieron, se renderizaron y se leyeron; sus SHA-256 coinciden con el catálogo. Rutas y fichas: `tmp/sp003/segunda/sociales25-preseleccion.json`. Se cotejaron también las páginas de todas las apariciones propuestas por los pares pendientes que tocan los reemplazos.
+
+| Pregunta seleccionada | Otras apariciones que deben excluirse |
+| --- | --- |
+| `USB-1c44481d3d4a-Q018` | `USB-77cc8ac26d2c-Q074` |
+| `USB-91836110f48e-Q071` | `USB-295a0508d0cf-Q084` |
+| `USB-1c44481d3d4a-Q007` | `USB-578d9b20297e-Q018`, `USB-eee9960ca52a-Q062` |
+| `USB-1c44481d3d4a-Q016` | `USB-295a0508d0cf-Q087`, `USB-77cc8ac26d2c-Q071` |
+| `USB-77cc8ac26d2c-Q063` | `USB-295a0508d0cf-Q073` |
+| `USB-1c44481d3d4a-Q022` | `USB-295a0508d0cf-Q080`, `USB-77cc8ac26d2c-Q077` |
+| `USB-524d98b0a234-Q022` | `USB-295a0508d0cf-Q075` |
+
+El par pendiente entre `USB-295a0508d0cf-Q087` y `USB-8e6cf8399239-Q077` se abrió y **no se consideró la misma pregunta**: el primero evalúa una generalización desde un caso transnacional y el segundo la pertinencia de un fragmento sobre el cartel de Cali para investigar corrupción. Comparten tema, pero difieren contexto, tarea y opciones. No se alteró el catálogo global.
+
+## Descartes durante la lectura
+
+- `USB-04dc5257ed8b-Q062`: parte del texto está recortada en el borde del escaneo; no se reconstruye por conjetura.
+- `USB-77cc8ac26d2c-Q067`: reconocer el cargo presidencial no da una tarea de perspectivas suficientemente clara para este puesto; no forzar clasificación.
+- `USB-7882c8f9ae2f-Q004`: la clave de catálogo D no resulta inequívoca al comparar las alternativas; se excluye sin cambiar la clave o el contenido.
+- `USB-d4e43db6988a-Q082`: depende del contexto de 81–82; no seleccionar solo un ítem de ese grupo.
+
+- `USB-7b48857ae6bc-Q067`: retirada de la posición 16 durante el control de cuotas; la primera carga sumaba 7/11/7. Se sustituye por un caso sistémico, sin reclasificar artificialmente la pregunta de argumentos. Su copia sigue recuperable en el respaldo de revisión 5.
+
+Se conservan los dos fragmentos de grupos armados de la pregunta 8, ambos autores del contraste penal de la 11, el relato completo de desplazamiento y ayuda alimentaria de la 16 y el **NO** de la 25. Las referencias de casos históricos o sanitarios se transcriben como contenido del ejemplar, sin atribuir actualidad o validación externa.
+
+Meta de clasificación: pensamiento social 7 / perspectivas 10 / sistémico 8. Afirmaciones, evidencias y niveles quedan vacíos. La coincidencia con la cuota se comprueba sobre el JSON cargado; no certifica dificultad ni validación psicométrica.
+
+Claves y razones editoriales separadas: [clave](SP003_S2_SOCIALES_CLAVE.md).
