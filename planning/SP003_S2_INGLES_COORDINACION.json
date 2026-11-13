@@ -2,7 +2,7 @@
   "schema": 1,
   "simulacro": "SP-003",
   "sesion": "segunda",
-  "estado": "partes1y2_guardadas_11_de55_resto_reservado",
+  "estado": "partes1a3_guardadas_17_de55_resto_reservado",
   "reparto": [
     5,
     6,
@@ -282,12 +282,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "78c31d57f562a19c1f7f627c6ce2e42808fd0c8383e4391e0de2b02bc632d4e0",
       "pdf": "2026-2-ABJ2_USB-524d98b0a234.pdf",
-      "estado": "reservada_por_usuario_pendiente_carga",
+      "estado": "guardada_en_4188_rev25",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 12,
-      "numero_sesion": 91
+      "numero_sesion": 91,
+      "editor_id": "q-sp003-s2-en-p3-01",
+      "revision": 25
     },
     {
       "catalog_id": "USB-524d98b0a234-Q091",
@@ -303,12 +305,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "78c31d57f562a19c1f7f627c6ce2e42808fd0c8383e4391e0de2b02bc632d4e0",
       "pdf": "2026-2-ABJ2_USB-524d98b0a234.pdf",
-      "estado": "reservada_por_usuario_pendiente_carga",
+      "estado": "guardada_en_4188_rev25",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 13,
-      "numero_sesion": 92
+      "numero_sesion": 92,
+      "editor_id": "q-sp003-s2-en-p3-02",
+      "revision": 25
     },
     {
       "catalog_id": "USB-524d98b0a234-Q092",
@@ -324,12 +328,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "78c31d57f562a19c1f7f627c6ce2e42808fd0c8383e4391e0de2b02bc632d4e0",
       "pdf": "2026-2-ABJ2_USB-524d98b0a234.pdf",
-      "estado": "reservada_por_usuario_pendiente_carga",
+      "estado": "guardada_en_4188_rev25",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 14,
-      "numero_sesion": 93
+      "numero_sesion": 93,
+      "editor_id": "q-sp003-s2-en-p3-03",
+      "revision": 25
     },
     {
       "catalog_id": "USB-524d98b0a234-Q093",
@@ -345,12 +351,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "78c31d57f562a19c1f7f627c6ce2e42808fd0c8383e4391e0de2b02bc632d4e0",
       "pdf": "2026-2-ABJ2_USB-524d98b0a234.pdf",
-      "estado": "reservada_por_usuario_pendiente_carga",
+      "estado": "guardada_en_4188_rev25",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 15,
-      "numero_sesion": 94
+      "numero_sesion": 94,
+      "editor_id": "q-sp003-s2-en-p3-04",
+      "revision": 25
     },
     {
       "catalog_id": "USB-524d98b0a234-Q094",
@@ -366,12 +374,14 @@
       "competencia": "Competencia comunicativa en lengua inglesa (propuesta general)",
       "source_sha256": "78c31d57f562a19c1f7f627c6ce2e42808fd0c8383e4391e0de2b02bc632d4e0",
       "pdf": "2026-2-ABJ2_USB-524d98b0a234.pdf",
-      "estado": "reservada_por_usuario_pendiente_carga",
+      "estado": "guardada_en_4188_rev25",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 16,
-      "numero_sesion": 95
+      "numero_sesion": 95,
+      "editor_id": "q-sp003-s2-en-p3-05",
+      "revision": 25
     },
     {
       "catalog_id": "USB-6093aa3432dd-Q006",
@@ -388,13 +398,15 @@
       "competencia": "Competencia comunicativa",
       "source_sha256": "315646f8178a338cacc2bcfa2143954e7b0abee4cc34ed258df7ebece765f3db",
       "pdf": "Preguntas_explicadas_ingles_Saber_11.pdf",
-      "estado": "reservada_por_usuario_pendiente_carga",
+      "estado": "guardada_en_4188_rev25",
       "procedencia": "ficha complementaria creada tras lectura visual del original; no implica auditoría de todo el PDF",
       "simulacro": "SP-003",
       "sesion": "segunda",
       "area": "english",
       "numero_area": 17,
-      "numero_sesion": 96
+      "numero_sesion": 96,
+      "editor_id": "q-sp003-s2-en-p3-06",
+      "revision": 25
     },
     {
       "catalog_id": "USB-709bc037689b-Q100",
@@ -1986,7 +1998,7 @@
       ]
     }
   ],
-  "revision_editor": 24,
-  "ingles_guardadas": 11,
-  "ingles_pendientes": 44
+  "revision_editor": 25,
+  "ingles_guardadas": 17,
+  "ingles_pendientes": 38
 }

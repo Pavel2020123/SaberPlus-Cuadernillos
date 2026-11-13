@@ -8,11 +8,13 @@ Proyecto independiente para diseñar y generar cuadernillos de práctica en PDF.
 
 ## Punto de continuación actual
 
+**SP-003 · Inglés parte 3 cargada:** **4188, revisión 25 / 96 preguntas**, seis conversaciones 91–96. Inglés 17/55; quedan 38, partes 4–7. [PDF, códigos y controles](planning/SP003_S2_INGLES_PARTE3_CARGA.md). Las 90 anteriores y primera sesión intactas. Maestro: 470 usadas / 117 reservas; revisión individual e integración a main pendientes.
+
 **SP-003 · Inglés parte 2 cargada:** **4188, revisión 24 / 90 preguntas**, seis avisos 85–90. Inglés 11/55; quedan 44, partes 3–7. [PDF, códigos y controles](planning/SP003_S2_INGLES_PARTE2_CARGA.md). Las 84 anteriores y primera sesión intactas. Maestro: 464 usadas / 123 reservas; revisión individual e integración a main pendientes.
 
 **SP-003 · Inglés parte 1 cargada:** **4188, revisión 23 / 84 preguntas**, con cinco de At a Picnic (80–84). [PDF, códigos y controles](planning/SP003_S2_INGLES_PARTE1_CARGA.md). Las 79 anteriores y primera sesión intactas. Quedan 50 Inglés, partes 2–7. Registro: 458 usadas / 129 reservas; integración a main y revisión individual pendientes.
 
-**SP-003 · Registro completo de códigos:** [210 guardados y 44 Inglés reservados, 254 en total](planning/SP003_CODIGOS_NO_REUTILIZAR.md). [55 códigos de Inglés](planning/SP003_S2_INGLES_CODIGOS.txt), reparto 5/6/6/10/9/6/13. Maestro: 464 usadas / 123 reservas, incluidas 68 equivalencias. Partes 1–2 cargadas; partes 3–7 pendientes.
+**SP-003 · Registro completo de códigos:** [216 guardados y 38 Inglés reservados, 254 en total](planning/SP003_CODIGOS_NO_REUTILIZAR.md). [55 códigos de Inglés](planning/SP003_S2_INGLES_CODIGOS.txt), reparto 5/6/6/10/9/6/13. Maestro: 470 usadas / 117 reservas, incluidas 68 equivalencias. Partes 1–3 cargadas; partes 4–7 pendientes.
 
 **SP-003 · Segunda sesión · Ciencias completa:** **4188, revisión 22 / 79 preguntas**: 25 Sociales y 25 Matemáticas intactas, más 29 Ciencias (9/8/12; componentes 9/8/9/3). [Entrega, códigos, tres PDF y controles](planning/SP003_S2_CIENCIAS_CARGA.md). Se sustituyeron los 13 cruces de revisión 20 con SP-001 y se corrigió a B la clave del inhibidor. Primera sesión rev. 26 / 120 sin cambios. Faltan 55 Inglés, revisión individual e integración del coordinador.
 

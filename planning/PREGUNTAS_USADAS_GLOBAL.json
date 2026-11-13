@@ -6059,6 +6059,84 @@
       "inicio": "",
       "enunciado": "Lunch\n12:00 - 2:30 p.m.\nDinner\n7:00 - 10:30 p.m.",
       "huella_texto": "fe6a2b1da2238141cdd450c28f9ba8c901847b35f84ab0082ffc62b6974c5e5e"
+    },
+    {
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 91,
+      "editor_id": "q-sp003-s2-en-p3-01",
+      "catalog_id": "USB-524d98b0a234-Q090",
+      "estado": "usada",
+      "tema": "Completar conversaciones",
+      "inicio": "",
+      "enunciado": "I must go home",
+      "huella_texto": "a22424628ef34ee92dd27258853d14a4b4281b7d4395495dc182629fff2fb631"
+    },
+    {
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 92,
+      "editor_id": "q-sp003-s2-en-p3-02",
+      "catalog_id": "USB-524d98b0a234-Q091",
+      "estado": "usada",
+      "tema": "Completar conversaciones",
+      "inicio": "",
+      "enunciado": "Is this the fastest electric bicycle available?",
+      "huella_texto": "9eaedefa103f9d2abb976881acb0cca97f12550e9ef8f27dc7fc783dd21226ea"
+    },
+    {
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 93,
+      "editor_id": "q-sp003-s2-en-p3-03",
+      "catalog_id": "USB-524d98b0a234-Q092",
+      "estado": "usada",
+      "tema": "Completar conversaciones",
+      "inicio": "",
+      "enunciado": "I'm going to enter the geography competition, starting next October 24th.",
+      "huella_texto": "cefd1b7110191d1ce0ca4d3a857783239b4aec5cb69612427c4f888af654f56c"
+    },
+    {
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 94,
+      "editor_id": "q-sp003-s2-en-p3-04",
+      "catalog_id": "USB-524d98b0a234-Q093",
+      "estado": "usada",
+      "tema": "Completar conversaciones",
+      "inicio": "",
+      "enunciado": "Are you here for the music class?",
+      "huella_texto": "42cbe59d0d4f63c8d5fa3eeb475cc173278189b0756bf12212df8d506e37d49f"
+    },
+    {
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 95,
+      "editor_id": "q-sp003-s2-en-p3-05",
+      "catalog_id": "USB-524d98b0a234-Q094",
+      "estado": "usada",
+      "tema": "Completar conversaciones",
+      "inicio": "",
+      "enunciado": "Oh, dear! I forgot how to use this cell phone.",
+      "huella_texto": "7a8e12e2e53d8576fa0d5c7ac11e6cace7c64f6200b4ac419a00691f903b5dd3"
+    },
+    {
+      "simulacro": "SP-003",
+      "sesion": "segunda",
+      "area": "english",
+      "numero_actual": 96,
+      "editor_id": "q-sp003-s2-en-p3-06",
+      "catalog_id": "USB-6093aa3432dd-Q006",
+      "estado": "usada",
+      "tema": "Completar conversaciones",
+      "inicio": "",
+      "enunciado": "How much is that umbrella?",
+      "huella_texto": "09a697c37ce72d247d8e0d70da5f19da097b4bccca5c2c7c3b429e2208fa4dec"
     }
   ],
   "reservas": [
@@ -6159,60 +6237,6 @@
       "catalog_id": "USB-77cc8ac26d2c-Q089",
       "estado": "reservada_equivalencia_visual",
       "codigo_canonico": "USB-709bc037689b-Q075"
-    },
-    {
-      "simulacro": "SP-003",
-      "sesion": "segunda",
-      "area": "english",
-      "numero_actual": 91,
-      "catalog_id": "USB-524d98b0a234-Q090",
-      "estado": "reservada_por_usuario_pendiente_carga",
-      "fuente": "planning/SP003_S2_INGLES_COORDINACION.json"
-    },
-    {
-      "simulacro": "SP-003",
-      "sesion": "segunda",
-      "area": "english",
-      "numero_actual": 92,
-      "catalog_id": "USB-524d98b0a234-Q091",
-      "estado": "reservada_por_usuario_pendiente_carga",
-      "fuente": "planning/SP003_S2_INGLES_COORDINACION.json"
-    },
-    {
-      "simulacro": "SP-003",
-      "sesion": "segunda",
-      "area": "english",
-      "numero_actual": 93,
-      "catalog_id": "USB-524d98b0a234-Q092",
-      "estado": "reservada_por_usuario_pendiente_carga",
-      "fuente": "planning/SP003_S2_INGLES_COORDINACION.json"
-    },
-    {
-      "simulacro": "SP-003",
-      "sesion": "segunda",
-      "area": "english",
-      "numero_actual": 94,
-      "catalog_id": "USB-524d98b0a234-Q093",
-      "estado": "reservada_por_usuario_pendiente_carga",
-      "fuente": "planning/SP003_S2_INGLES_COORDINACION.json"
-    },
-    {
-      "simulacro": "SP-003",
-      "sesion": "segunda",
-      "area": "english",
-      "numero_actual": 95,
-      "catalog_id": "USB-524d98b0a234-Q094",
-      "estado": "reservada_por_usuario_pendiente_carga",
-      "fuente": "planning/SP003_S2_INGLES_COORDINACION.json"
-    },
-    {
-      "simulacro": "SP-003",
-      "sesion": "segunda",
-      "area": "english",
-      "numero_actual": 96,
-      "catalog_id": "USB-6093aa3432dd-Q006",
-      "estado": "reservada_por_usuario_pendiente_carga",
-      "fuente": "planning/SP003_S2_INGLES_COORDINACION.json"
     },
     {
       "simulacro": "SP-003",
