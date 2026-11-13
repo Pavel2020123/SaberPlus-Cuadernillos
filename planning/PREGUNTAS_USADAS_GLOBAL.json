@@ -9,12 +9,13 @@
       "area": "mathematics",
       "numero_actual": 1,
       "editor_id": "q-aa09e89d-dbb1-4a65-9271-3559cf1d3f76",
-      "catalog_id": null,
-      "estado": "usada_fuente_pendiente",
+      "catalog_id": "USB-04dc5257ed8b-Q001",
+      "estado": "usada",
       "tema": "Funciones y gráficas",
       "inicio": "Un parqueadero de motos cobra de acuerdo con el tiempo de uso, como se muestra en la gráfica.",
       "enunciado": "¿Qué tendencia se puede identificar a partir de la gráfica?",
-      "huella_texto": "540da6ec65eed872ba2df6d67348c20ecc7455fdb2b314b5b567f3fa74d4c885"
+      "huella_texto": "540da6ec65eed872ba2df6d67348c20ecc7455fdb2b314b5b567f3fa74d4c885",
+      "verificacion_fuente": "cotejo_documental_tema_datos_procedimiento; cotejo_visual_integral_pendiente"
     },
     {
       "simulacro": "SP-001",
@@ -22,12 +23,13 @@
       "area": "mathematics",
       "numero_actual": 2,
       "editor_id": "q-f2318154-cfb6-45dc-b988-171a74ef5f8f",
-      "catalog_id": null,
-      "estado": "usada_fuente_pendiente",
+      "catalog_id": "USB-91836110f48e-Q002",
+      "estado": "usada",
       "tema": "Sucesiones.",
       "inicio": "Cuenta la historia que hace muchos siglos un rey, que se encontraba muy triste por la muerte de su hijo en batalla, solicitó a sus súbditos que inventaran un juego para su diversió",
       "enunciado": "De acuerdo con la información suministrada, ¿cuál de las siguientes expresiones permite determinar la cantidad de granos de trigo G que correspondería al número de casilla n del tablero de ajedrez?",
-      "huella_texto": "fdd14072f48bc1d9ba744700d9a1810609dbf71e479d3d2acd8ca7bce35e845e"
+      "huella_texto": "fdd14072f48bc1d9ba744700d9a1810609dbf71e479d3d2acd8ca7bce35e845e",
+      "verificacion_fuente": "cotejo_documental_tema_datos_procedimiento; cotejo_visual_integral_pendiente"
     },
     {
       "simulacro": "SP-001",
@@ -35,12 +37,13 @@
       "area": "mathematics",
       "numero_actual": 3,
       "editor_id": "q-70d5fbd1-f5a9-4999-b408-cd3bd9de419e",
-      "catalog_id": null,
-      "estado": "usada_fuente_pendiente",
+      "catalog_id": "USB-d4e43db6988a-Q001",
+      "estado": "usada",
       "tema": "Estadística.",
       "inicio": "En la siguiente tabla se evidencian los resultados de una entrevista realizada a siete mujeres, madres de familia, en donde se les preguntó a qué edad tuvieron su primer hijo.",
       "enunciado": "A partir de la información suministrada, ¿cuál es el promedio de las edades?",
-      "huella_texto": "dbaa52f6288d3f5160540b6862aabe212fad983fc095d92fd60d1884e6e84b4f"
+      "huella_texto": "dbaa52f6288d3f5160540b6862aabe212fad983fc095d92fd60d1884e6e84b4f",
+      "verificacion_fuente": "cotejo_documental_tema_datos_procedimiento; cotejo_visual_integral_pendiente"
     },
     {
       "simulacro": "SP-001",
@@ -48,12 +51,13 @@
       "area": "mathematics",
       "numero_actual": 4,
       "editor_id": "q-7670f33b-c5d1-4ed6-a4c3-5c749b3dfdbb",
-      "catalog_id": null,
-      "estado": "usada_fuente_pendiente",
+      "catalog_id": "USB-91836110f48e-Q004",
+      "estado": "usada",
       "tema": "Geometría",
       "inicio": "La imagen muestra un banderín, en forma de triángulo isósceles, que Juana diseñó para uno de sus clientes.",
       "enunciado": "Por su parte, el cliente le pide que, manteniendo las proporciones del triángulo, haga un banderín más grande, duplicando sus dimensiones, y que le indique la medida de todos los ángulos internos, por lo que ella realiza el siguiente proced",
-      "huella_texto": "4514f8a4851ab35a3c4617ef5e308b994945129afa09df47103446234297cf59"
+      "huella_texto": "4514f8a4851ab35a3c4617ef5e308b994945129afa09df47103446234297cf59",
+      "verificacion_fuente": "cotejo_documental_tema_datos_procedimiento; cotejo_visual_integral_pendiente"
     },
     {
       "simulacro": "SP-001",
@@ -61,12 +65,13 @@
       "area": "mathematics",
       "numero_actual": 5,
       "editor_id": "q-41fcf2fe-1838-4921-9f9c-2a3bf8b1ddef",
-      "catalog_id": null,
-      "estado": "usada_fuente_pendiente",
+      "catalog_id": "USB-1bc205e23b46-Q027",
+      "estado": "usada",
       "tema": "Estadística",
       "inicio": "La tabla muestra la cantidad de personas contagiadas de un virus en un pequeño hospital, según su rango de edad.",
       "enunciado": "¿Cuál de las siguientes gráficas muestra la distribución de las 80 personas contagiadas en el hospital?",
-      "huella_texto": "b295d74cc0dc1c7ccb7ae280f081c7fa395d4cd00773f6b48988ccc5151a102e"
+      "huella_texto": "b295d74cc0dc1c7ccb7ae280f081c7fa395d4cd00773f6b48988ccc5151a102e",
+      "verificacion_fuente": "cotejo_documental_tema_datos_procedimiento; cotejo_visual_integral_pendiente"
     },
     {
       "simulacro": "SP-001",
@@ -74,12 +79,13 @@
       "area": "mathematics",
       "numero_actual": 6,
       "editor_id": "q-044ee038-9ea4-4e0c-9bff-9017b786a91e",
-      "catalog_id": null,
-      "estado": "usada_fuente_pendiente",
+      "catalog_id": "USB-b39f1fd42a79-Q001",
+      "estado": "usada",
       "tema": "Estadística",
       "inicio": "Se realizó una investigación sobre la cantidad de libros que leen las personas en distintos países. Frente a ello, la tabla muestra el promedio anual de libros leídos por habitante",
       "enunciado": "Al leer la tabla, una persona afirma que, a partir de la información, se puede concluir que en la mayoría de los países todas las personas leen al menos 2 libros al año. ¿Es verdadera la afirmación de la persona?",
-      "huella_texto": "b358d9953c2125d4667004ce3025f87f7910b3fb070f7bd7cebd98c740831820"
+      "huella_texto": "b358d9953c2125d4667004ce3025f87f7910b3fb070f7bd7cebd98c740831820",
+      "verificacion_fuente": "cotejo_documental_tema_datos_procedimiento; cotejo_visual_integral_pendiente"
     },
     {
       "simulacro": "SP-001",
@@ -87,12 +93,13 @@
       "area": "mathematics",
       "numero_actual": 7,
       "editor_id": "q-ba627b21-656b-4a44-bf7d-d27b33a9fc99",
-      "catalog_id": null,
-      "estado": "usada_fuente_pendiente",
+      "catalog_id": "USB-04dc5257ed8b-Q010",
+      "estado": "usada",
       "tema": "Estadística",
       "inicio": "En un parque temático, al encargado de las entradas se le pidió elaborar un informe sobre el número de visitantes que ingresaron al parque en cada temporada. El empleado entregó lo",
       "enunciado": "Con base en la información registrada en la tabla, ¿cuál es el orden de las temporadas, de mayor a menor, de acuerdo con el número de visitantes que ingresaron al parque en cada una de ellas?",
-      "huella_texto": "df814be32d8674efb376f03cc3796bafe4422fe5099636d101e621b0b730e3f8"
+      "huella_texto": "df814be32d8674efb376f03cc3796bafe4422fe5099636d101e621b0b730e3f8",
+      "verificacion_fuente": "cotejo_documental_tema_datos_procedimiento; cotejo_visual_integral_pendiente"
     },
     {
       "simulacro": "SP-001",
@@ -100,12 +107,13 @@
       "area": "mathematics",
       "numero_actual": 8,
       "editor_id": "q-c1ab2f49-908d-4c03-a29b-24e54bbdcccf",
-      "catalog_id": null,
-      "estado": "usada_fuente_pendiente",
+      "catalog_id": "USB-d4e43db6988a-Q004",
+      "estado": "usada",
       "tema": "Combinatoria",
       "inicio": "En una clase de Inglés hay 6 estudiantes, 4 son mujeres y 2 son hombres. Para una exposición, el profesor quiere conformar grupos de 3 estudiantes.\n\nEn la tabla, X, Y, Z, y W repre",
       "enunciado": "De acuerdo con los datos de la tabla, ¿cuáles valores se deben conocer para determinar la cantidad total de formas que hay para escoger un grupo de 3 estudiantes en donde, al menos, uno de ellos sea hombre?",
-      "huella_texto": "1491e58be80175704606727023b6e2b4dca71f4edb45594535aaf7bedd36f95e"
+      "huella_texto": "1491e58be80175704606727023b6e2b4dca71f4edb45594535aaf7bedd36f95e",
+      "verificacion_fuente": "cotejo_documental_tema_datos_procedimiento; cotejo_visual_integral_pendiente"
     },
     {
       "simulacro": "SP-001",
@@ -113,12 +121,13 @@
       "area": "mathematics",
       "numero_actual": 9,
       "editor_id": "q-fed66d3f-78ce-4e15-a5e2-bfec6354a8ae",
-      "catalog_id": null,
-      "estado": "usada_fuente_pendiente",
+      "catalog_id": "USB-1bc205e23b46-Q042",
+      "estado": "usada",
       "tema": "Álgebra",
       "inicio": "En los últimos 100 años, las universidades de EE. UU. han dado a los estudiantes calificaciones cada vez más altas por trabajos de similares características. Por ejemplo, alguien q",
       "enunciado": "En general, si una persona tuvo hace veinte años un promedio inicial cualquiera de puntos sobre 100, entonces, ¿cuál sería su media, en el día de hoy, también sobre 100?",
-      "huella_texto": "9237d727c7c84ea02705618a9bc0b40e783192dd8c6e0b7a9a097987d5237d15"
+      "huella_texto": "9237d727c7c84ea02705618a9bc0b40e783192dd8c6e0b7a9a097987d5237d15",
+      "verificacion_fuente": "cotejo_documental_tema_datos_procedimiento; cotejo_visual_integral_pendiente"
     },
     {
       "simulacro": "SP-001",
@@ -126,12 +135,13 @@
       "area": "mathematics",
       "numero_actual": 10,
       "editor_id": "q-d4005b65-17f6-4175-8e7f-6042a8572b4d",
-      "catalog_id": null,
-      "estado": "usada_fuente_pendiente",
+      "catalog_id": "USB-1c44481d3d4a-Q028",
+      "estado": "usada",
       "tema": "Probabilidad",
       "inicio": "De un grupo de estudiantes de una institución educativa será elegido de forma aleatoria un representante para un evento deportivo. Al profesor encargado de la elección le gustaría ",
       "enunciado": "Antes de elegir, el profesor quiere conocer cuál es la probabilidad de tener éxito en dicha elección y para esto sabe que debe calcular una razón. ¿Cuáles son las cantidades que debe determinar el profesor para calcular esta razón?",
-      "huella_texto": "9df8024d59348da4f61adb257aa5468516530fd401ed8ffc789ca4528117eb5e"
+      "huella_texto": "9df8024d59348da4f61adb257aa5468516530fd401ed8ffc789ca4528117eb5e",
+      "verificacion_fuente": "cotejo_documental_tema_datos_procedimiento; cotejo_visual_integral_pendiente"
     },
     {
       "simulacro": "SP-001",
@@ -139,12 +149,13 @@
       "area": "mathematics",
       "numero_actual": 11,
       "editor_id": "q-34dede82-84bf-4c6f-b9d0-c9ca3fe479da",
-      "catalog_id": null,
-      "estado": "usada_fuente_pendiente",
+      "catalog_id": "USB-04dc5257ed8b-Q021",
+      "estado": "usada",
       "tema": "Aritmética",
       "inicio": "La calculadora de un computador quedó mal configurada y, ahora, al pedirle que haga la multiplicación entre dos números, ejecuta el siguiente proceso:\n\n• Suma los dos números.\n• El",
       "enunciado": "¿Qué resultado obtendrá una persona que le pida a esta calculadora el producto entre −1 y 5?",
-      "huella_texto": "dfd47728f73b1ef9f0846280d87af60e48e035534dfbb7518f5581a86d25eddc"
+      "huella_texto": "dfd47728f73b1ef9f0846280d87af60e48e035534dfbb7518f5581a86d25eddc",
+      "verificacion_fuente": "cotejo_documental_tema_datos_procedimiento; cotejo_visual_integral_pendiente"
     },
     {
       "simulacro": "SP-001",
@@ -152,12 +163,13 @@
       "area": "mathematics",
       "numero_actual": 12,
       "editor_id": "q-66891f8c-c72c-4366-afcf-632a98af69bc",
-      "catalog_id": null,
-      "estado": "usada_fuente_pendiente",
+      "catalog_id": "USB-04dc5257ed8b-Q011",
+      "estado": "usada",
       "tema": "Geometría",
       "inicio": "En una ciudad, para ir desde un punto hasta otro se deben recorrer 9 km al norte y, luego, 12 km a oriente, formando un ángulo recto. Ahora bien, para calcular la distancia que sep",
       "enunciado": "De acuerdo con esto, ¿cuál es la distancia, en kilómetros, que separa los dos puntos mencionados?",
-      "huella_texto": "bc9fdc4d6767d8d8cbc54337b51e246ae9d42a833b40cbcfe819b3ce533c2e8f"
+      "huella_texto": "bc9fdc4d6767d8d8cbc54337b51e246ae9d42a833b40cbcfe819b3ce533c2e8f",
+      "verificacion_fuente": "cotejo_documental_tema_datos_procedimiento; cotejo_visual_integral_pendiente"
     },
     {
       "simulacro": "SP-001",
@@ -165,12 +177,13 @@
       "area": "mathematics",
       "numero_actual": 13,
       "editor_id": "q-64dd5b7e-17e9-4abc-b1d6-654b3c7822c2",
-      "catalog_id": null,
-      "estado": "usada_fuente_pendiente",
+      "catalog_id": "USB-04dc5257ed8b-Q004",
+      "estado": "usada",
       "tema": "Aritmética",
       "inicio": "Natalia quiere ahorrar $100.000 cada mes durante tres meses. Como ayuda para su ahorro, sus padres le han propuesto dos opciones, pero solo puede elegir una de ellas.\n\nOpción 1. Al",
       "enunciado": "Natalia decide elegir la opción en la que le regalen la mayor cantidad de dinero y eligió la ayuda de la mamá. ¿Es correcta la elección de Natalia?",
-      "huella_texto": "ea85e0f257b034e807901fbc5a04ef42bec688de2694bab3f14d9a9e10fe24ab"
+      "huella_texto": "ea85e0f257b034e807901fbc5a04ef42bec688de2694bab3f14d9a9e10fe24ab",
+      "verificacion_fuente": "cotejo_documental_tema_datos_procedimiento; cotejo_visual_integral_pendiente"
     },
     {
       "simulacro": "SP-001",
@@ -178,12 +191,13 @@
       "area": "mathematics",
       "numero_actual": 14,
       "editor_id": "q-2e6e1aa9-ffb6-4a7b-bda2-014ac0bc68b2",
-      "catalog_id": null,
-      "estado": "usada_fuente_pendiente",
+      "catalog_id": "USB-1c6462bf5377-Q001",
+      "estado": "usada",
       "tema": "Álgebra",
       "inicio": "",
       "enunciado": "Para promover la siembra de árboles, una empresa planea donar, inicialmente, $1.000.000 más $200.000 por cada árbol plantado. ¿Cuál expresión representa el dinero total donado por la empresa, en términos de la cantidad de árboles plantados?",
-      "huella_texto": "eec3346ec7eb4746d89615ed2d264bf096b7475ee646747a64f85af93090da33"
+      "huella_texto": "eec3346ec7eb4746d89615ed2d264bf096b7475ee646747a64f85af93090da33",
+      "verificacion_fuente": "cotejo_documental_tema_datos_procedimiento; cotejo_visual_integral_pendiente"
     },
     {
       "simulacro": "SP-001",
@@ -191,12 +205,13 @@
       "area": "mathematics",
       "numero_actual": 15,
       "editor_id": "q-2c84756e-3cb0-4da6-a3ef-7d551128fe31",
-      "catalog_id": null,
-      "estado": "usada_fuente_pendiente",
+      "catalog_id": "USB-1c44481d3d4a-Q026",
+      "estado": "usada",
       "tema": "Geometría",
       "inicio": "La imagen muestra el perímetro de tres polígonos regulares.",
       "enunciado": "Una persona necesita mostrar la medida de la longitud de los lados de cada polígono. ¿Cuál de las siguientes opciones muestra correctamente esta información?",
-      "huella_texto": "d8c6a90ca7c362168a2dff7c8d0a6fdeb7db80190543af67605b032ec8410975"
+      "huella_texto": "d8c6a90ca7c362168a2dff7c8d0a6fdeb7db80190543af67605b032ec8410975",
+      "verificacion_fuente": "cotejo_documental_tema_datos_procedimiento; cotejo_visual_integral_pendiente"
     },
     {
       "simulacro": "SP-001",
@@ -204,12 +219,13 @@
       "area": "mathematics",
       "numero_actual": 16,
       "editor_id": "q-f4fcd7e9-aad9-4c6b-a3b9-b080f42dcbb5",
-      "catalog_id": null,
-      "estado": "usada_fuente_pendiente",
+      "catalog_id": "USB-04dc5257ed8b-Q013",
+      "estado": "usada",
       "tema": "Aritmética",
       "inicio": "",
       "enunciado": "Un estudiante va a hacer una cartelera para una tarea. Para comprar los materiales su mamá le dio $6.000, y con ese dinero el estudiante compró una cartulina que cuesta $1.000 y 4 marcadores que cuestan $900 cada uno. ¿Cuánto dinero le sobr",
-      "huella_texto": "416e1797fc65955a5cf594fa7d908d1bea52417f3cbdfeffc6c62c3d53b3c592"
+      "huella_texto": "416e1797fc65955a5cf594fa7d908d1bea52417f3cbdfeffc6c62c3d53b3c592",
+      "verificacion_fuente": "cotejo_documental_tema_datos_procedimiento; cotejo_visual_integral_pendiente"
     },
     {
       "simulacro": "SP-001",
@@ -217,12 +233,13 @@
       "area": "mathematics",
       "numero_actual": 17,
       "editor_id": "q-9e6c0910-5b0b-4b38-a145-5d541b9ce1e2",
-      "catalog_id": null,
-      "estado": "usada_fuente_pendiente",
+      "catalog_id": "USB-1c44481d3d4a-Q038",
+      "estado": "usada",
       "tema": "Aritmética financiera",
       "inicio": "El padre de Manuel tiene una cuenta de ahorros en el Banco M, donde le cobran $12.000 de cuota de manejo trimestral y $1.000 cada vez que retira dinero de la entidad. Manuel le sug",
       "enunciado": "Si el padre de Manuel siempre retira dinero del banco dos veces al mes, al cabo de un año, ¿ahorraría al seguir el consejo de su hijo?",
-      "huella_texto": "b5adf93b54289bb7430d711166aa59e08da3bcc617a1230620d572445633df1d"
+      "huella_texto": "b5adf93b54289bb7430d711166aa59e08da3bcc617a1230620d572445633df1d",
+      "verificacion_fuente": "cotejo_documental_tema_datos_procedimiento; cotejo_visual_integral_pendiente"
     },
     {
       "simulacro": "SP-001",
@@ -230,12 +247,13 @@
       "area": "mathematics",
       "numero_actual": 18,
       "editor_id": "q-60022acd-f83f-4a34-be5f-0b6faab96210",
-      "catalog_id": null,
-      "estado": "usada_fuente_pendiente",
+      "catalog_id": "USB-234fa4e3ddce-Q002",
+      "estado": "usada",
       "tema": "Estadística",
       "inicio": "Estudiando para un examen de Química, Valeria revisó la foto que le tomó al tablero del salón de clases.\n\n- Los tres primeros elementos del grupo I de la tabla periódica son hidróg",
       "enunciado": "¿Cuál de las siguientes listas muestra el símbolo, el número atómico y la energía de ionización para los tres elementos?",
-      "huella_texto": "29d569693bbc8dc598bf45cafbd32d2a44f1a59e0825f1d365cdcb20bea5dece"
+      "huella_texto": "29d569693bbc8dc598bf45cafbd32d2a44f1a59e0825f1d365cdcb20bea5dece",
+      "verificacion_fuente": "cotejo_documental_tema_datos_procedimiento; cotejo_visual_integral_pendiente"
     },
     {
       "simulacro": "SP-001",
@@ -243,12 +261,13 @@
       "area": "mathematics",
       "numero_actual": 19,
       "editor_id": "q-3efc32b1-86fe-4b79-bace-6b76decd602b",
-      "catalog_id": null,
-      "estado": "usada_fuente_pendiente",
+      "catalog_id": "USB-1bc205e23b46-Q026",
+      "estado": "usada",
       "tema": "Álgebra",
       "inicio": "",
       "enunciado": "Para determinar los cortes con el eje x de la gráfica de la función \\(f(x)=x^2-169\\), se pueden emplear varios métodos. ¿Cuál de los siguientes métodos NO permite determinar los cortes con el eje x?",
-      "huella_texto": "a7c9252c239a40ecc0be56029502d0e29f80ca3a0ac4a5ab5300efc9c69eedf5"
+      "huella_texto": "a7c9252c239a40ecc0be56029502d0e29f80ca3a0ac4a5ab5300efc9c69eedf5",
+      "verificacion_fuente": "cotejo_documental_tema_datos_procedimiento; cotejo_visual_integral_pendiente"
     },
     {
       "simulacro": "SP-001",
@@ -256,12 +275,13 @@
       "area": "mathematics",
       "numero_actual": 20,
       "editor_id": "q-92c9f5d9-6633-4c16-b9fe-74257cd0e537",
-      "catalog_id": null,
-      "estado": "usada_fuente_pendiente",
+      "catalog_id": "USB-1bc205e23b46-Q045",
+      "estado": "usada",
       "tema": "Estadística",
       "inicio": "Cuando se mide la tensión arterial de una persona, se debe medir la presión diastólica y la presión sistólica. La tabla muestra información sobre la tensión arterial de cuatro pers",
       "enunciado": "Teniendo en cuenta la información anterior, ¿para cuáles variables de la tabla se puede aplicar este procedimiento?",
-      "huella_texto": "683bea8771fc4564d00315dc46373d6fc06a824da7e3f2a54fd4f717e5efd389"
+      "huella_texto": "683bea8771fc4564d00315dc46373d6fc06a824da7e3f2a54fd4f717e5efd389",
+      "verificacion_fuente": "cotejo_documental_tema_datos_procedimiento; cotejo_visual_integral_pendiente"
     },
     {
       "simulacro": "SP-001",
@@ -269,12 +289,13 @@
       "area": "mathematics",
       "numero_actual": 21,
       "editor_id": "q-4797e035-a89c-4377-ae6b-12d7d21f4cea",
-      "catalog_id": null,
-      "estado": "usada_fuente_pendiente",
+      "catalog_id": "USB-eee9960ca52a-Q002",
+      "estado": "usada",
       "tema": "Estadística",
       "inicio": "A 10 personas que asisten a un gimnasio se les realizó una encuesta. La tabla relaciona la edad de cada una de ellas y el número de veces que compran ropa deportiva durante el mes.",
       "enunciado": "De acuerdo con la información anterior, ¿cuál de los siguientes datos es posible calcular?",
-      "huella_texto": "e578b9ebece032d4d9903c988a3f7de0b33bfe072ea97baefa23458208a34e5d"
+      "huella_texto": "e578b9ebece032d4d9903c988a3f7de0b33bfe072ea97baefa23458208a34e5d",
+      "verificacion_fuente": "cotejo_documental_tema_datos_procedimiento; cotejo_visual_integral_pendiente"
     },
     {
       "simulacro": "SP-001",
@@ -282,12 +303,13 @@
       "area": "mathematics",
       "numero_actual": 22,
       "editor_id": "q-db351789-3419-478b-9622-34ad92614cf6",
-      "catalog_id": null,
-      "estado": "usada_fuente_pendiente",
+      "catalog_id": "USB-04dc5257ed8b-Q002",
+      "estado": "usada",
       "tema": "Geometría",
       "inicio": "Una empresa diseña y produce cajas de diferentes tamaños. Un tipo específico de cajas se fabrica teniendo en cuenta ciertas relaciones entre las medidas de su ancho, largo y altura",
       "enunciado": "Un operario de la empresa afirma que solamente con conocer la medida de la altura de la caja puede determinarse su volumen. ¿Es correcta o incorrecta la afirmación del operario?",
-      "huella_texto": "f57f7e0bd8a9d7e9e75777f627ce3290a2e04c3f8b14b0d038ca79b6d04204a0"
+      "huella_texto": "f57f7e0bd8a9d7e9e75777f627ce3290a2e04c3f8b14b0d038ca79b6d04204a0",
+      "verificacion_fuente": "cotejo_documental_tema_datos_procedimiento; cotejo_visual_integral_pendiente"
     },
     {
       "simulacro": "SP-001",
@@ -295,12 +317,13 @@
       "area": "mathematics",
       "numero_actual": 23,
       "editor_id": "q-fb0d2767-58bb-4218-9133-2906a74fd8f5",
-      "catalog_id": null,
-      "estado": "usada_fuente_pendiente",
+      "catalog_id": "USB-1c44481d3d4a-Q034",
+      "estado": "usada",
       "tema": "Geometría",
       "inicio": "La imagen muestra el nuevo diseño de una baldosa que se vende en una ferretería.",
       "enunciado": "Para calcular el área de la región de la baldosa que está sombreada, un empleado realizó el siguiente procedimiento:\n\nPaso 1. Restó al área de la baldosa el área del círculo que pasa por P, Q, R, S y ese resultado lo dividió entre 2.\n\nPaso ",
-      "huella_texto": "41df41eeaedb9cf67fd6ce5ab0c91e36a05f3bd486eca93cb5114b16f028a98d"
+      "huella_texto": "41df41eeaedb9cf67fd6ce5ab0c91e36a05f3bd486eca93cb5114b16f028a98d",
+      "verificacion_fuente": "cotejo_documental_tema_datos_procedimiento; cotejo_visual_integral_pendiente"
     },
     {
       "simulacro": "SP-001",
@@ -308,12 +331,13 @@
       "area": "mathematics",
       "numero_actual": 24,
       "editor_id": "q-ddf3c64f-7c23-4cf7-84bd-b59e19f7f453",
-      "catalog_id": null,
-      "estado": "usada_fuente_pendiente",
+      "catalog_id": "USB-1c44481d3d4a-Q049",
+      "estado": "usada",
       "tema": "Geometría",
       "inicio": "Esteban debe calcular el volumen de la siguiente pirámide usando la fórmula:",
       "enunciado": "Esteban usa la fórmula y afirma que el volumen de la pirámide es de 15 cm. ¿Esta afirmación es verdadera?",
-      "huella_texto": "bdeb1aa08a1a0572b6d388057cd1d6b004cc093e03aff6963a8e109d4094ec67"
+      "huella_texto": "bdeb1aa08a1a0572b6d388057cd1d6b004cc093e03aff6963a8e109d4094ec67",
+      "verificacion_fuente": "cotejo_documental_tema_datos_procedimiento; cotejo_visual_integral_pendiente"
     },
     {
       "simulacro": "SP-001",
@@ -321,12 +345,13 @@
       "area": "mathematics",
       "numero_actual": 25,
       "editor_id": "q-d917b25a-404d-4e0f-a928-23c37de76ea8",
-      "catalog_id": null,
-      "estado": "usada_fuente_pendiente",
+      "catalog_id": "USB-1c6462bf5377-Q021",
+      "estado": "usada",
       "tema": "Estadística",
       "inicio": "La tabla muestra la temperatura máxima y mínima que se presentó en un cultivo de papa durante cinco noches consecutivas.",
       "enunciado": "¿Cuál de las siguientes gráficas muestra correctamente la información de la tabla?",
-      "huella_texto": "8cd9c61557b7e7c51bfeef071c0a9bb008d2ab466ecc5a246e105e80731800d7"
+      "huella_texto": "8cd9c61557b7e7c51bfeef071c0a9bb008d2ab466ecc5a246e105e80731800d7",
+      "verificacion_fuente": "cotejo_documental_tema_datos_procedimiento; cotejo_visual_integral_pendiente"
     },
     {
       "simulacro": "SP-001",
