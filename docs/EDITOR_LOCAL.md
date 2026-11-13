@@ -1,8 +1,12 @@
+> **Corrección posterior al cierre provisional:** main `519e1aa` publicó Ciencias SP-001 segunda. La revisión 20 de SP-003 contiene 13 coincidencias, incluida papa Q058/ d4e43db6988a-Q108. Se conserva como respaldo, no como entrega definitiva sin repeticiones. Sustituciones en curso; los controles y afirmaciones de cierre siguientes corresponden al registro anterior.
+
 # Editor local de cuadernillos
 
 Estado: primer editor funcional para pruebas editoriales, independiente de la app y el backend.
 
 ## Trabajar al mismo tiempo · SP-003
+
+**Cierre de Ciencias de segunda sesión · 12 de noviembre:** **4188, revisión 20 / 79 preguntas**. Se agregaron 29 Ciencias (9/8/12; componentes 9/8/9/3), conservando las 50 anteriores. [Entrega, códigos y tres PDF](../planning/SP003_S2_CIENCIAS_CARGA.md). Continuar en `data/parallel/SP-003-segunda-4188/project.json`; faltan 55 Inglés. Primera sesión rev. 26 / 120 intacta. Revisión individual y coordinación pendientes. Las descripciones anteriores de Ciencias sin cargar son históricas.
 
 **Cierre de Matemáticas de segunda sesión · 12 de noviembre:** **4188, revisión 16 / 50 preguntas**, 25 Sociales intactas y 25 Matemáticas (8/11/6). [Entrega, códigos y tres PDF](../planning/SP003_S2_MATEMATICAS_CARGA.md). Conservar `data/parallel/SP-003-segunda-4188/project.json` y continuar agregando áreas; faltan Ciencias 29 e Inglés 55. Primera sesión rev. 26 / 120 sin cambios. Revisión del usuario y coordinación pendientes. Los cierres anteriores describen revisiones históricas.
 

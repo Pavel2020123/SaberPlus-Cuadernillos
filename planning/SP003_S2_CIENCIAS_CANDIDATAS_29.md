@@ -1,6 +1,8 @@
+> **Corrección posterior al cierre provisional:** main `519e1aa` publicó Ciencias SP-001 segunda. La revisión 20 de SP-003 contiene 13 coincidencias, incluida papa Q058/ d4e43db6988a-Q108. Se conserva como respaldo, no como entrega definitiva sin repeticiones. Sustituciones en curso; los controles y afirmaciones de cierre siguientes corresponden al registro anterior.
+
 # SP-003 · Segunda sesión · Ciencias naturales · Selección de 29
 
-12 de noviembre de 2026. Responsable: equipo SaberPlus / rama `trabajo/sp-003`. Estado: **selección autorizada para carga y revisión posterior**. Puestos de sesión 51–79. Reparto: **9 uso comprensivo / 8 explicación / 12 indagación**; componentes **9 biológico / 8 físico / 9 químico / 3 CTS**, cruzados con las mismas 29 preguntas. Clasificación editorial SaberPlus; afirmación, evidencia y nivel sin asignar.
+12 de noviembre de 2026. Responsable: equipo SaberPlus / rama `trabajo/sp-003`. Estado: **guardadas en 4188, revisión 20; revisión individual del usuario e integración del coordinador pendientes**. Puestos de sesión 51–79. Reparto: **9 uso comprensivo / 8 explicación / 12 indagación**; componentes **9 biológico / 8 físico / 9 químico / 3 CTS**, cruzados con las mismas 29 preguntas. Clasificación editorial SaberPlus; afirmación, evidencia y nivel sin asignar.
 
 Consulta de `origin/main` `8542df4` (ya integrado), SP-002 `dfbe592`, registro común **291 usadas / 11 reservas**, sus reservas publicadas, SP-003 primera (120) y las 50 de segunda ya guardadas. Sin conflicto de código ni equivalencia catalogada frente a esas ocupadas. La cola contiene 74 pares que tocan las candidatas; ninguno apunta a una ocupada según las equivalencias publicadas. Ese control no certifica unicidad de toda la colección ni trabajo privado no publicado. No se modifica el registro maestro. Claves en [archivo separado](SP003_S2_CIENCIAS_CLAVE.md).
 
