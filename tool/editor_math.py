@@ -23,6 +23,8 @@ def equation_path(expression,size):
         raise ValueError('Ecuación vacía o demasiado larga (máximo 600 caracteres).')
     if '$' in expression:
         raise ValueError('Dentro de una ecuación no uses $. Usa los delimitadores \\( y \\).')
+    # Mathtext expects a single line even when display delimiters span lines.
+    expression=re.sub(r'[\r\n\t]+',' ',expression).strip()
     try:
         from matplotlib.font_manager import FontProperties
         from matplotlib.textpath import TextPath
@@ -87,7 +89,9 @@ class MathParagraph(Paragraph):
     def wrap(self,width,height):
         if any(g[0]>width for g in self.equations.values()):
             raise ValueError('Una ecuación excede el ancho disponible. Divide la fórmula o usa ancho completo; no se reducirá la letra automáticamente.')
-        return super().wrap(width,height)
+        wrapped_width,wrapped_height=super().wrap(width,height)
+        # Extra room above the first line for formulas taller than the text ascent.
+        return wrapped_width,wrapped_height+getattr(self,'top_pad',0)
 
     def split(self,width,height):
         parts=super().split(width,height)
@@ -113,7 +117,13 @@ class MathParagraph(Paragraph):
             canvas.drawImage=previous
 
 
-def math_paragraph(text,style):
+def _plain(fragment):
+    """Escape prose around formulas; Unicode subscripts become real lowered text."""
+    markup=escape(fragment).replace('\n','<br/>')
+    return re.sub('[₀-₉]+',lambda m:'<sub>'+''.join(str(ord(c)-0x2080) for c in m.group())+'</sub>',markup)
+
+
+def math_paragraph(text,style,bullet=None):
     text=str(text)
     matches=list(TOKEN.finditer(text))
     remainder=TOKEN.sub('',text)
@@ -123,17 +133,34 @@ def math_paragraph(text,style):
         raise ValueError('Un párrafo admite como máximo 40 ecuaciones.')
     markup=[];geometries={};position=0
     for index,match in enumerate(matches):
-        markup.append(escape(text[position:match.start()]).replace('\n','<br/>'))
+        markup.append(_plain(text[position:match.start()]))
         expression=match[1] if match[1] is not None else match[2]
-        geometry=equation_path(expression,style.fontSize)
+        # Mathtext sets fractions at script size; in body text they must print at
+        # full size, so render every fraction in display style (same expression).
+        geometry=equation_path(re.sub(r'\\frac(?![A-Za-z])',r'\\dfrac',expression),style.fontSize)
         width,height,depth,*_=geometry
         key=str(index);geometries[key]=geometry
         fragment=f'<img src="{BLANK}" width="{width}" height="{height}" valign="{-depth}"/>'
         if match[2] is not None:
-            fragment='<br/>'+fragment+'<br/>'
+            # A display formula sits on its own line; do not stack extra blank lines
+            # when the author already left line breaks around it.
+            before='' if text[:match.start()].rstrip(' ').endswith('\n') or match.start()==0 else '<br/>'
+            after='' if text[match.end():].lstrip(' ').startswith('\n') or match.end()==len(text) else '<br/>'
+            fragment=before+fragment+after
         markup.append(fragment)
         position=match.end()
-    markup.append(escape(text[position:]).replace('\n','<br/>'))
+    markup.append(_plain(text[position:]))
     style=__import__('copy').copy(style)
     style.autoLeading='max'
-    return MathParagraph(''.join(markup),style,equations=geometries)
+    tallest=max((g[1] for g in geometries.values()),default=0)
+    if tallest>style.leading and len(remainder)<=160:
+        # autoLeading does not reserve height when a tall formula wraps alone onto
+        # the next line of a short paragraph (an option): lines overlapped. Use a
+        # fixed leading that always fits the tallest formula instead.
+        style.autoLeading='off'
+        style.leading=tallest+3
+    paragraph=MathParagraph(''.join(markup),style,bulletText=bullet,equations=geometries)
+    if style.autoLeading=='off':
+        rise=max((g[1]-g[2] for g in geometries.values()),default=0)
+        paragraph.top_pad=max(0,rise-style.fontSize*.9)
+    return paragraph

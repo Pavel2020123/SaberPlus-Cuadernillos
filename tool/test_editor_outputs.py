@@ -49,7 +49,8 @@ class OutputTests(unittest.TestCase):
 
     def test_circles_empty_for_student_filled_for_teacher(self):
         def bubbles(page,filled):
-            return [d for d in page.get_drawings() if 12<=d['rect'].width<=14 and 12<=d['rect'].height<=14
+            # The 13 pt sample circle in the marking-example box is not an answer bubble (real ones are 11-12 pt).
+            return [d for d in page.get_drawings() if 10<=d['rect'].width<=12.5 and 10<=d['rect'].height<=12.5 and d['items'][0][0]=='c'
                     and (d.get('fill') is not None and max(d['fill'])<.5)==filled]
         with pymupdf.open(self.out/'cuadernillo.pdf') as student,pymupdf.open(self.out/'clave_docente.pdf') as key:
             sheet=student[-1]

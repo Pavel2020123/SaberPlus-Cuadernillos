@@ -22,17 +22,20 @@ from column_planner import column_chunk
 
 W, H = A4
 M, GAP, BOTTOM = 38, 22, 48
+AREA_ROOM = 260  # free points needed to open the next area on the same page
+NUM = 20  # hanging indent of the bold question number
 WIDTH = W-2*M
 CW = (WIDTH-GAP)/2
 INK = colors.HexColor('#17263A')
 GRAY = colors.HexColor('#87909A')
 
 
-def para(text, size=10, bold=False):
+def para(text, size=10, bold=False, bullet=None, indent=0, label_indent=0, justify=False):
+    extra=dict(leftIndent=indent,bulletIndent=label_indent,bulletFontName='Helvetica-Bold',bulletFontSize=size,alignment=4 if justify else 0)
     if any(delimiter in str(text) for delimiter in ('\\(','\\)','\\[','\\]')):
         return math_paragraph(text,ParagraphStyle('math-body',
             fontName='Helvetica-Bold' if bold else 'Helvetica',fontSize=size,
-            leading=size*1.33,textColor=INK,spaceAfter=0))
+            leading=size*1.33,textColor=INK,spaceAfter=0,**extra),bullet)
     # Convert Unicode superscripts into real raised text supported by Helvetica.
     # Escape first: editorial text must never become arbitrary ReportLab markup.
     superscripts = '⁰¹²³⁴⁵⁶⁷⁸⁹ⁿⁱ⁺⁻⁼⁽⁾'
@@ -45,9 +48,57 @@ def para(text, size=10, bold=False):
         markup = escape(equation[1])+expression
     markup = re.sub('['+superscripts+']+',
                     lambda match: '<super>'+re.sub(r'[ni]',r'<i>\g<0></i>',match.group().translate(str.maketrans(superscripts, normal)))+'</super>', markup)
+    markup = re.sub('[₀-₉]+',lambda m:'<sub>'+m.group().translate(str.maketrans('₀₁₂₃₄₅₆₇₈₉','0123456789'))+'</sub>',markup)
     return Paragraph(markup, ParagraphStyle(
         'body', fontName='Times-Roman' if equation else 'Helvetica-Bold' if bold else 'Helvetica', fontSize=size,
-        leading=size*1.33, textColor=INK, spaceAfter=0))
+        leading=size*1.33, textColor=INK, spaceAfter=0, **extra), bulletText=bullet)
+
+
+class CitationPassage(Flowable):
+    """Retain the approved block height when restyling its references."""
+    def __init__(self, original, flows):
+        super().__init__()
+        self.original, self.flows = original, flows
+
+    def wrap(self, width, height):
+        self.width = width
+        self.height = max(self.original.wrap(width,height)[1], measure(self.flows,width))
+        return self.width, self.height
+
+    def draw(self):
+        draw(self.flows,self.canv,0,self.height,self.width)
+
+
+def reference_paragraph(text, indent=0):
+    """Distinguish bibliography from the passage without changing its text."""
+    return Paragraph(escape(str(text)).replace('\n', '<br/>'), ParagraphStyle(
+        'bibliographic-reference', fontName='Helvetica-Oblique', fontSize=8.3,
+        leading=11, textColor=colors.HexColor('#526071'), alignment=2,
+        leftIndent=indent+12, rightIndent=0))
+
+
+def passage_flows(text, bullet=None, indent=0, justify=False):
+    citation = re.compile(r'^\s*(?:Tomado(?:\s+y\s+adaptado)?\s+de\s*:|Adaptado\s+de\s*:|Fuente\s*:|Recuperado\s+de\s*:?)', re.I)
+    # Imports may separate the source with a single newline rather than a blank line.
+    separated = '\n'.join('\n'+line+'\n' if citation.match(line) else line
+                          for line in str(text).split('\n'))
+    parts = re.split(r'\n\s*\n', separated)
+    if not any(citation.match(part) for part in parts):
+        return [para(text, bullet=bullet, indent=indent, justify=justify)]
+    flows, body = [], []
+    def flush_body():
+        if body:
+            flows.append(para('\n\n'.join(body), bullet=bullet if not flows else None,
+                              indent=indent, justify=justify))
+            body.clear()
+    for part in parts:
+        if citation.match(part):
+            flush_body()
+            flows.extend([Spacer(1,4), reference_paragraph(part,indent), Spacer(1,6)])
+        else:
+            body.append(part)
+    flush_body()
+    return [CitationPassage(para(text,bullet=bullet,indent=indent,justify=justify),flows)]
 
 
 def picture(path, width, max_height=190, trim=False):
@@ -90,6 +141,11 @@ def draw(flows, c, x, top, width):
         f.drawOn(c, x+(width-fw)/2 if isinstance(f, Image) else x, top-fh)
         top -= fh
     return top
+
+
+def rule(c,x1,y1,x2,y2):
+    """Fine dashed separator between questions and columns."""
+    c.saveState();c.setStrokeColor(INK);c.setLineWidth(.5);c.setDash(1.2,1.8);c.line(x1,y1,x2,y2);c.restoreState()
 
 
 class TrackedOption(Flowable):
@@ -163,24 +219,108 @@ def column_block(book,flows):
     book.used[book.col]=True
 
 
+_WATERMARK=[]
+def watermark_image():
+    """Large pale brand «S» as a transparent PNG; None when no bold font is installed."""
+    if _WATERMARK:
+        return _WATERMARK[0]
+    from PIL import ImageDraw, ImageFont
+    from reportlab.lib.utils import ImageReader
+    for name in ('arialbd.ttf','Arial Bold.ttf','DejaVuSans-Bold.ttf','Helvetica-Bold.ttf'):
+        try:
+            font=ImageFont.truetype(name,900)
+        except OSError:
+            continue
+        canvas_image=PILImage.new('RGBA',(760,860),(255,255,255,0))
+        ImageDraw.Draw(canvas_image).text((340,450),'S',font=font,fill=(228,232,236,255),anchor='mm')
+        ImageDraw.Draw(canvas_image).text((655,170),'+',font=ImageFont.truetype(name,330),fill=(228,232,236,255),anchor='mm')
+        buffer=BytesIO();canvas_image.save(buffer,format='PNG');buffer.seek(0)
+        _WATERMARK.append(ImageReader(buffer));return _WATERMARK[0]
+    _WATERMARK.append(None);return None
+
+
+
 def answer_sheet(book,questions,numbers,teacher=False):
-    book.newpage('CLAVE DE RESPUESTAS · DOCENTE' if teacher else 'HOJA DE RESPUESTAS')
-    intro=[para('USO EXCLUSIVO DEL DOCENTE' if teacher else 'Nombre: ____________________________________    Grupo: __________',9,teacher),Spacer(1,6),
-           para('El círculo lleno indica la respuesta correcta. No entregar antes de finalizar la prueba.' if teacher else 'Rellene un solo círculo por pregunta. Las letras disponibles dependen del tipo de ejercicio.',9)]
-    book.full(intro)
-    previous=None
-    compact_english=all(q['area']=='english' for q in questions) and len(questions)<=55
-    for q in questions:
-        flows=[]
-        if q['area']!=previous:
-            flows=[Spacer(1,5),para(AREAS[q['area']],9,True),Spacer(1,5)]
-            previous=q['area']
-        row=BubbleRow(letters_for(q),numbers[q['id']],marked=q['correct'] if teacher else None,
-                      book=None if teacher else book,answer=q['correct'])
-        if compact_english:
-            row.height=21
-        flows.append(row)
-        column_block(book,flows)
+    """Machine-style grid: five column-major bands of numbered bubbles, one row per question."""
+    book.newpage('CLAVE DE RESPUESTAS · DOCENTE' if teacher else 'HOJA DE RESPUESTAS',show_area=False)
+    c=book.c
+    count=len(questions)
+    title=('CLAVE DE RESPUESTAS · DOCENTE' if teacher else 'HOJA DE RESPUESTAS')+f' · PRUEBA DE {count} PREGUNTAS'
+    c.setStrokeColor(INK);c.setFillColor(INK);c.setLineWidth(1)
+    top=H-56
+    c.roundRect(M,top-48,WIDTH,48,4,stroke=1,fill=0)
+    c.setFont('Helvetica-Bold',15);c.drawCentredString(W/2,top-21,'SABERPLUS')
+    c.setFont('Helvetica-Bold',9);c.drawCentredString(W/2,top-38,title)
+    y=top-72
+    if teacher:
+        c.setFont('Helvetica-Bold',9);c.drawString(M,y,'USO EXCLUSIVO DEL DOCENTE')
+        c.setFont('Helvetica',8.5);c.drawString(M,y-14,'El círculo lleno indica la respuesta correcta. No entregar antes de finalizar la prueba.')
+        grid_top=y-44
+    else:
+        c.setFont('Helvetica',9);c.drawString(M,y,'NOMBRE Y APELLIDO:')
+        c.setLineWidth(.6);c.line(M+100,y-2,M+345,y-2)
+        c.drawString(M+362,y,'FECHA:');c.line(M+398,y-2,W-M,y-2)
+        c.setFillColor(INK);c.rect(M,y-52,11,11,stroke=0,fill=1)
+        c.setFont('Helvetica',9);c.drawString(M+30,y-34,'IDENTIFICACIÓN:')
+        c.setLineWidth(1);c.roundRect(M+30,y-72,150,24,3,stroke=1,fill=0)
+        # Marking examples: a wrong mark can be misread, only the filled circle is correct.
+        bx=M+215;bw=WIDTH-215
+        c.roundRect(bx,y-76,bw,60,3,stroke=1,fill=0)
+        c.line(bx,y-32,bx+bw,y-32);c.line(bx+bw*.55,y-76,bx+bw*.55,y-32)
+        c.setFont('Helvetica-Bold',8);c.drawCentredString(bx+bw/2,y-27,'TIPO DE MARCACIONES')
+        c.drawCentredString(bx+bw*.275,y-44,'INCORRECTAS');c.drawCentredString(bx+bw*.775,y-44,'CORRECTA')
+        for i,kind in enumerate(('x','check','half','dot')):
+            cx,cy=bx+bw*.275-39+i*26,y-62
+            c.setLineWidth(.7);c.setFillColor(colors.white);c.circle(cx,cy,6.5,stroke=1,fill=1)
+            c.setStrokeColor(INK);c.setFillColor(INK)
+            if kind=='x':c.line(cx-4,cy-4,cx+4,cy+4);c.line(cx-4,cy+4,cx+4,cy-4)
+            elif kind=='check':c.line(cx-4,cy,cx-1,cy-4);c.line(cx-1,cy-4,cx+4.5,cy+4.5)
+            elif kind=='half':c.circle(cx,cy,2.2,stroke=0,fill=1)
+            else:c.setFillColor(GRAY);c.circle(cx,cy,3,stroke=0,fill=1)
+        cx,cy=bx+bw*.775-14,y-62
+        c.setFillColor(INK);c.circle(cx,cy,6.5,stroke=1,fill=1)
+        c.setFillColor(colors.white);c.circle(cx+25,cy,6.5,stroke=1,fill=1)
+        c.setFillColor(INK);c.setFont('Helvetica',6);c.drawCentredString(cx+25,cy-2,'A')
+        iy=y-98
+        c.setFont('Helvetica-Bold',8.5);c.drawString(M+215,iy-12,'INSTRUCCIONES')
+        c.setFont('Helvetica',8)
+        for i,line in enumerate(('Use lápiz N.º 2 o lapicero de tinta negra.','Rellene completamente una sola burbuja por pregunta.',
+                'Escriba su nombre y número de identificación con letra clara.','No doble, arrugue ni haga marcas fuera de las burbujas.')):
+            c.drawString(M+215,iy-26-i*11.5,'• '+line)
+        grid_top=iy-92
+    rows=-(-count//5)
+    bottom=BOTTOM+14
+    pitch=min(19.5,(grid_top-bottom-14)/rows)
+    colw=(W-60)/5
+    # Brand watermark under the grid, drawn as an image so it never enters the text layer.
+    mark=watermark_image()
+    if mark is not None:
+        c.drawImage(mark,W/2-190,bottom+(grid_top-bottom)/2-215,width=380,height=430,mask='auto')
+    for col in range(5):
+        x0=30+col*colw
+        c.setFillColor(INK)
+        for k in range(4):c.rect(x0+30+k*17-3,grid_top-1,6,6,stroke=0,fill=1)
+        for r in range(rows):
+            index=col*rows+r
+            if index>=count:break
+            q=questions[index];number=numbers[q['id']]
+            yy=grid_top-18-r*pitch
+            letters=letters_for(q);spacing,rad=(17,6) if len(letters)<=4 else (13,5.5)
+            c.setFillColor(INK);c.setFont('Helvetica-Bold',8.5);c.setFont('Helvetica-Bold',8.5 if len(letters)<=4 else 7.5);c.drawRightString(x0+(19 if len(letters)<=4 else 14),yy-3,f'{number}.')
+            for i,letter in enumerate(letters):
+                cx=x0+(30 if len(letters)<=4 else 22)+i*spacing
+                filled=teacher and letter==q['correct']
+                c.setStrokeColor(INK);c.setLineWidth(.65)
+                c.setFillColor(INK if filled else colors.white);c.circle(cx,yy,rad,stroke=1,fill=1)
+                c.setFillColor(colors.white if filled else INK);c.setFont('Helvetica',6)
+                c.drawCentredString(cx,yy-2,letter)
+                if not teacher and letter==q['correct']:
+                    book.answer_marks.append({'kind':'bubble','page':book.page,'center':(cx,H-yy),'letter':letter,'radius':rad})
+    # Corner alignment squares echo the reference sheet; this is not an optical-reader calibration.
+    c.setFillColor(INK)
+    for px,py in ((M-2,H-52-0),(W-M-9,H-52-0)):
+        pass
+    c.rect(W-M-9,bottom-8,9,9,stroke=0,fill=1)
 
 
 def solved_copy(student_path,out,project,questions,numbers,marks):
@@ -204,9 +344,10 @@ def solved_copy(student_path,out,project,questions,numbers,marks):
                            fill_opacity=.38,width=.65,overlay=True)
         else:
             x,y=mark['center']
-            page.draw_circle((x,y),6.5,color=(.09,.15,.23),fill=(.09,.15,.23),width=.65)
-            text_width=fitz.get_text_length(mark['letter'],fontname='hebo',fontsize=7)
-            page.insert_text((x-text_width/2,y+2.4),mark['letter'],fontname='hebo',fontsize=7,color=(1,1,1))
+            rad=mark.get('radius',6.5);size=7 if rad>5 else 5.5
+            page.draw_circle((x,y),rad,color=(.09,.15,.23),fill=(.09,.15,.23),width=.65)
+            text_width=fitz.get_text_length(mark['letter'],fontname='hebo',fontsize=size)
+            page.insert_text((x-text_width/2,y+size*.34),mark['letter'],fontname='hebo',fontsize=size,color=(1,1,1))
     for q in questions:
         if q['area']=='english' and q['part']==1:
             for page in doc:
@@ -243,9 +384,7 @@ class Interior:
 
     def flush(self):
         if self.segment and (self.used[0] or self.used[1]):
-            self.c.setStrokeColor(GRAY)
-            self.c.setLineWidth(.45)
-            self.c.line(W/2, self.segment, W/2, min(self.ys))
+            rule(self.c,W/2, self.segment, W/2, min(self.ys))
         bottom = min(self.ys)
         self.segment = 0
         return bottom
@@ -265,7 +404,7 @@ class Interior:
         c.setFont('Helvetica-Bold', 11)
         c.drawString(M, H-32, 'SaberPlus')
         c.setFont('Helvetica', 8)
-        c.drawRightString(W-M, H-32, self.project['code']+(' · RESUELTO' if self.resolved else ' · BORRADOR'))
+        c.drawRightString(W-M, H-32, self.project['code']+(' · RESUELTO' if self.resolved else ''))
         if opening_title:
             available=WIDTH-2*max(c.stringWidth('SaberPlus','Helvetica-Bold',11),
                 c.stringWidth(self.project['code']+' · RESUELTO','Helvetica',8))-24
@@ -284,9 +423,10 @@ class Interior:
         c.setFont('Helvetica', 7)
         c.setFillColor(GRAY)
         c.drawString(M, 27, self.project['code']+' · '+('Primera sesión' if self.project['session']=='first' else 'Segunda sesión'))
-        c.drawRightString(W-M, 27, str(self.page))
+        c.saveState();c.setFillColor(INK);c.circle(W/2,29,9.5,stroke=0,fill=1)
+        c.setFillColor(colors.white);c.setFont('Helvetica-Bold',8.5);c.drawCentredString(W/2,26,str(self.page));c.restoreState()
         c.setFont('Helvetica-Bold', 13)
-        c.drawRightString(W-M-22, 25, 'S+')
+        c.drawRightString(W-M, 25, 'S+')
         if self.resolved:
             c.setFont('Helvetica', 6)
             c.drawString(M, 10, 'CUADERNILLO RESUELTO - COMPARTIR DESPUES DE LA APLICACION')
@@ -312,9 +452,7 @@ class Interior:
             self.c.roundRect(M, top-height, WIDTH, height, 5, fill=int(shaded), stroke=1)
         draw(flows, self.c, M+9, top-padding, WIDTH-18)
         if separator:
-            self.c.setStrokeColor(GRAY)
-            self.c.setLineWidth(.5)
-            self.c.line(M,top-height,W-M,top-height)
+            rule(self.c,M,top-height,W-M,top-height)
         self.reset(top-height-gap)
 
     def question_flows(self, q, number, matching=False):
@@ -332,13 +470,13 @@ class Interior:
         introduction = q.get('introduction', '').strip().replace('{{numero}}', str(number))
         flows = []
         if introduction or q.get('image'):
-            flows += [para(f'{number}.  '+introduction), Spacer(1, 5)]
+            flows += passage_flows(introduction or chr(160),bullet=f'{number}.',indent=NUM,justify=True)+[Spacer(1, 5 if introduction else 0)]
         if q.get('image'):
             # A full-width block need not contain a full-width illustration.
             # Preserve proportions, with a smaller default for stacked questions.
             flows += [picture(q['image'], min(width-18,q.get('image_width',300 if full else width-18)),
                               q.get('image_height',110 if full else 190),trim=True), Spacer(1, 5)]
-        flows += [para(stem if introduction or q.get('image') else f'{number}.  '+stem), Spacer(1, 5)]
+        flows += passage_flows(stem,bullet=None if introduction or q.get('image') else f'{number}.',indent=NUM,justify=True)+[Spacer(1, 6)]
         if matching:
             flows += [para('Respuesta: A   B   C   D   E   F   G', 9)]
         else:
@@ -346,9 +484,10 @@ class Interior:
             option_width=(width-18)/2-12 if grid else width-18
             options=[]
             for letter, option in zip('ABCD', q['options']):
-                option_flows=[para(letter+'.  '+option.get('text', ''))]
+                text=option.get('text','')
+                option_flows=[para(text,bullet=letter+'.',indent=NUM+16,label_indent=NUM) if text.strip() else para(letter+'.',10,True,indent=NUM)]
                 if option.get('image'):
-                    option_flows += [Spacer(1,4),picture(option['image'], option_width, 120 if grid else 100)]
+                    option_flows += [Spacer(1,4),picture(option['image'], option_width, q.get('option_image_height',120 if grid else 100))]
                 options.append(TrackedOption(option_flows,self,letter==q['correct']))
             if grid:
                 rows=[options[i:i+2]+([''] if len(options[i:i+2])==1 else []) for i in range(0,len(options),2)]
@@ -359,7 +498,7 @@ class Interior:
                 flows.append(table)
             else:
                 for option in options:
-                    flows += [option,Spacer(1,2)]
+                    flows += [option,Spacer(1,3)]
         return flows, full, False
 
     def question_height(self, q, number):
@@ -392,26 +531,71 @@ class Interior:
             bottom=top-max(left,right)
             self.c.setStrokeColor(GRAY);self.c.setLineWidth(.45)
             if count>split:
-                self.c.line(W/2,top,W/2,bottom)
-            self.c.line(M,bottom,W-M,bottom)
+                rule(self.c,W/2,top,W/2,bottom)
+            rule(self.c,M,bottom,W-M,bottom)
             self.reset(bottom-10)
             offset+=count
             if offset<len(prepared):
                 self.newpage()
         return mapping
 
+    def variants(self, q):
+        """Column and full-width renderings of one question for the adaptive flow."""
+        full=dict(q,layout='full')
+        if q['layout']=='full':
+            return None,full
+        column=dict(q,layout='columns',options_layout='vertical')
+        # The column keeps the figure's own width limit, so a simple drawing stays small.
+        for key in ('image_height','option_image_height'):
+            column.pop(key,None)
+        if q.get('image'):
+            column['image_height']=240  # portrait figures keep a legible width in a column
+        return column,full
+
+    def adaptive(self, q, number, lone=False):
+        """Column if it fits; otherwise a full-width band below; only then a new page."""
+        column,full=self.variants(q)
+        hf=measure(self.question_flows(full,number)[0],WIDTH-18)+12
+        if column is None or q.get('page_break_before'):
+            return self.question(full if column is None else column,number)
+        hc=measure(self.question_flows(column,number)[0],CW-18)+18
+        page=H-83-BOTTOM
+        empty=not any(self.used)
+        below=min(self.ys)
+        if hc>page or (empty and lone and below-hf>=BOTTOM):
+            return self.question(full,number)
+        if lone and self.col==0 and self.used[0] and not self.used[1] and self.ys[1]-hc>=BOTTOM:
+            # Last question of a run: start the right column instead of leaving it empty.
+            return self.question(dict(column,column_break_before=True),number)
+        if self.ys[self.col]-hc>=BOTTOM or (self.col==0 and self.ys[1]-hc>=BOTTOM):
+            return self.question(column,number)
+        if below-hf-8>=BOTTOM:
+            return self.question(full,number)
+        return self.question(full if hf<=page and (lone or hf<=hc*.6) else column,number)
+
     def shared_context(self, flows, first_question, number):
-        reserve = self.question_height(first_question, number)+14
+        if getattr(self,'project',{}).get('column_flow')=='adaptive' and first_question['area']!='english':
+            column,full=self.variants(first_question)
+            reserve=min(self.question_height(v,number) for v in (column,full) if v)+14
+            height=measure(flows, WIDTH-18)+12
+            left=min(self.ys)-BOTTOM
+            if height+reserve>left and height<=left and left<H-83-BOTTOM-40:
+                # Like printed booklets: the reading closes this page under the previous
+                # questions and its own questions open the next one, instead of a blank half page.
+                self.full(flows, separator=True)
+                return
+        else:
+            reserve = self.question_height(first_question, number)+14
         context_height = measure(flows, WIDTH-18)+18
         available = H-83-BOTTOM
         if context_height > available:
             raise ValueError('El contexto no cabe completo en una página. Divide el contexto: '+first_question['id'])
         if context_height+reserve > available:
             # A long reading may occupy its own page; never shrink or omit it.
-            self.full(flows, True)
+            self.full(flows, separator=True)
             self.newpage()
             return
-        self.full(flows, True, reserve=reserve)
+        self.full(flows, separator=True, reserve=reserve)
 
     def side_context(self, flows, first_question, number):
         """Start a shared reading on the left and its questions on the right."""
@@ -452,9 +636,7 @@ class Interior:
             if self.ys[self.col]-height < BOTTOM:
                 self.newpage()
         x, top = M+self.col*(CW+GAP), self.ys[self.col]
-        self.c.setStrokeColor(GRAY)
-        self.c.setLineWidth(.5)
-        self.c.line(x, top-height, x+width, top-height)
+        rule(self.c,x, top-height, x+width, top-height)
         draw(flows, self.c, x+9, top-9, width-18)
         self.ys[self.col] = top-height-14
         self.used[self.col] = True
@@ -592,7 +774,7 @@ def matching_flows(book,ctx,members,numbers):
         flows += [para('Ejemplo resuelto: '+ctx['example'],9),Spacer(1,18)]
     flows.append(MatchingColumns(book,members,numbers,ctx))
     if ctx.get('source'):
-        flows += [Spacer(1,8),para('Fuente: '+ctx['source'],8)]
+        flows += [Spacer(1,8),reference_paragraph('Fuente: '+ctx['source'])]
     return flows
 
 
@@ -654,10 +836,11 @@ class NoticeCard(Flowable):
 
 class NoticeRow(Flowable):
     """One notice left and its A-C choices right, without answer bubbles."""
-    def __init__(self,book,item,number,track=True,plain=False):
+    def __init__(self,book,item,number,track=True,plain=False,compact=False):
         super().__init__()
         self.book,self.item,self.number,self.track=book,item,number,track
         self.plain=plain
+        self.compact=compact
 
     def wrap(self,width,height):
         self.width=width;self.split=width*.61
@@ -674,7 +857,7 @@ class NoticeRow(Flowable):
             row.wrap(width-self.split-12,H)
             self.options.append(row)
         self.options_height=sum(r.height+4 for r in self.options)-4
-        self.height=max(78 if self.plain else 87,self.card_height+15,self.options_height+15)
+        self.height=max((68 if self.plain else 75) if self.compact else (78 if self.plain else 87),self.card_height+15,self.options_height+15)
         return width,self.height
 
     def draw(self):
@@ -731,9 +914,9 @@ def notice_flows(book,ctx,members,numbers):
     if ctx.get('instructions'):
         flows += [para(range_heading(ctx['instructions'],first,last)),Spacer(1,12)]
     if ctx.get('example_notice') and len(ctx.get('example_options',[]))==3 and ctx.get('example_answer') in 'ABC':
-        flows += [NoticeExample(ctx),Spacer(1,18)]
+        flows += [NoticeExample(ctx),Spacer(1,10 if ctx.get('compact_rows') else 18)]
     for item in members:
-        flows.append(NoticeRow(book,item,numbers[item['id']]))
+        flows.append(NoticeRow(book,item,numbers[item['id']],compact=ctx.get('compact_rows',False)))
     return flows
 
 
@@ -746,11 +929,11 @@ def dialogue_flows(book,ctx,members,numbers):
     if ctx.get('instructions'):
         flows += [para(range_heading(ctx['instructions'],first,last)),Spacer(1,12)]
     if ctx.get('image'):
-        flows += [para('Ejemplo:',10,True),Spacer(1,6),picture(ctx['image'],WIDTH-30,170,trim=True),Spacer(1,22)]
+        flows += [para('Ejemplo:',10,True),Spacer(1,6),picture(ctx['image'],WIDTH-30,120 if ctx.get('compact_rows') else 170,trim=True),Spacer(1,12 if ctx.get('compact_rows') else 22)]
     elif ctx.get('example'):
         flows += [para('Ejemplo: '+ctx['example']),Spacer(1,22)]
     for item in members:
-        flows.append(NoticeRow(book,item,numbers[item['id']],plain=True))
+        flows.append(NoticeRow(book,item,numbers[item['id']],plain=True,compact=ctx.get('compact_rows',False)))
     return flows
 
 
@@ -779,11 +962,16 @@ class ClozeExampleAnswer(Flowable):
 
 
 class ReadingPanel(Flowable):
-    def __init__(self,title,text):
+    def __init__(self,title,text,ctx=None):
         super().__init__()
         self.flows=([Paragraph(escape(title),ParagraphStyle('reading-title',fontName='Helvetica-Bold',fontSize=17,leading=22,alignment=1)),Spacer(1,8)] if title else [])+[para(text,9.5)]
-        if title:
+        if title or (ctx and ctx.get('compact_reading')):
             self.flows[-1].style.leading=11.2
+        if ctx and ctx.get('image'):
+            pictures=[picture(ctx['image'],ctx.get('panel_image_width',100),ctx.get('panel_image_height',125),trim=True)]
+            if ctx.get('secondary_image'):
+                pictures += [Spacer(1,7),picture(ctx['secondary_image'],65,60,trim=True)]
+            self.flows[-1]=ParagraphAndImage(self.flows[-1],pictures[0],xpad=9,ypad=3,side='right') if len(pictures)==1 else Table([[self.flows[-1],pictures]],colWidths=[WIDTH-18-28-145,145],style=TableStyle([('VALIGN',(0,0),(-1,-1),'TOP'),('LEFTPADDING',(0,0),(-1,-1),0),('RIGHTPADDING',(0,0),(-1,-1),0)]))
     def wrap(self,width,height):
         self.width=width;self.height=measure(self.flows,width-28)+26
         return width,self.height
@@ -797,26 +985,27 @@ class ReadingPanel(Flowable):
 def reading_flows(book,ctx,members,numbers):
     first,last=numbers[members[0]['id']],numbers[members[-1]['id']]
     centered=lambda text:Paragraph(escape(text),ParagraphStyle('reading-heading',fontName='Helvetica-Bold',fontSize=10,leading=13,alignment=1,textColor=INK))
-    flows=[centered('PARTE 5'),Spacer(1,4),centered(range_heading(ctx['range_heading'],first,last)),Spacer(1,4),para(range_heading(ctx['instructions'],first,last)),Spacer(1,6),ReadingPanel(ctx['title'],ctx['text']),Spacer(1,4),para('Ejemplo:',9,True)]
+    flows=[centered('PARTE 5'),Spacer(1,4),centered(range_heading(ctx['range_heading'],first,last)),Spacer(1,4),para(range_heading(ctx['instructions'],first,last)),Spacer(1,6),ReadingPanel(ctx['title'],ctx['text'],ctx),Spacer(1,4),para('Ejemplo:',9,True)]
     def row(number,stem,options,item=None):
         right=[]
         for letter,option in zip('ABC',options):
             content=[para(letter+'.    '+option,9)]
             right.append(TrackedOption(content,book,item['correct']==letter) if item else content[0])
         table=Table([[para(str(number)+'.',9,True),para(stem,9),right]],colWidths=[28,(WIDTH-18)*.55-28,(WIDTH-18)*.45])
-        table.setStyle(TableStyle([('VALIGN',(0,0),(-1,-1),'TOP'),('LEFTPADDING',(0,0),(-1,-1),0),('TOPPADDING',(0,0),(-1,-1),1),('BOTTOMPADDING',(0,0),(-1,-1),1)]))
+        padding=0 if ctx.get('compact_rows') else 1
+        table.setStyle(TableStyle([('VALIGN',(0,0),(-1,-1),'TOP'),('LEFTPADDING',(0,0),(-1,-1),0),('TOPPADDING',(0,0),(-1,-1),padding),('BOTTOMPADDING',(0,0),(-1,-1),padding)]))
         return table
     flows += [row(0,ctx['example_prompt'],ctx['example_options']),ClozeExampleAnswer(),Spacer(1,4)]
     for item in members:
         flows.append(row(numbers[item['id']],item['stem'],[o['text'] for o in item['options']],item))
-        flows.append(Spacer(1,3))
+        flows.append(Spacer(1,2 if ctx.get('compact_rows') else 3))
     return flows
 
 
 def inference_flows(book,ctx,members,numbers):
     first,last=numbers[members[0]['id']],numbers[members[-1]['id']]
     centered=lambda text:Paragraph(escape(text),ParagraphStyle('inference-heading',fontName='Helvetica-Bold',fontSize=10,leading=13,alignment=1,textColor=INK))
-    flows=[centered('PARTE 6'),Spacer(1,5),centered(range_heading(ctx['range_heading'],first,last)),Spacer(1,6),para(range_heading(ctx['instructions'],first,last)),Spacer(1,5),ReadingPanel('',ctx['text']),Spacer(1,5)]
+    flows=[centered('PARTE 6'),Spacer(1,5),centered(range_heading(ctx['range_heading'],first,last)),Spacer(1,6),para(range_heading(ctx['instructions'],first,last)),Spacer(1,5),ReadingPanel(ctx.get('title','') if ctx.get('show_panel_title') else '',ctx['text'],ctx),Spacer(1,5)]
     for item in members:
         flows += [para(str(numbers[item['id']])+'. '+item['stem'],9,True),Spacer(1,3)]
         if item.get('answer_cards'):
@@ -883,12 +1072,12 @@ def illustrated_cloze_flows(book,ctx,members,numbers):
 def cloze_flows(book,ctx,members,numbers):
     first,last=numbers[members[0]['id']],numbers[members[-1]['id']]
     centered=lambda text: Paragraph(escape(text),ParagraphStyle('cloze-heading',fontName='Helvetica-Bold',fontSize=10,leading=14,alignment=1,textColor=INK))
-    flows=[centered('PARTE 4'),Spacer(1,9),centered(range_heading(ctx['range_heading'],first,last)),Spacer(1,10),para(range_heading(ctx['instructions'],first,last)),Spacer(1,14)]
+    flows=[centered('PARTE '+str(ctx.get('part',4))),Spacer(1,9),centered(range_heading(ctx['range_heading'],first,last)),Spacer(1,10),para(range_heading(ctx['instructions'],first,last)),Spacer(1,14)]
     text=ctx['text']
     for item in members:
         text=text.replace('{{'+item['slot']+'}}','('+str(numbers[item['id']])+')_____')
-    panel=Table([[Paragraph(escape(ctx['title']),ParagraphStyle('cloze-title',fontName='Times-Bold',fontSize=24,leading=29,alignment=1))],[para(text,11)]],colWidths=[WIDTH-24],cornerRadii=[14]*4)
-    panel.setStyle(TableStyle([('BOX',(0,0),(-1,-1),1.2,INK),('LEFTPADDING',(0,0),(-1,-1),14),('RIGHTPADDING',(0,0),(-1,-1),14),('TOPPADDING',(0,0),(-1,-1),12),('BOTTOMPADDING',(0,0),(-1,-1),9)]))
+    panel=ReadingPanel(ctx['title'],text,ctx) if ctx.get('use_reading_panel') else Table([[Paragraph(escape(ctx['title']),ParagraphStyle('cloze-title',fontName='Times-Bold',fontSize=24,leading=29,alignment=1))],[para(text,11)]],colWidths=[WIDTH-24],cornerRadii=[14]*4)
+    if isinstance(panel,Table):panel.setStyle(TableStyle([('BOX',(0,0),(-1,-1),1.2,INK),('LEFTPADDING',(0,0),(-1,-1),14),('RIGHTPADDING',(0,0),(-1,-1),14),('TOPPADDING',(0,0),(-1,-1),12),('BOTTOMPADDING',(0,0),(-1,-1),9)]))
     flows += [panel,Spacer(1,12),para('Ejemplo:',10,True),Spacer(1,7)]
     def row(number,options,item=None):
         cells=[para(str(number)+'.',10,True)]
@@ -896,10 +1085,10 @@ def cloze_flows(book,ctx,members,numbers):
             label=chr(65+index)
             cell=para(label+'.    '+option,10)
             cells.append(TrackedOption([cell],book,item['correct']==label) if item else cell)
-        table=Table([cells],colWidths=[30]+[(WIDTH-30)/3]*3)
+        table=Table([cells],colWidths=[30]+[(WIDTH-30)/len(options)]*len(options))
         table.setStyle(TableStyle([('VALIGN',(0,0),(-1,-1),'TOP'),('LEFTPADDING',(0,0),(-1,-1),0),('BOTTOMPADDING',(0,0),(-1,-1),5),('TOPPADDING',(0,0),(-1,-1),4)]))
         return table
-    flows += [row(0,ctx['example_options']),ClozeExampleAnswer(),Spacer(1,10)]
+    flows += [row(0,ctx['example_options']),ClozeExampleAnswer('ABCD' if len(ctx['example_options'])==4 else 'ABC'),Spacer(1,10)]
     for item in members:
         flows += [row(numbers[item['id']],[option['text'] for option in item['options']],item),Spacer(1,4)]
     return flows
@@ -914,7 +1103,13 @@ def context_flows(ctx, members, numbers, show_words=True, column=False):
                  fontSize=10,leading=13.3,textColor=INK,alignment=1))
                  if ctx.get('area')=='english' else para(label,10,True))
         flows += [heading, Spacer(1, 5)]
-    flows += [para(range_heading(ctx.get('range_heading'), first, last), 9, True), Spacer(1, 7)]
+    heading=range_heading(ctx.get('range_heading'), first, last)
+    if ctx.get('hide_heading'):
+        pass
+    elif ctx.get('area')!='english' and not column:
+        flows += [Paragraph(escape(heading.upper()),ParagraphStyle('context-heading',fontName='Helvetica-Bold',fontSize=9.5,leading=12.6,textColor=INK,alignment=1)), Spacer(1, 8)]
+    else:
+        flows += [para(heading, 9, True), Spacer(1, 7)]
     for key in ('instructions', 'title'):
         if ctx.get(key):
             flows += [para(ctx[key], 10, key=='title'), Spacer(1, 7)]
@@ -923,9 +1118,11 @@ def context_flows(ctx, members, numbers, show_words=True, column=False):
         if q.get('slot'):
             text = text.replace('{{'+q['slot']+'}}', f'({numbers[q["id"]]}) __________')
     if text:
-        flows += [para(text), Spacer(1, 8)]
+        flows += passage_flows(text,justify=ctx.get('area')!='english')+[Spacer(1, 8)]
     if ctx.get('image'):
-        flows += [picture(ctx['image'], (CW if column else WIDTH)-18, 220), Spacer(1, 8)]
+        # Optional per-context height: reading infographics need far more than a figure.
+        flows += [picture(ctx['image'], (CW if column else WIDTH)-18,
+                          min(600,max(40,ctx.get('image_height',220)))), Spacer(1, 8)]
     if ctx.get('table'):
         rows = [line.split(';') for line in ctx['table'].strip().splitlines()]
         ncols = max(map(len, rows))
@@ -937,7 +1134,7 @@ def context_flows(ctx, members, numbers, show_words=True, column=False):
     if ctx.get('example'):
         flows += [Spacer(1, 6),para('Ejemplo resuelto: '+ctx['example'],9)]
     if ctx.get('source'):
-        flows += [Spacer(1, 7),para('Fuente: '+ctx['source'],8)]
+        flows += [Spacer(1, 7),reference_paragraph('Fuente: '+ctx['source'])]
     return flows
 
 
@@ -980,7 +1177,7 @@ def generate(project, out, preview=False):
     ctxs = {c['id']: c for c in project['contexts']}
     cfg = json.loads((ROOT/'tool/editorial_cover_config.json').read_text(encoding='utf-8'))
     cfg.update(version=project['code'],session='Primera sesión' if project['session']=='first' else 'Segunda sesión',time=project.get('time') or 'Por definir',
-               notice='BORRADOR EDITORIAL · Material de práctica. No es una prueba oficial.',
+               notice='Material de práctica. No es una prueba oficial.',
                areas=[{'name':AREAS[a],'count':sum(q['area']==a for q in selected)} for a in SESSIONS[project['session']]])
     if all(q['area']=='english' for q in selected):
         cfg.update(session='Práctica de inglés · Segunda sesión',time='Por definir',areas=[{'name':AREAS['english'],'count':len(selected)}])
@@ -1000,18 +1197,40 @@ def generate(project, out, preview=False):
             flush_columns()
             header=project.get('area_headers',{}).get(q['area'],{})
             book.content_area=True
-            book.newpage(AREAS[q['area']].upper(),show_area=False,
-                         opening_title=header.get('title','').strip() or AREAS[q['area']].upper())
+            title=header.get('title','').strip() or AREAS[q['area']].upper()
+            room=min(book.ys)-BOTTOM if book.open else 0
+            opening_room=AREA_ROOM
+            if project.get('column_flow')=='adaptive' and q['area']!='english':
+                opening_context=ctxs.get(q.get('context'))
+                if opening_context:
+                    opening_members=[item for item in selected if item.get('context')==q.get('context')]
+                    opening_room=max(opening_room,measure(context_flows(opening_context,opening_members,numbers),WIDTH-18)+70)
+                else:
+                    opening_variants=[v for v in book.variants(q) if v]
+                    opening_room=max(opening_room,min(book.question_height(v,numbers[q['id']]) for v in opening_variants)+60)
+            if project.get('column_flow')=='adaptive' and last_area is not None and q['area']!='english' and room>=opening_room:
+                # Save paper: the next area starts under the previous one, with its own title band.
+                book.area=AREAS[q['area']].upper()
+                book.full([Spacer(1,6),Paragraph(escape(title),ParagraphStyle('area-band',fontName='Helvetica-Bold',
+                    fontSize=11,leading=14,textColor=INK,alignment=1)),Spacer(1,4)],separator=True,reserve=AREA_ROOM-60)
+            else:
+                book.newpage(AREAS[q['area']].upper(),show_area=False,opening_title=title)
             area_questions=[item for item in selected if item['area']==q['area']]
             first,last=numbers[area_questions[0]['id']],numbers[area_questions[-1]['id']]
             if header.get('instructions','').strip():
                 book.full([para(range_heading(header['instructions'],first,last),10)],reserve=120)
             last_area, last_part = q['area'], None
         cid = q.get('context')
-        use_band=(project.get('column_flow','sequential')=='balanced' and not cid
+        if q['area']=='english' and last_part is not None and project.get('english_separate_parts') and (q['part']!=last_part or (cid and cid not in seen and project.get('english_separate_texts'))):
+            flush_columns()
+            book.newpage(AREAS[q['area']].upper(),show_area=False)
+        # Members of an already drawn full-width context may share a balanced band too;
+        # side-by-side contexts keep their own column state and stay sequential.
+        shared_ok=(not cid) or ctxs[cid].get('layout')!='side_by_side'
+        use_band=(project.get('column_flow','sequential')=='balanced' and shared_ok
                   and q['area']!='english' and q['layout'] in ('columns','boxed')
                   and not q.get('page_break_before') and not q.get('column_break_before'))
-        if not use_band:
+        if not use_band or (cid and cid not in seen):
             flush_columns()
         if cid and cid not in seen:
             members = [item for item in selected if item.get('context')==cid]
@@ -1026,7 +1245,7 @@ def generate(project, out, preview=False):
             elif q['area']=='english' and q['part']==3 and ctxs[cid].get('dialogue_layout')=='paired':
                 book.full(dialogue_flows(book,ctxs[cid],members,numbers),False)
                 page_map.update({item['id']:book.page for item in members})
-            elif q['area']=='english' and q['part']==4 and ctxs[cid].get('cloze_layout')=='rows':
+            elif q['area']=='english' and q['part'] in (4,7) and ctxs[cid].get('cloze_layout')=='rows':
                 book.full(cloze_flows(book,ctxs[cid],members,numbers),False)
                 page_map.update({item['id']:book.page for item in members})
             elif q['area']=='english' and q['part']==5 and ctxs[cid].get('reading_layout')=='paired':
@@ -1049,12 +1268,12 @@ def generate(project, out, preview=False):
             seen.add(cid)
             last_part = q.get('part')
         elif q['area']=='english' and q['part']!=last_part:
-            book.full([para('PARTE '+str(q['part']),11,True)],reserve=105)
+            book.full([para('PARTE '+str(q['part']),11,True)],reserve=book.question_height(q,numbers[q['id']])+14)
             last_part=q['part']
         group_rendered=(q['area']=='english' and (q['part']==1 or
                         (q['part']==2 and cid and ctxs[cid].get('notice_layout')=='paired') or
                         (q['part']==3 and cid and ctxs[cid].get('dialogue_layout')=='paired') or
-                        (q['part']==4 and cid and ctxs[cid].get('cloze_layout')=='rows') or
+                        (q['part'] in (4,7) and cid and ctxs[cid].get('cloze_layout')=='rows') or
                         (q['part']==5 and cid and ctxs[cid].get('reading_layout')=='paired') or
                         (q['part']==6 and cid and ctxs[cid].get('inference_layout')=='stacked') or
                         (q['part']==7 and cid and ctxs[cid].get('illustrated_cloze_layout')=='rows')))
@@ -1062,7 +1281,15 @@ def generate(project, out, preview=False):
             if use_band:
                 pending_columns.append(q)
             else:
-                book.question(q,numbers[q['id']])
+                if project.get('column_flow')=='adaptive' and q['area']!='english' and not side_context_id:
+                    position=selected.index(q)
+                    following=selected[position+1] if position+1<len(selected) else None
+                    lone=(following is None or following['area']!=q['area'] or following['layout']=='full'
+                          or bool(following.get('page_break_before'))
+                          or (following.get('context') and following.get('context')!=cid))
+                    book.adaptive(q,numbers[q['id']],lone)
+                else:
+                    book.question(q,numbers[q['id']])
                 page_map[q['id']]=book.page
         if side_context_id and cid==side_context_id and q is members[-1]:
             bottom=book.flush()

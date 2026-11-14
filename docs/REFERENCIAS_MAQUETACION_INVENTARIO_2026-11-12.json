@@ -1,0 +1,38 @@
+[
+  {
+    "tag": "O",
+    "file": "references\\S11-O Segunda sesión Completo.pdf",
+    "pages": 28,
+    "sha256": "24c11d7a0a8e89c0a4154c4e9707d670643e6a8e858e3eee6fcb0c61e9e7da18",
+    "size": [
+      595.0,
+      842.0
+    ],
+    "rendered_pages": 28,
+    "text_extraction": 0
+  },
+  {
+    "tag": "M",
+    "file": "references\\S11-M 2DA SESIÓN.pdf",
+    "pages": 28,
+    "sha256": "b244a3c8864e290dfc06e99bb0659746e692f83d2967490603f9e23604305566",
+    "size": [
+      595.0,
+      842.0
+    ],
+    "rendered_pages": 28,
+    "text_extraction": 0
+  },
+  {
+    "tag": "P",
+    "file": "references\\S11-P s2.pdf",
+    "pages": 28,
+    "sha256": "ebea62734e8369fb23c1efbde6477bacd5211312950f4d625f5df184f28420ea",
+    "size": [
+      595.0,
+      842.0
+    ],
+    "rendered_pages": 28,
+    "text_extraction": 19
+  }
+]

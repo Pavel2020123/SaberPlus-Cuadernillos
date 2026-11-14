@@ -14,7 +14,9 @@ class QuestionImageOrderTests(unittest.TestCase):
         book=object.__new__(Interior)
         with patch('editor_pdf.picture', return_value='IMAGE'):
             flows, _, _=book.question_flows(self.question(), 7)
-        self.assertEqual(flows[0].getPlainText(), '7. Observe la gráfica.')
+        # The number is a bold hanging label, not part of the paragraph text.
+        self.assertEqual((getattr(flows[0],'bulletText',None) or ''), '7.')
+        self.assertEqual(flows[0].getPlainText(), 'Observe la gráfica.')
         self.assertEqual(flows[2], 'IMAGE')
         self.assertEqual(flows[4].getPlainText(), '¿Qué tendencia tiene?')
 
@@ -22,14 +24,15 @@ class QuestionImageOrderTests(unittest.TestCase):
         question=self.question(); question.pop('introduction')
         with patch('editor_pdf.picture', return_value='IMAGE'):
             flows, _, _=Interior.question_flows(object.__new__(Interior), question, 7)
-        self.assertEqual(flows[0].getPlainText(), '7.')
+        self.assertEqual((getattr(flows[0],'bulletText',None) or ''), '7.')
         self.assertEqual(flows[2], 'IMAGE')
         self.assertEqual(flows[4].getPlainText(), question['stem'])
 
     def test_legacy_text_only_keeps_number_and_stem_together(self):
         question=self.question(); question.pop('introduction');question.pop('image')
         flows, _, _=Interior.question_flows(object.__new__(Interior), question, 7)
-        self.assertEqual(flows[0].getPlainText(), '7. ¿Qué tendencia tiene?')
+        self.assertEqual(getattr(flows[0],'bulletText',None), '7.')
+        self.assertEqual(flows[0].getPlainText(), '¿Qué tendencia tiene?')
 
     def test_matching_uses_same_order(self):
         with patch('editor_pdf.picture', return_value='IMAGE'):

@@ -1,4 +1,12 @@
-> **Último cierre de carga · 12/11/2026:**25 Matemáticas y55 Inglés de segunda sesión,80 preguntas. Ver [cierre y observaciones](planning/SP001_S2_MAT_CIERRE_CARGA.md). Paquete portable en `handoff/SP001_segunda_matematicas_ingles/`. Aún faltan Sociales y Ciencias y la revisión final de los PDF.
+> **Cierre Git y entregas, 2026-11-13:** los seis proyectos finales estan en `projects/finales/` (120/134 preguntas por simulacro), con sus imagenes vinculadas versionadas. Plantilla adaptativa e Ingles unificado; 140 pruebas Python y prueba del editor aprobadas. Las dos entregas PDF (con marca y sin marca) se conservan en las carpetas homonimas de la memoria PAVEL. ZIP, PDF de trabajo y temporales se excluyen del commit. Ver `planning/CIERRE_GIT_Y_LIMPIEZA_2026-11-13.md`. Los estados siguientes son antecedentes.
+
+> **SP-003, entrega 13/11/2026:** 120/134 preguntas; PDF estudiante 60/56 paginas. Ver [revision y plantilla](planning/SP003_REVISION_Y_PLANTILLA_2026-11-13.md). Entrega local `output/SP003_entrega/`; respaldo `E:/SP-003-ENTREGA-CORREGIDA/`. Originales conservados; sin impresion fisica ni commit/push.
+
+> **Entrega compacta verificada · 13/11/2026:** 120 + 134 preguntas, 254 códigos únicos. PDF estudiante: 57 y 50 páginas. Ver [cierre vigente](planning/SP001_CIERRE_VERIFICADO_2026-11-13.md) y output/SP001_entrega/. Respaldos integrales nuevos en PAVEL (E:/SaberPlus_SP001_cierre_2026-11-13/). Persisten huecos documentados; sin impresión física ni publicación en GitHub. Los estados siguientes son antecedentes.
+
+> **Estado vigente · auditoría 12/11/2026:** segunda sesión completa, **134 preguntas** (25 Sociales, 25 Matemáticas, 29 Ciencias, 55 Inglés), revisión guardada 89. Respaldo integral en `handoff/SP001_segunda_completa_2026-11-12_rev89/`. Ver [auditoría, recuperación y pendientes](planning/SP001_S2_AUDITORIA_Y_RESPALDO_2026-11-12.md). No faltan preguntas ni imágenes vinculadas; quedan correcciones editoriales y visuales antes de aplicar. Los avisos de cierres parciales siguientes son antecedentes.
+
+> **Cierre parcial histórico · 12/11/2026:**25 Matemáticas y55 Inglés de segunda sesión,80 preguntas. Ver [cierre y observaciones](planning/SP001_S2_MAT_CIERRE_CARGA.md). Paquete anterior en `handoff/SP001_segunda_matematicas_ingles/`; no incluye las cargas posteriores de Sociales y Ciencias.
 
 > **Estado vigente · 12/11/2026:** inglés de segunda sesión completo (55 preguntas), códigos registrados y paquete JSON con imágenes. Leer [cambios e instrucciones para el equipo](docs/ACTUALIZACION_INGLES_EQUIPO.md) antes de actualizar o importar. Los estados y repartos anteriores son antecedentes.
 

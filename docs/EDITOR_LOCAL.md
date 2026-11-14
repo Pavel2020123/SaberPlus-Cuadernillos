@@ -1,5 +1,7 @@
 # Editor local de cuadernillos
 
+Compatibilidad SP-003 (13/11/2026): el código de catálogo admite el sufijo de examen positivo, por ejemplo `USB-60fb8a40c3bb-Q010.2`, sin eliminarlo ni modificar la identidad del registro. El motor matemático admite saltos de línea dentro de los delimitadores de una fórmula de presentación. Estos ajustes conservan la compatibilidad con los códigos y fórmulas anteriores.
+
 Estado: primer editor funcional para pruebas editoriales, independiente de la app y el backend.
 
 ## Clasificación editorial sin requisito docente

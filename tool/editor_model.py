@@ -49,7 +49,7 @@ def selected_questions(project):
 
 
 def validate_project(project, exporting=False):
-    if isinstance(project,dict) and project.get('column_flow','sequential') not in ('sequential','balanced'):
+    if isinstance(project,dict) and project.get('column_flow','sequential') not in ('sequential','balanced','adaptive'):
         raise ValueError('Modo de columnas desconocido.')
     if not isinstance(project, dict) or project.get('schema') != 1:
         raise ValueError('Formato de proyecto desconocido.')
@@ -122,8 +122,8 @@ def validate_project(project, exporting=False):
         catalog_id = q.get('catalog_id', '')
         if catalog_id is None:
             catalog_id = ''
-        if not isinstance(catalog_id, str) or (catalog_id and not re.fullmatch(r'USB-[a-f0-9]{12}-Q[0-9]{3}', catalog_id)):
-            raise ValueError(f'Pregunta {q["id"]}: el código de catálogo debe tener formato USB-xxxxxxxxxxxx-Q001.')
+        if not isinstance(catalog_id, str) or (catalog_id and not re.fullmatch(r'USB-[a-f0-9]{12}-Q[0-9]{3}(?:\.[1-9][0-9]*)?', catalog_id)):
+            raise ValueError(f'Pregunta {q["id"]}: el código de catálogo debe tener formato USB-xxxxxxxxxxxx-Q001, con sufijo opcional de examen como .1 o .2.')
         if q.get('options_layout','vertical') not in ('vertical','grid2'):
             raise ValueError('Distribución de opciones desconocida.')
         if 'page_break_before' in q and type(q['page_break_before']) is not bool:
@@ -136,6 +136,8 @@ def validate_project(project, exporting=False):
             raise ValueError('El ancho máximo de imagen debe estar entre 40 y 500 puntos.')
         if 'image_height' in q and (type(q['image_height']) not in (int,float) or not 40 <= q['image_height'] <= 240):
             raise ValueError('La altura máxima de imagen debe estar entre 40 y 240 puntos.')
+        if 'option_image_height' in q and (type(q['option_image_height']) not in (int,float) or not 40 <= q['option_image_height'] <= 240):
+            raise ValueError('El alto máximo de las imágenes de las opciones debe estar entre 40 y 240 puntos.')
         if type(q.get('order', 0)) is not int or q.get('order', 0) < 0:
             raise ValueError(f'Pregunta {q["id"]}: el orden debe ser un entero no negativo.')
         for field in ('topic', 'subtopic', 'introduction'):

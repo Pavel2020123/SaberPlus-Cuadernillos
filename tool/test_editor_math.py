@@ -9,6 +9,9 @@ from editor_math import equation_path
 from editor_model import demo_project,validate_project
 
 class EditorMathTests(unittest.TestCase):
+    def test_display_formula_accepts_line_breaks_inside_delimiters(self):
+        self.assertEqual(equation_path('\n x +\n y\n',10),equation_path('x +  y',10))
+
     def test_supported_notation_and_sequences(self):
         for formula in (r'\sqrt{x^2+1}',r'\frac{a}{b}',r'a_{n+1}=2a_n',
                         r'\sqrt[3]{8}',r'\sum_{k=1}^{n}k',r'\alpha\leq\pi',

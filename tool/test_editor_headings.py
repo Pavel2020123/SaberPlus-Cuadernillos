@@ -40,7 +40,7 @@ class HeadingTests(unittest.TestCase):
                 text=page.get_text()
                 self.assertIn('COMPRENSIÓN Y LECTURA',text)
                 self.assertIn('desde 3 hasta 4',text)
-                self.assertIn('Responda del 3 al 4',text)
+                self.assertIn('RESPONDA DEL 3 AL 4',text)  # shared-context headings print centred in capitals
                 self.assertIn('Fuente: Texto original',text)
                 self.assertEqual(numbers['q-demo-1'],3)
                 math_page=result['page_map']['q-demo-5']

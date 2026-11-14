@@ -8,6 +8,18 @@ from editor_pdf import Interior, H, BOTTOM, matching_descriptions, BubbleRow
 
 
 class IntegrityTests(unittest.TestCase):
+    def test_catalog_exam_suffix_is_preserved_and_validated(self):
+        for code in ('USB-60fb8a40c3bb-Q010', 'USB-60fb8a40c3bb-Q010.2'):
+            project=demo_project()
+            project['questions'][0]['catalog_id']=code
+            validate_project(project,exporting=True)
+            self.assertEqual(project['questions'][0]['catalog_id'],code)
+        for suffix in ('.0', '.01', '.', '.-1', '.2.1', '.a'):
+            project=demo_project()
+            project['questions'][0]['catalog_id']='USB-60fb8a40c3bb-Q010'+suffix
+            with self.assertRaises(ValueError):
+                validate_project(project,exporting=True)
+
     def test_export_requires_exactly_one_allowed_answer_letter(self):
         for value in ('',None,'AB','BCD','A ','a',[],False,1):
             with self.subTest(value=value):
@@ -71,7 +83,7 @@ class IntegrityTests(unittest.TestCase):
         flows = [Spacer(1, 70)]
         question = {'id': 'first'}
         book.shared_context(flows, question, 8)
-        book.full.assert_called_once_with(flows, True, reserve=324)
+        book.full.assert_called_once_with(flows, separator=True, reserve=324)
 
     def test_matching_preserves_image_without_inline_answer_bubbles(self):
         question = {'id': 'match', 'stem': 'Description', 'correct': 'G',
@@ -89,7 +101,7 @@ class IntegrityTests(unittest.TestCase):
         book.newpage = Mock()
         flows=[Spacer(1, H-83-BOTTOM-300)]
         book.shared_context(flows, {'id': 'first'}, 1)
-        book.full.assert_called_once_with(flows,True)
+        book.full.assert_called_once_with(flows, separator=True)
         book.newpage.assert_called_once_with()
 
     def test_resolved_appendix_header_and_notice(self):

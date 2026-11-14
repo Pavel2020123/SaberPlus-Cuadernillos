@@ -3,3 +3,7 @@ tmp/
 __pycache__/
 assets/uploads/
 output/editor/
+handoff/
+output/SP001_entrega/
+output/SP002_entrega/
+output/SP003_entrega/

@@ -1,0 +1,26 @@
+[
+  {
+    "archivo": "projects/finales/SP001/Primera_sesion.json",
+    "preguntas": 120
+  },
+  {
+    "archivo": "projects/finales/SP001/Segunda_sesion.json",
+    "preguntas": 134
+  },
+  {
+    "archivo": "projects/finales/SP002/Primera_sesion.json",
+    "preguntas": 120
+  },
+  {
+    "archivo": "projects/finales/SP002/Segunda_sesion.json",
+    "preguntas": 134
+  },
+  {
+    "archivo": "projects/finales/SP003/Primera_sesion.json",
+    "preguntas": 120
+  },
+  {
+    "archivo": "projects/finales/SP003/Segunda_sesion.json",
+    "preguntas": 134
+  }
+]
